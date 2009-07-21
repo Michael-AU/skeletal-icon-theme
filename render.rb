@@ -14,12 +14,17 @@ def renderit(file)
 	svg = Document.new(File.new("#{SRC}/#{file}", 'r'))
 
 	# Go through every layer.
-	svg.root.each_element("/svg/g[@inkscape:groupmode='layer']") do |type| 
+	svg.root.each_element("/svg/g[@inkscape:groupmode='layer']") do |context| 
 
-		type_name = type.attributes.get_attribute("inkscape:label").value  
+		context_name = context.attributes.get_attribute("inkscape:label").value  
+		
+#		puts "Going through layer '" + type_name + "'"
+		context.each_element("//g") do |icon|
+			icon_name = icon.attributes.get_attribute("inkscape:label").value
+		end
 
-		puts "Going through layer '" + type_name + "'"
 
+=begin
 		svg.root.each_element("/svg/g[@inkscape:label='#{type_name}']/g") do |icon|
 
 			icon_node = icon.attributes.get_attribute("inkscape:label")
@@ -67,8 +72,7 @@ def renderit(file)
 			end
 
 		end
-
-
+=end
 	end
     
 
