@@ -22,7 +22,7 @@ def renderit(file)
 		context.each_element("g") do |icon|
 			icon_name = icon.attributes.get_attribute("inkscape:label").value
 			icon_id = icon.attributes.get_attribute("id")
-			dir = "moblin/#{context_name}/scalable/"
+			dir = "moblin/scalable/#{context_name}"
 			icon_file = "#{dir}/#{icon_name}.svg"
 			File.makedirs(dir) unless File.exists?(dir)
 			File.copy(file,icon_file)
