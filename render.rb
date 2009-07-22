@@ -27,11 +27,20 @@ def renderit(file)
 			File.makedirs(dir) unless File.exists?(dir)
 			File.copy(file,icon_file)
 			puts " >> #{icon_name}"
-			cmd = "#{INKSCAPE} -f #{icon_file} --select #{icon_id} --verb=FitCanvasToSelection --verb=StrokeToPath --verb=EditInvert --verb=EditDelete --verb=FileVacuum --verb=EditSelectAll --verb=SelectionUnGroup --verb=FileSave --verb=FileClose > /dev/null 2>&1"
+			cmd = "#{INKSCAPE} -f #{icon_file} --select #{icon_id} --verb=FitCanvasToSelection  --verb=EditInvert --verb=EditDelete --verb=EditSelectAll --verb=SelectionUnGroup --verb=StrokeToPath --verb=FileSave --verb=FileClose > /dev/null 2>&1"
 			system(cmd)
 			#sadly I have to reopen the icon file to get the id of the bounding box to delete it
 			#and do a SelectionUnion
-			#FIXME iconfile = Document.new(File.new("#{SRC}/#{file}", 'r'))
+			iconfile = Document.new(File.new(icon_file, 'r'))
+			bbox = iconfile.elements["//rect[@inkscape:label='bbox']"]
+			bbox.parent.delete(bbox)
+			saveagain = File.new(icon_file,'w')
+			saveagain.puts iconfile
+			saveagain.close
+			cmd = "#{INKSCAPE} -f #{icon_file} --verb=EditSelectAll --verb=SelectionUnion --verb=FileSave --verb=FileClose > /dev/null 2>&1"
+			system(cmd)
+			cmd = "#{INKSCAPE} -f #{icon_file} --vacuum-defs > /dev/null 2>&1"
+			system(cmd)
 		end
 	end
 end # End of function.

@@ -7,10 +7,10 @@ Copyright: Created by Jakub Steiner with FontForge 2.0 (http://fontforge.sf.net)
 UComments: "2009-7-21: Created." 
 Version: 001.000
 ItalicAngle: 0
-UnderlinePosition: -100
-UnderlineWidth: 50
-Ascent: 800
-Descent: 200
+UnderlinePosition: -2.4
+UnderlineWidth: 1.2
+Ascent: 19
+Descent: 5
 LayerCount: 2
 Layer: 0 0 "Back"  1
 Layer: 1 0 "Fore"  0
@@ -19,7 +19,7 @@ OS2Version: 0
 OS2_WeightWidthSlopeOnly: 0
 OS2_UseTypoMetrics: 1
 CreationTime: 1248199835
-ModificationTime: 1248199835
+ModificationTime: 1248262396
 OS2TypoAscent: 0
 OS2TypoAOffset: 1
 OS2TypoDescent: 0

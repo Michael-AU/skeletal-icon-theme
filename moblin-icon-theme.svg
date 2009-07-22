@@ -47,17 +47,17 @@
      borderopacity="1.0"
      inkscape:pageopacity="0.0"
      inkscape:pageshadow="2"
-     inkscape:zoom="1"
-     inkscape:cx="130.47883"
-     inkscape:cy="267.07836"
+     inkscape:zoom="5.6568542"
+     inkscape:cx="35.873292"
+     inkscape:cy="639.78246"
      inkscape:document-units="px"
      inkscape:current-layer="layer1"
      showgrid="false"
      showborder="false"
      inkscape:window-width="1222"
      inkscape:window-height="999"
-     inkscape:window-x="1794"
-     inkscape:window-y="80"
+     inkscape:window-x="1914"
+     inkscape:window-y="33"
      inkscape:window-maximized="0"
      inkscape:showpageshadow="false">
     <inkscape:grid
@@ -95,7 +95,8 @@
          width="24"
          id="rect4670-4"
          style="opacity:0;fill:#ffffff;fill-opacity:1;stroke:none;display:inline"
-         transform="scale(-1,1)" />
+         transform="scale(-1,1)"
+         inkscape:label="bbox" />
       <rect
          style="fill:#bebebe;fill-opacity:1;stroke:none;display:inline"
          id="rect2843-84-7"
@@ -182,7 +183,8 @@
          height="24"
          width="24"
          id="rect6439-0-6"
-         style="opacity:0;fill:#ffffff;fill-opacity:1;stroke:none;display:inline" />
+         style="opacity:0;fill:#ffffff;fill-opacity:1;stroke:none;display:inline"
+         inkscape:label="bbox" />
       <rect
          style="fill:#bebebe;fill-opacity:1;stroke:none;display:inline"
          id="rect2807-8-5"
@@ -346,7 +348,8 @@
          height="24"
          width="24"
          id="rect6366"
-         style="opacity:0;fill:#ffffff;fill-opacity:1;stroke:none;display:inline" />
+         style="opacity:0;fill:#ffffff;fill-opacity:1;stroke:none;display:inline"
+         inkscape:label="bbox" />
       <rect
          style="fill:#bebebe;fill-opacity:1;stroke:none;display:inline"
          id="rect7166"
@@ -390,7 +393,8 @@
          width="24"
          id="rect5964"
          style="opacity:0;fill:none;stroke:none;display:inline"
-         transform="scale(-1,1)" />
+         transform="scale(-1,1)"
+         inkscape:label="bbox" />
       <path
          style="fill:none;stroke:#bebebe;stroke-width:2;stroke-linecap:round;stroke-linejoin:miter;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none"
          d="m 194.01242,382.37851 0,3.93327 19.0035,0 0,-14.93763 -19.04769,0 0,4.02167 -2.2539,0 c -0.35356,0.0442 -0.7955,0.44194 -0.7955,1.01647 l 0,5.08233 c 0,0.53033 0.39775,0.83969 0.70711,0.83969 l 2.38648,0.0442 z"
@@ -489,7 +493,8 @@
          width="24"
          height="24"
          x="-242.03075"
-         y="367.36218" />
+         y="367.36218"
+         inkscape:label="bbox" />
     </g>
     <g
        id="g7849"
@@ -500,7 +505,8 @@
          width="24"
          height="24"
          x="49"
-         y="367.36218" />
+         y="367.36218"
+         inkscape:label="bbox" />
       <path
          sodipodi:type="arc"
          style="fill:none;stroke:#bebebe;stroke-width:18.38477325;stroke-linecap:round;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none;stroke-dashoffset:0;display:inline"
@@ -678,7 +684,8 @@
          height="24"
          width="24"
          id="rect6866-1"
-         style="opacity:0;fill:#ffffff;fill-opacity:1;stroke:none;display:inline" />
+         style="opacity:0;fill:#ffffff;fill-opacity:1;stroke:none;display:inline"
+         inkscape:label="bbox" />
       <path
          transform="matrix(0.195814,0,0,-0.195814,39.55384,410.99883)"
          d="m -2.8284264,179.43886 c 0,12.69204 -10.2889306,22.98097 -22.9809706,22.98097 -12.692039,0 -22.98097,-10.28893 -22.98097,-22.98097 0,-12.69204 10.288931,-22.98097 22.98097,-22.98097 12.69204,0 22.9809706,10.28893 22.9809706,22.98097 z"
@@ -816,7 +823,8 @@
          width="24"
          height="24"
          x="-186.03075"
-         y="367.36218" />
+         y="367.36218"
+         inkscape:label="bbox" />
       <rect
          transform="matrix(0,-1,1,0,0,0)"
          ry="1.1149201"
@@ -947,7 +955,8 @@
          height="24"
          width="24"
          id="rect12611"
-         style="opacity:0;fill:#ffffff;fill-opacity:1;stroke:none;display:inline" />
+         style="opacity:0;fill:#ffffff;fill-opacity:1;stroke:none;display:inline"
+         inkscape:label="bbox" />
       <path
          sodipodi:open="true"
          sodipodi:end="3.1415927"
