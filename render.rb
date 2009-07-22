@@ -29,8 +29,7 @@ def renderit(file)
 			puts " >> #{icon_name}"
 			cmd = "#{INKSCAPE} -f #{icon_file} --select #{icon_id} --verb=FitCanvasToSelection  --verb=EditInvert --verb=EditDelete --verb=EditSelectAll --verb=SelectionUnGroup --verb=StrokeToPath --verb=FileSave --verb=FileClose > /dev/null 2>&1"
 			system(cmd)
-			#sadly I have to reopen the icon file to get the id of the bounding box to delete it
-			#and do a SelectionUnion
+			#sadly I have to reopen the icon file to delete bounding box in order to do a union
 			iconfile = Document.new(File.new(icon_file, 'r'))
 			bbox = iconfile.elements["//rect[@inkscape:label='bbox']"]
 			bbox.parent.delete(bbox)
