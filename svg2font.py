@@ -40,6 +40,7 @@ for glyph,icon in glyphs.iteritems():
     font[glyph].left_side_bearing = 15
     font[glyph].right_side_bearing = 15
     font[glyph].autoInstr() #autohint
+    print "imported", os.path.split(icon)[1], "as <" + font[glyph].glyphname + ">"
 
 
 # create TTF
