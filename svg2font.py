@@ -39,8 +39,11 @@ for glyph,icon in glyphs.iteritems():
     #hacky spacing
     font[glyph].left_side_bearing = 15
     font[glyph].right_side_bearing = 15
-    font[glyph].autoInstr() #autohint
+    font[glyph].correctDirection()
+    font[glyph].autoInstr() #ttf autohint .autoHint() for PS
+    #print "DEBUG:", font[glyph].boundingBox()
     print "imported %s as <<%s>> (U:%s)" % (os.path.split(icon)[1], font[glyph].glyphname, font[glyph].unicode)
 
 # create TTF
 font.generate(OUTPUT_FONT)
+print "generated",OUTPUT_FONT
