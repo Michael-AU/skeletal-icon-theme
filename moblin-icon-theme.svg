@@ -32,10 +32,10 @@
      inkscape:pageopacity="0"
      inkscape:pageshadow="2"
      inkscape:zoom="1"
-     inkscape:cx="124.84867"
-     inkscape:cy="-221.88015"
+     inkscape:cx="392.66956"
+     inkscape:cy="621.94587"
      inkscape:document-units="px"
-     inkscape:current-layer="preferences-desktop"
+     inkscape:current-layer="user-home"
      showgrid="false"
      inkscape:window-width="1596"
      inkscape:window-height="1078"
@@ -2460,6 +2460,27 @@
        sodipodi:type="inkscape:persp3d" />
     <inkscape:perspective
        id="perspective12095"
+       inkscape:persp3d-origin="0.5 : 0.33333333 : 1"
+       inkscape:vp_z="1 : 0.5 : 1"
+       inkscape:vp_y="0 : 1000 : 0"
+       inkscape:vp_x="0 : 0.5 : 1"
+       sodipodi:type="inkscape:persp3d" />
+    <inkscape:perspective
+       id="perspective7464"
+       inkscape:persp3d-origin="0.5 : 0.33333333 : 1"
+       inkscape:vp_z="1 : 0.5 : 1"
+       inkscape:vp_y="0 : 1000 : 0"
+       inkscape:vp_x="0 : 0.5 : 1"
+       sodipodi:type="inkscape:persp3d" />
+    <inkscape:perspective
+       id="perspective7490"
+       inkscape:persp3d-origin="0.5 : 0.33333333 : 1"
+       inkscape:vp_z="1 : 0.5 : 1"
+       inkscape:vp_y="0 : 1000 : 0"
+       inkscape:vp_x="0 : 0.5 : 1"
+       sodipodi:type="inkscape:persp3d" />
+    <inkscape:perspective
+       id="perspective8287"
        inkscape:persp3d-origin="0.5 : 0.33333333 : 1"
        inkscape:vp_z="1 : 0.5 : 1"
        inkscape:vp_y="0 : 1000 : 0"
@@ -13483,6 +13504,17 @@
          width="3.9751351"
          id="rect7068"
          style="fill:#bebebe;fill-opacity:1;stroke:none;display:inline" />
+      <rect
+         y="89.090027"
+         x="-404"
+         height="48"
+         width="48"
+         id="rect7454"
+         style="opacity:0.01530612;fill:#ffffff;fill-opacity:1;stroke:none;display:inline"
+         transform="scale(-1,1)"
+         inkscape:export-filename="/home/jimmac/src/cvs/moblin/moblin-icon-theme/moblin/48x48/places/user-home.png"
+         inkscape:export-xdpi="90"
+         inkscape:export-ydpi="90" />
     </g>
     <g
        inkscape:groupmode="layer"
@@ -23186,7 +23218,7 @@
            sodipodi:cy="179.43886"
            sodipodi:rx="22.98097"
            sodipodi:ry="22.98097"
-           d="m -2.8284264,179.43886 a 22.98097,22.98097 0 1 1 -45.9619406,0 22.98097,22.98097 0 1 1 45.9619406,0 z"
+           d="m -2.8284264,179.43886 c 0,12.69204 -10.2889306,22.98097 -22.9809706,22.98097 -12.692039,0 -22.98097,-10.28893 -22.98097,-22.98097 0,-12.69204 10.288931,-22.98097 22.98097,-22.98097 12.69204,0 22.9809706,10.28893 22.9809706,22.98097 z"
            transform="matrix(0.1087857,0,0,-0.1087857,43.307692,944.1104)" />
         <rect
            inkscape:export-ydpi="90"
@@ -23588,7 +23620,7 @@
          transform="translate(-1152.684,375.08662)">
         <path
            transform="matrix(0.174057,0,0,-0.174057,1259.6545,537.72685)"
-           d="m -2.8284264,179.43886 a 22.98097,22.98097 0 1 1 -45.9619406,0 22.98097,22.98097 0 1 1 45.9619406,0 z"
+           d="m -2.8284264,179.43886 c 0,12.69204 -10.2889306,22.98097 -22.9809706,22.98097 -12.692039,0 -22.98097,-10.28893 -22.98097,-22.98097 0,-12.69204 10.288931,-22.98097 22.98097,-22.98097 12.69204,0 22.9809706,10.28893 22.9809706,22.98097 z"
            sodipodi:ry="22.98097"
            sodipodi:rx="22.98097"
            sodipodi:cy="179.43886"
@@ -23611,7 +23643,7 @@
            sodipodi:cy="179.43886"
            sodipodi:rx="22.98097"
            sodipodi:ry="22.98097"
-           d="m -2.8284264,179.43886 a 22.98097,22.98097 0 1 1 -45.9619406,0 22.98097,22.98097 0 1 1 45.9619406,0 z"
+           d="m -2.8284264,179.43886 c 0,12.69204 -10.2889306,22.98097 -22.9809706,22.98097 -12.692039,0 -22.98097,-10.28893 -22.98097,-22.98097 0,-12.69204 10.288931,-22.98097 22.98097,-22.98097 12.69204,0 22.9809706,10.28893 22.9809706,22.98097 z"
            transform="matrix(0.174057,0,0,-0.174057,1246.705,550.74516)" />
         <path
            style="fill:#bebebe;fill-opacity:1;stroke:none;display:inline"
@@ -38862,5 +38894,18 @@
        d=""
        style="fill:#dedede"
        id="path2993-1-2" />
+  </g>
+  <g
+     id="g8300"
+     transform="translate(-1,0)">
+    <path
+       id="path7478"
+       d="m 360.40401,117.2444 20.75152,-20.845178 20.8691,20.963278"
+       style="fill:none;stroke:#bebebe;stroke-width:3;stroke-linecap:butt;stroke-linejoin:round;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none" />
+    <path
+       sodipodi:nodetypes="cccccccc"
+       id="path7480"
+       d="m 367.60428,118.66314 0,11.92689 9.9653,0 0,-12.01603 6.90591,0 0,11.89793 10.02451,0 0,-11.86822"
+       style="color:#000000;fill:none;stroke:#bebebe;stroke-width:3;stroke-linecap:square;stroke-linejoin:round;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none;stroke-dashoffset:0;marker:none;visibility:visible;display:inline;overflow:visible;enable-background:accumulate" />
   </g>
 </svg>
