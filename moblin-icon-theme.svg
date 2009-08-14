@@ -32,15 +32,15 @@
      inkscape:pageopacity="0"
      inkscape:pageshadow="2"
      inkscape:zoom="1"
-     inkscape:cx="-103.61086"
-     inkscape:cy="-85.792395"
+     inkscape:cx="-277.61086"
+     inkscape:cy="-692.79239"
      inkscape:document-units="px"
-     inkscape:current-layer="mail-reply-sender"
+     inkscape:current-layer="layer25"
      showgrid="false"
      inkscape:window-width="1546"
      inkscape:window-height="1088"
-     inkscape:window-x="1779"
-     inkscape:window-y="0"
+     inkscape:window-x="1737"
+     inkscape:window-y="8"
      inkscape:snap-intersection-line-segments="false"
      inkscape:snap-bbox="true"
      inkscape:snap-nodes="false"
@@ -2670,7 +2670,7 @@
         <dc:format>image/svg+xml</dc:format>
         <dc:type
            rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
-        <dc:title />
+        <dc:title></dc:title>
       </cc:Work>
     </rdf:RDF>
   </metadata>
@@ -26822,7 +26822,7 @@
            y="0"
            xlink:href="#use8508"
            id="use8510"
-           transform="matrix(0.96592583,0.25881905,-0.25881905,0.96592583,414.22634,123.06226)"
+           transform="matrix(0.96592583,0.25881905,-0.25881905,0.96592583,412.22634,123.06226)"
            width="1052.3622"
            height="744.09003" />
         <use
@@ -26830,7 +26830,7 @@
            y="0"
            xlink:href="#use8510"
            id="use8512"
-           transform="matrix(0.96592583,0.25881905,-0.25881905,0.96592583,413.91973,110.22883)"
+           transform="matrix(0.96592583,0.25881905,-0.25881905,0.96592583,413.85158,110.74647)"
            width="1052.3622"
            height="744.09003" />
         <use
@@ -26838,7 +26838,7 @@
            y="0"
            xlink:href="#use8512"
            id="use8514"
-           transform="matrix(0.96592583,0.25881905,-0.25881905,0.96592583,31.603248,145.81134)"
+           transform="matrix(0.96592583,0.25881905,-0.25881905,0.96592583,31.5351,146.32898)"
            width="1052.3622"
            height="744.09003" />
         <use
@@ -26846,7 +26846,7 @@
            y="0"
            xlink:href="#use8514"
            id="use8516"
-           transform="matrix(0.96592583,0.25881905,-0.25881905,0.96592583,416.58853,186.39302)"
+           transform="matrix(0.96592583,0.25881905,-0.25881905,0.96592583,416.52038,186.91066)"
            width="1052.3622"
            height="744.09003" />
         <use
@@ -26854,7 +26854,7 @@
            y="0"
            xlink:href="#use8516"
            id="use8518"
-           transform="matrix(0.96592583,0.25881905,-0.25881905,0.96592583,418.22962,173.95373)"
+           transform="matrix(0.96592583,0.25881905,-0.25881905,0.96592583,418.16147,174.47137)"
            width="1052.3622"
            height="744.09003" />
         <use
@@ -26862,7 +26862,7 @@
            y="0"
            xlink:href="#use8518"
            id="use8520"
-           transform="matrix(0.96592583,0.25881905,-0.25881905,0.96592583,419.8652,161.51954)"
+           transform="matrix(0.96592583,0.25881905,-0.25881905,0.96592583,419.79705,162.03718)"
            width="1052.3622"
            height="744.09003" />
         <use
@@ -26870,7 +26870,7 @@
            y="0"
            xlink:href="#use8520"
            id="use8522"
-           transform="matrix(0.96592583,0.25881905,-0.25881905,0.96592583,421.46584,149.08308)"
+           transform="matrix(0.96592583,0.25881905,-0.25881905,0.96592583,421.39769,149.60072)"
            width="1052.3622"
            height="744.09003" />
         <use
@@ -26878,7 +26878,7 @@
            y="0"
            xlink:href="#use8522"
            id="use8524"
-           transform="matrix(0.96592583,0.25881905,-0.25881905,0.96592583,423.07372,136.68706)"
+           transform="matrix(0.96592583,0.25881905,-0.25881905,0.96592583,423.00557,137.2047)"
            width="1052.3622"
            height="744.09003" />
         <use
@@ -26886,7 +26886,7 @@
            y="0"
            xlink:href="#use8524"
            id="use8532"
-           transform="matrix(0.96592583,0.25881905,-0.25881905,0.96592583,424.70166,124.25202)"
+           transform="matrix(0.96592583,0.25881905,-0.25881905,0.96592583,424.63351,124.76966)"
            width="1052.3622"
            height="744.09003" />
         <use
@@ -26894,7 +26894,7 @@
            y="0"
            xlink:href="#use8532"
            id="use8534"
-           transform="matrix(0.86602541,0.50000001,-0.50000001,0.86602541,762.88009,317.81066)"
+           transform="matrix(0.86602541,0.50000001,-0.50000001,0.86602541,762.61214,318.81066)"
            width="1052.3622"
            height="744.09003" />
       </g>
@@ -26904,487 +26904,6 @@
          inkscape:export-filename="/home/jimmac/src/cvs/moblin/moblin-icon-theme/moblin/48x48/animations/process-working.png"
          id="g9034"
          transform="matrix(0.66666667,0,0,0.66666667,-183.33333,666.03003)" />
-      <g
-         inkscape:export-ydpi="90"
-         inkscape:export-xdpi="90"
-         inkscape:export-filename="/home/jimmac/src/cvs/moblin/moblin-icon-theme/moblin/24x24/animations/process-working.png"
-         id="use9337"
-         transform="matrix(0.5,0,0,0.5,-275,839.04506)">
-        <rect
-           inkscape:export-ydpi="90"
-           inkscape:export-xdpi="90"
-           y="1374.0901"
-           x="-550"
-           height="48"
-           width="48"
-           id="rect11003"
-           style="opacity:0;fill:#ffffff;fill-opacity:1;stroke:none;display:inline"
-           inkscape:label="still" />
-        <rect
-           inkscape:export-ydpi="90"
-           inkscape:export-xdpi="90"
-           inkscape:export-filename="/home/jimmac/src/cvs/moblin/moblin-icon-theme/process-still.png"
-           style="opacity:0;fill:#ffffff;fill-opacity:1;stroke:none;display:inline"
-           id="rect11005"
-           width="48"
-           height="48"
-           x="-502"
-           y="1374.0901"
-           inkscape:label="#rect8209" />
-        <rect
-           inkscape:export-ydpi="90"
-           inkscape:export-xdpi="90"
-           inkscape:export-filename="/home/jimmac/src/cvs/moblin/moblin-icon-theme/process-still.png"
-           style="opacity:0;fill:#ffffff;fill-opacity:1;stroke:none;display:inline"
-           id="rect11007"
-           width="48"
-           height="48"
-           x="-550"
-           y="1422.0901"
-           inkscape:label="#rect8211" />
-        <rect
-           inkscape:export-ydpi="90"
-           inkscape:export-xdpi="90"
-           inkscape:export-filename="/home/jimmac/src/cvs/moblin/moblin-icon-theme/process-still.png"
-           y="1422.0901"
-           x="-502"
-           height="48"
-           width="48"
-           id="rect11009"
-           style="opacity:0;fill:#ffffff;fill-opacity:1;stroke:none;display:inline"
-           inkscape:label="#rect8213" />
-        <rect
-           inkscape:export-ydpi="90"
-           inkscape:export-xdpi="90"
-           inkscape:export-filename="/home/jimmac/src/cvs/moblin/moblin-icon-theme/process-still.png"
-           style="opacity:0;fill:#ffffff;fill-opacity:1;stroke:none;display:inline"
-           id="rect11011"
-           width="48"
-           height="48"
-           x="-454"
-           y="1374.0901"
-           inkscape:label="#rect8215" />
-        <rect
-           inkscape:export-ydpi="90"
-           inkscape:export-xdpi="90"
-           inkscape:export-filename="/home/jimmac/src/cvs/moblin/moblin-icon-theme/process-still.png"
-           y="1374.0901"
-           x="-406"
-           height="48"
-           width="48"
-           id="rect11013"
-           style="opacity:0;fill:#ffffff;fill-opacity:1;stroke:none;display:inline"
-           inkscape:label="#rect8217" />
-        <rect
-           inkscape:export-ydpi="90"
-           inkscape:export-xdpi="90"
-           inkscape:export-filename="/home/jimmac/src/cvs/moblin/moblin-icon-theme/process-still.png"
-           y="1422.0901"
-           x="-454"
-           height="48"
-           width="48"
-           id="rect11015"
-           style="opacity:0;fill:#ffffff;fill-opacity:1;stroke:none;display:inline"
-           inkscape:label="#rect8219" />
-        <rect
-           inkscape:export-ydpi="90"
-           inkscape:export-xdpi="90"
-           inkscape:export-filename="/home/jimmac/src/cvs/moblin/moblin-icon-theme/process-still.png"
-           style="opacity:0;fill:#ffffff;fill-opacity:1;stroke:none;display:inline"
-           id="rect11017"
-           width="48"
-           height="48"
-           x="-406"
-           y="1422.0901"
-           inkscape:label="#rect8222" />
-        <rect
-           inkscape:export-ydpi="90"
-           inkscape:export-xdpi="90"
-           inkscape:export-filename="/home/jimmac/src/cvs/moblin/moblin-icon-theme/process-still.png"
-           style="opacity:0;fill:#ffffff;fill-opacity:1;stroke:none;display:inline"
-           id="rect11019"
-           width="48"
-           height="48"
-           x="-550"
-           y="1470.0901"
-           inkscape:label="#rect8224" />
-        <rect
-           inkscape:export-ydpi="90"
-           inkscape:export-xdpi="90"
-           inkscape:export-filename="/home/jimmac/src/cvs/moblin/moblin-icon-theme/process-still.png"
-           y="1470.0901"
-           x="-502"
-           height="48"
-           width="48"
-           id="rect11021"
-           style="opacity:0;fill:#ffffff;fill-opacity:1;stroke:none;display:inline"
-           inkscape:label="#rect8226" />
-        <rect
-           inkscape:export-ydpi="90"
-           inkscape:export-xdpi="90"
-           inkscape:export-filename="/home/jimmac/src/cvs/moblin/moblin-icon-theme/process-still.png"
-           y="1470.0901"
-           x="-454"
-           height="48"
-           width="48"
-           id="rect11023"
-           style="opacity:0;fill:#ffffff;fill-opacity:1;stroke:none;display:inline"
-           inkscape:label="#rect8232" />
-        <rect
-           inkscape:export-ydpi="90"
-           inkscape:export-xdpi="90"
-           inkscape:export-filename="/home/jimmac/src/cvs/moblin/moblin-icon-theme/process-still.png"
-           style="opacity:0;fill:#ffffff;fill-opacity:1;stroke:none;display:inline"
-           id="rect11025"
-           width="48"
-           height="48"
-           x="-406"
-           y="1470.0901"
-           inkscape:label="#rect8234" />
-        <rect
-           inkscape:export-ydpi="90"
-           inkscape:export-xdpi="90"
-           inkscape:export-filename="/home/jimmac/src/cvs/moblin/moblin-icon-theme/process-still.png"
-           inkscape:label="#rect13080-7-1"
-           style="opacity:0;fill:#ffffff;fill-opacity:1;stroke:none;display:inline"
-           id="rect11027"
-           width="48"
-           height="48"
-           x="-358"
-           y="1374.0901" />
-        <rect
-           inkscape:export-ydpi="90"
-           inkscape:export-xdpi="90"
-           inkscape:export-filename="/home/jimmac/src/cvs/moblin/moblin-icon-theme/process-still.png"
-           inkscape:label="#rect8209"
-           y="1374.0901"
-           x="-310"
-           height="48"
-           width="48"
-           id="rect11029"
-           style="opacity:0;fill:#ffffff;fill-opacity:1;stroke:none;display:inline" />
-        <rect
-           inkscape:export-ydpi="90"
-           inkscape:export-xdpi="90"
-           inkscape:export-filename="/home/jimmac/src/cvs/moblin/moblin-icon-theme/process-still.png"
-           inkscape:label="#rect8211"
-           y="1422.0901"
-           x="-358"
-           height="48"
-           width="48"
-           id="rect11031"
-           style="opacity:0;fill:#ffffff;fill-opacity:1;stroke:none;display:inline" />
-        <rect
-           inkscape:export-ydpi="90"
-           inkscape:export-xdpi="90"
-           inkscape:export-filename="/home/jimmac/src/cvs/moblin/moblin-icon-theme/process-still.png"
-           inkscape:label="#rect8213"
-           style="opacity:0;fill:#ffffff;fill-opacity:1;stroke:none;display:inline"
-           id="rect11033"
-           width="48"
-           height="48"
-           x="-310"
-           y="1422.0901" />
-        <rect
-           inkscape:export-ydpi="90"
-           inkscape:export-xdpi="90"
-           inkscape:export-filename="/home/jimmac/src/cvs/moblin/moblin-icon-theme/process-still.png"
-           inkscape:label="#rect8215"
-           y="1374.0901"
-           x="-262"
-           height="48"
-           width="48"
-           id="rect11035"
-           style="opacity:0;fill:#ffffff;fill-opacity:1;stroke:none;display:inline" />
-        <rect
-           inkscape:export-ydpi="90"
-           inkscape:export-xdpi="90"
-           inkscape:export-filename="/home/jimmac/src/cvs/moblin/moblin-icon-theme/process-still.png"
-           inkscape:label="#rect8217"
-           style="opacity:0;fill:#ffffff;fill-opacity:1;stroke:none;display:inline"
-           id="rect11037"
-           width="48"
-           height="48"
-           x="-214"
-           y="1374.0901" />
-        <rect
-           inkscape:export-ydpi="90"
-           inkscape:export-xdpi="90"
-           inkscape:export-filename="/home/jimmac/src/cvs/moblin/moblin-icon-theme/process-still.png"
-           inkscape:label="#rect8219"
-           style="opacity:0;fill:#ffffff;fill-opacity:1;stroke:none;display:inline"
-           id="rect11039"
-           width="48"
-           height="48"
-           x="-262"
-           y="1422.0901" />
-        <rect
-           inkscape:export-ydpi="90"
-           inkscape:export-xdpi="90"
-           inkscape:export-filename="/home/jimmac/src/cvs/moblin/moblin-icon-theme/process-still.png"
-           inkscape:label="#rect8222"
-           y="1422.0901"
-           x="-214"
-           height="48"
-           width="48"
-           id="rect11041"
-           style="opacity:0;fill:#ffffff;fill-opacity:1;stroke:none;display:inline" />
-        <rect
-           inkscape:export-ydpi="90"
-           inkscape:export-xdpi="90"
-           inkscape:export-filename="/home/jimmac/src/cvs/moblin/moblin-icon-theme/process-still.png"
-           inkscape:label="#rect8224"
-           y="1470.0901"
-           x="-358"
-           height="48"
-           width="48"
-           id="rect11043"
-           style="opacity:0;fill:#ffffff;fill-opacity:1;stroke:none;display:inline" />
-        <rect
-           inkscape:export-ydpi="90"
-           inkscape:export-xdpi="90"
-           inkscape:export-filename="/home/jimmac/src/cvs/moblin/moblin-icon-theme/process-still.png"
-           inkscape:label="#rect8226"
-           style="opacity:0;fill:#ffffff;fill-opacity:1;stroke:none;display:inline"
-           id="rect11045"
-           width="48"
-           height="48"
-           x="-310"
-           y="1470.0901" />
-        <rect
-           inkscape:export-ydpi="90"
-           inkscape:export-xdpi="90"
-           inkscape:export-filename="/home/jimmac/src/cvs/moblin/moblin-icon-theme/process-still.png"
-           inkscape:label="#rect8232"
-           style="opacity:0;fill:#ffffff;fill-opacity:1;stroke:none;display:inline"
-           id="rect11047"
-           width="48"
-           height="48"
-           x="-262"
-           y="1470.0901" />
-        <rect
-           inkscape:export-ydpi="90"
-           inkscape:export-xdpi="90"
-           inkscape:export-filename="/home/jimmac/src/cvs/moblin/moblin-icon-theme/process-still.png"
-           inkscape:label="#rect8234"
-           y="1470.0901"
-           x="-214"
-           height="48"
-           width="48"
-           id="rect11049"
-           style="opacity:0;fill:#ffffff;fill-opacity:1;stroke:none;display:inline" />
-        <g
-           id="g11051">
-          <path
-             inkscape:export-ydpi="90"
-             inkscape:export-xdpi="90"
-             inkscape:export-filename="/home/hbons/Moblin/git/carrick-ng/data/icons/network-connecting.png"
-             sodipodi:open="true"
-             sodipodi:end="4.712389"
-             sodipodi:start="0.23191105"
-             sodipodi:type="arc"
-             style="fill:none;stroke:url(#radialGradient11101);stroke-width:14.47738171;stroke-linecap:round;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none;stroke-dashoffset:0;display:inline"
-             id="path11053"
-             sodipodi:cx="-25.809397"
-             sodipodi:cy="179.43886"
-             sodipodi:rx="22.98097"
-             sodipodi:ry="22.98097"
-             d="m -3.4436513,184.72075 c -2.9171108,12.35226 -15.2953817,20.00096 -27.6476417,17.08385 -12.35226,-2.91711 -20.00096,-15.29538 -17.083849,-27.64764 2.449452,-10.372 11.708437,-17.69907 22.365746,-17.69907"
-             transform="matrix(-0.16397381,0.61157081,-0.61162275,-0.16377992,-372.32298,1442.5061)" />
-          <path
-             transform="matrix(-0.63300818,0.01438356,-0.01458424,-0.63300359,-491.4014,1510.996)"
-             d="m -3.4436513,184.72075 c -2.9171108,12.35226 -15.2953817,20.00096 -27.6476417,17.08385 -12.35226,-2.91711 -20.00096,-15.29538 -17.083849,-27.64764 2.449452,-10.372 11.708437,-17.69907 22.365746,-17.69907"
-             sodipodi:ry="22.98097"
-             sodipodi:rx="22.98097"
-             sodipodi:cy="179.43886"
-             sodipodi:cx="-25.809397"
-             id="path11055"
-             style="fill:none;stroke:url(#radialGradient11103);stroke-width:14.47738171;stroke-linecap:round;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none;stroke-dashoffset:0;display:inline"
-             sodipodi:type="arc"
-             sodipodi:start="0.23191105"
-             sodipodi:end="4.712389"
-             sodipodi:open="true"
-             inkscape:export-filename="/home/hbons/Moblin/git/carrick-ng/data/icons/network-connecting.png"
-             inkscape:export-xdpi="90"
-             inkscape:export-ydpi="90" />
-        </g>
-        <use
-           height="744.09003"
-           width="1052.3622"
-           transform="matrix(0.96592583,0.25881905,-0.25881905,0.96592583,393.33068,171.20664)"
-           id="use11057"
-           xlink:href="#g8253"
-           y="0"
-           x="0" />
-        <use
-           height="744.09003"
-           width="1052.3622"
-           transform="matrix(0.96592583,0.25881905,-0.25881905,0.96592583,394.93895,158.75565)"
-           id="use11059"
-           xlink:href="#use8478"
-           y="0"
-           x="0" />
-        <use
-           height="744.09003"
-           width="1052.3622"
-           transform="matrix(0.96592583,0.25881905,-0.25881905,0.96592583,396.56008,146.34619)"
-           id="use11061"
-           xlink:href="#use8480"
-           y="0"
-           x="0" />
-        <use
-           height="744.09003"
-           width="1052.3622"
-           transform="matrix(0.96592583,0.25881905,-0.25881905,0.96592583,398.18475,133.93996)"
-           id="use11063"
-           xlink:href="#use8482"
-           y="0"
-           x="0" />
-        <use
-           height="744.09003"
-           width="1052.3622"
-           transform="matrix(0.96592583,0.25881905,-0.25881905,0.96592583,399.81479,121.53262)"
-           id="use11065"
-           xlink:href="#use8484"
-           y="0"
-           x="0" />
-        <use
-           height="744.09003"
-           width="1052.3622"
-           transform="matrix(0.96592583,0.25881905,-0.25881905,0.96592583,401.45033,109.12018)"
-           id="use11067"
-           xlink:href="#use8486"
-           y="0"
-           x="0" />
-        <use
-           height="744.09003"
-           width="1052.3622"
-           transform="matrix(0.96592583,0.25881905,-0.25881905,0.96592583,19.12081,144.71002)"
-           id="use11069"
-           xlink:href="#use8488"
-           y="0"
-           x="0" />
-        <use
-           height="744.09003"
-           width="1052.3622"
-           transform="matrix(0.96592583,0.25881905,-0.25881905,0.96592583,404.12288,185.28149)"
-           id="use11071"
-           xlink:href="#use8494"
-           y="0"
-           x="0" />
-        <use
-           height="744.09003"
-           width="1052.3622"
-           transform="matrix(0.96592583,0.25881905,-0.25881905,0.96592583,405.75844,172.85817)"
-           id="use11073"
-           xlink:href="#use8496"
-           y="0"
-           x="0" />
-        <use
-           height="744.09003"
-           width="1052.3622"
-           transform="matrix(0.96592583,0.25881905,-0.25881905,0.96592583,407.38015,160.42043)"
-           id="use11075"
-           xlink:href="#use8502"
-           y="0"
-           x="0" />
-        <use
-           height="744.09003"
-           width="1052.3622"
-           transform="matrix(0.96592583,0.25881905,-0.25881905,0.96592583,408.99863,147.98623)"
-           id="use11077"
-           xlink:href="#use8504"
-           y="0"
-           x="0" />
-        <use
-           height="744.09003"
-           width="1052.3622"
-           transform="matrix(0.96592583,0.25881905,-0.25881905,0.96592583,410.61822,135.55739)"
-           id="use11079"
-           xlink:href="#use8506"
-           y="0"
-           x="0" />
-        <use
-           height="744.09003"
-           width="1052.3622"
-           transform="matrix(0.96592583,0.25881905,-0.25881905,0.96592583,414.22634,123.06226)"
-           id="use11081"
-           xlink:href="#use8508"
-           y="0"
-           x="0" />
-        <use
-           height="744.09003"
-           width="1052.3622"
-           transform="matrix(0.96592583,0.25881905,-0.25881905,0.96592583,413.91973,110.22883)"
-           id="use11083"
-           xlink:href="#use8510"
-           y="0"
-           x="0" />
-        <use
-           height="744.09003"
-           width="1052.3622"
-           transform="matrix(0.96592583,0.25881905,-0.25881905,0.96592583,31.603248,145.81134)"
-           id="use11085"
-           xlink:href="#use8512"
-           y="0"
-           x="0" />
-        <use
-           height="744.09003"
-           width="1052.3622"
-           transform="matrix(0.96592583,0.25881905,-0.25881905,0.96592583,416.58853,186.39302)"
-           id="use11087"
-           xlink:href="#use8514"
-           y="0"
-           x="0" />
-        <use
-           height="744.09003"
-           width="1052.3622"
-           transform="matrix(0.96592583,0.25881905,-0.25881905,0.96592583,418.22962,173.95373)"
-           id="use11089"
-           xlink:href="#use8516"
-           y="0"
-           x="0" />
-        <use
-           height="744.09003"
-           width="1052.3622"
-           transform="matrix(0.96592583,0.25881905,-0.25881905,0.96592583,419.8652,161.51954)"
-           id="use11091"
-           xlink:href="#use8518"
-           y="0"
-           x="0" />
-        <use
-           height="744.09003"
-           width="1052.3622"
-           transform="matrix(0.96592583,0.25881905,-0.25881905,0.96592583,421.46584,149.08308)"
-           id="use11093"
-           xlink:href="#use8520"
-           y="0"
-           x="0" />
-        <use
-           height="744.09003"
-           width="1052.3622"
-           transform="matrix(0.96592583,0.25881905,-0.25881905,0.96592583,423.07372,136.68706)"
-           id="use11095"
-           xlink:href="#use8522"
-           y="0"
-           x="0" />
-        <use
-           height="744.09003"
-           width="1052.3622"
-           transform="matrix(0.96592583,0.25881905,-0.25881905,0.96592583,424.70166,124.25202)"
-           id="use11097"
-           xlink:href="#use8524"
-           y="0"
-           x="0" />
-        <use
-           height="744.09003"
-           width="1052.3622"
-           transform="matrix(0.86602541,0.50000001,-0.50000001,0.86602541,762.88009,317.81066)"
-           id="use11099"
-           xlink:href="#use8532"
-           y="0"
-           x="0" />
-      </g>
       <use
          x="0"
          y="0"
@@ -27394,6 +26913,17 @@
          width="1052.3622"
          height="744.09003"
          inkscape:export-filename="/home/jimmac/src/cvs/moblin/moblin-icon-theme/moblin/16x16/animations/process-working.png"
+         inkscape:export-xdpi="90"
+         inkscape:export-ydpi="90" />
+      <use
+         x="0"
+         y="0"
+         xlink:href="#g7385"
+         id="use8477"
+         transform="matrix(0.5,0,0,0.5,-275,847.04498)"
+         width="1052.3622"
+         height="744.09003"
+         inkscape:export-filename="/home/jimmac/src/cvs/moblin/moblin-icon-theme/moblin/24x24/animations/process-working.png"
          inkscape:export-xdpi="90"
          inkscape:export-ydpi="90" />
     </g>
