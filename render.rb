@@ -22,24 +22,17 @@ def renderit(file)
 		context.each_element("g") do |icon|
 			icon_name = icon.attributes.get_attribute("inkscape:label").value
 			icon_id = icon.attributes.get_attribute("id")
-			dir = "moblin/scalable/#{context_name}"
+			dir = "moblin/24x24/#{context_name}"
 			icon_file = "#{dir}/#{icon_name}.svg"
 			File.makedirs(dir) unless File.exists?(dir)
-			File.copy(file,icon_file)
-			puts " >> #{icon_name}"
-			cmd = "#{INKSCAPE} -f #{icon_file} --select #{icon_id} --verb=FitCanvasToSelection  --verb=EditInvert --verb=EditDelete --verb=EditSelectAll --verb=SelectionUnGroup --verb=StrokeToPath --verb=FileSave --verb=FileClose > /dev/null 2>&1"
-			system(cmd)
-			#sadly I have to reopen the icon file to delete bounding box in order to do a union
-			iconfile = Document.new(File.new(icon_file, 'r'))
-			bbox = iconfile.elements["//rect[@inkscape:label='bbox']"]
-			bbox.parent.delete(bbox)
-			saveagain = File.new(icon_file,'w')
-			saveagain.puts iconfile
-			saveagain.close
-			cmd = "#{INKSCAPE} -f #{icon_file} --verb=EditSelectAll --verb=SelectionUnion --verb=FileSave --verb=FileClose > /dev/null 2>&1"
-			system(cmd)
-			cmd = "#{INKSCAPE} -f #{icon_file} --vacuum-defs > /dev/null 2>&1"
-			system(cmd)
+			unless File.exists?(icon_file)
+				File.copy(file,icon_file) 
+				puts " >> #{icon_name}"
+				cmd = "#{INKSCAPE} -f #{icon_file} --select #{icon_id} --verb=FitCanvasToSelection  --verb=EditInvert --verb=EditDelete --verb=EditSelectAll --verb=SelectionUnGroup --verb=StrokeToPath --verb=FileSave --verb=FileClose > /dev/null 2>&1"
+				system(cmd)
+			else
+				puts " -- #{icon_name} already exists"
+			end
 		end
 	end
 end # End of function.

@@ -44,7 +44,7 @@ done
 
 for foo in $DIRS
 do
-	echo -en "\n\n[$foo]\nSize=`echo $foo | sed 's/\x.*//'`\nContext=`basename $foo`\nType=Fixed" >> index.theme
+	echo -en "\n\n[$foo]\nSize=`echo $foo | sed 's/\x.*//'`\nContext=`basename $foo`\nType=Scalable" >> index.theme
 done
 
 
