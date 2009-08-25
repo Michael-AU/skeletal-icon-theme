@@ -26,43 +26,43 @@
        y1="348.08725"
        x2="503.06183"
        y2="341.03033"
-       id="linearGradient8923"
+       id="linearGradient8937"
        xlink:href="#linearGradient5983-0"
        gradientUnits="userSpaceOnUse"
        gradientTransform="translate(-1047.9674,-97.0901)" />
   </defs>
   <g
-     transform="translate(556.00464,-239.49036)"
+     transform="translate(555,-239)"
      id="layer3" />
   <g
-     transform="translate(556.00464,-239.49036)"
+     transform="translate(555,-239)"
      id="layer5" />
   <g
-     transform="translate(556.00464,-239.49036)"
+     transform="translate(555,-239)"
      id="layer7" />
   <g
-     transform="translate(556.00464,-239.49036)"
+     transform="translate(555,-239)"
      id="layer2" />
   <g
-     transform="translate(556.00464,-239.49036)"
+     transform="translate(555,-239)"
      id="layer8" />
   <g
-     transform="translate(556.00464,-1191.8525)"
+     transform="translate(555,-1191.3622)"
      id="layer1" />
   <g
-     transform="translate(556.00464,-239.49036)"
+     transform="translate(555,-239)"
      id="layer4" />
   <g
-     transform="translate(556.00464,-239.49036)"
+     transform="translate(555,-239)"
      id="layer9" />
   <g
-     transform="translate(556.00464,-239.49036)"
+     transform="translate(555,-239)"
      id="layer6">
     <rect
        width="24"
        height="24"
-       x="532.00464"
-       y="239.49036"
+       x="531"
+       y="239"
        transform="scale(-1,1)"
        id="rect8021"
        style="opacity:0;fill:#ffffff;fill-opacity:1;stroke:none;display:inline" />
@@ -111,6 +111,6 @@
     <path
        d="M -544.25629,243.32982 C -543.86459,243.72156 -543.86459,244.3523 -544.25629,244.74404 L -551.33109,251.75935 C -551.72279,252.15108 -552.35349,252.15108 -552.74529,251.75935 C -553.13699,251.36761 -553.13699,250.73687 -552.74529,250.34513 L -545.67049,243.32982 C -545.27879,242.93809 -544.64809,242.93809 -544.25629,243.32982 z"
        id="path9380"
-       style="fill:url(#linearGradient8923);fill-opacity:1;stroke:none;display:inline" />
+       style="fill:url(#linearGradient8937);fill-opacity:1;stroke:none;display:inline" />
   </g>
 </svg>
