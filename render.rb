@@ -12,9 +12,11 @@ def chopSVG(icon)
 	unless (File.exists?(icon[:file]) && !icon[:forcerender])
 		File.copy(SRC,icon[:file]) 
 		puts " >> #{icon[:name]}"
-		cmd = "#{INKSCAPE} -f #{icon[:file]} --select #{icon[:id]} --verb=FitCanvasToSelection  --verb=EditInvert "
-		cmd += "--verb=EditDelete --verb=EditSelectAll --verb=SelectionUnGroup --verb=StrokeToPath "
+		cmd = "#{INKSCAPE} -f #{icon[:file]} --select #{icon[:id]} --verb=FitCanvasToSelection  --verb=EditInvertInAllLayers "
+		cmd += "--verb=EditDelete --verb=EditSelectAll --verb=SelectionUnGroup --verb=StrokeToPath --verb=FileVacuum "
 		cmd += "--verb=FileSave --verb=FileClose > /dev/null 2>&1"
+		system(cmd)
+		cmd = "#{INKSCAPE} -f #{icon[:file]} -z --vacuum-defs -l #{icon[:file]} > /dev/null 2>&1"
 		system(cmd)
 	else
 		puts " -- #{icon[:name]} already exists"
