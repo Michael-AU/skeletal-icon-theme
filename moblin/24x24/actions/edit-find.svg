@@ -1,0 +1,61 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Created with Inkscape (http://www.inkscape.org/) -->
+<svg
+   xmlns:svg="http://www.w3.org/2000/svg"
+   xmlns="http://www.w3.org/2000/svg"
+   version="1.0"
+   width="24"
+   height="24"
+   id="svg7384">
+  <defs
+     id="defs7386" />
+  <g
+     transform="translate(619,-207)"
+     id="layer3" />
+  <g
+     transform="translate(619,-207)"
+     id="layer5" />
+  <g
+     transform="translate(619,-207)"
+     id="layer7" />
+  <g
+     transform="translate(619,-207)"
+     id="layer2" />
+  <g
+     transform="translate(619,-207)"
+     id="layer8" />
+  <g
+     transform="translate(619,-1159.3622)"
+     id="layer1" />
+  <g
+     transform="translate(619,-207)"
+     id="layer4" />
+  <g
+     transform="translate(619,-207)"
+     id="layer9" />
+  <g
+     transform="translate(619,-207)"
+     id="layer6">
+    <rect
+       width="24"
+       height="24"
+       x="-619"
+       y="207"
+       id="rect7458"
+       style="opacity:0;fill:#ffffff;fill-opacity:1;stroke:none;display:inline" />
+    <g
+       transform="translate(-1295.9511,-289.09007)"
+       id="g9174"
+       style="display:inline">
+      <path
+         d="M -2.8284264,179.43886 A 22.98097,22.98097 0 1 1 -48.790367,179.43886 A 22.98097,22.98097 0 1 1 -2.8284264,179.43886 z"
+         transform="matrix(0,-0.3478599,-0.3483682,0,750.45609,498.1061)"
+         id="path3049-22"
+         style="fill:none;stroke:#bebebe;stroke-width:5.74524546;stroke-linecap:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;display:inline" />
+      <path
+         d="M 693.99999,512.13886 C 694.39229,511.74659 695.02389,511.74659 695.41609,512.13885 L 699.95159,516.67228 C 699.95159,516.67228 699.95159,518.08842 699.95159,518.08842 C 699.95159,518.08842 698.53539,518.08841 698.53539,518.08841 L 693.99999,513.55498 C 693.60779,513.16272 693.60779,512.53112 693.99999,512.13886 L 693.99999,512.13886 L 693.99999,512.13886 z"
+         id="rect3597-1"
+         style="fill:#bebebe;fill-opacity:1;stroke:none" />
+    </g>
+  </g>
+</svg>

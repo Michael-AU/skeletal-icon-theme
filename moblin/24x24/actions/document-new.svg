@@ -1,0 +1,68 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Created with Inkscape (http://www.inkscape.org/) -->
+<svg
+   xmlns:svg="http://www.w3.org/2000/svg"
+   xmlns="http://www.w3.org/2000/svg"
+   version="1.0"
+   width="24"
+   height="24"
+   id="svg7384">
+  <defs
+     id="defs7386" />
+  <g
+     transform="translate(618.935,-307.05426)"
+     id="layer3" />
+  <g
+     transform="translate(618.935,-307.05426)"
+     id="layer5" />
+  <g
+     transform="translate(618.935,-307.05426)"
+     id="layer7" />
+  <g
+     transform="translate(618.935,-307.05426)"
+     id="layer2" />
+  <g
+     transform="translate(618.935,-307.05426)"
+     id="layer8" />
+  <g
+     transform="translate(618.935,-1259.4164)"
+     id="layer1" />
+  <g
+     transform="translate(618.935,-307.05426)"
+     id="layer4" />
+  <g
+     transform="translate(618.935,-307.05426)"
+     id="layer9" />
+  <g
+     transform="translate(618.935,-307.05426)"
+     id="layer6">
+    <rect
+       width="24"
+       height="24"
+       x="-618.935"
+       y="307.05426"
+       id="rect8221"
+       style="opacity:0;fill:#ffffff;fill-opacity:1;stroke:none;display:inline" />
+    <path
+       d="M -615.09375,308 C -615.60911,308.04857 -616.00223,308.48237 -616,309 L -616,329 C -615.99994,329.55226 -615.55226,329.99994 -615,330 L -600,330 C -599.44774,329.99994 -599.00006,329.55226 -599,329 L -599,315 C -598.9938,314.73244 -599.0951,314.47355 -599.28125,314.28125 L -605.28125,308.28125 C -605.47355,308.0951 -605.73244,307.9938 -606,308 L -615,308 C -615.03123,307.99853 -615.06252,307.99853 -615.09375,308 L -615.09375,308 z M -614,310 L -606.4375,310 L -601,315.4375 L -601,328 L -614,328 L -614,310 z"
+       id="path9837"
+       style="fill:#bebebe;fill-opacity:1;stroke:none;stroke-width:2;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1" />
+    <path
+       d="M -606.125,308 C -606.62796,308.0634 -607.00393,308.49308 -607,309 L -607,315 C -606.99994,315.55226 -606.55226,315.99994 -606,316 L -600,316 C -599.58827,316.00969 -599.2127,315.76598 -599.05381,315.38602 C -598.89492,315.00606 -598.98519,314.56755 -599.28125,314.28125 L -605.28125,308.28125 C -605.50305,308.06072 -605.81524,307.95665 -606.125,308 z M -605,311.4375 L -602.4375,314 L -605,314 L -605,311.4375 z"
+       id="path9901"
+       style="fill:#bebebe;fill-opacity:1;stroke:none;stroke-width:2;stroke-linecap:round;stroke-linejoin:round;marker:none;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;visibility:visible;display:inline;overflow:visible;enable-background:accumulate" />
+    <g
+       transform="translate(1,-1)"
+       id="g9869">
+      <path
+         d="M -597,316 A 4,4 0 1 1 -605,316 A 4,4 0 1 1 -597,316 z"
+         id="path9865"
+         style="fill:#bebebe;fill-opacity:1;stroke:#bebebe;stroke-width:2;stroke-linecap:round;stroke-linejoin:round;marker:none;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;visibility:visible;display:inline;overflow:visible;enable-background:accumulate" />
+      <path
+         d="M -598.99999,317 C -599.72825,317.63657 -601.13588,316.02415 -602.09922,316.11109 C -603.06256,316.19803 -604.15878,318.0364 -604.98924,317.5405 C -605.8197,317.04459 -604.72118,315.20759 -605.10155,314.31826 C -605.48192,313.42893 -607.56907,312.95446 -607.35406,312.0114 C -607.13905,311.06834 -605.0525,311.54543 -604.32424,310.90886 C -603.59598,310.27229 -603.78969,308.14067 -602.82635,308.05374 C -601.86301,307.9668 -601.67197,310.09866 -600.84151,310.59456 C -600.01105,311.09047 -598.04362,310.24753 -597.66325,311.13686 C -597.28288,312.02619 -599.25136,312.86666 -599.46637,313.80972 C -599.68137,314.75277 -598.27173,316.36343 -598.99999,317 z"
+         transform="matrix(0.7426092,7.504473e-2,-7.504473e-2,0.7426092,-130.20721,128.5392)"
+         id="path9867"
+         style="fill:#ffffff;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:2;marker:none;visibility:visible;display:inline;overflow:visible;enable-background:accumulate" />
+    </g>
+  </g>
+</svg>

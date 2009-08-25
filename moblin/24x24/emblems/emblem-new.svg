@@ -1,0 +1,91 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Created with Inkscape (http://www.inkscape.org/) -->
+<svg
+   xmlns:svg="http://www.w3.org/2000/svg"
+   xmlns="http://www.w3.org/2000/svg"
+   version="1.0"
+   width="24"
+   height="24"
+   id="svg7384">
+  <defs
+     id="defs7386" />
+  <g
+     transform="translate(-564.9375,-256)"
+     id="layer3" />
+  <g
+     transform="translate(-564.9375,-256)"
+     id="layer5" />
+  <g
+     transform="translate(-564.9375,-256)"
+     id="layer7" />
+  <g
+     transform="translate(-564.9375,-256)"
+     id="layer2" />
+  <g
+     transform="translate(-564.9375,-256)"
+     id="layer8">
+    <rect
+       width="24"
+       height="24"
+       rx="3"
+       ry="3"
+       x="564.9375"
+       y="256"
+       id="rect6017"
+       style="fill:#31c2ee;fill-opacity:1;stroke:none;display:inline" />
+    <rect
+       width="9"
+       height="1.9756097"
+       rx="0.98780477"
+       ry="0.98780483"
+       x="569.9375"
+       y="259"
+       id="rect6019"
+       style="fill:#ffffff;fill-opacity:1;stroke:none;display:inline" />
+    <rect
+       width="13.000061"
+       height="1.9756097"
+       rx="0.98780483"
+       ry="0.98780483"
+       x="-277"
+       y="581.96185"
+       transform="matrix(0,-1,1,0,0,0)"
+       id="rect6021"
+       style="fill:#ffffff;fill-opacity:1;stroke:none;display:inline" />
+    <rect
+       width="17.972839"
+       height="1.9756097"
+       rx="0.98780495"
+       ry="0.98780483"
+       x="-276.97266"
+       y="569.96552"
+       transform="matrix(0,-1,1,0,0,0)"
+       id="rect6023"
+       style="fill:#ffffff;fill-opacity:1;stroke:none;display:inline" />
+    <rect
+       width="13.928009"
+       height="1.9756097"
+       rx="0.98780471"
+       ry="0.98780483"
+       x="570.00946"
+       y="275.02417"
+       id="rect6025"
+       style="fill:#ffffff;fill-opacity:1;stroke:none;display:inline" />
+    <path
+       d="M 578.62004,259.29021 L 583.64727,264.31491 C 584.03423,264.70181 584.03423,265.32491 583.64727,265.71181 C 583.26031,266.09881 582.63726,266.09881 582.2503,265.71181 L 577.22308,260.68711 C 576.83612,260.30021 576.83612,259.67711 577.22308,259.29021 C 577.61004,258.90321 578.23308,258.90321 578.62004,259.29021 z"
+       id="path6027"
+       style="fill:#ffffff;fill-opacity:1;stroke:none;display:inline" />
+  </g>
+  <g
+     transform="translate(-564.9375,-1208.3622)"
+     id="layer1" />
+  <g
+     transform="translate(-564.9375,-256)"
+     id="layer4" />
+  <g
+     transform="translate(-564.9375,-256)"
+     id="layer9" />
+  <g
+     transform="translate(-564.9375,-256)"
+     id="layer6" />
+</svg>

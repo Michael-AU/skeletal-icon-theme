@@ -1,0 +1,130 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Created with Inkscape (http://www.inkscape.org/) -->
+<svg
+   xmlns:svg="http://www.w3.org/2000/svg"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:xlink="http://www.w3.org/1999/xlink"
+   version="1.0"
+   width="24"
+   height="24"
+   id="svg7384">
+  <defs
+     id="defs7386">
+    <linearGradient
+       id="linearGradient9258-4">
+      <stop
+         id="stop9260-5"
+         style="stop-color:#bebebe;stop-opacity:1"
+         offset="0" />
+      <stop
+         id="stop9262-4"
+         style="stop-color:#bebebe;stop-opacity:0"
+         offset="1" />
+    </linearGradient>
+    <linearGradient
+       x1="496.27368"
+       y1="-446.92038"
+       x2="496.27368"
+       y2="-440.00616"
+       id="linearGradient8928"
+       xlink:href="#linearGradient9258-4"
+       gradientUnits="userSpaceOnUse"
+       gradientTransform="translate(-123.0901,1055.9674)" />
+    <linearGradient
+       x1="496.27368"
+       y1="-446.92038"
+       x2="496.27368"
+       y2="-440.00616"
+       id="linearGradient8931"
+       xlink:href="#linearGradient9258-4"
+       gradientUnits="userSpaceOnUse"
+       gradientTransform="translate(-103.0901,1055.9674)" />
+  </defs>
+  <g
+     transform="translate(618.935,-371.05426)"
+     id="layer3" />
+  <g
+     transform="translate(618.935,-371.05426)"
+     id="layer5" />
+  <g
+     transform="translate(618.935,-371.05426)"
+     id="layer7" />
+  <g
+     transform="translate(618.935,-371.05426)"
+     id="layer2" />
+  <g
+     transform="translate(618.935,-371.05426)"
+     id="layer8" />
+  <g
+     transform="translate(618.935,-1323.4164)"
+     id="layer1" />
+  <g
+     transform="translate(618.935,-371.05426)"
+     id="layer4" />
+  <g
+     transform="translate(618.935,-371.05426)"
+     id="layer9" />
+  <g
+     transform="translate(618.935,-371.05426)"
+     id="layer6">
+    <rect
+       width="24"
+       height="24"
+       x="-618.935"
+       y="371.05426"
+       id="rect9220"
+       style="opacity:0;fill:#ffffff;fill-opacity:1;stroke:none;display:inline" />
+    <rect
+       width="2"
+       height="22"
+       rx="1"
+       ry="1"
+       x="-607.97906"
+       y="372.00006"
+       id="rect2828-1"
+       style="fill:#bebebe;fill-opacity:1;stroke:none;display:inline" />
+    <rect
+       width="2"
+       height="10"
+       rx="1"
+       ry="0.99999988"
+       x="392.00006"
+       y="605.96747"
+       transform="matrix(0,1,-1,0,0,0)"
+       id="rect3608"
+       style="fill:url(#linearGradient8931);fill-opacity:1;stroke:none;display:inline" />
+    <rect
+       width="2"
+       height="10"
+       rx="1"
+       ry="0.99999988"
+       x="372.00006"
+       y="605.96747"
+       transform="matrix(0,1,-1,0,0,0)"
+       id="rect9266"
+       style="fill:url(#linearGradient8928);fill-opacity:1;stroke:none;display:inline" />
+    <g
+       transform="translate(-1055.9674,-103.0901)"
+       id="g9278"
+       style="fill:#febf00;display:inline">
+      <g
+         transform="translate(-21.01277,30.994967)"
+         id="g9270"
+         style="fill:#febf00">
+        <path
+           d="M 477.00306,451.0967 C 477.00306,451.0967 475.58885,451.0967 475.58885,451.0967 L 473.01277,453.68084 C 473.01277,453.68084 473.01277,455.09506 473.01277,455.09506 C 473.01277,455.09506 474.42698,455.09506 474.42698,455.09506 L 477.00306,452.51091 C 477.00306,452.51091 477.00306,451.0967 477.00306,451.0967 L 477.00306,451.0967 z"
+           id="path9272"
+           style="fill:#febf00;fill-opacity:1;stroke:none;display:inline" />
+      </g>
+      <g
+         transform="matrix(1,0,0,-1,-21.01277,940.18673)"
+         id="g9274"
+         style="fill:#febf00">
+        <path
+           d="M 477.00306,451.0967 C 477.00306,451.0967 475.58885,451.0967 475.58885,451.0967 L 473.01277,453.68084 C 473.01277,453.68084 473.01277,455.09506 473.01277,455.09506 C 473.01277,455.09506 474.42698,455.09506 474.42698,455.09506 L 477.00306,452.51091 C 477.00306,452.51091 477.00306,451.0967 477.00306,451.0967 L 477.00306,451.0967 z"
+           id="path9276"
+           style="fill:#febf00;fill-opacity:1;stroke:none;display:inline" />
+      </g>
+    </g>
+  </g>
+</svg>

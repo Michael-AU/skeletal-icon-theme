@@ -1,0 +1,156 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Created with Inkscape (http://www.inkscape.org/) -->
+<svg
+   xmlns:svg="http://www.w3.org/2000/svg"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:xlink="http://www.w3.org/1999/xlink"
+   version="1.0"
+   width="24"
+   height="24"
+   id="svg7384">
+  <defs
+     id="defs7386">
+    <linearGradient
+       id="linearGradient7487-1">
+      <stop
+         id="stop7489-4"
+         style="stop-color:#bebebe;stop-opacity:1"
+         offset="0" />
+      <stop
+         id="stop7491-5"
+         style="stop-color:#bebebe;stop-opacity:0"
+         offset="1" />
+    </linearGradient>
+    <linearGradient
+       x1="105.91268"
+       y1="121.73069"
+       x2="105.91268"
+       y2="115.05012"
+       id="linearGradient8925"
+       xlink:href="#linearGradient7487-1"
+       gradientUnits="userSpaceOnUse"
+       gradientTransform="matrix(1,0,0,1.0004885,-302.91288,-1323.0616)" />
+    <linearGradient
+       x1="105.91268"
+       y1="121.0463"
+       x2="105.91268"
+       y2="115.05012"
+       id="linearGradient8929"
+       xlink:href="#linearGradient7487-1"
+       gradientUnits="userSpaceOnUse"
+       gradientTransform="matrix(1,0,0,1.091442,-302.91288,1061.4783)" />
+  </defs>
+  <g
+     transform="translate(-1187,-175.00293)"
+     id="layer3" />
+  <g
+     transform="translate(-1187,-175.00293)"
+     id="layer5">
+    <rect
+       width="24"
+       height="24"
+       x="-1211"
+       y="175.00293"
+       transform="scale(-1,1)"
+       id="rect7657"
+       style="opacity:0;fill:#ffffff;fill-opacity:1;stroke:none;display:inline" />
+    <rect
+       width="2.0000002"
+       height="19"
+       rx="1.0000001"
+       ry="1.0000001"
+       x="1191"
+       y="176.00293"
+       id="rect7661"
+       style="fill:#bebebe;fill-opacity:1;stroke:none;display:inline" />
+    <rect
+       width="2.0000005"
+       height="14.016144"
+       rx="1.0000002"
+       ry="1.0000002"
+       x="-195.00293"
+       y="1191"
+       transform="matrix(0,-1,1,0,0,0)"
+       id="rect7663"
+       style="fill:#bebebe;fill-opacity:1;stroke:none;display:inline" />
+    <rect
+       width="2.0000002"
+       height="14.016144"
+       rx="1.0000001"
+       ry="1.0000001"
+       x="-178.00293"
+       y="1191"
+       transform="matrix(0,-1,1,0,0,0)"
+       id="rect7665"
+       style="fill:#bebebe;fill-opacity:1;stroke:none;display:inline" />
+    <rect
+       width="2.0000005"
+       height="12"
+       rx="1.0000002"
+       ry="1.0000002"
+       x="-198.00293"
+       y="1187"
+       transform="matrix(0,-1,1,0,0,0)"
+       id="rect7673"
+       style="fill:url(#linearGradient8929);fill-opacity:1;stroke:none;display:inline" />
+    <rect
+       width="2.0000005"
+       height="5"
+       rx="1.0000002"
+       ry="1.0000002"
+       x="-1199.0081"
+       y="-198.00293"
+       transform="scale(-1,-1)"
+       id="rect7675"
+       style="fill:#bebebe;fill-opacity:1;stroke:none;display:inline" />
+    <rect
+       width="2.0000005"
+       height="11"
+       rx="1.0000002"
+       ry="1.0000002"
+       x="-198.00293"
+       y="-1208"
+       transform="matrix(0,-1,-1,0,0,0)"
+       id="rect7677"
+       style="fill:url(#linearGradient8925);fill-opacity:1;stroke:none;display:inline" />
+    <rect
+       width="2.0000002"
+       height="19"
+       rx="1.0000001"
+       ry="1.0000001"
+       x="1203.0161"
+       y="176.00293"
+       id="rect7685"
+       style="fill:#bebebe;fill-opacity:1;stroke:none;display:inline" />
+    <rect
+       width="2.0000002"
+       height="2"
+       rx="1.0000001"
+       ry="1.0000001"
+       x="1200"
+       y="190.00293"
+       id="rect7687"
+       style="fill:#bebebe;fill-opacity:1;stroke:none;display:inline" />
+  </g>
+  <g
+     transform="translate(-1187,-175.00293)"
+     id="layer7" />
+  <g
+     transform="translate(-1187,-175.00293)"
+     id="layer2" />
+  <g
+     transform="translate(-1187,-175.00293)"
+     id="layer8" />
+  <g
+     transform="translate(-1187,-1127.3651)"
+     id="layer1" />
+  <g
+     transform="translate(-1187,-175.00293)"
+     id="layer4" />
+  <g
+     transform="translate(-1187,-175.00293)"
+     id="layer9" />
+  <g
+     transform="translate(-1187,-175.00293)"
+     id="layer6" />
+</svg>
