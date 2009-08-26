@@ -10,47 +10,47 @@
   <defs
      id="defs7386" />
   <g
-     transform="translate(-382.00642,-175)"
+     transform="translate(-382.00642,-174)"
      id="layer3" />
   <g
-     transform="translate(-382.00642,-175)"
+     transform="translate(-382.00642,-174)"
      id="layer5" />
   <g
-     transform="translate(-382.00642,-175)"
+     transform="translate(-382.00642,-174)"
      id="layer7" />
   <g
-     transform="translate(-382.00642,-175)"
+     transform="translate(-382.00642,-174)"
      id="layer2" />
   <g
-     transform="translate(-382.00642,-175)"
+     transform="translate(-382.00642,-174)"
      id="layer8" />
   <g
-     transform="translate(-382.00642,-1127.3622)"
+     transform="translate(-382.00642,-1126.3622)"
      id="layer1">
     <rect
        width="24"
        height="24"
        x="-406.03076"
-       y="1127.3622"
+       y="1126.3622"
        transform="scale(-1,1)"
        id="rect13226-7"
        style="opacity:0;fill:#ffffff;fill-opacity:1;stroke:none;display:inline" />
     <path
-       d="M 385,1129.3438 C 384.44774,1129.3439 384.00006,1129.7915 384,1130.3438 L 384.03125,1143.375 L 383,1143.375 C 382.44774,1143.3751 382.00006,1143.8227 382,1144.375 L 382,1148.375 C 382.00006,1148.9273 382.44774,1149.3749 383,1149.375 L 405.03125,1149.375 C 405.58351,1149.3749 406.03119,1148.9273 406.03125,1148.375 L 406.03125,1144.375 C 406.03119,1143.8227 405.58351,1143.3751 405.03125,1143.375 L 404,1143.375 L 404,1130.3438 C 403.99994,1129.7915 403.55226,1129.3439 403,1129.3438 L 385,1129.3438 z M 386,1131.3438 L 402,1131.3438 L 402,1144.375 C 402.00006,1144.9273 402.44774,1145.3749 403,1145.375 L 404.03125,1145.375 L 404.03125,1147.375 L 384,1147.375 L 384,1145.375 L 385.03125,1145.375 C 385.30195,1145.3751 385.56114,1145.2655 385.74959,1145.0711 C 385.93804,1144.8768 386.03967,1144.6144 386.03125,1144.3438 L 386,1131.3438 z"
+       d="M 385,1128.3438 C 384.44774,1128.3439 384.00006,1128.7915 384,1129.3438 L 384.03125,1142.375 L 383,1142.375 C 382.44774,1142.3751 382.00006,1142.8227 382,1143.375 L 382,1147.375 C 382.00006,1147.9273 382.44774,1148.3749 383,1148.375 L 405.03125,1148.375 C 405.58351,1148.3749 406.03119,1147.9273 406.03125,1147.375 L 406.03125,1143.375 C 406.03119,1142.8227 405.58351,1142.3751 405.03125,1142.375 L 404,1142.375 L 404,1129.3438 C 403.99994,1128.7915 403.55226,1128.3439 403,1128.3438 L 385,1128.3438 z M 386,1130.3438 L 402,1130.3438 L 402,1143.375 C 402.00006,1143.9273 402.44774,1144.3749 403,1144.375 L 404.03125,1144.375 L 404.03125,1146.375 L 384,1146.375 L 384,1144.375 L 385.03125,1144.375 C 385.30195,1144.3751 385.56114,1144.2655 385.74959,1144.0711 C 385.93804,1143.8768 386.03967,1143.6144 386.03125,1143.3438 L 386,1130.3438 z"
        id="path10147"
        style="fill:#bebebe;fill-opacity:1;stroke:none;stroke-width:2;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1" />
     <path
-       d="M 388.03125,1133.4062 L 388.03125,1134.375 L 388.03125,1142.375 L 388.03125,1143.375 L 389,1143.375 L 399.03125,1143.375 L 400.03125,1143.375 L 400.03125,1142.375 L 400.03125,1134.375 L 400.03125,1133.4062 L 399.03125,1133.4062 L 389,1133.4062 L 388.03125,1133.4062 z M 390,1135.375 L 398.03125,1135.375 L 398.03125,1141.4062 L 390,1141.4062 L 390,1135.375 z"
+       d="M 388,1132.375 L 388,1132.875 L 388,1141.875 L 388,1142.375 L 388.5,1142.375 L 399.5,1142.375 L 400,1142.375 L 400,1141.875 L 400,1132.875 L 400,1132.375 L 399.5,1132.375 L 388.5,1132.375 L 388,1132.375 z M 389,1133.375 L 399,1133.375 L 399,1141.375 L 389,1141.375 L 389,1133.375 z"
        id="rect10197"
-       style="fill:#bebebe;fill-opacity:1;stroke:none;stroke-width:1.98964918;stroke-linecap:butt;stroke-linejoin:miter;marker:none;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;visibility:visible;display:inline;overflow:visible;enable-background:accumulate" />
+       style="fill:#bebebe;fill-opacity:1;stroke:none;stroke-width:1;stroke-linecap:butt;stroke-linejoin:miter;marker:none;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;visibility:visible;display:inline;overflow:visible;enable-background:accumulate" />
   </g>
   <g
-     transform="translate(-382.00642,-175)"
+     transform="translate(-382.00642,-174)"
      id="layer4" />
   <g
-     transform="translate(-382.00642,-175)"
+     transform="translate(-382.00642,-174)"
      id="layer9" />
   <g
-     transform="translate(-382.00642,-175)"
+     transform="translate(-382.00642,-174)"
      id="layer6" />
 </svg>

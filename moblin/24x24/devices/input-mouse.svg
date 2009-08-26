@@ -6,7 +6,7 @@
    xmlns:xlink="http://www.w3.org/1999/xlink"
    version="1.0"
    width="24"
-   height="26.004696"
+   height="24"
    id="svg7384">
   <defs
      id="defs7386">
@@ -22,32 +22,32 @@
          offset="1" />
     </linearGradient>
     <linearGradient
-       x1="253.67709"
-       y1="237.35265"
-       x2="255.35765"
-       y2="235.53754"
-       id="linearGradient9111"
+       x1="255.1823"
+       y1="237.13129"
+       x2="255.2691"
+       y2="234.96202"
+       id="linearGradient9129"
        xlink:href="#linearGradient10844"
        gradientUnits="userSpaceOnUse"
        gradientTransform="matrix(1.411765,0,0,1.411765,-101.94125,850.77403)" />
   </defs>
   <g
-     transform="translate(-240,-227.99531)"
+     transform="translate(-240,-230)"
      id="layer3" />
   <g
-     transform="translate(-240,-227.99531)"
+     transform="translate(-240,-230)"
      id="layer5" />
   <g
-     transform="translate(-240,-227.99531)"
+     transform="translate(-240,-230)"
      id="layer7" />
   <g
-     transform="translate(-240,-227.99531)"
+     transform="translate(-240,-230)"
      id="layer2" />
   <g
-     transform="translate(-240,-227.99531)"
+     transform="translate(-240,-230)"
      id="layer8" />
   <g
-     transform="translate(-240,-1180.3575)"
+     transform="translate(-240,-1182.3622)"
      id="layer1">
     <path
        d="M 243.98606,1198.3502 C 243.4342,1198.3572 242.99238,1198.81 242.99883,1199.3619 C 242.99883,1203.2149 246.14612,1206.3622 249.99919,1206.3622 C 253.85225,1206.3622 256.99955,1203.2149 256.99955,1199.3619 C 257.01255,1198.9963 256.82495,1198.6528 256.51036,1198.4662 C 256.19577,1198.2796 255.80438,1198.2796 255.48979,1198.4662 C 255.1752,1198.6528 254.9876,1198.9963 255.00061,1199.3619 C 255.00061,1202.1328 252.77012,1204.3633 249.99919,1204.3633 C 247.22825,1204.3633 244.99777,1202.1328 244.99777,1199.3619 C 245.00091,1199.0926 244.89533,1198.8334 244.70491,1198.643 C 244.51449,1198.4526 244.25533,1198.347 243.98606,1198.3502 z"
@@ -81,21 +81,21 @@
        id="path10817"
        style="fill:#bebebe;fill-opacity:1;stroke:none;stroke-width:1.59375;stroke-linecap:round;stroke-linejoin:miter;marker:none;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;visibility:visible;display:inline;overflow:visible;enable-background:accumulate" />
     <path
-       d="M 261.19118,1180.3329 C 261.02397,1180.3378 260.87025,1180.4259 260.78159,1180.5677 C 260.69293,1180.7096 260.68108,1180.8864 260.75,1181.0388 C 261.49019,1183.1248 260.40957,1185.3721 258.32353,1186.1123 C 256.4875,1186.7638 254.55201,1186.0678 253.55882,1184.3917 C 253.47879,1184.2566 253.33989,1184.1669 253.18377,1184.1495 C 253.02766,1184.1322 252.87246,1184.1892 252.76471,1184.3035 C 252.60896,1184.4744 252.59072,1184.7298 252.72059,1184.9212 C 253.94733,1186.9913 256.4087,1187.8876 258.67647,1187.0829 C 261.27243,1186.1618 262.64172,1183.2818 261.72059,1180.6859 C 261.65138,1180.4566 261.42939,1180.3086 261.19118,1180.3329 L 261.19118,1180.3329 z"
+       d="M 261.41177,1182.4065 C 261.17975,1182.4325 260.99662,1182.6156 260.97059,1182.8476 C 260.6903,1185.0433 258.71035,1186.6132 256.51471,1186.3329 C 255.22716,1186.1686 254.22055,1185.5084 253.55882,1184.3917 C 253.47879,1184.2566 253.33989,1184.1669 253.18377,1184.1495 C 253.02766,1184.1322 252.87246,1184.1892 252.76471,1184.3035 C 252.60896,1184.4744 252.59072,1184.7298 252.72059,1184.9212 C 253.52429,1186.2774 254.81854,1187.1039 256.38235,1187.3035 C 259.11471,1187.6523 261.59237,1185.7123 261.94118,1182.98 C 261.96385,1182.8299 261.91713,1182.6776 261.81418,1182.5661 C 261.71122,1182.4546 261.56318,1182.3958 261.41177,1182.4065 z"
        id="path10819"
-       style="fill:url(#linearGradient9111);fill-opacity:1;stroke:none;stroke-width:0.70833319;stroke-linecap:round;stroke-linejoin:miter;marker:none;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;visibility:visible;display:inline;overflow:visible;enable-background:accumulate" />
+       style="fill:url(#linearGradient9129);fill-opacity:1;stroke:none;stroke-width:0.70833319;stroke-linecap:round;stroke-linejoin:miter;marker:none;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;visibility:visible;display:inline;overflow:visible;enable-background:accumulate" />
     <path
        d="M 249.46875,1185.25 C 249.20489,1185.2826 249.01268,1185.516 249.03125,1185.7812 L 249.03125,1188 C 249.0287,1188.1803 249.12344,1188.348 249.27919,1188.4389 C 249.43494,1188.5298 249.62756,1188.5298 249.78331,1188.4389 C 249.93906,1188.348 250.0338,1188.1803 250.03125,1188 L 250.03125,1185.7812 C 250.04181,1185.6317 249.98474,1185.4853 249.87577,1185.3824 C 249.7668,1185.2795 249.61741,1185.2309 249.46875,1185.25 L 249.46875,1185.25 z"
        id="path10821"
        style="fill:#bebebe;fill-opacity:1;stroke:none;stroke-width:1;stroke-linecap:round;stroke-linejoin:miter;marker:none;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;visibility:visible;display:inline;overflow:visible;enable-background:accumulate" />
   </g>
   <g
-     transform="translate(-240,-227.99531)"
+     transform="translate(-240,-230)"
      id="layer4" />
   <g
-     transform="translate(-240,-227.99531)"
+     transform="translate(-240,-230)"
      id="layer9" />
   <g
-     transform="translate(-240,-227.99531)"
+     transform="translate(-240,-230)"
      id="layer6" />
 </svg>
