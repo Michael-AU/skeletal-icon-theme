@@ -4,57 +4,61 @@
    xmlns:svg="http://www.w3.org/2000/svg"
    xmlns="http://www.w3.org/2000/svg"
    version="1.0"
-   width="24"
+   width="24.04772"
    height="24"
    id="svg7384">
   <defs
      id="defs7386" />
   <g
-     transform="translate(-1129,-201.00293)"
+     transform="translate(-1129.9523,-200.00293)"
      id="layer3" />
   <g
-     transform="translate(-1129,-201.00293)"
+     transform="translate(-1129.9523,-200.00293)"
      id="layer5">
     <rect
        width="24"
        height="24"
-       x="-1153"
-       y="201.00293"
+       x="-1154"
+       y="200.00293"
        transform="scale(-1,1)"
        id="rect7481"
        style="opacity:0;fill:#ffffff;fill-opacity:1;stroke:none;display:inline" />
     <path
-       d="M 1130.9062,202 C 1130.3909,202.0486 1129.9978,202.48238 1130,203 L 1130,220 C 1130.0001,220.55226 1130.4477,220.99994 1131,221 L 1147,221 C 1148.3351,221 1149.4513,220.27834 1150.0938,219.3125 C 1150.7362,218.34666 1151,217.16251 1151,215.96875 L 1151,209 C 1150.9999,208.44774 1150.5523,208.00006 1150,208 L 1149,208 L 1149,206 C 1148.9999,205.44774 1148.5523,205.00006 1148,205 L 1140,205 L 1140,203 C 1139.9999,202.44774 1139.5523,202.00006 1139,202 L 1131,202 C 1130.9688,201.99853 1130.9374,201.99853 1130.9062,202 L 1130.9062,202 z M 1132,204 L 1138,204 L 1138,206 C 1138.0001,206.55226 1138.4477,206.99994 1139,207 L 1147,207 L 1147,208 L 1135,208 C 1134.6394,207.9949 1134.3039,208.18438 1134.1221,208.49587 C 1133.9403,208.80737 1133.9403,209.19263 1134.1221,209.50413 C 1134.3039,209.81562 1134.6394,210.0051 1135,210 L 1147.8125,210 L 1148.2188,210 L 1149,210 L 1149,215.96875 C 1149,216.85211 1148.7868,217.69354 1148.4375,218.21875 C 1148.0882,218.74396 1147.6978,219 1147,219 L 1132,219 L 1132,204 z"
-       id="path7483"
-       style="fill:#bebebe;fill-opacity:1;stroke:none;stroke-width:2;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1" />
-    <path
-       d="M 1134,209 L 1133.9688,216 C 1133.986,216.78143 1133.5003,217.4377 1132.9375,217.90625 C 1132.3747,218.3748 1131.7812,218.625 1131.7812,218.625 L 1132.1875,219.53125 C 1132.1875,219.53125 1132.8769,219.22698 1133.5625,218.65625 C 1134.2481,218.08552 1134.9955,217.20731 1134.9688,216 L 1135,209 L 1134,209 z"
-       id="path7485"
-       style="fill:#bebebe;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1" />
-    <path
-       d="M 1147.0469,215.03125 L 1145,215 L 1145,218 L 1142,218 L 1142.0156,216 L 1141.0156,216 L 1141,218 L 1139,218 L 1138.999,215.00008 L 1137.0156,215.01558 L 1142,210.98432 L 1147.0469,215.03125 L 1147.0469,215.03125 z"
+       d="M 1148.0469,214.03125 L 1146,214 L 1146,217 L 1143,217 L 1143.0156,215 L 1142.0156,215 L 1142,217 L 1140,217 L 1139.999,214.00008 L 1138.0156,214.01558 L 1143,210.92182 L 1148.0469,214.03125 L 1148.0469,214.03125 z"
        id="path7493"
        style="fill:#bebebe;fill-opacity:1;stroke:none" />
+    <g
+       transform="translate(679.9375,787)"
+       id="use7499">
+      <path
+         d="M 455.00184,-578 L 471.0625,-578 L 471.0625,-572.02066 C 471.0625,-569.94354 469.78607,-568 467.44378,-568 L 451.01478,-568 L 451.01478,-585.97227 L 456.9375,-585.97227 C 458.95323,-585.97227 460,-584.52938 460,-582.97227 L 460.0329,-582 L 469.06249,-582 L 469.06249,-578"
+         id="path8921"
+         style="fill:none;stroke:#bebebe;stroke-width:2;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1" />
+      <path
+         d="M 454.51127,-577.94084 L 454.51146,-572 C 454.51127,-569.83448 452.96474,-568.92707 452.03666,-568.92707"
+         id="path8923"
+         style="fill:none;stroke:#bebebe;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1" />
+    </g>
   </g>
   <g
-     transform="translate(-1129,-201.00293)"
+     transform="translate(-1129.9523,-200.00293)"
      id="layer7" />
   <g
-     transform="translate(-1129,-201.00293)"
+     transform="translate(-1129.9523,-200.00293)"
      id="layer2" />
   <g
-     transform="translate(-1129,-201.00293)"
+     transform="translate(-1129.9523,-200.00293)"
      id="layer8" />
   <g
-     transform="translate(-1129,-1153.3651)"
+     transform="translate(-1129.9523,-1152.3651)"
      id="layer1" />
   <g
-     transform="translate(-1129,-201.00293)"
+     transform="translate(-1129.9523,-200.00293)"
      id="layer4" />
   <g
-     transform="translate(-1129,-201.00293)"
+     transform="translate(-1129.9523,-200.00293)"
      id="layer9" />
   <g
-     transform="translate(-1129,-201.00293)"
+     transform="translate(-1129.9523,-200.00293)"
      id="layer6" />
 </svg>
