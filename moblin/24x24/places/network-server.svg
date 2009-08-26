@@ -26,7 +26,7 @@
        y1="121.73069"
        x2="105.91268"
        y2="115.05012"
-       id="linearGradient8925"
+       id="linearGradient8942"
        xlink:href="#linearGradient7487-1"
        gradientUnits="userSpaceOnUse"
        gradientTransform="matrix(1,0,0,1.0004885,-302.91288,-1323.0616)" />
@@ -35,7 +35,7 @@
        y1="121.0463"
        x2="105.91268"
        y2="115.05012"
-       id="linearGradient8929"
+       id="linearGradient8946"
        xlink:href="#linearGradient7487-1"
        gradientUnits="userSpaceOnUse"
        gradientTransform="matrix(1,0,0,1.091442,-302.91288,1061.4783)" />
@@ -92,7 +92,7 @@
        y="1187"
        transform="matrix(0,-1,1,0,0,0)"
        id="rect7673"
-       style="fill:url(#linearGradient8929);fill-opacity:1;stroke:none;display:inline" />
+       style="fill:url(#linearGradient8946);fill-opacity:1;stroke:none;display:inline" />
     <rect
        width="2.0000005"
        height="5"
@@ -112,7 +112,7 @@
        y="-1208"
        transform="matrix(0,-1,-1,0,0,0)"
        id="rect7677"
-       style="fill:url(#linearGradient8925);fill-opacity:1;stroke:none;display:inline" />
+       style="fill:url(#linearGradient8942);fill-opacity:1;stroke:none;display:inline" />
     <rect
        width="2.0000002"
        height="19"
@@ -131,6 +131,14 @@
        y="190.00293"
        id="rect7687"
        style="fill:#bebebe;fill-opacity:1;stroke:none;display:inline" />
+    <path
+       d="M 1194.4062,180 C 1194.1301,180.0259 1193.9272,180.27076 1193.9531,180.5469 C 1193.979,180.82304 1194.2239,181.0259 1194.5,181 L 1201.5,181 C 1201.6803,181.00255 1201.848,180.90781 1201.9389,180.75206 C 1202.0298,180.59631 1202.0298,180.40369 1201.9389,180.24794 C 1201.848,180.09219 1201.6803,179.99745 1201.5,180 L 1194.5,180 C 1194.4688,179.99706 1194.4374,179.99706 1194.4062,180 z"
+       id="path5630"
+       style="fill:#bebebe;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:round;stroke-linejoin:miter;stroke-opacity:1" />
+    <path
+       d="M 1200.4375,182 C 1200.1614,182.02587 1199.9585,182.27071 1199.9844,182.54685 C 1200.0102,182.82299 1200.2551,183.02587 1200.5312,183 L 1201.4688,183 C 1201.6491,183.00255 1201.8168,182.90781 1201.9077,182.75206 C 1201.9986,182.59631 1201.9986,182.40369 1201.9077,182.24794 C 1201.8168,182.09219 1201.6491,181.99745 1201.4688,182 L 1200.5312,182 C 1200.5,181.99707 1200.4687,181.99707 1200.4375,182 L 1200.4375,182 z"
+       id="path5632"
+       style="fill:#bebebe;fill-opacity:1;stroke:none;stroke-width:0.99999988px;stroke-linecap:round;stroke-linejoin:miter;stroke-opacity:1" />
   </g>
   <g
      transform="translate(-1187,-175.00293)"
