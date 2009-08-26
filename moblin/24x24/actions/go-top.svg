@@ -45,41 +45,16 @@
        id="rect7332"
        style="opacity:0;fill:#ffffff;fill-opacity:1;stroke:none;display:inline" />
     <g
-       transform="matrix(0,-1,1,0,-441.17566,207.3897)"
-       id="g7350"
-       style="fill:#a0da00;display:inline">
-      <g
-         transform="translate(-2,0)"
-         id="g7352"
-         style="fill:#a0da00">
-        <g
-           transform="translate(1.35498e-3,-2.71e-3)"
-           id="g7354"
-           style="fill:#a0da00">
-          <g
-             transform="translate(-2.9408701,-1.5221e-2)"
-             id="g7356"
-             style="fill:#a0da00">
-            <path
-               d="M 20.341173,33.184646 C 20.341173,33.184646 20.341173,31.770432 20.341173,31.770432 L 27.62013,24.503888 C 28.011867,24.112151 28.642606,24.112151 29.034344,24.503888 C 29.426081,24.895625 29.426081,25.526365 29.034344,25.918102 L 21.755387,33.184646 C 21.755387,33.184646 20.341173,33.184646 20.341173,33.184646 L 20.341173,33.184646 z"
-               id="path7358"
-               style="fill:#a0da00;fill-opacity:1;stroke:none" />
-            <path
-               d="M 20.322283,17.202872 C 20.322283,17.202872 20.322283,18.617086 20.322283,18.617086 L 27.602515,25.879701 C 27.994252,26.271438 28.624991,26.271438 29.016729,25.879701 C 29.408466,25.487964 29.408466,24.857225 29.016729,24.465488 L 21.736496,17.202872 C 21.736496,17.202872 20.322283,17.202872 20.322283,17.202872 L 20.322283,17.202872 z"
-               id="path7360"
-               style="fill:#a0da00;fill-opacity:1;stroke:none" />
-          </g>
-        </g>
-        <rect
-           width="2.0000005"
-           height="16.000006"
-           rx="1.0000002"
-           ry="1.0000002"
-           x="27.389765"
-           y="17.175829"
-           id="rect7362"
-           style="fill:#a0da00;fill-opacity:1;stroke:none" />
-      </g>
+       transform="matrix(0,1,-1,0,-229,633.98372)"
+       id="g7419-4">
+      <path
+         d="M -443.36457,192.99936 L -449.37497,186.98895 L -443.34247,181.00064"
+         id="path7280-0-0-8-8"
+         style="fill:none;stroke:#a0da00;stroke-width:3;stroke-linecap:round;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1" />
+      <path
+         d="M -452.98372,180 L -452.98372,194"
+         id="path7392-7-7"
+         style="fill:none;stroke:#a0da00;stroke-width:2;stroke-linecap:round;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1" />
     </g>
   </g>
 </svg>
