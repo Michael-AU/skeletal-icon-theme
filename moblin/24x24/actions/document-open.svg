@@ -10,43 +10,51 @@
   <defs
      id="defs7386" />
   <g
-     transform="translate(586.935,-307.05426)"
+     transform="translate(619,-308)"
      id="layer3" />
   <g
-     transform="translate(586.935,-307.05426)"
+     transform="translate(619,-308)"
      id="layer5" />
   <g
-     transform="translate(586.935,-307.05426)"
+     transform="translate(619,-308)"
      id="layer7" />
   <g
-     transform="translate(586.935,-307.05426)"
+     transform="translate(619,-308)"
      id="layer2" />
   <g
-     transform="translate(586.935,-307.05426)"
+     transform="translate(619,-308)"
      id="layer8" />
   <g
-     transform="translate(586.935,-1259.4164)"
+     transform="translate(619,-1260.3622)"
      id="layer1" />
   <g
-     transform="translate(586.935,-307.05426)"
+     transform="translate(619,-308)"
      id="layer4" />
   <g
-     transform="translate(586.935,-307.05426)"
+     transform="translate(619,-308)"
      id="layer9" />
   <g
-     transform="translate(586.935,-307.05426)"
+     transform="translate(619,-308)"
      id="layer6">
-    <rect
-       width="24"
-       height="24"
-       x="562.935"
-       y="307.05426"
-       transform="scale(-1,1)"
-       id="rect8223"
-       style="opacity:0;fill:#ffffff;fill-opacity:1;stroke:none;display:inline" />
-    <path
-       d="M -585.09375,310 C -585.60911,310.04857 -586.00223,310.48237 -586,311 L -586,328 C -585.99994,328.55226 -585.55226,328.99994 -585,329 L -567,329 C -566.54383,329.00019 -566.14533,328.69168 -566.03125,328.25 L -563.03125,317.25 C -562.95395,316.95045 -563.01962,316.63199 -563.20913,316.38747 C -563.39864,316.14294 -563.69064,315.99988 -564,316 L -581,316 C -581.36064,315.9949 -581.69609,316.18437 -581.87789,316.49587 C -582.0597,316.80737 -582.0597,317.19263 -581.87789,317.50413 C -581.69609,317.81563 -581.36064,318.0051 -581,318 L -565.3125,318 L -567.75,327 L -584,327 L -584,312 L -578,312 L -578,314 C -577.99994,314.55226 -577.55226,314.99994 -577,315 L -568,315 C -567.63936,315.0051 -567.30391,314.81563 -567.12211,314.50413 C -566.9403,314.19263 -566.9403,313.80737 -567.12211,313.49587 C -567.30391,313.18437 -567.63936,312.9949 -568,313 L -576,313 L -576,311 C -576.00006,310.44774 -576.44774,310.00006 -577,310 L -585,310 C -585.03123,309.99853 -585.06252,309.99853 -585.09375,310 z"
-       id="path10447"
-       style="fill:#bebebe;fill-opacity:1;stroke:none;stroke-width:2.00000024;stroke-linecap:round;stroke-linejoin:round;marker:none;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;visibility:visible;display:inline;overflow:visible;enable-background:accumulate" />
+    <g
+       transform="translate(-1068,894.99707)"
+       id="use6375">
+      <rect
+         width="24"
+         height="24"
+         x="-473"
+         y="-586.99707"
+         transform="scale(-1,1)"
+         id="rect8943"
+         style="opacity:0;fill:#ffffff;fill-opacity:1;stroke:none;display:inline" />
+      <path
+         d="M 456,-577.96875 L 471.03125,-577.96875 L 471.03125,-571.95816 C 471.03125,-569.19336 469.03293,-568 467,-568 L 451,-568 L 451,-585 L 459,-585 L 459,-582 L 468,-582 L 468,-579.15625"
+         id="path8945"
+         style="fill:none;stroke:#bebebe;stroke-width:2;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1" />
+      <path
+         d="M 455.5086,-577.97209 L 455.4959,-571.96875 C 455.4869,-569.22996 451.98985,-568.92707 451.98985,-568.92707"
+         id="path8947"
+         style="fill:none;stroke:#bebebe;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1" />
+    </g>
   </g>
 </svg>
