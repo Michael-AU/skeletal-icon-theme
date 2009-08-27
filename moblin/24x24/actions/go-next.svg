@@ -10,42 +10,52 @@
   <defs
      id="defs7386" />
   <g
-     transform="translate(619,-175)"
+     transform="translate(620,-174)"
      id="layer3" />
   <g
-     transform="translate(619,-175)"
+     transform="translate(620,-174)"
      id="layer5" />
   <g
-     transform="translate(619,-175)"
+     transform="translate(620,-174)"
      id="layer7" />
   <g
-     transform="translate(619,-175)"
+     transform="translate(620,-174)"
      id="layer2" />
   <g
-     transform="translate(619,-175)"
+     transform="translate(620,-174)"
      id="layer8" />
   <g
-     transform="translate(619,-1127.3622)"
+     transform="translate(620,-1126.3622)"
      id="layer1" />
   <g
-     transform="translate(619,-175)"
+     transform="translate(620,-174)"
      id="layer4" />
   <g
-     transform="translate(619,-175)"
+     transform="translate(620,-174)"
      id="layer9" />
   <g
-     transform="translate(619,-175)"
+     transform="translate(620,-174)"
      id="layer6">
     <rect
        width="24"
        height="24"
-       x="-619"
-       y="175"
+       x="-620"
+       y="174"
        id="rect7276"
        style="opacity:0;fill:#ffffff;fill-opacity:1;stroke:none;display:inline" />
     <path
-       d="M -610.0625,179.5 C -610.67865,179.4982 -611.23324,179.87334 -611.46088,180.4459 C -611.68853,181.01846 -611.54292,181.67198 -611.09375,182.09375 L -606.125,187.03125 L -611.0625,191.96875 C -611.6493,192.55555 -611.6493,193.50695 -611.0625,194.09375 C -610.4757,194.68055 -609.5243,194.68055 -608.9375,194.09375 L -602.9375,188.09375 L -601.875,187 L -602.9375,185.96875 L -608.96875,179.96875 C -609.25312,179.6684 -609.64889,179.49879 -610.0625,179.5 z"
+       d="M -606.0625,178.5 C -606.67865,178.4982 -607.23324,178.87334 -607.46088,179.4459 C -607.68853,180.01846 -607.54292,180.67198 -607.09375,181.09375 L -602.125,186.03125 L -607.0625,190.96875 C -607.6493,191.55555 -607.6493,192.50695 -607.0625,193.09375 C -606.4757,193.68055 -605.5243,193.68055 -604.9375,193.09375 L -598.9375,187.09375 L -597.875,186 L -598.9375,184.96875 L -604.96875,178.96875 C -605.25312,178.6684 -605.64889,178.49879 -606.0625,178.5 z"
        id="path7280"
        style="fill:#a0da00;fill-opacity:1;stroke:none;stroke-width:3;stroke-linecap:round;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1" />
+    <path
+       d="M -605.90212,184.94121 A 0.9722718,0.9722718 0 1 1 -607.84666,184.94121 A 0.9722718,0.9722718 0 1 1 -605.90212,184.94121 z"
+       transform="matrix(2.0570314,0,0,2.057036,640.35966,-194.43072)"
+       id="path9373"
+       style="fill:#a0da00;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:0.99999994px;marker:none;visibility:visible;display:inline;overflow:visible;enable-background:new" />
+    <path
+       d="M -605.90212,184.94121 A 0.9722718,0.9722718 0 1 1 -607.84666,184.94121 A 0.9722718,0.9722718 0 1 1 -605.90212,184.94121 z"
+       transform="matrix(2.0570314,0,0,2.057036,634.35968,-194.43072)"
+       id="path9375"
+       style="fill:#a0da00;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:0.99999994px;marker:none;visibility:visible;display:inline;overflow:visible;enable-background:new" />
   </g>
 </svg>

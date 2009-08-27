@@ -10,50 +10,61 @@
   <defs
      id="defs7386" />
   <g
-     transform="translate(460,-175)"
+     transform="translate(492,-174)"
      id="layer3" />
   <g
-     transform="translate(460,-175)"
+     transform="translate(492,-174)"
      id="layer5" />
   <g
-     transform="translate(460,-175)"
+     transform="translate(492,-174)"
      id="layer7" />
   <g
-     transform="translate(460,-175)"
+     transform="translate(492,-174)"
      id="layer2" />
   <g
-     transform="translate(460,-175)"
+     transform="translate(492,-174)"
      id="layer8" />
   <g
-     transform="translate(460,-1127.3622)"
+     transform="translate(492,-1126.3622)"
      id="layer1" />
   <g
-     transform="translate(460,-175)"
+     transform="translate(492,-174)"
      id="layer4" />
   <g
-     transform="translate(460,-175)"
+     transform="translate(492,-174)"
      id="layer9" />
   <g
-     transform="translate(460,-175)"
+     transform="translate(492,-174)"
      id="layer6">
     <rect
        width="24"
        height="24"
-       x="-460"
-       y="175"
-       id="rect7286"
+       x="468"
+       y="174"
+       transform="scale(-1,1)"
+       id="rect10302"
        style="opacity:0;fill:#ffffff;fill-opacity:1;stroke:none;display:inline" />
+    <path
+       d="M -489.21875,178 C -489.68438,178.10428 -490.01149,178.52298 -490,179 L -490,193 C -490.0051,193.36064 -489.81562,193.69608 -489.50413,193.87789 C -489.19263,194.05969 -488.80737,194.05969 -488.49587,193.87789 C -488.18438,193.69608 -487.9949,193.36064 -488,193 L -488,179 C -487.99256,178.69214 -488.12736,178.39803 -488.36543,178.20269 C -488.60349,178.00735 -488.91827,177.93258 -489.21875,178 L -489.21875,178 z"
+       id="path10304"
+       style="fill:#a0da00;fill-opacity:1;stroke:none;stroke-width:2;stroke-linecap:round;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1" />
     <g
-       transform="translate(-3.2531738e-2,0)"
-       id="g7419">
+       transform="matrix(0,-1,-1,0,-291.46563,-295.49753)"
+       id="g10306">
       <path
-         d="M -443.36457,192.99936 L -449.37497,186.98895 L -443.34247,181.00064"
-         id="path7280-0-0-8"
+         d="M -487.52627,188.55836 L -481.51588,194.56876 L -475.52753,188.53629"
+         id="path10308"
          style="fill:none;stroke:#a0da00;stroke-width:3;stroke-linecap:round;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1" />
       <path
-         d="M -452.98372,180 L -452.98372,194"
-         id="path7392-7"
-         style="fill:none;stroke:#a0da00;stroke-width:2;stroke-linecap:round;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1" />
+         d="M -605.90212,184.94121 A 0.9722718,0.9722718 0 1 1 -607.84666,184.94121 A 0.9722718,0.9722718 0 1 1 -605.90212,184.94121 z"
+         transform="matrix(-2.3973561e-8,-2.0570314,-2.057036,0,-101.06678,-1067.8252)"
+         id="path10310"
+         style="fill:#a0da00;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:0.99999994px;marker:none;visibility:visible;display:inline;overflow:visible;enable-background:new" />
+      <path
+         d="M -605.90212,184.94121 A 0.9722718,0.9722718 0 1 1 -607.84666,184.94121 A 0.9722718,0.9722718 0 1 1 -605.90212,184.94121 z"
+         transform="matrix(-2.3973561e-8,-2.0570314,-2.057036,0,-101.06682,-1061.8253)"
+         id="path10312"
+         style="fill:#a0da00;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:0.99999994px;marker:none;visibility:visible;display:inline;overflow:visible;enable-background:new" />
     </g>
   </g>
 </svg>

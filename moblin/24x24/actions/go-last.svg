@@ -10,46 +10,64 @@
   <defs
      id="defs7386" />
   <g
-     transform="translate(492,-175)"
+     transform="translate(460,-174)"
      id="layer3" />
   <g
-     transform="translate(492,-175)"
+     transform="translate(460,-174)"
      id="layer5" />
   <g
-     transform="translate(492,-175)"
+     transform="translate(460,-174)"
      id="layer7" />
   <g
-     transform="translate(492,-175)"
+     transform="translate(460,-174)"
      id="layer2" />
   <g
-     transform="translate(492,-175)"
+     transform="translate(460,-174)"
      id="layer8" />
   <g
-     transform="translate(492,-1127.3622)"
+     transform="translate(460,-1126.3622)"
      id="layer1" />
   <g
-     transform="translate(492,-175)"
+     transform="translate(460,-174)"
      id="layer4" />
   <g
-     transform="translate(492,-175)"
+     transform="translate(460,-174)"
      id="layer9" />
   <g
-     transform="translate(492,-175)"
+     transform="translate(460,-174)"
      id="layer6">
-    <rect
-       width="24"
-       height="24"
-       x="-492"
-       y="175"
-       id="rect7284"
-       style="opacity:0;fill:#ffffff;fill-opacity:1;stroke:none;display:inline" />
-    <path
-       d="M -481.8125,179.5 C -482.38677,179.56704 -482.8714,179.95812 -483.05823,180.50527 C -483.24506,181.05242 -483.10084,181.65823 -482.6875,182.0625 L -477.71875,187 L -482.6875,191.9375 C -483.2743,192.5243 -483.2743,193.4757 -482.6875,194.0625 C -482.1007,194.6493 -481.1493,194.6493 -480.5625,194.0625 L -474.5625,188.0625 L -473.46875,187 L -474.5625,185.9375 L -480.59375,179.9375 C -480.9129,179.61481 -481.36099,179.45396 -481.8125,179.5 z"
-       id="path7280-0-0"
-       style="fill:#a0da00;fill-opacity:1;stroke:none;stroke-width:3;stroke-linecap:round;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1" />
-    <path
-       d="M -472.21875,179 C -472.68438,179.10428 -473.01149,179.52298 -473,180 L -473,194 C -473.0051,194.36064 -472.81562,194.69608 -472.50413,194.87789 C -472.19263,195.05969 -471.80737,195.05969 -471.49587,194.87789 C -471.18438,194.69608 -470.9949,194.36064 -471,194 L -471,180 C -470.99256,179.69214 -471.12736,179.39803 -471.36543,179.20269 C -471.60349,179.00735 -471.91827,178.93258 -472.21875,179 z"
-       id="path7392"
-       style="fill:#a0da00;fill-opacity:1;stroke:none;stroke-width:2;stroke-linecap:round;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1" />
+    <g
+       transform="translate(31.96753,-1)"
+       id="use10314">
+      <rect
+         width="24"
+         height="24"
+         x="-491.96753"
+         y="175"
+         id="rect9140"
+         style="opacity:0;fill:#ffffff;fill-opacity:1;stroke:none;display:inline" />
+      <path
+         d="M -470.96753,180 L -470.96753,194"
+         id="path9142"
+         style="fill:none;stroke:#a0da00;stroke-width:2;stroke-linecap:round;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1" />
+      <g
+         transform="matrix(0,-1,1,0,-668.5019,-294.49753)"
+         id="g9144">
+        <path
+           d="M -487.52627,188.55836 L -481.51588,194.56876 L -475.52753,188.53629"
+           id="path9146"
+           style="fill:none;stroke:#a0da00;stroke-width:3;stroke-linecap:round;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1" />
+        <path
+           d="M -605.90212,184.94121 A 0.9722718,0.9722718 0 1 1 -607.84666,184.94121 A 0.9722718,0.9722718 0 1 1 -605.90212,184.94121 z"
+           transform="matrix(-2.3973561e-8,-2.0570314,-2.057036,0,-101.06678,-1067.8252)"
+           id="path9148"
+           style="fill:#a0da00;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:0.99999994px;marker:none;visibility:visible;display:inline;overflow:visible;enable-background:new" />
+        <path
+           d="M -605.90212,184.94121 A 0.9722718,0.9722718 0 1 1 -607.84666,184.94121 A 0.9722718,0.9722718 0 1 1 -605.90212,184.94121 z"
+           transform="matrix(-2.3973561e-8,-2.0570314,-2.057036,0,-101.06682,-1061.8253)"
+           id="path9150"
+           style="fill:#a0da00;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:0.99999994px;marker:none;visibility:visible;display:inline;overflow:visible;enable-background:new" />
+      </g>
+    </g>
   </g>
 </svg>
