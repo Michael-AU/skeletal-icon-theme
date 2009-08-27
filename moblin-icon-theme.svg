@@ -2415,16 +2415,16 @@
      inkscape:pageopacity="0"
      inkscape:pageshadow="2"
      inkscape:zoom="1"
-     inkscape:cx="-443.85124"
-     inkscape:cy="-271.43734"
+     inkscape:cx="1478.6854"
+     inkscape:cy="-267.30633"
      inkscape:document-units="px"
-     inkscape:current-layer="layer6"
+     inkscape:current-layer="g10976"
      showgrid="false"
      showborder="false"
      inkscape:window-width="1281"
      inkscape:window-height="1042"
-     inkscape:window-x="1637"
-     inkscape:window-y="8"
+     inkscape:window-x="1729"
+     inkscape:window-y="36"
      inkscape:window-maximized="0"
      inkscape:showpageshadow="false"
      showguides="true"
@@ -4148,46 +4148,50 @@
          x="-1522.001"
          y="291.99646" />
     </g>
-    <rect
-       y="339.99646"
-       x="-1493.001"
-       height="24"
-       width="24"
-       id="rect9485"
-       style="opacity:0;fill:#ffffff;fill-opacity:1;stroke:none;display:inline"
-       transform="scale(-1,1)" />
-    <path
-       sodipodi:type="arc"
-       style="fill:none;stroke:#bebebe;stroke-width:4.22841072;stroke-linecap:round;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none;display:inline"
-       id="path9487"
-       sodipodi:cx="10.196985"
-       sodipodi:cy="12.357385"
-       sodipodi:rx="8.3902435"
-       sodipodi:ry="8.3902435"
-       d="m 3.529191,17.450194 a 8.3902435,8.3902435 0 1 1 13.307804,0.03617"
-       transform="matrix(-0.477423,0,0,-0.4686003,1485.8884,358.00997)"
-       sodipodi:open="true"
-       sodipodi:start="2.4893228"
-       sodipodi:end="6.9408914" />
-    <rect
-       style="fill:#bebebe;fill-opacity:1;stroke:none;display:inline"
-       id="rect10270"
-       width="2"
-       height="6"
-       x="1480.001"
-       y="345.99649"
-       rx="1"
-       ry="0.99999982" />
-    <path
-       transform="matrix(-1.1918603,0,0,-1.1918606,1493.1543,366.72477)"
-       d="m 18.587229,12.357385 a 8.3902435,8.3902435 0 1 1 -16.7804873,0 8.3902435,8.3902435 0 1 1 16.7804873,0 z"
-       sodipodi:ry="8.3902435"
-       sodipodi:rx="8.3902435"
-       sodipodi:cy="12.357385"
-       sodipodi:cx="10.196985"
-       id="path9667"
-       style="fill:none;stroke:#bebebe;stroke-width:1.67804921;stroke-linecap:round;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none;display:inline"
-       sodipodi:type="arc" />
+    <g
+       id="g10976"
+       inkscape:label="system-shutdown">
+      <rect
+         transform="scale(-1,1)"
+         style="opacity:0;fill:#ffffff;fill-opacity:1;stroke:none;display:inline"
+         id="rect9485"
+         width="24"
+         height="24"
+         x="-1492"
+         y="340" />
+      <rect
+         ry="0.99999982"
+         rx="1"
+         y="345.99649"
+         x="1480.001"
+         height="6"
+         width="2"
+         id="rect10270"
+         style="fill:#bebebe;fill-opacity:1;stroke:none;display:inline" />
+      <path
+         sodipodi:type="arc"
+         style="fill:none;stroke:#bebebe;stroke-width:1.67805386;stroke-linecap:round;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none;display:inline"
+         id="path9667"
+         sodipodi:cx="10.196985"
+         sodipodi:cy="12.357385"
+         sodipodi:rx="8.3902435"
+         sodipodi:ry="8.3902435"
+         d="m 18.587229,12.357385 a 8.3902435,8.3902435 0 1 1 -16.7804873,0 8.3902435,8.3902435 0 1 1 16.7804873,0 z"
+         transform="matrix(-1.191857,0,0,-1.1918573,1493.1534,367.72821)" />
+      <path
+         transform="matrix(-0.5959364,0,0,-0.59593656,1487.0768,360.36419)"
+         d="m 3.515309,17.431967 a 8.3902435,8.3902435 0 1 1 13.364577,-0.0016"
+         sodipodi:ry="8.3902435"
+         sodipodi:rx="8.3902435"
+         sodipodi:cy="12.357385"
+         sodipodi:cx="10.196985"
+         id="path10982"
+         style="fill:none;stroke:#bebebe;stroke-width:3.35606313;stroke-linecap:round;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none;display:inline"
+         sodipodi:type="arc"
+         sodipodi:start="2.4920535"
+         sodipodi:end="6.9324831"
+         sodipodi:open="true" />
+    </g>
     <g
        inkscape:label="wireless-signal-ok"
        id="g10174"
