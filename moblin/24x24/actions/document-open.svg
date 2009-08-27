@@ -10,34 +10,34 @@
   <defs
      id="defs7386" />
   <g
-     transform="translate(619,-308)"
+     transform="translate(620,-306)"
      id="layer3" />
   <g
-     transform="translate(619,-308)"
+     transform="translate(620,-306)"
      id="layer5" />
   <g
-     transform="translate(619,-308)"
+     transform="translate(620,-306)"
      id="layer7" />
   <g
-     transform="translate(619,-308)"
+     transform="translate(620,-306)"
      id="layer2" />
   <g
-     transform="translate(619,-308)"
+     transform="translate(620,-306)"
      id="layer8" />
   <g
-     transform="translate(619,-1260.3622)"
+     transform="translate(620,-1258.3622)"
      id="layer1" />
   <g
-     transform="translate(619,-308)"
+     transform="translate(620,-306)"
      id="layer4" />
   <g
-     transform="translate(619,-308)"
+     transform="translate(620,-306)"
      id="layer9" />
   <g
-     transform="translate(619,-308)"
+     transform="translate(620,-306)"
      id="layer6">
     <g
-       transform="translate(-1068,894.99707)"
+       transform="translate(-1069,892.99707)"
        id="use6375">
       <rect
          width="24"
@@ -45,15 +45,15 @@
          x="-473"
          y="-586.99707"
          transform="scale(-1,1)"
-         id="rect8943"
+         id="rect9072"
          style="opacity:0;fill:#ffffff;fill-opacity:1;stroke:none;display:inline" />
       <path
-         d="M 456,-577.96875 L 471.03125,-577.96875 L 471.03125,-571.95816 C 471.03125,-569.19336 469.03293,-568 467,-568 L 451,-568 L 451,-585 L 459,-585 L 459,-582 L 468,-582 L 468,-579.15625"
-         id="path8945"
+         d="M 455.02722,-576.95404 L 470.05847,-576.95404 L 470.05847,-570.94345 C 470.05847,-568.17865 468.06015,-566.98529 466.02722,-566.98529 L 450.02722,-566.98529 L 450.02722,-585.92983 L 458.02722,-585.92983 L 460.08972,-581.95757 L 466.05495,-581.95757 L 466.05495,-578.14154"
+         id="path9074"
          style="fill:none;stroke:#bebebe;stroke-width:2;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1" />
       <path
-         d="M 455.5086,-577.97209 L 455.4959,-571.96875 C 455.4869,-569.22996 451.98985,-568.92707 451.98985,-568.92707"
-         id="path8947"
+         d="M 454.52722,-577.03459 L 454.51452,-571.03125 C 454.50552,-568.29246 451.00847,-567.98957 451.00847,-567.98957"
+         id="path9076"
          style="fill:none;stroke:#bebebe;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1" />
     </g>
   </g>
