@@ -2703,6 +2703,13 @@
        inkscape:vp_y="0 : 1000 : 0"
        inkscape:vp_x="0 : 0.5 : 1"
        sodipodi:type="inkscape:persp3d" />
+    <inkscape:perspective
+       id="perspective9150"
+       inkscape:persp3d-origin="0.5 : 0.33333333 : 1"
+       inkscape:vp_z="1 : 0.5 : 1"
+       inkscape:vp_y="0 : 1000 : 0"
+       inkscape:vp_x="0 : 0.5 : 1"
+       sodipodi:type="inkscape:persp3d" />
   </defs>
   <sodipodi:namedview
      id="base"
@@ -2711,9 +2718,9 @@
      borderopacity="1.0"
      inkscape:pageopacity="0"
      inkscape:pageshadow="2"
-     inkscape:zoom="0.5"
-     inkscape:cx="-478.50073"
-     inkscape:cy="-279.82355"
+     inkscape:zoom="5.6568542"
+     inkscape:cx="-440.50724"
+     inkscape:cy="-215.38846"
      inkscape:document-units="px"
      inkscape:current-layer="layer6"
      showgrid="false"
@@ -16164,7 +16171,7 @@
          transform="scale(-1,1)" />
       <path
          style="color:#000000;fill:none;stroke:#bebebe;stroke-width:2;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none;stroke-dashoffset:0;marker:none;visibility:visible;display:inline;overflow:visible;enable-background:accumulate"
-         d="M -439.20621,311.0141 -438,311 l 0,18 -18,0 0.0523,-17.89359 1.10953,0.009"
+         d="M -439.20621,311.0141 -438,311 l 0,19.0625 -18,0 0.0523,-18.95609 1.10953,0.009"
          id="path15573"
          sodipodi:nodetypes="cccccc" />
       <path
@@ -16172,6 +16179,14 @@
          id="path15577"
          d="m -450.00001,308 6.00001,0 0,3 2,1.67205 0,1.32795 -9.9346,0 0,-1.35621 L -450,311 l -10e-6,-3 z"
          style="color:#000000;fill:none;stroke:#bebebe;stroke-width:2;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none;stroke-dashoffset:0;marker:none;visibility:visible;display:inline;overflow:visible;enable-background:accumulate" />
+      <path
+         style="fill:none;stroke:#bebebe;stroke-width:1px;stroke-linecap:round;stroke-linejoin:miter;stroke-opacity:1"
+         d="m -452.44389,316.53499 0,10.03207 7.91076,0 3.09359,-3.09359 0,-6.98268"
+         id="path9138" />
+      <path
+         style="fill:#bebebe;fill-opacity:1;stroke:none"
+         d="m -444.97507,326.56706 0,-3.62392 3.71231,0 -3.71231,3.62392 z"
+         id="path9140" />
     </g>
     <g
        id="g6399"
