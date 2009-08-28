@@ -2726,6 +2726,27 @@
        inkscape:vp_y="0 : 1000 : 0"
        inkscape:vp_x="0 : 0.5 : 1"
        sodipodi:type="inkscape:persp3d" />
+    <inkscape:perspective
+       id="perspective9191-0"
+       inkscape:persp3d-origin="0.5 : 0.33333333 : 1"
+       inkscape:vp_z="1 : 0.5 : 1"
+       inkscape:vp_y="0 : 1000 : 0"
+       inkscape:vp_x="0 : 0.5 : 1"
+       sodipodi:type="inkscape:persp3d" />
+    <inkscape:perspective
+       id="perspective9191-3"
+       inkscape:persp3d-origin="0.5 : 0.33333333 : 1"
+       inkscape:vp_z="1 : 0.5 : 1"
+       inkscape:vp_y="0 : 1000 : 0"
+       inkscape:vp_x="0 : 0.5 : 1"
+       sodipodi:type="inkscape:persp3d" />
+    <inkscape:perspective
+       id="perspective9248"
+       inkscape:persp3d-origin="0.5 : 0.33333333 : 1"
+       inkscape:vp_z="1 : 0.5 : 1"
+       inkscape:vp_y="0 : 1000 : 0"
+       inkscape:vp_x="0 : 0.5 : 1"
+       sodipodi:type="inkscape:persp3d" />
   </defs>
   <sodipodi:namedview
      id="base"
@@ -2735,8 +2756,8 @@
      inkscape:pageopacity="0"
      inkscape:pageshadow="2"
      inkscape:zoom="1"
-     inkscape:cx="-565.79876"
-     inkscape:cy="-345.19002"
+     inkscape:cx="-348.42786"
+     inkscape:cy="-153.06365"
      inkscape:document-units="px"
      inkscape:current-layer="layer6"
      showgrid="false"
@@ -14433,76 +14454,24 @@ Claire Alexander</dc:title>
          id="rect8938"
          style="opacity:0;fill:#ffffff;fill-opacity:1;stroke:none;display:inline"
          transform="scale(-1,1)" />
-      <rect
-         style="fill:#bebebe;fill-opacity:1;stroke:none;display:inline"
-         id="rect10398"
-         width="8"
-         height="2.0000105"
-         x="252"
-         y="356"
-         rx="1.0000052"
-         ry="1.0000052"
-         transform="matrix(0,1,-1,0,0,0)"
-         inkscape:export-filename="/home/hbons/Intel/phone-icons/home.png"
-         inkscape:export-xdpi="90"
-         inkscape:export-ydpi="90" />
-      <rect
-         inkscape:export-ydpi="90"
-         inkscape:export-xdpi="90"
-         inkscape:export-filename="/home/hbons/Intel/phone-icons/home.png"
-         transform="matrix(0,1,-1,0,0,0)"
-         ry="1.0000052"
-         rx="1.0000052"
-         y="344"
-         x="252"
-         height="2.0000105"
-         width="8.0000029"
-         id="rect10415"
-         style="fill:#bebebe;fill-opacity:1;stroke:none;display:inline" />
-      <rect
-         inkscape:export-ydpi="90"
-         inkscape:export-xdpi="90"
-         inkscape:export-filename="/home/hbons/Intel/phone-icons/home.png"
-         transform="scale(-1,-1)"
-         ry="1.0000052"
-         rx="1.0000052"
-         y="-260"
-         x="352"
-         height="2.0000105"
-         width="6"
-         id="rect10418"
-         style="fill:#bebebe;fill-opacity:1;stroke:none;display:inline" />
-      <rect
-         style="fill:#bebebe;fill-opacity:1;stroke:none;display:inline"
-         id="rect10421"
-         width="6"
-         height="2.0000105"
-         x="344"
-         y="-260"
-         rx="1.0000052"
-         ry="1.0000052"
-         transform="scale(-1,-1)"
-         inkscape:export-filename="/home/hbons/Intel/phone-icons/home.png"
-         inkscape:export-xdpi="90"
-         inkscape:export-ydpi="90" />
-      <rect
-         inkscape:export-ydpi="90"
-         inkscape:export-xdpi="90"
-         inkscape:export-filename="/home/hbons/Intel/phone-icons/home.png"
-         transform="matrix(0,1,-1,0,0,0)"
-         ry="1"
-         rx="1"
-         y="350"
-         x="253"
-         height="2"
-         width="5.9999967"
-         id="rect10423"
-         style="fill:#bebebe;fill-opacity:1;stroke:none;display:inline" />
       <path
-         sodipodi:nodetypes="cscccsccc"
-         id="rect10441"
-         d="m -361.71875,252.28497 c -0.39173,0.39173 -0.39172,1.01453 0,1.40625 0.39174,0.39174 1.04578,0.39176 1.4375,0 l 9.28125,-9.28125 9.28125,9.28125 c 0.39172,0.39177 1.04576,0.39173 1.4375,0 0.39172,-0.39171 0.39173,-1.01451 0,-1.40625 0,0 -10.71875,-10.6875 -10.71875,-10.6875 l -10.71875,10.6875 z"
-         style="fill:#bebebe;fill-opacity:1;stroke:none;display:inline" />
+         style="color:#000000;fill:#000000;fill-opacity:0;fill-rule:nonzero;stroke:#bebebe;stroke-width:2;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none;stroke-dashoffset:0;marker:none;visibility:visible;display:inline;overflow:visible;enable-background:accumulate"
+         d="m -360.85608,252.9375 9.9375,-9.9375 10,10.0625"
+         id="path9220" />
+      <path
+         style="color:#000000;fill:#000000;fill-opacity:0;fill-rule:nonzero;stroke:#bebebe;stroke-width:2;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none;stroke-dashoffset:0;marker:none;visibility:visible;display:inline;overflow:visible;enable-background:accumulate"
+         d="m -356.91858,253.0625 0,6.97227 12,0 0.0625,-7.09727"
+         id="path9222"
+         sodipodi:nodetypes="cccc" />
+      <rect
+         style="color:#000000;fill:#000000;fill-opacity:0;fill-rule:nonzero;stroke:#bebebe;stroke-width:1;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none;stroke-dashoffset:0;marker:none;visibility:visible;display:inline;overflow:visible;enable-background:accumulate"
+         id="rect9265"
+         width="3"
+         height="3"
+         x="-352.41858"
+         y="251.5"
+         rx="0"
+         ry="0" />
     </g>
     <g
        id="g15433"
@@ -16791,14 +16760,14 @@ Claire Alexander</dc:title>
       <path
          sodipodi:nodetypes="cccccc"
          id="path9173"
-         d="m -485.91858,381.02957 0.0625,-9.02957 16.9375,0 0,20.0625 -16.9375,0 0,-4.0625"
+         d="m -485.91858,381.02957 0.0625,-9.02957 15.9375,0 0,20.0625 -15.9375,0 0,-4.0625"
          style="color:#000000;fill:#000000;fill-opacity:0;stroke:#bebebe;stroke-width:2;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none;stroke-dashoffset:0;marker:none;visibility:visible;display:inline;overflow:visible;enable-background:accumulate" />
       <g
          id="g9175"
          transform="translate(-17.000077,9.9998283)" />
       <path
          style="fill:#000000;stroke:#bebebe;stroke-width:1;stroke-linecap:round;stroke-linejoin:round;stroke-opacity:1;color:#000000;fill-opacity:0;fill-rule:nonzero;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;marker:none;visibility:visible;display:inline;overflow:visible;enable-background:accumulate"
-         d="m -568.45841,437.46967 0,15.53033 5.94455,3.53033"
+         d="m -567.48614,437.46967 0,15.53033 4.97228,3.53033"
          id="path9181"
          transform="translate(93.081421,-65)"
          sodipodi:nodetypes="ccc" />
@@ -16825,6 +16794,16 @@ Claire Alexander</dc:title>
          sodipodi:cy="449"
          sodipodi:cx="-576"
          id="path9216"
+         style="color:#000000;fill:#bebebe;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:2;marker:none;visibility:visible;display:inline;overflow:visible;enable-background:accumulate"
+         sodipodi:type="arc" />
+      <path
+         transform="translate(103.08142,-71)"
+         d="m -575,449 a 1,1 0 1 1 -2,0 1,1 0 1 1 2,0 z"
+         sodipodi:ry="1"
+         sodipodi:rx="1"
+         sodipodi:cy="449"
+         sodipodi:cx="-576"
+         id="path9218"
          style="color:#000000;fill:#bebebe;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:2;marker:none;visibility:visible;display:inline;overflow:visible;enable-background:accumulate"
          sodipodi:type="arc" />
     </g>
