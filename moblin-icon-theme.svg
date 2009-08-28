@@ -3028,6 +3028,20 @@
        inkscape:vp_y="0 : 1000 : 0"
        inkscape:vp_x="0 : 0.5 : 1"
        sodipodi:type="inkscape:persp3d" />
+    <inkscape:perspective
+       id="perspective6204"
+       inkscape:persp3d-origin="0.5 : 0.33333333 : 1"
+       inkscape:vp_z="1 : 0.5 : 1"
+       inkscape:vp_y="0 : 1000 : 0"
+       inkscape:vp_x="0 : 0.5 : 1"
+       sodipodi:type="inkscape:persp3d" />
+    <inkscape:perspective
+       id="perspective6240"
+       inkscape:persp3d-origin="0.5 : 0.33333333 : 1"
+       inkscape:vp_z="1 : 0.5 : 1"
+       inkscape:vp_y="0 : 1000 : 0"
+       inkscape:vp_x="0 : 0.5 : 1"
+       sodipodi:type="inkscape:persp3d" />
   </defs>
   <sodipodi:namedview
      id="base"
@@ -3037,10 +3051,10 @@
      inkscape:pageopacity="0"
      inkscape:pageshadow="2"
      inkscape:zoom="1"
-     inkscape:cx="-278.12516"
-     inkscape:cy="-285.78833"
+     inkscape:cx="60.048701"
+     inkscape:cy="-577.21828"
      inkscape:document-units="px"
-     inkscape:current-layer="layer6"
+     inkscape:current-layer="layer11"
      showgrid="false"
      showborder="false"
      inkscape:window-width="1596"
@@ -3051,7 +3065,7 @@
      inkscape:showpageshadow="false"
      showguides="true"
      inkscape:guide-bbox="true"
-     inkscape:snap-nodes="false"
+     inkscape:snap-nodes="true"
      inkscape:snap-bbox="true">
     <inkscape:grid
        type="xygrid"
@@ -6122,63 +6136,66 @@ Claire Alexander</dc:title>
          width="24"
          id="rect7486"
          style="opacity:0;fill:#ffffff;fill-opacity:1;stroke:none;display:inline" />
-      <path
-         transform="matrix(0.1087857,0,0,-0.1087856,1017.3077,207.03969)"
-         d="m -2.8284264,179.43886 c 0,12.69204 -10.2889306,22.98097 -22.9809706,22.98097 -12.692039,0 -22.98097,-10.28893 -22.98097,-22.98097 0,-12.69204 10.288931,-22.98097 22.98097,-22.98097 12.69204,0 22.9809706,10.28893 22.9809706,22.98097 z"
-         sodipodi:ry="22.98097"
-         sodipodi:rx="22.98097"
-         sodipodi:cy="179.43886"
-         sodipodi:cx="-25.809397"
-         id="path6532-9"
-         style="fill:none;stroke:#bebebe;stroke-width:18.38477516;stroke-linecap:round;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none;stroke-dashoffset:0;display:inline"
-         sodipodi:type="arc" />
-      <path
-         sodipodi:type="arc"
-         style="fill:none;stroke:#bebebe;stroke-width:18.38476562;stroke-linecap:round;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none;stroke-dashoffset:0;display:inline"
-         id="path3624-98-1"
-         sodipodi:cx="-25.809397"
-         sodipodi:cy="179.43886"
-         sodipodi:rx="22.98097"
-         sodipodi:ry="22.98097"
-         d="m -2.8284264,179.43886 c 0,12.69204 -10.2889306,22.98097 -22.9809706,22.98097 -12.692039,0 -22.98097,-10.28893 -22.98097,-22.98097 0,-12.69204 10.288931,-22.98097 22.98097,-22.98097 12.69204,0 22.9809706,10.28893 22.9809706,22.98097 z"
-         transform="matrix(0.1087858,0,0,-0.1087857,1009.3077,207.03969)" />
-      <rect
-         inkscape:transform-center-y="-678.09003"
-         inkscape:transform-center-x="-108"
-         transform="matrix(0,-1,1,0,0,0)"
-         ry="0.98780483"
-         rx="0.98780483"
-         y="1011"
-         x="-188.01932"
-         height="2"
-         width="6"
-         id="rect3626-5-13-3"
-         style="fill:#bebebe;fill-opacity:1;stroke:none;display:inline" />
-      <rect
-         style="fill:#bebebe;fill-opacity:1;stroke:none;display:inline"
-         id="rect3694-4-2"
-         width="4.5056"
-         height="2"
-         x="-191.01932"
-         y="1007.9999"
-         rx="0.98780489"
-         ry="0.98780483"
-         transform="matrix(0,-1,1,0,0,0)"
-         inkscape:transform-center-x="-104.99994"
-         inkscape:transform-center-y="-674.34283" />
-      <path
-         sodipodi:open="true"
-         sodipodi:end="6.0905091"
-         sodipodi:start="1.5707963"
-         sodipodi:type="arc"
-         style="fill:none;stroke:#bebebe;stroke-width:18.38477516;stroke-linecap:round;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none;stroke-dashoffset:0;display:inline"
-         id="path7519"
-         sodipodi:cx="-25.809397"
-         sodipodi:cy="179.43886"
-         sodipodi:rx="22.98097"
-         sodipodi:ry="22.98097"
-         d="m -25.809396,202.41983 c -12.69204,0 -22.980971,-10.28893 -22.980971,-22.98097 0,-12.69204 10.28893,-22.98097 22.98097,-22.98097 10.995382,0 20.4502499,7.78851 22.5557145,18.58043"
-         transform="matrix(0.1087857,0,0,-0.1087856,1025.3077,207.03968)" />
+      <g
+         id="g6187">
+        <path
+           sodipodi:type="arc"
+           style="fill:none;stroke:#bebebe;stroke-width:18.38477516;stroke-linecap:round;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none;stroke-dashoffset:0;display:inline"
+           id="path6532-9"
+           sodipodi:cx="-25.809397"
+           sodipodi:cy="179.43886"
+           sodipodi:rx="22.98097"
+           sodipodi:ry="22.98097"
+           d="m -2.8284264,179.43886 c 0,12.69204 -10.2889306,22.98097 -22.9809706,22.98097 -12.692039,0 -22.98097,-10.28893 -22.98097,-22.98097 0,-12.69204 10.288931,-22.98097 22.98097,-22.98097 12.69204,0 22.9809706,10.28893 22.9809706,22.98097 z"
+           transform="matrix(0.1087857,0,0,-0.1087856,1017.3077,207.03969)" />
+        <path
+           transform="matrix(0.1087858,0,0,-0.1087857,1009.3077,207.03969)"
+           d="m -2.8284264,179.43886 c 0,12.69204 -10.2889306,22.98097 -22.9809706,22.98097 -12.692039,0 -22.98097,-10.28893 -22.98097,-22.98097 0,-12.69204 10.288931,-22.98097 22.98097,-22.98097 12.69204,0 22.9809706,10.28893 22.9809706,22.98097 z"
+           sodipodi:ry="22.98097"
+           sodipodi:rx="22.98097"
+           sodipodi:cy="179.43886"
+           sodipodi:cx="-25.809397"
+           id="path3624-98-1"
+           style="fill:none;stroke:#bebebe;stroke-width:18.38476562;stroke-linecap:round;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none;stroke-dashoffset:0;display:inline"
+           sodipodi:type="arc" />
+        <rect
+           style="fill:#bebebe;fill-opacity:1;stroke:none;display:inline"
+           id="rect3626-5-13-3"
+           width="6"
+           height="2"
+           x="-188.01932"
+           y="1011"
+           rx="0.98780483"
+           ry="0.98780483"
+           transform="matrix(0,-1,1,0,0,0)"
+           inkscape:transform-center-x="-108"
+           inkscape:transform-center-y="-678.09003" />
+        <rect
+           inkscape:transform-center-y="-674.34283"
+           inkscape:transform-center-x="-104.99994"
+           transform="matrix(0,-1,1,0,0,0)"
+           ry="0.98780483"
+           rx="0.98780489"
+           y="1007.9999"
+           x="-191.01932"
+           height="2"
+           width="4.5056"
+           id="rect3694-4-2"
+           style="fill:#bebebe;fill-opacity:1;stroke:none;display:inline" />
+        <path
+           transform="matrix(0.1087857,0,0,-0.1087856,1025.3077,207.03968)"
+           d="m -25.809396,202.41983 c -12.69204,0 -22.980971,-10.28893 -22.980971,-22.98097 0,-12.69204 10.28893,-22.98097 22.98097,-22.98097 10.995382,0 20.4502499,7.78851 22.5557145,18.58043"
+           sodipodi:ry="22.98097"
+           sodipodi:rx="22.98097"
+           sodipodi:cy="179.43886"
+           sodipodi:cx="-25.809397"
+           id="path7519"
+           style="fill:none;stroke:#bebebe;stroke-width:18.38477516;stroke-linecap:round;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none;stroke-dashoffset:0;display:inline"
+           sodipodi:type="arc"
+           sodipodi:start="1.5707963"
+           sodipodi:end="6.0905091"
+           sodipodi:open="true" />
+      </g>
     </g>
     <g
        id="g10006"
@@ -10458,6 +10475,48 @@ Claire Alexander</dc:title>
          xlink:href="#g10152"
          y="0"
          x="0" />
+    </g>
+    <g
+       transform="translate(-1132.9738,461.00629)"
+       inkscape:label="banshee"
+       id="g6258">
+      <rect
+         y="200.99364"
+         x="-1208.9738"
+         height="24"
+         width="24"
+         id="rect6260"
+         style="opacity:0;fill:#ffffff;fill-opacity:1;stroke:none;display:inline"
+         transform="scale(-1,1)" />
+      <path
+         sodipodi:type="arc"
+         style="color:#000000;fill:none;stroke:#bebebe;stroke-width:2;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none;stroke-dashoffset:0;marker:none;visibility:visible;display:inline;overflow:visible;enable-background:accumulate"
+         id="path6270"
+         sodipodi:cx="65"
+         sodipodi:cy="677"
+         sodipodi:rx="7"
+         sodipodi:ry="7"
+         d="m 65,670 a 7,7 0 1 1 -6.064487,3.504"
+         transform="translate(1131.9738,-461.00629)"
+         sodipodi:start="4.712389"
+         sodipodi:end="9.9477167"
+         sodipodi:open="true" />
+      <path
+         transform="matrix(0.42857756,0,0,0.42857756,1169.1162,-74.153299)"
+         d="m 72,677 a 7,7 0 1 1 -14,0 7,7 0 1 1 14,0 z"
+         sodipodi:ry="7"
+         sodipodi:rx="7"
+         sodipodi:cy="677"
+         sodipodi:cx="65"
+         id="path6272"
+         style="color:#000000;fill:none;stroke:#bebebe;stroke-width:4.66659975;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none;stroke-dashoffset:0;marker:none;visibility:visible;display:inline;overflow:visible;enable-background:accumulate"
+         sodipodi:type="arc" />
+      <path
+         style="color:#000000;fill:none;stroke:#bebebe;stroke-width:2;marker:none;visibility:visible;display:inline;overflow:visible;enable-background:accumulate;stroke-opacity:1;stroke-linecap:round;stroke-linejoin:round"
+         d="m 61,677 0,-14 -4,4"
+         id="path6274"
+         transform="translate(1132.9738,-461.00629)"
+         sodipodi:nodetypes="ccc" />
     </g>
   </g>
   <g
@@ -16663,16 +16722,16 @@ Claire Alexander</dc:title>
          y="273" />
       <path
          sodipodi:type="arc"
-         style="color:#000000;fill:#ffffff;fill-opacity:1;fill-rule:nonzero;stroke:#bebebe;stroke-width:2;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none;stroke-dashoffset:0;marker:none;visibility:visible;display:inline;overflow:visible;enable-background:accumulate"
+         style="color:#000000;fill:#ffffff;fill-opacity:1;fill-rule:nonzero;stroke:#bebebe;stroke-width:3.17582417;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none;stroke-dashoffset:0;marker:none;visibility:visible;display:inline;overflow:visible;enable-background:accumulate"
          id="path6371"
          sodipodi:cx="-321.96875"
          sodipodi:cy="284.03125"
          sodipodi:rx="9.03125"
          sodipodi:ry="9.03125"
-         d="m -312.9375,284.03125 c 0,4.98782 -4.04343,9.03125 -9.03125,9.03125 -4.98782,0 -9.03125,-4.04343 -9.03125,-9.03125 0,-4.98782 4.04343,-9.03125 9.03125,-9.03125 4.98782,0 9.03125,4.04343 9.03125,9.03125 z"
-         transform="translate(-28.967468,1)" />
+         d="m -312.9375,284.03125 a 9.03125,9.03125 0 1 1 -18.0625,0 9.03125,9.03125 0 1 1 18.0625,0 z"
+         transform="matrix(0.94463668,0,0,0.94463668,-46.792728,16.724913)" />
       <path
-         style="color:#000000;fill:#ffffff;fill-opacity:1;fill-rule:nonzero;stroke:#bebebe;stroke-width:2;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none;stroke-dashoffset:0;marker:none;visibility:visible;display:inline;overflow:visible;enable-background:accumulate"
+         style="color:#000000;fill:#ffffff;fill-opacity:1;fill-rule:nonzero;stroke:#bebebe;stroke-width:3;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none;stroke-dashoffset:0;marker:none;visibility:visible;display:inline;overflow:visible;enable-background:accumulate"
          d="m -356.96747,291 12,-12"
          id="path6373"
          sodipodi:nodetypes="cc" />
@@ -17357,5 +17416,39 @@ Claire Alexander</dc:title>
        sodipodi:ry="2"
        d="m 1510.75,202.75 a 2,2 0 1 1 -4,0 2,2 0 1 1 4,0 z"
        transform="translate(-1832.75,259.25)" />
+    <g
+       transform="translate(-125.08142,97)"
+       inkscape:label="check-spelling"
+       id="g6209">
+      <rect
+         y="371"
+         x="-490.91858"
+         height="24"
+         width="24"
+         id="rect6211"
+         style="opacity:0;fill:#ffffff;fill-opacity:1;stroke:none;display:inline" />
+      <use
+         transform="translate(-1493.8723,191.98068)"
+         x="0"
+         y="0"
+         xlink:href="#g6187"
+         id="use6194"
+         width="1"
+         height="1" />
+      <path
+         style="color:#000000;fill:none;stroke:#bebebe;stroke-width:1;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none;marker:none;visibility:visible;display:inline;overflow:visible;enable-background:accumulate"
+         d="m -489.9689,388.0751 2.07713,-2.07713 1.97319,2.00203 2,-2 2,2 2,-2 2,2 2,-2 2,2 2,-2 2,2 2,-2"
+         id="path6230" />
+    </g>
+    <path
+       sodipodi:type="arc"
+       style="color:#000000;fill:#cc0000;stroke:none;stroke-width:1;marker:none;visibility:visible;display:inline;overflow:visible;enable-background:accumulate"
+       id="path4629-6-1"
+       sodipodi:cx="1508.75"
+       sodipodi:cy="202.75"
+       sodipodi:rx="2"
+       sodipodi:ry="2"
+       d="m 1510.75,202.75 a 2,2 0 1 1 -4,0 2,2 0 1 1 4,0 z"
+       transform="translate(-2112.75,291.25)" />
   </g>
 </svg>
