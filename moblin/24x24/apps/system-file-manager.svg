@@ -29,13 +29,7 @@
      id="layer1" />
   <g
      transform="translate(206,-174)"
-     id="layer4" />
-  <g
-     transform="translate(206,-174)"
-     id="layer9" />
-  <g
-     transform="translate(206,-174)"
-     id="layer6">
+     id="layer4">
     <rect
        width="24"
        height="24"
@@ -65,4 +59,10 @@
        id="path10544"
        style="fill:#bebebe;fill-opacity:1;stroke:none;stroke-width:1;stroke-linecap:round;stroke-linejoin:miter;marker:none;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;visibility:visible;display:inline;overflow:visible;enable-background:accumulate" />
   </g>
+  <g
+     transform="translate(206,-174)"
+     id="layer9" />
+  <g
+     transform="translate(206,-174)"
+     id="layer6" />
 </svg>
