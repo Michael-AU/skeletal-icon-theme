@@ -7,51 +7,48 @@
    width="24"
    height="24"
    id="svg7384">
+  <title
+     id="title9167">Moblin Icon Theme</title>
   <defs
      id="defs7386" />
   <g
-     transform="translate(394.91858,-371)"
+     transform="translate(396,-370)"
      id="layer3" />
   <g
-     transform="translate(394.91858,-371)"
+     transform="translate(396,-370)"
      id="layer5" />
   <g
-     transform="translate(394.91858,-371)"
+     transform="translate(396,-370)"
      id="layer7" />
   <g
-     transform="translate(394.91858,-371)"
+     transform="translate(396,-370)"
      id="layer2" />
   <g
-     transform="translate(394.91858,-371)"
+     transform="translate(396,-370)"
      id="layer8" />
   <g
-     transform="translate(394.91858,-1323.3622)"
+     transform="translate(396,-1322.3622)"
      id="layer1" />
   <g
-     transform="translate(394.91858,-371)"
+     transform="translate(396,-370)"
      id="layer4" />
   <g
-     transform="translate(394.91858,-371)"
+     transform="translate(396,-370)"
      id="layer9" />
   <g
-     transform="translate(394.91858,-371)"
+     transform="translate(396,-370)"
      id="layer6">
     <rect
        width="24"
        height="24"
-       x="370.91858"
-       y="371"
+       x="372"
+       y="370"
        transform="scale(-1,1)"
        id="rect5753"
        style="opacity:0;fill:#ffffff;fill-opacity:1;stroke:none;display:inline" />
-    <rect
-       width="12"
-       height="1.9864137"
-       rx="0.99320686"
-       ry="0.99320686"
-       x="-388.91858"
-       y="382"
-       id="rect14909"
-       style="fill:#bebebe;fill-opacity:1;stroke:none;display:inline" />
+    <path
+       d="M -391.09375,380 C -391.64603,380.02589 -392.07276,380.49459 -392.04687,381.04687 C -392.02099,381.59916 -391.55228,382.02589 -391,382 L -378.96875,382 C -378.60811,382.0051 -378.27267,381.81562 -378.09086,381.50413 C -377.90906,381.19263 -377.90906,380.80737 -378.09086,380.49587 C -378.27267,380.18438 -378.60811,379.9949 -378.96875,380 L -391,380 C -391.03123,379.99853 -391.06252,379.99853 -391.09375,380 z"
+       id="path9416-2"
+       style="fill:#bebebe;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:2;stroke-linecap:round;stroke-linejoin:round;marker:none;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;visibility:visible;display:inline;overflow:visible;enable-background:accumulate" />
   </g>
 </svg>

@@ -7,61 +7,52 @@
    width="24"
    height="24"
    id="svg7384">
+  <title
+     id="title9167">Moblin Icon Theme</title>
   <defs
      id="defs7386" />
   <g
-     transform="translate(426.91858,-371)"
+     transform="translate(428,-370)"
      id="layer3" />
   <g
-     transform="translate(426.91858,-371)"
+     transform="translate(428,-370)"
      id="layer5" />
   <g
-     transform="translate(426.91858,-371)"
+     transform="translate(428,-370)"
      id="layer7" />
   <g
-     transform="translate(426.91858,-371)"
+     transform="translate(428,-370)"
      id="layer2" />
   <g
-     transform="translate(426.91858,-371)"
+     transform="translate(428,-370)"
      id="layer8" />
   <g
-     transform="translate(426.91858,-1323.3622)"
+     transform="translate(428,-1322.3622)"
      id="layer1" />
   <g
-     transform="translate(426.91858,-371)"
+     transform="translate(428,-370)"
      id="layer4" />
   <g
-     transform="translate(426.91858,-371)"
+     transform="translate(428,-370)"
      id="layer9" />
   <g
-     transform="translate(426.91858,-371)"
+     transform="translate(428,-370)"
      id="layer6">
     <rect
        width="24"
        height="24"
-       x="402.91858"
-       y="371"
+       x="404"
+       y="370"
        transform="scale(-1,1)"
        id="rect5743"
        style="opacity:0;fill:#ffffff;fill-opacity:1;stroke:none;display:inline" />
-    <rect
-       width="12"
-       height="1.9864137"
-       rx="0.99320686"
-       ry="0.99320686"
-       x="-421"
-       y="382.01361"
-       id="rect14948"
-       style="fill:#bebebe;fill-opacity:1;stroke:none;display:inline" />
-    <rect
-       width="11.98645"
-       height="1.9864137"
-       rx="0.99320686"
-       ry="0.99320686"
-       x="-388.98645"
-       y="-415.9118"
-       transform="matrix(0,-1,1,0,0,0)"
-       id="rect14950"
-       style="fill:#bebebe;fill-opacity:1;stroke:none;display:inline" />
+    <path
+       d="M -417,373.9375 C -417.27071,373.9374 -417.5299,374.04704 -417.71836,374.24138 C -417.90681,374.43573 -418.00843,374.69817 -418,374.96875 L -418,387 C -418.0051,387.36064 -417.81562,387.69608 -417.50413,387.87789 C -417.19263,388.05969 -416.80737,388.05969 -416.49587,387.87789 C -416.18438,387.69608 -415.9949,387.36064 -416,387 L -416,374.96875 C -415.99157,374.69817 -416.09319,374.43573 -416.28164,374.24138 C -416.4701,374.04704 -416.72929,373.9374 -417,373.9375 L -417,373.9375 z"
+       id="path9414"
+       style="fill:#bebebe;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:2;stroke-linecap:round;stroke-linejoin:round;marker:none;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;visibility:visible;display:inline;overflow:visible;enable-background:accumulate" />
+    <path
+       d="M -423.09375,380 C -423.64603,380.02589 -424.07276,380.49459 -424.04687,381.04687 C -424.02099,381.59916 -423.55228,382.02589 -423,382 L -410.96875,382 C -410.60811,382.0051 -410.27267,381.81562 -410.09086,381.50413 C -409.90906,381.19263 -409.90906,380.80737 -410.09086,380.49587 C -410.27267,380.18438 -410.60811,379.9949 -410.96875,380 L -423,380 C -423.03123,379.99853 -423.06252,379.99853 -423.09375,380 z"
+       id="path9416"
+       style="fill:#bebebe;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:2;stroke-linecap:round;stroke-linejoin:round;marker:none;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;visibility:visible;display:inline;overflow:visible;enable-background:accumulate" />
   </g>
 </svg>

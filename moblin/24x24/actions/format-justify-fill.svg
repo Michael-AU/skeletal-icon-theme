@@ -7,40 +7,42 @@
    width="24"
    height="24"
    id="svg7384">
+  <title
+     id="title9167">Moblin Icon Theme</title>
   <defs
      id="defs7386" />
   <g
-     transform="translate(426.91858,-339)"
+     transform="translate(426.91858,-338)"
      id="layer3" />
   <g
-     transform="translate(426.91858,-339)"
+     transform="translate(426.91858,-338)"
      id="layer5" />
   <g
-     transform="translate(426.91858,-339)"
+     transform="translate(426.91858,-338)"
      id="layer7" />
   <g
-     transform="translate(426.91858,-339)"
+     transform="translate(426.91858,-338)"
      id="layer2" />
   <g
-     transform="translate(426.91858,-339)"
+     transform="translate(426.91858,-338)"
      id="layer8" />
   <g
-     transform="translate(426.91858,-1291.3622)"
+     transform="translate(426.91858,-1290.3622)"
      id="layer1" />
   <g
-     transform="translate(426.91858,-339)"
+     transform="translate(426.91858,-338)"
      id="layer4" />
   <g
-     transform="translate(426.91858,-339)"
+     transform="translate(426.91858,-338)"
      id="layer9" />
   <g
-     transform="translate(426.91858,-339)"
+     transform="translate(426.91858,-338)"
      id="layer6">
     <rect
        width="24"
        height="24"
        x="402.91858"
-       y="339"
+       y="338"
        transform="scale(-1,1)"
        id="rect7346"
        style="opacity:0;fill:#ffffff;fill-opacity:1;stroke:none;display:inline" />
@@ -49,7 +51,7 @@
        height="14.999987"
        rx="1.0012755"
        ry="1.0012755"
-       x="-346.00256"
+       x="-345.00256"
        y="406.91858"
        transform="matrix(0,-1,-1,0,0,0)"
        id="rect7350"
@@ -59,7 +61,7 @@
        height="15"
        rx="1"
        ry="1"
-       x="-350.00256"
+       x="-349.00256"
        y="406.91858"
        transform="matrix(0,-1,-1,0,0,0)"
        id="rect7352"
@@ -69,7 +71,7 @@
        height="15"
        rx="1.0000002"
        ry="1.0000002"
-       x="-354.00256"
+       x="-353.00256"
        y="406.91858"
        transform="matrix(0,-1,-1,0,0,0)"
        id="rect7354"
@@ -79,7 +81,7 @@
        height="15"
        rx="1.0000005"
        ry="1.0000005"
-       x="-358.00256"
+       x="-357.00256"
        y="406.91858"
        transform="matrix(0,-1,-1,0,0,0)"
        id="rect7356"

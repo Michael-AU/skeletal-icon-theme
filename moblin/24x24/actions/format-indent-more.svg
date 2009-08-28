@@ -7,45 +7,47 @@
    width="24"
    height="24"
    id="svg7384">
+  <title
+     id="title9167">Moblin Icon Theme</title>
   <defs
      id="defs7386" />
   <g
-     transform="translate(394.91858,-339)"
+     transform="translate(394.91858,-338)"
      id="layer3" />
   <g
-     transform="translate(394.91858,-339)"
+     transform="translate(394.91858,-338)"
      id="layer5" />
   <g
-     transform="translate(394.91858,-339)"
+     transform="translate(394.91858,-338)"
      id="layer7" />
   <g
-     transform="translate(394.91858,-339)"
+     transform="translate(394.91858,-338)"
      id="layer2" />
   <g
-     transform="translate(394.91858,-339)"
+     transform="translate(394.91858,-338)"
      id="layer8" />
   <g
-     transform="translate(394.91858,-1291.3622)"
+     transform="translate(394.91858,-1290.3622)"
      id="layer1" />
   <g
-     transform="translate(394.91858,-339)"
+     transform="translate(394.91858,-338)"
      id="layer4" />
   <g
-     transform="translate(394.91858,-339)"
+     transform="translate(394.91858,-338)"
      id="layer9" />
   <g
-     transform="translate(394.91858,-339)"
+     transform="translate(394.91858,-338)"
      id="layer6">
     <rect
        width="24"
        height="24"
        x="370.91858"
-       y="339"
+       y="338"
        transform="scale(-1,1)"
        id="rect7366"
        style="opacity:0;fill:#ffffff;fill-opacity:1;stroke:none;display:inline" />
     <g
-       transform="translate(-393.91858,338.99996)"
+       transform="translate(-393.91858,337.99996)"
        id="layer1-83"
        style="fill:#bebebe;fill-opacity:1;display:inline">
       <rect
@@ -94,17 +96,17 @@
        height="5.533967"
        rx="1"
        ry="1"
-       x="-348"
+       x="-347"
        y="-392.91858"
        transform="matrix(0,-1,1,0,0,0)"
        id="rect2800-1-4"
        style="fill:#febf00;fill-opacity:1;stroke:none;display:inline" />
     <path
-       d="M -390.6235,344.29438 C -390.23176,343.90264 -389.60102,343.90264 -389.20928,344.29438 L -387.21239,346.29194 C -386.82065,346.68368 -386.82065,347.31442 -387.21239,347.70615 C -387.60413,348.09789 -388.23487,348.09789 -388.6266,347.70615 L -390.6235,345.70859 C -391.01524,345.31685 -391.01524,344.68611 -390.6235,344.29438 z"
+       d="M -390.6235,343.29438 C -390.23176,342.90264 -389.60102,342.90264 -389.20928,343.29438 L -387.21239,345.29194 C -386.82065,345.68368 -386.82065,346.31442 -387.21239,346.70615 C -387.60413,347.09789 -388.23487,347.09789 -388.6266,346.70615 L -390.6235,344.70859 C -391.01524,344.31685 -391.01524,343.68611 -390.6235,343.29438 z"
        id="rect7400"
        style="fill:#febf00;fill-opacity:1;stroke:none;display:inline" />
     <path
-       d="M -390.6235,349.70553 C -390.23176,350.09727 -389.60102,350.09727 -389.20928,349.70553 L -387.21239,347.70797 C -386.82065,347.31623 -386.82065,346.68549 -387.21239,346.29376 C -387.60413,345.90202 -388.23487,345.90202 -388.6266,346.29376 L -390.6235,348.29132 C -391.01524,348.68306 -391.01524,349.3138 -390.6235,349.70553 z"
+       d="M -390.6235,348.70553 C -390.23176,349.09727 -389.60102,349.09727 -389.20928,348.70553 L -387.21239,346.70797 C -386.82065,346.31623 -386.82065,345.68549 -387.21239,345.29376 C -387.60413,344.90202 -388.23487,344.90202 -388.6266,345.29376 L -390.6235,347.29132 C -391.01524,347.68306 -391.01524,348.3138 -390.6235,348.70553 z"
        id="path7403"
        style="fill:#febf00;fill-opacity:1;stroke:none;display:inline" />
   </g>
