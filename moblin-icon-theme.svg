@@ -2712,6 +2712,20 @@
        inkscape:vp_y="0 : 1000 : 0"
        inkscape:vp_x="0 : 0.5 : 1"
        sodipodi:type="inkscape:persp3d" />
+    <inkscape:perspective
+       id="perspective9191-6"
+       inkscape:persp3d-origin="0.5 : 0.33333333 : 1"
+       inkscape:vp_z="1 : 0.5 : 1"
+       inkscape:vp_y="0 : 1000 : 0"
+       inkscape:vp_x="0 : 0.5 : 1"
+       sodipodi:type="inkscape:persp3d" />
+    <inkscape:perspective
+       id="perspective9191-4"
+       inkscape:persp3d-origin="0.5 : 0.33333333 : 1"
+       inkscape:vp_z="1 : 0.5 : 1"
+       inkscape:vp_y="0 : 1000 : 0"
+       inkscape:vp_x="0 : 0.5 : 1"
+       sodipodi:type="inkscape:persp3d" />
   </defs>
   <sodipodi:namedview
      id="base"
@@ -2721,16 +2735,16 @@
      inkscape:pageopacity="0"
      inkscape:pageshadow="2"
      inkscape:zoom="1"
-     inkscape:cx="-487.4774"
-     inkscape:cy="-251.33153"
+     inkscape:cx="-565.79876"
+     inkscape:cy="-345.19002"
      inkscape:document-units="px"
      inkscape:current-layer="layer6"
      showgrid="false"
      showborder="false"
      inkscape:window-width="1155"
      inkscape:window-height="914"
-     inkscape:window-x="1951"
-     inkscape:window-y="94"
+     inkscape:window-x="2044"
+     inkscape:window-y="123"
      inkscape:window-maximized="0"
      inkscape:showpageshadow="false"
      showguides="true"
@@ -16762,6 +16776,57 @@ Claire Alexander</dc:title>
          d="m -481.41858,382.5 0,3 4.75,0 -4.75,-3 z"
          id="path9136"
          sodipodi:nodetypes="cccc" />
+    </g>
+    <g
+       transform="translate(-93.081421,65)"
+       inkscape:label="application-exit"
+       id="g9169">
+      <rect
+         y="371"
+         x="-490.91858"
+         height="24"
+         width="24"
+         id="rect9171"
+         style="opacity:0;fill:#ffffff;fill-opacity:1;stroke:none;display:inline" />
+      <path
+         sodipodi:nodetypes="cccccc"
+         id="path9173"
+         d="m -485.91858,381.02957 0.0625,-9.02957 16.9375,0 0,20.0625 -16.9375,0 0,-4.0625"
+         style="color:#000000;fill:#000000;fill-opacity:0;stroke:#bebebe;stroke-width:2;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none;stroke-dashoffset:0;marker:none;visibility:visible;display:inline;overflow:visible;enable-background:accumulate" />
+      <g
+         id="g9175"
+         transform="translate(-17.000077,9.9998283)" />
+      <path
+         style="fill:#000000;stroke:#bebebe;stroke-width:1;stroke-linecap:round;stroke-linejoin:round;stroke-opacity:1;color:#000000;fill-opacity:0;fill-rule:nonzero;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;marker:none;visibility:visible;display:inline;overflow:visible;enable-background:accumulate"
+         d="m -568.45841,437.46967 0,15.53033 5.94455,3.53033"
+         id="path9181"
+         transform="translate(93.081421,-65)"
+         sodipodi:nodetypes="ccc" />
+      <path
+         style="fill:#000000;stroke:#bebebe;stroke-width:2;stroke-linecap:round;stroke-linejoin:round;stroke-opacity:1;color:#000000;fill-opacity:0;fill-rule:nonzero;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;marker:none;visibility:visible;display:inline;overflow:visible;enable-background:accumulate"
+         d="m -575,445 4,4 -4,4"
+         id="path9204"
+         transform="translate(93.081421,-65)" />
+      <path
+         sodipodi:type="arc"
+         style="color:#000000;fill:#bebebe;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:2;marker:none;visibility:visible;display:inline;overflow:visible;enable-background:accumulate"
+         id="path9214"
+         sodipodi:cx="-576"
+         sodipodi:cy="449"
+         sodipodi:rx="1"
+         sodipodi:ry="1"
+         d="m -575,449 a 1,1 0 1 1 -2,0 1,1 0 1 1 2,0 z"
+         transform="translate(92.081421,-65)" />
+      <path
+         transform="translate(88.081421,-65)"
+         d="m -575,449 a 1,1 0 1 1 -2,0 1,1 0 1 1 2,0 z"
+         sodipodi:ry="1"
+         sodipodi:rx="1"
+         sodipodi:cy="449"
+         sodipodi:cx="-576"
+         id="path9216"
+         style="color:#000000;fill:#bebebe;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:2;marker:none;visibility:visible;display:inline;overflow:visible;enable-background:accumulate"
+         sodipodi:type="arc" />
     </g>
   </g>
 </svg>
