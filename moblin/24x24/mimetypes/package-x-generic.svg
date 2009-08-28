@@ -1,0 +1,61 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Created with Inkscape (http://www.inkscape.org/) -->
+<svg
+   xmlns:svg="http://www.w3.org/2000/svg"
+   xmlns="http://www.w3.org/2000/svg"
+   version="1.0"
+   width="24"
+   height="24.081818"
+   id="svg7384">
+  <defs
+     id="defs7386" />
+  <g
+     transform="translate(-828,-201.9375)"
+     id="layer3" />
+  <g
+     transform="translate(-828,-201.9375)"
+     id="layer5" />
+  <g
+     transform="translate(-828,-201.9375)"
+     id="layer7">
+    <rect
+       width="24"
+       height="24"
+       x="828"
+       y="202.01932"
+       id="rect10986"
+       style="opacity:0;fill:#ffffff;fill-opacity:1;stroke:none;display:inline" />
+    <path
+       d="M 841.9375,201.9375 C 841.83961,201.9546 841.74482,201.9862 841.65625,202.03125 C 841.65625,202.03125 831.6875,206.3125 831.6875,206.3125 C 831.66631,206.32219 831.64546,206.33261 831.625,206.34375 C 830.65886,206.84243 830,207.84804 830,209 L 830,223 C 829.99997,224.64471 831.3553,226 833,226 L 847,226 C 848.64469,226 850,224.6447 850,223 L 850,211.0625 C 849.99997,209.41781 848.6447,208.0625 847,208.0625 L 834.9375,208.0625 C 834.57686,208.0574 834.24142,208.24688 834.05961,208.55837 C 833.87781,208.86987 833.87781,209.25513 834.05961,209.56663 C 834.24142,209.87812 834.57686,210.0676 834.9375,210.0625 L 847,210.0625 C 847.5713,210.0625 847.99999,210.49119 848,211.0625 L 848,223 C 848,223.5713 847.57126,224 847,224 L 833,224 C 832.4287,224 831.99999,223.57129 832,223 L 832,209 C 832,208.59984 832.24279,208.29002 832.5625,208.125 C 832.6889,208.07066 842.46875,203.84375 842.46875,203.84375 C 842.92217,203.64242 843.15945,203.13912 843.02627,202.66122 C 842.89308,202.18333 842.42969,201.8753 841.9375,201.9375 L 841.9375,201.9375 z"
+       id="rect11006"
+       style="fill:#bebebe;fill-opacity:1;stroke:none;stroke-width:2;stroke-linecap:round;stroke-linejoin:round;marker:none;stroke-miterlimit:4;stroke-dashoffset:0;stroke-opacity:1;visibility:visible;display:inline;overflow:visible;enable-background:accumulate" />
+    <rect
+       width="2"
+       height="2.9999924"
+       rx="0"
+       ry="0"
+       x="-212"
+       y="839"
+       transform="matrix(0,-1,1,0,0,0)"
+       id="rect11050"
+       style="fill:#bebebe;fill-opacity:1;stroke:none;display:inline" />
+  </g>
+  <g
+     transform="translate(-828,-201.9375)"
+     id="layer2" />
+  <g
+     transform="translate(-828,-201.9375)"
+     id="layer8" />
+  <g
+     transform="translate(-828,-1154.2997)"
+     id="layer1" />
+  <g
+     transform="translate(-828,-201.9375)"
+     id="layer4" />
+  <g
+     transform="translate(-828,-201.9375)"
+     id="layer9" />
+  <g
+     transform="translate(-828,-201.9375)"
+     id="layer6" />
+</svg>
