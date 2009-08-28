@@ -2876,21 +2876,21 @@
      inkscape:pageopacity="0"
      inkscape:pageshadow="2"
      inkscape:zoom="1"
-     inkscape:cx="-319.21913"
-     inkscape:cy="-282.48582"
+     inkscape:cx="-410.44426"
+     inkscape:cy="-233.27555"
      inkscape:document-units="px"
      inkscape:current-layer="layer6"
      showgrid="false"
      showborder="false"
      inkscape:window-width="1155"
      inkscape:window-height="914"
-     inkscape:window-x="2227"
-     inkscape:window-y="157"
+     inkscape:window-x="2283"
+     inkscape:window-y="188"
      inkscape:window-maximized="0"
      inkscape:showpageshadow="false"
      showguides="true"
      inkscape:guide-bbox="true"
-     inkscape:snap-nodes="false"
+     inkscape:snap-nodes="true"
      inkscape:snap-bbox="true">
     <inkscape:grid
        type="xygrid"
@@ -14356,7 +14356,7 @@ Claire Alexander</dc:title>
          id="path9220" />
       <path
          style="color:#000000;fill:#000000;fill-opacity:0;fill-rule:nonzero;stroke:#bebebe;stroke-width:2;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none;stroke-dashoffset:0;marker:none;visibility:visible;display:inline;overflow:visible;enable-background:accumulate"
-         d="m -356.91858,253.0625 0,6.97227 12,0 0.0625,-7.09727"
+         d="m -357.91858,254.125 0,5.90977 13.9375,0 0.0625,-6.03477"
          id="path9222"
          sodipodi:nodetypes="cccc" />
       <rect
