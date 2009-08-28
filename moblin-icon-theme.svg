@@ -2826,16 +2826,16 @@
      inkscape:pageopacity="0"
      inkscape:pageshadow="2"
      inkscape:zoom="1"
-     inkscape:cx="-411.2319"
-     inkscape:cy="-282.18362"
+     inkscape:cx="-322.49391"
+     inkscape:cy="-209.16037"
      inkscape:document-units="px"
      inkscape:current-layer="layer6"
      showgrid="false"
      showborder="false"
      inkscape:window-width="1155"
      inkscape:window-height="914"
-     inkscape:window-x="2044"
-     inkscape:window-y="123"
+     inkscape:window-x="2046"
+     inkscape:window-y="124"
      inkscape:window-maximized="0"
      inkscape:showpageshadow="false"
      showguides="true"
@@ -16582,7 +16582,7 @@ Claire Alexander</dc:title>
       <path
          sodipodi:nodetypes="cccccc"
          id="path9173"
-         d="m -485.91858,381.02957 0.0625,-9.02957 15.9375,0 0,20.0625 -15.9375,0 0,-4.0625"
+         d="m -485.91858,379.99832 0.0625,-7.99832 15.9375,0 0,20.0625 -15.9375,0 0,-4.0625"
          style="color:#000000;fill:#000000;fill-opacity:0;stroke:#bebebe;stroke-width:2;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none;stroke-dashoffset:0;marker:none;visibility:visible;display:inline;overflow:visible;enable-background:accumulate" />
       <g
          id="g9175"
@@ -16653,6 +16653,32 @@ Claire Alexander</dc:title>
          x="0"
          width="300"
          height="100" />
+    </g>
+    <g
+       id="g9495"
+       inkscape:label="bookmark-new"
+       transform="translate(284.935,-1.0542603)">
+      <path
+         id="path9497"
+         d="m -606.88815,318.99174 -0.0157,11.06252 -4.49995,-4.375 -4.53125,4.375 0,-22 c 0,0 6.0625,0 6.0625,0"
+         style="fill:none;stroke:#bebebe;stroke-width:2;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none"
+         sodipodi:nodetypes="cccccc" />
+      <rect
+         y="307.05426"
+         x="-618.935"
+         height="24"
+         width="24"
+         id="rect9499"
+         style="opacity:0;fill:#ffffff;fill-opacity:1;stroke:none;display:inline" />
+      <g
+         id="g9501"
+         transform="translate(-2.90375,-3.9722713)">
+        <path
+           style="color:#000000;fill:#bebebe;fill-opacity:1;stroke:none;stroke-width:2;marker:none;visibility:visible;display:inline;overflow:visible;enable-background:accumulate"
+           d="m -629,308 c -2.74677,0 -4.96875,2.22198 -4.96875,4.96875 0,2.74677 2.22198,4.96875 4.96875,4.96875 2.74677,0 4.96875,-2.22198 4.96875,-4.96875 0,-2.74677 -2.22198,-4.96875 -4.96875,-4.96875 z m 0,1.03125 c 0.72191,0.008 0.70176,1.60066 1.28125,2.03125 0.57949,0.43059 2.12802,-0.0327 2.34375,0.65625 0.21573,0.68897 -1.33206,1.15956 -1.5625,1.84375 -0.23044,0.68419 0.71358,1.98818 0.125,2.40625 -0.58858,0.41807 -1.52809,-0.89852 -2.25,-0.90625 -0.72191,-0.008 -1.67051,1.27434 -2.25,0.84375 -0.57949,-0.43059 0.37198,-1.68603 0.15625,-2.375 -0.21573,-0.68897 -1.73044,-1.22206 -1.5,-1.90625 0.23044,-0.68419 1.75517,-0.17568 2.34375,-0.59375 0.58858,-0.41807 0.59059,-2.00773 1.3125,-2 z"
+           transform="translate(28,3.0265316)"
+           id="path9503" />
+      </g>
     </g>
   </g>
 </svg>
