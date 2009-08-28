@@ -3042,6 +3042,20 @@
        inkscape:vp_y="0 : 1000 : 0"
        inkscape:vp_x="0 : 0.5 : 1"
        sodipodi:type="inkscape:persp3d" />
+    <inkscape:perspective
+       id="perspective6298"
+       inkscape:persp3d-origin="0.5 : 0.33333333 : 1"
+       inkscape:vp_z="1 : 0.5 : 1"
+       inkscape:vp_y="0 : 1000 : 0"
+       inkscape:vp_x="0 : 0.5 : 1"
+       sodipodi:type="inkscape:persp3d" />
+    <inkscape:perspective
+       id="perspective6319"
+       inkscape:persp3d-origin="0.5 : 0.33333333 : 1"
+       inkscape:vp_z="1 : 0.5 : 1"
+       inkscape:vp_y="0 : 1000 : 0"
+       inkscape:vp_x="0 : 0.5 : 1"
+       sodipodi:type="inkscape:persp3d" />
   </defs>
   <sodipodi:namedview
      id="base"
@@ -3051,10 +3065,10 @@
      inkscape:pageopacity="0"
      inkscape:pageshadow="2"
      inkscape:zoom="1"
-     inkscape:cx="60.048701"
-     inkscape:cy="-577.21828"
+     inkscape:cx="-561.97527"
+     inkscape:cy="-378.9252"
      inkscape:document-units="px"
-     inkscape:current-layer="layer11"
+     inkscape:current-layer="layer6"
      showgrid="false"
      showborder="false"
      inkscape:window-width="1596"
@@ -3065,7 +3079,7 @@
      inkscape:showpageshadow="false"
      showguides="true"
      inkscape:guide-bbox="true"
-     inkscape:snap-nodes="true"
+     inkscape:snap-nodes="false"
      inkscape:snap-bbox="true">
     <inkscape:grid
        type="xygrid"
@@ -17450,5 +17464,36 @@ Claire Alexander</dc:title>
        sodipodi:ry="2"
        d="m 1510.75,202.75 a 2,2 0 1 1 -4,0 2,2 0 1 1 4,0 z"
        transform="translate(-2112.75,291.25)" />
+    <g
+       transform="translate(-93.08142,97)"
+       inkscape:label="help-about"
+       id="g6276">
+      <rect
+         y="371"
+         x="-490.91858"
+         height="24"
+         width="24"
+         id="rect6278"
+         style="opacity:0;fill:#ffffff;fill-opacity:1;stroke:none;display:inline" />
+      <g
+         id="g6282"
+         transform="translate(-17.000077,9.9998283)" />
+      <path
+         sodipodi:type="star"
+         style="color:#000000;fill:none;stroke:#bebebe;stroke-width:2.98969436;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none;stroke-dashoffset:0;marker:none;visibility:visible;display:inline;overflow:visible;enable-background:accumulate"
+         id="path6288"
+         sodipodi:sides="4"
+         sodipodi:cx="-573"
+         sodipodi:cy="478"
+         sodipodi:r1="13.453624"
+         sodipodi:r2="5.105824"
+         sodipodi:arg1="0.78539816"
+         sodipodi:arg2="1.5707963"
+         inkscape:flatsided="false"
+         inkscape:rounded="0"
+         inkscape:randomized="0"
+         d="M -563.48685,487.51315 -573,483.10582 l -9.51315,4.40733 4.40733,-9.51315 -4.40733,-9.51315 9.51315,4.40733 9.51315,-4.40733 -4.40733,9.51315 4.40733,9.51315 z"
+         transform="matrix(0.47302948,-0.47302949,0.47302949,0.47302948,-433.98078,-114.15399)" />
+    </g>
   </g>
 </svg>
