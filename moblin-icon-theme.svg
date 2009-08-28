@@ -2598,6 +2598,34 @@
        inkscape:vp_y="0 : 1000 : 0"
        inkscape:vp_x="0 : 0.5 : 1"
        sodipodi:type="inkscape:persp3d" />
+    <inkscape:perspective
+       id="perspective6658"
+       inkscape:persp3d-origin="0.5 : 0.33333333 : 1"
+       inkscape:vp_z="1 : 0.5 : 1"
+       inkscape:vp_y="0 : 1000 : 0"
+       inkscape:vp_x="0 : 0.5 : 1"
+       sodipodi:type="inkscape:persp3d" />
+    <inkscape:perspective
+       id="perspective6658-1"
+       inkscape:persp3d-origin="0.5 : 0.33333333 : 1"
+       inkscape:vp_z="1 : 0.5 : 1"
+       inkscape:vp_y="0 : 1000 : 0"
+       inkscape:vp_x="0 : 0.5 : 1"
+       sodipodi:type="inkscape:persp3d" />
+    <inkscape:perspective
+       id="perspective6658-8"
+       inkscape:persp3d-origin="0.5 : 0.33333333 : 1"
+       inkscape:vp_z="1 : 0.5 : 1"
+       inkscape:vp_y="0 : 1000 : 0"
+       inkscape:vp_x="0 : 0.5 : 1"
+       sodipodi:type="inkscape:persp3d" />
+    <inkscape:perspective
+       id="perspective6718"
+       inkscape:persp3d-origin="0.5 : 0.33333333 : 1"
+       inkscape:vp_z="1 : 0.5 : 1"
+       inkscape:vp_y="0 : 1000 : 0"
+       inkscape:vp_x="0 : 0.5 : 1"
+       sodipodi:type="inkscape:persp3d" />
   </defs>
   <sodipodi:namedview
      id="base"
@@ -2607,10 +2635,10 @@
      inkscape:pageopacity="0"
      inkscape:pageshadow="2"
      inkscape:zoom="1"
-     inkscape:cx="-246.47101"
-     inkscape:cy="-123.02263"
+     inkscape:cx="-444.5806"
+     inkscape:cy="-177.67178"
      inkscape:document-units="px"
-     inkscape:current-layer="layer4"
+     inkscape:current-layer="layer6"
      showgrid="false"
      showborder="false"
      inkscape:window-width="1155"
@@ -13468,14 +13496,18 @@
          id="rect9174"
          style="opacity:0;fill:#ffffff;fill-opacity:1;stroke:none;display:inline"
          transform="scale(-1,1)" />
-      <path
-         style="color:#000000;fill:none;stroke:#bebebe;stroke-width:2;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none;stroke-dashoffset:0;marker:none;visibility:visible;display:inline;overflow:visible;enable-background:accumulate"
-         d="m -390.02997,308.125 0.0625,6.875 -4,0 0,10 2,0 0,3 16,0 0,-3 2,0 0,-10 -4,0 0,-2 -5,-5 -7.0625,0.125 z"
-         id="path4813" />
-      <path
-         style="color:#000000;fill:none;stroke:#bebebe;stroke-width:1;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none;stroke-dashoffset:0;marker:none;visibility:visible;display:inline;overflow:visible;enable-background:accumulate"
-         d="m -389.46747,315 0,2.5 11,0 0,-2.5"
-         id="path4815" />
+      <g
+         id="g6644">
+        <path
+           id="path4813"
+           d="m -389.96747,308 0,7 -4,0 0,10 2,0 0,3 16,0 0,-3 2,0 0,-10 -4,0 0,-2 -5,-5 -7,0 z"
+           style="color:#000000;fill:none;stroke:#bebebe;stroke-width:2;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none;stroke-dashoffset:0;marker:none;visibility:visible;display:inline;overflow:visible;enable-background:accumulate"
+           sodipodi:nodetypes="cccccccccccccc" />
+        <path
+           id="path4815"
+           d="m -389.46747,315 0,2.5 11,0 0,-2.5"
+           style="color:#000000;fill:none;stroke:#bebebe;stroke-width:1;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none;stroke-dashoffset:0;marker:none;visibility:visible;display:inline;overflow:visible;enable-background:accumulate" />
+      </g>
     </g>
     <g
        id="g12347"
@@ -13709,7 +13741,7 @@
     <g
        id="g12233"
        inkscape:label="edit-redo"
-       transform="translate(0,-1)">
+       transform="translate(-34,97)">
       <rect
          transform="scale(-1,1)"
          style="opacity:0;fill:#ffffff;fill-opacity:1;stroke:none;display:inline"
@@ -13933,7 +13965,7 @@
     <g
        id="g12223"
        inkscape:label="edit-undo"
-       transform="translate(0,-1)">
+       transform="translate(-34,97)">
       <rect
          y="307.00006"
          x="-362.96747"
@@ -16745,6 +16777,48 @@
              style="fill:none;stroke:#bebebe;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1" />
         </g>
       </g>
+    </g>
+    <g
+       transform="translate(60.967468,-1.000061)"
+       inkscape:label="document-print-preview"
+       id="g6663">
+      <rect
+         y="307.00006"
+         x="402.96747"
+         height="24"
+         width="24"
+         id="rect6665"
+         style="opacity:0;fill:#ffffff;fill-opacity:1;stroke:none;display:inline"
+         transform="scale(-1,1)" />
+      <g
+         id="use6648"
+         transform="translate(-31.999998,2.000061)">
+        <path
+           sodipodi:nodetypes="ccccccccccc"
+           style="color:#000000;fill:none;stroke:#bebebe;stroke-width:2;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none;stroke-dashoffset:0;marker:none;visibility:visible;display:inline;overflow:visible;enable-background:accumulate"
+           d="m -373.96747,320.125 0,4.875 -2,0 0,3 -16,0 0,-3 -2,0 0,-10 4,0 0,-7 1.9375,0"
+           id="path6686" />
+        <path
+           style="color:#000000;fill:none;stroke:#bebebe;stroke-width:1;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none;stroke-dashoffset:0;marker:none;visibility:visible;display:inline;overflow:visible;enable-background:accumulate"
+           d="m -389.46747,315 0,2.5 6.4375,0"
+           id="path6688"
+           sodipodi:nodetypes="ccc" />
+      </g>
+      <path
+         sodipodi:type="arc"
+         style="color:#000000;fill:none;stroke:#bebebe;stroke-width:2;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none;stroke-dashoffset:0;marker:none;visibility:visible;display:inline;overflow:visible;enable-background:accumulate"
+         id="path6690"
+         sodipodi:cx="-349.75"
+         sodipodi:cy="312.5"
+         sodipodi:rx="4.1875"
+         sodipodi:ry="4.1875"
+         d="m -345.5625,312.5 a 4.1875,4.1875 0 1 1 -8.375,0 4.1875,4.1875 0 1 1 8.375,0 z"
+         transform="translate(-62.404968,-0.312439)" />
+      <path
+         style="fill:none;stroke:#bebebe;stroke-width:2;stroke-linecap:round;stroke-linejoin:miter;stroke-opacity:1;color:#000000;fill-opacity:1;fill-rule:nonzero;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;marker:none;visibility:visible;display:inline;overflow:visible;enable-background:accumulate"
+         d="m -347.875,315 2.9375,2.9375"
+         id="path6700"
+         transform="translate(-60.967468,1.000061)" />
     </g>
   </g>
 </svg>
