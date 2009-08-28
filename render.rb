@@ -1,16 +1,16 @@
 #!/usr/bin/env ruby
 
 require "rexml/document"
-require "ftools"
+require "fileutils"
 include REXML
 INKSCAPE = '/usr/bin/inkscape'
 SRC = "moblin-icon-theme.svg"
 PREFIX = "moblin/24x24"
 
 def chopSVG(icon)
-	File.makedirs(icon[:dir]) unless File.exists?(icon[:dir])
+	FileUtils.mkdir_p(icon[:dir]) unless File.exists?(icon[:dir])
 	unless (File.exists?(icon[:file]) && !icon[:forcerender])
-		File.copy(SRC,icon[:file]) 
+		FileUtils.cp(SRC,icon[:file]) 
 		puts " >> #{icon[:name]}"
 		cmd = "#{INKSCAPE} -f #{icon[:file]} --select #{icon[:id]} --verb=FitCanvasToSelection  --verb=EditInvertInAllLayers "
 		cmd += "--verb=EditDelete --verb=EditSelectAll --verb=SelectionUnGroup --verb=StrokeToPath --verb=FileVacuum "
@@ -25,7 +25,7 @@ end #end of function
 
 
 #main
-File.makedirs("moblin") unless File.exists?("moblin")
+FileUtils.mkdir_p("moblin") unless File.exists?("moblin")
 # Open SVG file.
 svg = Document.new(File.new(SRC, 'r'))
 
