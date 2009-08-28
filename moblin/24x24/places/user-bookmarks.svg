@@ -1,0 +1,53 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Created with Inkscape (http://www.inkscape.org/) -->
+<svg
+   xmlns:svg="http://www.w3.org/2000/svg"
+   xmlns="http://www.w3.org/2000/svg"
+   version="1.0"
+   width="24"
+   height="24"
+   id="svg7384">
+  <title
+     id="title9167">Moblin Icon Theme</title>
+  <defs
+     id="defs7386" />
+  <g
+     transform="translate(-1300,-200)"
+     id="layer3" />
+  <g
+     transform="translate(-1300,-200)"
+     id="layer5">
+    <path
+       d="M 1309,200 C 1307.8629,200.06689 1307.2137,200.9352 1306.75,201.84375 C 1306.2863,202.7523 1306,203.85921 1306,205 L 1306,223 C 1306.003,223.39809 1306.2419,223.75647 1306.6082,223.91248 C 1306.9744,224.06848 1307.3983,223.99239 1307.6875,223.71875 L 1311.9688,219.5 L 1316.3438,223.71875 C 1316.633,223.99232 1317.0568,224.06837 1317.4231,223.91237 C 1317.7893,223.75638 1318.0281,223.39805 1318.0312,223 L 1318.0312,205.0625 C 1318.0582,204.22927 1318.2464,203.33937 1318.5312,202.71875 C 1318.6737,202.40844 1318.8601,202.17054 1318.9688,202.0625 C 1319.0774,201.95446 1319.0677,202 1319,202 L 1319,200 C 1319,200 1309.0625,200 1309.0625,200 C 1309.0417,199.99935 1309.0208,199.99935 1309,200 z M 1309.125,202 C 1309.2195,202 1313.9869,202 1316.6875,202 C 1316.293,202.90324 1316.0655,203.97101 1316.0312,205.03125 C 1316.031,205.04167 1316.031,205.05208 1316.0312,205.0625 L 1316.0312,220.65625 L 1312.6562,217.40625 C 1312.2705,217.04121 1311.6669,217.04121 1311.2812,217.40625 L 1308,220.625 L 1308,205 C 1308,204.20329 1308.2294,203.34145 1308.5312,202.75 C 1308.8331,202.15855 1309.1996,201.99561 1309.125,202 z"
+       id="path9497-7"
+       style="fill:#bebebe;fill-opacity:1;stroke:none;stroke-width:2;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1" />
+    <rect
+       width="24"
+       height="24"
+       x="1300"
+       y="200"
+       id="rect9499-3"
+       style="opacity:0;fill:#ffffff;fill-opacity:1;stroke:none;display:inline" />
+  </g>
+  <g
+     transform="translate(-1300,-200)"
+     id="layer7" />
+  <g
+     transform="translate(-1300,-200)"
+     id="layer2" />
+  <g
+     transform="translate(-1300,-200)"
+     id="layer8" />
+  <g
+     transform="translate(-1300,-1152.3622)"
+     id="layer1" />
+  <g
+     transform="translate(-1300,-200)"
+     id="layer4" />
+  <g
+     transform="translate(-1300,-200)"
+     id="layer9" />
+  <g
+     transform="translate(-1300,-200)"
+     id="layer6" />
+</svg>
