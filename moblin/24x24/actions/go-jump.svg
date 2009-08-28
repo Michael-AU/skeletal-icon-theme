@@ -1,0 +1,89 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Created with Inkscape (http://www.inkscape.org/) -->
+<svg
+   xmlns:svg="http://www.w3.org/2000/svg"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:xlink="http://www.w3.org/1999/xlink"
+   version="1.0"
+   width="24.048693"
+   height="24"
+   id="svg7384">
+  <title
+     id="title9167">Moblin Icon Theme</title>
+  <defs
+     id="defs7386">
+    <linearGradient
+       id="linearGradient6092">
+      <stop
+         id="stop6094"
+         style="stop-color:#a0da00;stop-opacity:1"
+         offset="0" />
+      <stop
+         id="stop6096"
+         style="stop-color:#a0da00;stop-opacity:0"
+         offset="1" />
+    </linearGradient>
+    <linearGradient
+       x1="-409.52063"
+       y1="437.69913"
+       x2="-414.81976"
+       y2="443.98575"
+       id="linearGradient9606"
+       xlink:href="#linearGradient6092"
+       gradientUnits="userSpaceOnUse"
+       gradientTransform="matrix(1.0339409,0,0,1.0339409,32.12143,-6.99769)" />
+  </defs>
+  <g
+     transform="translate(400.04869,-436)"
+     id="layer3" />
+  <g
+     transform="translate(400.04869,-436)"
+     id="layer5" />
+  <g
+     transform="translate(400.04869,-436)"
+     id="layer7" />
+  <g
+     transform="translate(400.04869,-436)"
+     id="layer2" />
+  <g
+     transform="translate(400.04869,-436)"
+     id="layer8" />
+  <g
+     transform="translate(400.04869,-1388.3622)"
+     id="layer1" />
+  <g
+     transform="translate(400.04869,-436)"
+     id="layer11" />
+  <g
+     transform="translate(400.04869,-436)"
+     id="layer4" />
+  <g
+     transform="translate(400.04869,-436)"
+     id="layer9" />
+  <g
+     transform="translate(400.04869,-436)"
+     id="layer10" />
+  <g
+     transform="translate(400.04869,-436)"
+     id="layer6">
+    <rect
+       width="24"
+       height="24"
+       x="-400"
+       y="436"
+       id="rect6031"
+       style="opacity:0;fill:#ffffff;fill-opacity:1;stroke:none;display:inline" />
+    <path
+       d="M -379.5625,446.46875 C -380.39097,446.48591 -381.04861,447.17153 -381.03125,448 L -381,455 L -388,455 C -388.54095,454.99235 -389.04412,455.27656 -389.31683,455.74381 C -389.58954,456.21106 -389.58954,456.78894 -389.31683,457.25619 C -389.04412,457.72344 -388.54095,458.00765 -388,458 L -379.5,458 L -378,458 L -378,456.5 L -378.03125,448 C -378.02269,447.59132 -378.18126,447.19685 -378.4703,446.9078 C -378.75935,446.61876 -379.15382,446.46019 -379.5625,446.46875 L -379.5625,446.46875 z"
+       id="path6033"
+       style="fill:#a0da00;fill-opacity:1;stroke:none;stroke-width:3;stroke-linecap:round;stroke-linejoin:miter;marker:none;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;visibility:visible;display:inline;overflow:visible;enable-background:accumulate" />
+    <path
+       d="M -393.34525,443.9621 C -397.03921,443.9621 -400.03357,446.95644 -400.03356,450.6504 C -400.10144,451.04299 -399.92984,451.43842 -399.59672,451.65699 C -399.26361,451.87555 -398.83255,451.87555 -398.49944,451.65699 C -398.16633,451.43842 -397.99472,451.04299 -398.06261,450.6504 C -398.06262,448.03857 -395.95709,445.96536 -393.34525,445.96536 C -392.2864,445.96535 -391.46189,446.22427 -390.59884,446.83774 C -390.14381,447.15895 -389.51454,447.05045 -389.19333,446.59541 C -388.87213,446.14037 -388.98062,445.5111 -389.43566,445.1899 C -390.59456,444.36612 -391.92339,443.96209 -393.34525,443.9621 z"
+       id="path5976-1"
+       style="fill:url(#linearGradient9606);fill-opacity:1;stroke:none;stroke-width:1.93434727;stroke-linecap:round;stroke-linejoin:round;marker:none;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;visibility:visible;display:inline;overflow:visible;enable-background:accumulate" />
+    <path
+       d="M -390.28125,444.9375 C -390.65436,445.00519 -390.95709,445.27807 -391.06302,445.64218 C -391.16894,446.00629 -391.05983,446.39898 -390.78125,446.65625 L -380.71875,456.71875 C -380.3218,457.1157 -379.6782,457.1157 -379.28125,456.71875 C -378.8843,456.3218 -378.8843,455.6782 -379.28125,455.28125 L -389.34375,445.21875 C -389.58589,444.96804 -389.94109,444.86148 -390.28125,444.9375 z"
+       id="path6061"
+       style="fill:#a0da00;fill-opacity:1;stroke:none;stroke-width:2;stroke-linecap:round;stroke-linejoin:round;marker:none;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;visibility:visible;display:inline;overflow:visible;enable-background:accumulate" />
+  </g>
+</svg>

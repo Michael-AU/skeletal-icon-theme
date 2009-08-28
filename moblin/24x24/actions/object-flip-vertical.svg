@@ -1,0 +1,74 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Created with Inkscape (http://www.inkscape.org/) -->
+<svg
+   xmlns:svg="http://www.w3.org/2000/svg"
+   xmlns="http://www.w3.org/2000/svg"
+   version="1.0"
+   width="24"
+   height="24"
+   id="svg7384">
+  <title
+     id="title9167">Moblin Icon Theme</title>
+  <defs
+     id="defs7386" />
+  <g
+     transform="translate(464.00001,-436.00062)"
+     id="layer3" />
+  <g
+     transform="translate(464.00001,-436.00062)"
+     id="layer5" />
+  <g
+     transform="translate(464.00001,-436.00062)"
+     id="layer7" />
+  <g
+     transform="translate(464.00001,-436.00062)"
+     id="layer2" />
+  <g
+     transform="translate(464.00001,-436.00062)"
+     id="layer8" />
+  <g
+     transform="translate(464.00001,-1388.3628)"
+     id="layer1" />
+  <g
+     transform="translate(464.00001,-436.00062)"
+     id="layer11" />
+  <g
+     transform="translate(464.00001,-436.00062)"
+     id="layer4" />
+  <g
+     transform="translate(464.00001,-436.00062)"
+     id="layer9" />
+  <g
+     transform="translate(464.00001,-436.00062)"
+     id="layer10" />
+  <g
+     transform="translate(464.00001,-436.00062)"
+     id="layer6">
+    <g
+       transform="matrix(0,1,-1,0,-37.00001,767.00062)"
+       id="use5957">
+      <rect
+         width="24"
+         height="24"
+         x="307"
+         y="403"
+         transform="scale(-1,1)"
+         id="rect9586"
+         style="opacity:0;fill:#f5f5f5;fill-opacity:1;stroke:none;display:inline" />
+      <path
+         d="M -488.96434,443.12357 L -492.94182,447.10104 L -489.00853,451.03432"
+         transform="translate(165,-33.000609)"
+         id="path9588"
+         style="fill:none;stroke:#bebebe;stroke-width:2;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1" />
+      <path
+         d="M -313.94182,410.12296 L -309.96434,414.10043 L -313.89763,418.03371"
+         id="path9590"
+         style="fill:none;stroke:#bebebe;stroke-width:2;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1" />
+      <path
+         d="M -493,447.01831 L -475.0625,447.01831"
+         transform="translate(165,-33.000609)"
+         id="path9592"
+         style="fill:none;stroke:#bebebe;stroke-width:2;stroke-linecap:round;stroke-linejoin:round;marker:none;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;visibility:visible;display:inline;overflow:visible;enable-background:accumulate" />
+    </g>
+  </g>
+</svg>
