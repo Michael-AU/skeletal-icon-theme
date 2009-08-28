@@ -2472,6 +2472,13 @@
        inkscape:vp_y="0 : 1000 : 0"
        inkscape:vp_x="0 : 0.5 : 1"
        sodipodi:type="inkscape:persp3d" />
+    <inkscape:perspective
+       id="perspective6012"
+       inkscape:persp3d-origin="0.5 : 0.33333333 : 1"
+       inkscape:vp_z="1 : 0.5 : 1"
+       inkscape:vp_y="0 : 1000 : 0"
+       inkscape:vp_x="0 : 0.5 : 1"
+       sodipodi:type="inkscape:persp3d" />
   </defs>
   <sodipodi:namedview
      id="base"
@@ -2481,21 +2488,21 @@
      inkscape:pageopacity="0"
      inkscape:pageshadow="2"
      inkscape:zoom="1"
-     inkscape:cx="-349.69936"
-     inkscape:cy="-118.28021"
+     inkscape:cx="-443.02153"
+     inkscape:cy="-248.09189"
      inkscape:document-units="px"
      inkscape:current-layer="layer6"
      showgrid="false"
      showborder="false"
-     inkscape:window-width="1281"
-     inkscape:window-height="1042"
-     inkscape:window-x="1729"
-     inkscape:window-y="36"
+     inkscape:window-width="1155"
+     inkscape:window-height="914"
+     inkscape:window-x="2149"
+     inkscape:window-y="171"
      inkscape:window-maximized="0"
      inkscape:showpageshadow="false"
      showguides="true"
      inkscape:guide-bbox="true"
-     inkscape:snap-nodes="true"
+     inkscape:snap-nodes="false"
      inkscape:snap-bbox="true">
     <inkscape:grid
        type="xygrid"
@@ -11688,7 +11695,7 @@
     <g
        id="g9978"
        inkscape:label="zoom-fit-best"
-       transform="translate(-0.03253174,-1)">
+       transform="translate(-1.0325317,-1)">
       <rect
          style="opacity:0;fill:#ffffff;fill-opacity:1;stroke:none;display:inline"
          id="rect7498"
@@ -11835,7 +11842,7 @@
     <g
        id="g10038"
        inkscape:label="object-rotate-right"
-       transform="translate(0,-1)">
+       transform="translate(0.96746826,-1.0541992)">
       <rect
          transform="scale(-1,1)"
          style="opacity:0;fill:#ffffff;fill-opacity:1;stroke:none;display:inline"
@@ -11911,7 +11918,7 @@
     <g
        id="g10025"
        inkscape:label="object-rotate-left"
-       transform="translate(0,-1)">
+       transform="translate(1,-1)">
       <rect
          y="239"
          x="531"
@@ -11986,7 +11993,7 @@
     <g
        id="g9930"
        inkscape:label="zoom-in"
-       transform="translate(-0.0324707,-1)">
+       transform="translate(0.9675293,-1)">
       <rect
          y="207"
          x="562.96753"
@@ -12039,7 +12046,7 @@
     <g
        id="g9938"
        inkscape:label="zoom-out"
-       transform="translate(-0.0324707,-1)">
+       transform="translate(0.9675293,-1)">
       <rect
          y="207"
          x="-554.96753"
@@ -12076,7 +12083,7 @@
     <g
        id="g9966"
        inkscape:label="zoom-fit-page"
-       transform="translate(-0.03253174,-1)">
+       transform="translate(0.96746826,-1)">
       <rect
          transform="scale(-1,1)"
          style="opacity:0;fill:#ffffff;fill-opacity:1;stroke:none;display:inline"
@@ -12141,7 +12148,7 @@
     <g
        id="g9955"
        inkscape:label="zoom-fit-width"
-       transform="translate(-0.03253174,-1)">
+       transform="translate(0.96746826,-1)">
       <rect
          y="207"
          x="-490.96747"
@@ -12200,7 +12207,7 @@
     <g
        id="g9944"
        inkscape:label="zoom-original"
-       transform="translate(-0.03253174,-1)">
+       transform="translate(0.96746826,-1)">
       <rect
          transform="scale(-1,1)"
          style="opacity:0;fill:#ffffff;fill-opacity:1;stroke:none;display:inline"
@@ -12328,7 +12335,7 @@
     <g
        id="g10015"
        inkscape:label="view-page-continuous"
-       transform="translate(0,-1)">
+       transform="translate(0.9675293,-0.99999714)">
       <rect
          transform="scale(-1,1)"
          style="opacity:0;fill:#ffffff;fill-opacity:1;stroke:none;display:inline"
@@ -12412,7 +12419,7 @@
     <g
        id="g10005"
        inkscape:label="view-page-facing"
-       transform="translate(0,-1)">
+       transform="translate(0.96731567,-1.0541992)">
       <rect
          y="239.0542"
          x="-618.96753"
@@ -12491,7 +12498,7 @@
     <g
        id="g10277"
        inkscape:label="slideshow-play"
-       transform="translate(0,-1)">
+       transform="translate(-1.0325317,-0.94586182)">
       <rect
          transform="scale(-1,1)"
          style="fill:none;stroke:none;display:inline"
@@ -13038,7 +13045,7 @@
     <g
        id="g9924"
        inkscape:label="edit-find"
-       transform="translate(-0.0324707,-1)">
+       transform="translate(0.9675293,-1)">
       <rect
          style="opacity:0;fill:#ffffff;fill-opacity:1;stroke:none;display:inline"
          id="rect7458"
@@ -13864,7 +13871,7 @@
     <g
        id="g10212"
        inkscape:label="go-home"
-       transform="translate(0,-1)">
+       transform="translate(0.9185791,-1)">
       <rect
          y="239"
          x="338.91858"
@@ -15069,7 +15076,7 @@
     <g
        id="g10188"
        inkscape:label="process-stop"
-       transform="translate(0,-1)">
+       transform="translate(-1.0650024,-1.0542603)">
       <rect
          y="239.05426"
          x="402.935"
@@ -15167,7 +15174,7 @@
     <g
        id="g10173"
        inkscape:label="view-fullscreen"
-       transform="translate(0,-1)">
+       transform="translate(0.93499756,-1.0542603)">
       <path
          sodipodi:nodetypes="cccsccc"
          id="rect3637-45"
@@ -15239,7 +15246,7 @@
     <g
        id="g10204"
        inkscape:label="view-refresh"
-       transform="translate(0,-1)">
+       transform="translate(-1.0650024,-1.0542603)">
       <rect
          transform="scale(-1,1)"
          style="opacity:0;fill:#ffffff;fill-opacity:1;stroke:none;display:inline"
@@ -15989,6 +15996,63 @@
          style="font-size:medium;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-indent:0;text-align:start;text-decoration:none;line-height:normal;letter-spacing:normal;word-spacing:normal;text-transform:none;direction:ltr;block-progression:tb;writing-mode:lr-tb;text-anchor:start;color:#000000;fill:#bebebe;fill-opacity:1;stroke:none;stroke-width:2;marker:none;visibility:visible;display:inline;overflow:visible;enable-background:accumulate;font-family:Bitstream Vera Sans;-inkscape-font-specification:Bitstream Vera Sans"
          inkscape:transform-center-x="-0.93051503"
          inkscape:transform-center-y="1.4822954" />
+    </g>
+    <g
+       transform="translate(286.935,-133.05426)"
+       inkscape:label="window-new"
+       id="g5974">
+      <path
+         sodipodi:nodetypes="ccccc"
+         style="fill:none;stroke:#bebebe;stroke-width:2;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none"
+         d="m -606.935,310.05426 -9,0 0,20 c 0,0 18,0 18,0 l 0,-8.875"
+         id="path5979" />
+      <rect
+         style="opacity:0;fill:#ffffff;fill-opacity:1;stroke:none;display:inline"
+         id="rect5977"
+         width="24"
+         height="24"
+         x="-618.935"
+         y="307.05426" />
+      <g
+         transform="translate(1.065002,-1.9722713)"
+         id="g5983">
+        <path
+           id="path5985"
+           transform="translate(28,3.0265316)"
+           d="m -629,308 c -2.74677,0 -4.96875,2.22198 -4.96875,4.96875 0,2.74677 2.22198,4.96875 4.96875,4.96875 2.74677,0 4.96875,-2.22198 4.96875,-4.96875 0,-2.74677 -2.22198,-4.96875 -4.96875,-4.96875 z m 0,1.03125 c 0.72191,0.008 0.70176,1.60066 1.28125,2.03125 0.57949,0.43059 2.12802,-0.0327 2.34375,0.65625 0.21573,0.68897 -1.33206,1.15956 -1.5625,1.84375 -0.23044,0.68419 0.71358,1.98818 0.125,2.40625 -0.58858,0.41807 -1.52809,-0.89852 -2.25,-0.90625 -0.72191,-0.008 -1.67051,1.27434 -2.25,0.84375 -0.57949,-0.43059 0.37198,-1.68603 0.15625,-2.375 -0.21573,-0.68897 -1.73044,-1.22206 -1.5,-1.90625 0.23044,-0.68419 1.75517,-0.17568 2.34375,-0.59375 0.58858,-0.41807 0.59059,-2.00773 1.3125,-2 z"
+           style="color:#000000;fill:#bebebe;fill-opacity:1;stroke:none;stroke-width:2;marker:none;visibility:visible;display:inline;overflow:visible;enable-background:accumulate" />
+      </g>
+      <path
+         style="color:#000000;fill:#bebebe;fill-opacity:1;stroke:none;stroke-width:2;marker:none;visibility:visible;display:inline;overflow:visible;enable-background:accumulate"
+         d="m -615.935,309.05426 11,0 c -1.59375,1.3125 -2,4.0625 -2,6 l -9,0 0,-6 z"
+         id="rect5987"
+         sodipodi:nodetypes="ccccc" />
+    </g>
+    <g
+       id="g6028"
+       inkscape:label="tab-new"
+       transform="translate(-30,32)">
+      <rect
+         y="174"
+         x="-302"
+         height="24"
+         width="24"
+         id="rect5994"
+         style="opacity:0;fill:#ffffff;fill-opacity:1;stroke:none;display:inline" />
+      <g
+         id="g5996"
+         transform="translate(314,-131.02653)">
+        <path
+           style="color:#000000;fill:#bebebe;fill-opacity:1;stroke:none;stroke-width:2;marker:none;visibility:visible;display:inline;overflow:visible;enable-background:accumulate"
+           d="m -629,308 c -2.74677,0 -4.96875,2.22198 -4.96875,4.96875 0,2.74677 2.22198,4.96875 4.96875,4.96875 2.74677,0 4.96875,-2.22198 4.96875,-4.96875 0,-2.74677 -2.22198,-4.96875 -4.96875,-4.96875 z m 0,1.03125 c 0.72191,0.008 0.70176,1.60066 1.28125,2.03125 0.57949,0.43059 2.12802,-0.0327 2.34375,0.65625 0.21573,0.68897 -1.33206,1.15956 -1.5625,1.84375 -0.23044,0.68419 0.71358,1.98818 0.125,2.40625 -0.58858,0.41807 -1.52809,-0.89852 -2.25,-0.90625 -0.72191,-0.008 -1.67051,1.27434 -2.25,0.84375 -0.57949,-0.43059 0.37198,-1.68603 0.15625,-2.375 -0.21573,-0.68897 -1.73044,-1.22206 -1.5,-1.90625 0.23044,-0.68419 1.75517,-0.17568 2.34375,-0.59375 0.58858,-0.41807 0.59059,-2.00773 1.3125,-2 z"
+           transform="translate(28,3.0265316)"
+           id="path5998" />
+      </g>
+      <path
+         sodipodi:nodetypes="cccccccc"
+         id="path6002"
+         d="m -287,192.96049 0,2.16451 8,0 m -22,0 2,0 0,-4.0625 c 0,-0.9375 0.875,-1.9375 2,-1.9375 l 3.37391,0"
+         style="color:#000000;fill:none;stroke:#bebebe;stroke-width:2;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none;stroke-dashoffset:0;marker:none;visibility:visible;display:inline;overflow:visible;enable-background:accumulate" />
     </g>
   </g>
 </svg>
