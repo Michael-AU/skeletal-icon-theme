@@ -18,6 +18,8 @@
    sodipodi:docname="moblin-icon-theme.svg"
    inkscape:output_extension="org.inkscape.output.svg.inkscape"
    sodipodi:version="0.32">
+  <title
+     id="title9167">Moblin Icon Theme</title>
   <defs
      id="defs7386">
     <linearGradient
@@ -2718,17 +2720,17 @@
      borderopacity="1.0"
      inkscape:pageopacity="0"
      inkscape:pageshadow="2"
-     inkscape:zoom="5.6568542"
-     inkscape:cx="-440.50724"
-     inkscape:cy="-215.38846"
+     inkscape:zoom="1"
+     inkscape:cx="-487.4774"
+     inkscape:cy="-251.33153"
      inkscape:document-units="px"
      inkscape:current-layer="layer6"
      showgrid="false"
      showborder="false"
      inkscape:window-width="1155"
      inkscape:window-height="914"
-     inkscape:window-x="2198"
-     inkscape:window-y="150"
+     inkscape:window-x="1951"
+     inkscape:window-y="94"
      inkscape:window-maximized="0"
      inkscape:showpageshadow="false"
      showguides="true"
@@ -2751,8 +2753,40 @@
         <dc:format>image/svg+xml</dc:format>
         <dc:type
            rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
-        <dc:title />
+        <dc:title>Moblin Icon Theme</dc:title>
+        <cc:license
+           rdf:resource="http://creativecommons.org/licenses/by-sa/3.0/" />
+        <dc:creator>
+          <cc:Agent>
+            <dc:title></dc:title>
+          </cc:Agent>
+        </dc:creator>
+        <dc:contributor>
+          <cc:Agent>
+            <dc:title>Jakub Steiner, 
+Hylke Bons, 
+Nick Richards, 
+Darren Wilson, 
+Claire Alexander</dc:title>
+          </cc:Agent>
+        </dc:contributor>
+        <dc:source>http://www.moblin.org</dc:source>
       </cc:Work>
+      <cc:License
+         rdf:about="http://creativecommons.org/licenses/by-sa/3.0/">
+        <cc:permits
+           rdf:resource="http://creativecommons.org/ns#Reproduction" />
+        <cc:permits
+           rdf:resource="http://creativecommons.org/ns#Distribution" />
+        <cc:requires
+           rdf:resource="http://creativecommons.org/ns#Notice" />
+        <cc:requires
+           rdf:resource="http://creativecommons.org/ns#Attribution" />
+        <cc:permits
+           rdf:resource="http://creativecommons.org/ns#DerivativeWorks" />
+        <cc:requires
+           rdf:resource="http://creativecommons.org/ns#ShareAlike" />
+      </cc:License>
     </rdf:RDF>
   </metadata>
   <g
