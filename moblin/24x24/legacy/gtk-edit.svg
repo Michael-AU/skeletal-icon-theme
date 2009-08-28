@@ -7,57 +7,65 @@
    width="24"
    height="24"
    id="svg7384">
+  <title
+     id="title9167">Moblin Icon Theme</title>
   <defs
      id="defs7386" />
   <g
-     transform="translate(586.935,-371.05426)"
+     transform="translate(560,-660)"
      id="layer3" />
   <g
-     transform="translate(586.935,-371.05426)"
+     transform="translate(560,-660)"
      id="layer5" />
   <g
-     transform="translate(586.935,-371.05426)"
+     transform="translate(560,-660)"
      id="layer7" />
   <g
-     transform="translate(586.935,-371.05426)"
+     transform="translate(560,-660)"
      id="layer2" />
   <g
-     transform="translate(586.935,-371.05426)"
+     transform="translate(560,-660)"
      id="layer8" />
   <g
-     transform="translate(586.935,-1323.4164)"
+     transform="translate(560,-1612.3622)"
      id="layer1" />
   <g
-     transform="translate(586.935,-371.05426)"
+     transform="translate(560,-660)"
+     id="layer11" />
+  <g
+     transform="translate(560,-660)"
      id="layer4" />
   <g
-     transform="translate(586.935,-371.05426)"
+     transform="translate(560,-660)"
      id="layer9" />
   <g
-     transform="translate(586.935,-371.05426)"
-     id="layer6">
+     transform="translate(560,-660)"
+     id="layer10">
     <rect
        width="24"
        height="24"
-       x="562.935"
-       y="371.05426"
+       x="536"
+       y="660"
        transform="scale(-1,1)"
        id="rect9222"
        style="opacity:0;fill:#ffffff;fill-opacity:1;stroke:none;display:inline" />
     <path
        d="M 19,27.5 A 2.5,2.5 0 1 1 14,27.5 A 2.5,2.5 0 1 1 19,27.5 z"
-       transform="matrix(0.4090343,0,0,0.4077696,-585.69389,378.8057)"
+       transform="matrix(0.4090343,0,0,0.4077696,-559.70586,667.75144)"
        id="path2801-3"
        style="fill:#b2b2b2;fill-opacity:1;stroke:none;display:inline" />
     <path
        d="M 19,27.5 A 2.5,2.5 0 1 1 14,27.5 A 2.5,2.5 0 1 1 19,27.5 z"
-       transform="matrix(0.4090343,0,0,0.4077696,-581.69389,378.8057)"
+       transform="matrix(0.4090343,0,0,0.4077696,-555.70586,667.75144)"
        id="path3663-5"
        style="fill:#b2b2b2;fill-opacity:1;stroke:none;display:inline" />
     <path
        d="M 19,27.5 A 2.5,2.5 0 1 1 14,27.5 A 2.5,2.5 0 1 1 19,27.5 z"
-       transform="matrix(0.4090343,0,0,0.4077696,-577.67129,378.8057)"
+       transform="matrix(0.4090343,0,0,0.4077696,-551.68326,667.75144)"
        id="path3665-8"
        style="fill:#b2b2b2;fill-opacity:1;stroke:none;display:inline" />
   </g>
+  <g
+     transform="translate(560,-660)"
+     id="layer6" />
 </svg>
