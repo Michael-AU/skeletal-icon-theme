@@ -3890,6 +3890,41 @@
        inkscape:vp_y="0 : 1000 : 0"
        inkscape:vp_x="0 : 0.5 : 1"
        sodipodi:type="inkscape:persp3d" />
+    <inkscape:perspective
+       id="perspective8287"
+       inkscape:persp3d-origin="0.5 : 0.33333333 : 1"
+       inkscape:vp_z="1 : 0.5 : 1"
+       inkscape:vp_y="0 : 1000 : 0"
+       inkscape:vp_x="0 : 0.5 : 1"
+       sodipodi:type="inkscape:persp3d" />
+    <inkscape:perspective
+       id="perspective8287-9"
+       inkscape:persp3d-origin="0.5 : 0.33333333 : 1"
+       inkscape:vp_z="1 : 0.5 : 1"
+       inkscape:vp_y="0 : 1000 : 0"
+       inkscape:vp_x="0 : 0.5 : 1"
+       sodipodi:type="inkscape:persp3d" />
+    <inkscape:perspective
+       id="perspective8344"
+       inkscape:persp3d-origin="0.5 : 0.33333333 : 1"
+       inkscape:vp_z="1 : 0.5 : 1"
+       inkscape:vp_y="0 : 1000 : 0"
+       inkscape:vp_x="0 : 0.5 : 1"
+       sodipodi:type="inkscape:persp3d" />
+    <inkscape:perspective
+       id="perspective8373"
+       inkscape:persp3d-origin="0.5 : 0.33333333 : 1"
+       inkscape:vp_z="1 : 0.5 : 1"
+       inkscape:vp_y="0 : 1000 : 0"
+       inkscape:vp_x="0 : 0.5 : 1"
+       sodipodi:type="inkscape:persp3d" />
+    <inkscape:perspective
+       id="perspective8402"
+       inkscape:persp3d-origin="0.5 : 0.33333333 : 1"
+       inkscape:vp_z="1 : 0.5 : 1"
+       inkscape:vp_y="0 : 1000 : 0"
+       inkscape:vp_x="0 : 0.5 : 1"
+       sodipodi:type="inkscape:persp3d" />
   </defs>
   <sodipodi:namedview
      id="base"
@@ -3898,12 +3933,12 @@
      borderopacity="1.0"
      inkscape:pageopacity="0"
      inkscape:pageshadow="2"
-     inkscape:zoom="2"
-     inkscape:cx="-559.35673"
-     inkscape:cy="-902.57383"
+     inkscape:zoom="1"
+     inkscape:cx="-471.51968"
+     inkscape:cy="-908.97921"
      inkscape:document-units="px"
      inkscape:current-layer="layer11"
-     showgrid="false"
+     showgrid="true"
      showborder="false"
      inkscape:window-width="1451"
      inkscape:window-height="965"
@@ -13285,6 +13320,112 @@ Claire Alexander</dc:title>
            sodipodi:open="true" />
       </g>
     </g>
+    <g
+       id="g7613-6"
+       inkscape:label="gnome-session-properties"
+       transform="translate(-614.9892,610.75369)">
+      <rect
+         style="opacity:0;fill:#ffffff;fill-opacity:1;stroke:none;display:inline"
+         id="rect7615-9"
+         width="24"
+         height="24"
+         x="49"
+         y="367.36218"
+         inkscape:label="bbox" />
+      <path
+         style="color:#000000;fill:none;stroke:#bebebe;stroke-width:2;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dashoffset:0;stroke-opacity:1;marker:none;visibility:visible;display:inline;overflow:visible;enable-background:accumulate"
+         d="m 67.332582,385.59067 c -0.408184,0.40564 -0.971247,0.65564 -1.594848,0.65564 l -13.488072,0 c -1.252295,0 -2.260461,-1.00817 -2.260461,-2.26046 l 0,-13.47905 c 0,-1.2523 1.008166,-2.26046 2.260461,-2.26046 l 13.488072,0 c 1.252296,0 2.260462,1.00816 2.260462,2.26046 l 0,2.62299"
+         id="rect7633-3"
+         sodipodi:nodetypes="ccccccccc" />
+      <rect
+         ry="0"
+         rx="0"
+         y="368.24631"
+         x="49.989201"
+         height="3.0000026"
+         width="18"
+         id="rect7635-7"
+         style="color:#000000;fill:#bebebe;fill-opacity:1;stroke:none;stroke-width:1;marker:none;visibility:visible;display:inline;overflow:visible;enable-background:accumulate" />
+      <path
+         style="color:#000000;fill:none;fill-opacity:1;fill-rule:nonzero;stroke:#bebebe;stroke-width:3;marker:none;visibility:visible;display:inline;overflow:visible;enable-background:accumulate;stroke-opacity:1;stroke-miterlimit:4;stroke-dasharray:none;stroke-linecap:round"
+         d="m -556.93498,984.94414 -4.02167,4.02167 4.02167,4.02167"
+         id="path8317"
+         transform="translate(614.9892,-610.75369)" />
+      <path
+         style="color:#000000;fill:none;stroke:#bebebe;stroke-width:2;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none;stroke-dashoffset:0;marker:none;visibility:visible;display:inline;overflow:visible;enable-background:accumulate"
+         d="m -558.87952,989.09839 8.75044,0 c 1.5052,0 2.96101,1.19103 2.96101,2.96101"
+         id="path8332"
+         transform="translate(614.9892,-610.75369)"
+         sodipodi:nodetypes="ccs" />
+    </g>
+    <g
+       id="g8358"
+       inkscape:label="gpk-prefs"
+       transform="translate(-69,-4.0000026)">
+      <use
+         transform="translate(-319,780)"
+         height="1"
+         width="1"
+         id="use8334"
+         xlink:href="#g6272"
+         y="0"
+         x="0" />
+    </g>
+    <path
+       sodipodi:type="arc"
+       style="color:#000000;fill:#cc0000;stroke:none;stroke-width:1;marker:none;visibility:visible;display:inline;overflow:visible;enable-background:accumulate"
+       id="path8361"
+       sodipodi:cx="1508.75"
+       sodipodi:cy="202.75"
+       sodipodi:rx="2"
+       sodipodi:ry="2"
+       d="m 1510.75,202.75 a 2,2 0 1 1 -4,0 2,2 0 1 1 4,0 z"
+       transform="translate(-2034.75,801.25)" />
+    <g
+       id="g8387"
+       inkscape:label="beagle-system-search"
+       transform="translate(-19,-11)">
+      <use
+         transform="translate(127,783)"
+         height="1"
+         width="1"
+         id="use8363"
+         xlink:href="#g9924"
+         y="0"
+         x="0" />
+    </g>
+    <path
+       transform="translate(-2006.75,801.25)"
+       d="m 1510.75,202.75 a 2,2 0 1 1 -4,0 2,2 0 1 1 4,0 z"
+       sodipodi:ry="2"
+       sodipodi:rx="2"
+       sodipodi:cy="202.75"
+       sodipodi:cx="1508.75"
+       id="path8390"
+       style="color:#000000;fill:#cc0000;stroke:none;stroke-width:1;marker:none;visibility:visible;display:inline;overflow:visible;enable-background:accumulate"
+       sodipodi:type="arc" />
+    <g
+       id="g8416"
+       inkscape:label="gnome-sound-properties">
+      <use
+         transform="translate(-1253,803.98068)"
+         height="1"
+         width="1"
+         id="use8392"
+         xlink:href="#g10036"
+         y="0"
+         x="0" />
+    </g>
+    <path
+       sodipodi:type="arc"
+       style="color:#000000;fill:#cc0000;stroke:none;stroke-width:1;marker:none;visibility:visible;display:inline;overflow:visible;enable-background:accumulate"
+       id="path8419"
+       sodipodi:cx="1508.75"
+       sodipodi:cy="202.75"
+       sodipodi:rx="2"
+       sodipodi:ry="2"
+       d="m 1510.75,202.75 a 2,2 0 1 1 -4,0 2,2 0 1 1 4,0 z"
+       transform="translate(-1978.75,801.25)" />
   </g>
   <g
      inkscape:groupmode="layer"
