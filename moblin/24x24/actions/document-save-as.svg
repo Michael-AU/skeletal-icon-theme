@@ -8,6 +8,8 @@
    width="24"
    height="24"
    id="svg7384">
+  <title
+     id="title9167">Moblin Icon Theme</title>
   <defs
      id="defs7386">
     <linearGradient
@@ -51,10 +53,16 @@
      id="layer1" />
   <g
      transform="translate(556,-306)"
+     id="layer11" />
+  <g
+     transform="translate(556,-306)"
      id="layer4" />
   <g
      transform="translate(556,-306)"
      id="layer9" />
+  <g
+     transform="translate(556,-306)"
+     id="layer10" />
   <g
      transform="translate(556,-306)"
      id="layer6">
@@ -103,16 +111,29 @@
          style="opacity:0.98999999;fill:url(#linearGradient6426);fill-opacity:1;stroke:none;display:inline" />
     </g>
     <path
-       d="M -550.65625,323.4375 C -551.62575,323.4375 -552.40625,324.218 -552.40625,325.1875 L -552.40625,327.6875 C -552.40625,328.657 -551.62575,329.4375 -550.65625,329.4375 L -537.3125,329.4375 C -536.343,329.4375 -535.5625,328.657 -535.5625,327.6875 L -535.5625,325.1875 C -535.5625,324.218 -536.343,323.4375 -537.3125,323.4375 L -550.65625,323.4375 z M -548.03125,324.9375 C -547.46649,324.9375 -547,325.40574 -547,325.96875 C -547,326.53176 -547.46649,327 -548.03125,327 C -548.59601,327 -549.0625,326.53176 -549.0625,325.96875 C -549.0625,325.40574 -548.59601,324.9375 -548.03125,324.9375 z M -544.03125,324.9375 C -543.46649,324.9375 -543,325.40574 -543,325.96875 C -543,326.53176 -543.46649,327 -544.03125,327 C -544.59601,327 -545.0625,326.53176 -545.0625,325.96875 C -545.0625,325.40574 -544.59601,324.9375 -544.03125,324.9375 z M -540,324.9375 C -539.43524,324.9375 -539,325.40574 -539,325.96875 C -539,326.53176 -539.43524,327 -540,327 C -540.56476,327 -541.03125,326.53176 -541.03125,325.96875 C -541.03125,325.40574 -540.56476,324.9375 -540,324.9375 z"
-       id="rect6429-4"
-       style="fill:#bebebe;fill-opacity:1;stroke:none;stroke-width:0.99999994px;marker:none;stroke-opacity:1;visibility:visible;display:inline;overflow:visible;enable-background:new" />
-    <path
        d="M -551.25,311 C -552.79053,311 -554.0625,312.27198 -554.0625,313.8125 L -554.0625,327.125 C -554.0625,328.66553 -552.79052,329.9375 -551.25,329.9375 L -536.875,329.9375 C -535.33447,329.9375 -534.06253,328.66552 -534.0625,327.125 L -534.0625,313.8125 C -534.0625,312.27197 -535.33446,311 -536.875,311 L -541,311 L -541,313 L -536.875,313 C -536.40783,313 -536.0625,313.34537 -536.0625,313.8125 L -536.0625,327.125 C -536.06251,327.59212 -536.40787,327.9375 -536.875,327.9375 L -551.25,327.9375 C -551.71711,327.9375 -552.0625,327.59213 -552.0625,327.125 L -552.0625,313.8125 C -552.0625,313.34538 -551.71713,313 -551.25,313 L -546.9375,313 L -546.9375,311 L -551.25,311 z"
        id="rect7225-2"
        style="fill:#bebebe;fill-opacity:1;stroke:none;stroke-width:1.99999976;marker:none;stroke-miterlimit:4;stroke-opacity:1;visibility:visible;display:inline;overflow:visible;enable-background:new" />
-    <path
-       d="M -550.65875,322.94574 C -551.8966,322.94574 -552.90875,323.95789 -552.90875,325.19574 L -552.90875,327.69574 C -552.90875,328.93359 -551.8966,329.94574 -550.65875,329.94574 L -537.315,329.94574 C -536.07715,329.94574 -535.065,328.93359 -535.065,327.69574 L -535.065,325.19574 C -535.065,323.95789 -536.07715,322.94574 -537.315,322.94574 L -550.65875,322.94574 z M -550.65875,323.94574 L -537.315,323.94574 C -536.61385,323.94574 -536.065,324.49459 -536.065,325.19574 L -536.065,327.69574 C -536.065,328.39689 -536.61385,328.94574 -537.315,328.94574 L -550.65875,328.94574 C -551.3599,328.94574 -551.90875,328.39689 -551.90875,327.69574 L -551.90875,325.19574 C -551.90875,324.49459 -551.3599,323.94574 -550.65875,323.94574 z"
-       id="rect9491"
-       style="font-size:medium;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-indent:0;text-align:start;text-decoration:none;line-height:normal;letter-spacing:normal;word-spacing:normal;text-transform:none;direction:ltr;block-progression:tb;writing-mode:lr-tb;text-anchor:start;fill:#bebebe;fill-opacity:1;stroke:none;stroke-width:0.99999994px;marker:none;visibility:visible;display:inline;overflow:visible;enable-background:new;font-family:Bitstream Vera Sans;-inkscape-font-specification:Bitstream Vera Sans" />
+    <rect
+       width="4"
+       height="2"
+       x="-550"
+       y="324"
+       id="rect14448"
+       style="fill:#bebebe;fill-opacity:1;stroke:none;stroke-width:2;marker:none;visibility:visible;display:inline;overflow:visible;enable-background:accumulate" />
+    <rect
+       width="2"
+       height="2"
+       x="-544"
+       y="324"
+       id="rect14450"
+       style="fill:#bebebe;fill-opacity:1;stroke:none;stroke-width:2;marker:none;visibility:visible;display:inline;overflow:visible;enable-background:accumulate" />
+    <rect
+       width="2"
+       height="2"
+       x="-540"
+       y="324"
+       id="rect14452"
+       style="fill:#bebebe;fill-opacity:1;stroke:none;stroke-width:2;marker:none;visibility:visible;display:inline;overflow:visible;enable-background:accumulate" />
   </g>
 </svg>
