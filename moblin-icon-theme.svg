@@ -3742,6 +3742,13 @@
        y1="121.73069"
        x2="105.91268"
        y2="115.05012" />
+    <inkscape:perspective
+       id="perspective7646"
+       inkscape:persp3d-origin="0.5 : 0.33333333 : 1"
+       inkscape:vp_z="1 : 0.5 : 1"
+       inkscape:vp_y="0 : 1000 : 0"
+       inkscape:vp_x="0 : 0.5 : 1"
+       sodipodi:type="inkscape:persp3d" />
   </defs>
   <sodipodi:namedview
      id="base"
@@ -3750,11 +3757,11 @@
      borderopacity="1.0"
      inkscape:pageopacity="0"
      inkscape:pageshadow="2"
-     inkscape:zoom="1"
-     inkscape:cx="-182.33753"
-     inkscape:cy="-232.38216"
+     inkscape:zoom="4"
+     inkscape:cx="-522.65529"
+     inkscape:cy="-969.55127"
      inkscape:document-units="px"
-     inkscape:current-layer="layer4"
+     inkscape:current-layer="layer11"
      showgrid="false"
      showborder="false"
      inkscape:window-width="1451"
@@ -12464,19 +12471,6 @@ Claire Alexander</dc:title>
          sodipodi:ry="3.1156893"
          d="m -550.61521,1105.1744 a 3.1156893,3.1156893 0 1 1 -6.23138,0 3.1156893,3.1156893 0 1 1 6.23138,0 z"
          transform="matrix(1.1233471,0,0,1.1233471,271.032,-855.49456)" />
-      <g
-         id="g7504"
-         transform="translate(-8,-1.9999997)"
-         inkscape:label="yast-lan">
-        <use
-           height="100"
-           width="300"
-           transform="translate(-1541,198.99707)"
-           id="use7480"
-           xlink:href="#g7893"
-           y="0"
-           x="0" />
-      </g>
     </g>
     <path
        sodipodi:type="arc"
@@ -12573,6 +12567,19 @@ Claire Alexander</dc:title>
          width="12"
          id="rect7599"
          style="color:#000000;fill:none;stroke:#bebebe;stroke-width:1.99999988;stroke-linecap:round;stroke-linejoin:miter;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none;stroke-dashoffset:0;marker:none;visibility:visible;display:inline;overflow:visible;enable-background:accumulate" />
+    </g>
+    <g
+       id="g7504"
+       transform="translate(-211,717)"
+       inkscape:label="yast-lan">
+      <use
+         height="100"
+         width="300"
+         transform="translate(-1541,198.99707)"
+         id="use7480"
+         xlink:href="#g7893"
+         y="0"
+         x="0" />
     </g>
   </g>
   <g
