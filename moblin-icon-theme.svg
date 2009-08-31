@@ -4258,16 +4258,16 @@
      inkscape:pageopacity="0"
      inkscape:pageshadow="2"
      inkscape:zoom="1"
-     inkscape:cx="-476.09143"
-     inkscape:cy="-1062.2492"
+     inkscape:cx="-180.84131"
+     inkscape:cy="-163.40019"
      inkscape:document-units="px"
-     inkscape:current-layer="layer11"
+     inkscape:current-layer="layer4"
      showgrid="false"
      showborder="false"
      inkscape:window-width="1451"
      inkscape:window-height="965"
-     inkscape:window-x="1763"
-     inkscape:window-y="122"
+     inkscape:window-x="1726"
+     inkscape:window-y="110"
      inkscape:window-maximized="0"
      inkscape:showpageshadow="false"
      showguides="false"
@@ -16309,7 +16309,7 @@ Claire Alexander</dc:title>
          style="opacity:0;fill:#ffffff;fill-opacity:1;stroke:none;display:inline" />
       <g
          id="g6717"
-         transform="matrix(0.70710678,-0.70710679,0.70710679,0.70710678,-253.01071,145.04953)">
+         transform="matrix(0.70710678,-0.70710679,0.70710679,0.70710678,-252.94821,145.58078)">
         <path
            sodipodi:open="true"
            sodipodi:end="4.708293"
@@ -16345,7 +16345,7 @@ Claire Alexander</dc:title>
       </g>
       <path
          style="fill:none;stroke:#bebebe;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
-         d="m 68.252564,370.94421 0.707106,0.7071"
+         d="m 68.315064,371.47546 0.707106,0.7071"
          id="path6725" />
       <path
          sodipodi:nodetypes="ccccc"

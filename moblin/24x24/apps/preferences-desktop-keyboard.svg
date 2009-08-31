@@ -6,7 +6,7 @@
    xmlns:xlink="http://www.w3.org/1999/xlink"
    version="1.0"
    width="24.071581"
-   height="24.570469"
+   height="24.039219"
    id="svg7384">
   <title
      id="title9167">Moblin Icon Theme</title>
@@ -33,28 +33,28 @@
        gradientUnits="userSpaceOnUse" />
   </defs>
   <g
-     transform="translate(206,-261.42947)"
+     transform="translate(206,-261.96072)"
      id="layer3" />
   <g
-     transform="translate(206,-261.42947)"
+     transform="translate(206,-261.96072)"
      id="layer5" />
   <g
-     transform="translate(206,-261.42947)"
+     transform="translate(206,-261.96072)"
      id="layer7" />
   <g
-     transform="translate(206,-261.42947)"
+     transform="translate(206,-261.96072)"
      id="layer2" />
   <g
-     transform="translate(206,-261.42947)"
+     transform="translate(206,-261.96072)"
      id="layer8" />
   <g
-     transform="translate(206,-1213.7917)"
+     transform="translate(206,-1214.3229)"
      id="layer1" />
   <g
-     transform="translate(206,-261.42947)"
+     transform="translate(206,-261.96072)"
      id="layer11" />
   <g
-     transform="translate(206,-261.42947)"
+     transform="translate(206,-261.96072)"
      id="layer4">
     <rect
        width="24"
@@ -64,7 +64,7 @@
        id="rect6715"
        style="opacity:0;fill:#ffffff;fill-opacity:1;stroke:none;display:inline" />
     <g
-       transform="matrix(0.7071068,-0.7071068,0.7071068,0.7071068,-507.93913,39.68729)"
+       transform="matrix(0.7071068,-0.7071068,0.7071068,0.7071068,-507.87663,40.21854)"
        id="g6717">
       <path
          d="M 251.0625,234.875 A 3.1875,3.1875 0 0 1 254.23694,231.68753"
@@ -83,7 +83,7 @@
          style="fill:none;stroke:#bebebe;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1" />
     </g>
     <path
-       d="M -186.3125,265.21875 L -187.03125,265.9375 L -186.3125,266.65625 L -185.625,265.9375 L -186.3125,265.21875 z"
+       d="M -186.25,265.75 L -186.96875,266.46875 L -186.25,267.1875 L -185.5625,266.46875 L -186.25,265.75 z"
        id="path6725"
        style="fill:#bebebe;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1" />
     <path
@@ -245,12 +245,12 @@
     </g>
   </g>
   <g
-     transform="translate(206,-261.42947)"
+     transform="translate(206,-261.96072)"
      id="layer9" />
   <g
-     transform="translate(206,-261.42947)"
+     transform="translate(206,-261.96072)"
      id="layer10" />
   <g
-     transform="translate(206,-261.42947)"
+     transform="translate(206,-261.96072)"
      id="layer6" />
 </svg>
