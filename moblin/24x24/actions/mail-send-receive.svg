@@ -7,34 +7,42 @@
    width="24.000004"
    height="24"
    id="svg7384">
+  <title
+     id="title9167">Moblin Icon Theme</title>
   <defs
      id="defs7386" />
   <g
-     transform="translate(584,-406)"
+     transform="translate(584,-404)"
      id="layer3" />
   <g
-     transform="translate(584,-406)"
+     transform="translate(584,-404)"
      id="layer5" />
   <g
-     transform="translate(584,-406)"
+     transform="translate(584,-404)"
      id="layer7" />
   <g
-     transform="translate(584,-406)"
+     transform="translate(584,-404)"
      id="layer2" />
   <g
-     transform="translate(584,-406)"
+     transform="translate(584,-404)"
      id="layer8" />
   <g
-     transform="translate(584,-1358.3622)"
+     transform="translate(584,-1356.3622)"
      id="layer1" />
   <g
-     transform="translate(584,-406)"
+     transform="translate(584,-404)"
+     id="layer11" />
+  <g
+     transform="translate(584,-404)"
      id="layer4" />
   <g
-     transform="translate(584,-406)"
+     transform="translate(584,-404)"
      id="layer9" />
   <g
-     transform="translate(584,-406)"
+     transform="translate(584,-404)"
+     id="layer10" />
+  <g
+     transform="translate(584,-404)"
      id="layer6">
     <rect
        width="22.000004"
@@ -42,7 +50,7 @@
        rx="1"
        ry="1"
        x="562"
-       y="408"
+       y="406"
        transform="scale(-1,1)"
        id="rect6349"
        style="fill:#bebebe;fill-opacity:1;stroke:none;display:inline" />
@@ -51,7 +59,7 @@
        height="1.9901123"
        rx="0.99505615"
        ry="0.99505615"
-       x="408.00415"
+       x="406.00415"
        y="-583.99011"
        transform="matrix(0,1,1,0,0,0)"
        id="rect6351"
@@ -61,7 +69,7 @@
        height="1.9901123"
        rx="0.99505615"
        ry="0.99505615"
-       x="408.00415"
+       x="406.00415"
        y="-563.99011"
        transform="matrix(0,1,1,0,0,0)"
        id="rect6404"
@@ -72,20 +80,20 @@
        rx="0.99999994"
        ry="1"
        x="574"
-       y="424"
+       y="422"
        transform="scale(-1,1)"
        id="rect6406"
        style="fill:#bebebe;fill-opacity:1;stroke:none;display:inline" />
     <path
-       d="M -580.7077,412.69958 L -573.70334,419.70394 C -573.31354,420.09374 -572.68591,420.09374 -572.29616,419.70398 C -571.90633,419.31415 -571.90633,418.68653 -572.29613,418.29673 L -579.30049,411.29237 C -579.69029,410.90257 -580.31791,410.90257 -580.70774,411.2924 C -581.09749,411.68216 -581.0975,412.30978 -580.7077,412.69958 z"
+       d="M -580.7077,410.69958 L -573.70334,417.70394 C -573.31354,418.09374 -572.68591,418.09374 -572.29616,417.70398 C -571.90633,417.31415 -571.90633,416.68653 -572.29613,416.29673 L -579.30049,409.29237 C -579.69029,408.90257 -580.31791,408.90257 -580.70774,409.2924 C -581.09749,409.68216 -581.0975,410.30978 -580.7077,410.69958 L -580.7077,410.69958 z"
        id="rect6408"
        style="fill:#bebebe;fill-opacity:1;stroke:none;display:inline" />
     <path
-       d="M -565.29236,412.69955 L -572.29672,419.70392 C -572.68652,420.09371 -573.31415,420.09371 -573.70391,419.70396 C -574.09374,419.31413 -574.09374,418.6865 -573.70394,418.2967 L -566.69957,411.29234 C -566.30977,410.90254 -565.68215,410.90254 -565.29232,411.29237 C -564.90256,411.68213 -564.90256,412.30975 -565.29236,412.69955 z"
+       d="M -565.29236,410.69955 L -572.29672,417.70392 C -572.68652,418.09371 -573.31415,418.09371 -573.70391,417.70396 C -574.09374,417.31413 -574.09374,416.6865 -573.70394,416.2967 L -566.69957,409.29234 C -566.30977,408.90254 -565.68215,408.90254 -565.29232,409.29237 C -564.90256,409.68213 -564.90256,410.30975 -565.29236,410.69955 L -565.29236,410.69955 z"
        id="path6411"
        style="fill:#bebebe;fill-opacity:1;stroke:none;display:inline" />
     <g
-       transform="translate(365,-203.08775)"
+       transform="translate(365,-205.08775)"
        id="g6436"
        style="display:inline">
       <rect
@@ -128,7 +136,7 @@
          style="fill:#606eff;fill-opacity:1;stroke:none;display:inline" />
     </g>
     <g
-       transform="matrix(1,0,0,-1,360,1045.0901)"
+       transform="matrix(1,0,0,-1,360,1043.0901)"
        id="g6443"
        style="fill:#3e42ac;fill-opacity:0.9995338;display:inline">
       <rect
@@ -174,8 +182,8 @@
        width="24"
        height="24"
        x="-584"
-       y="406"
+       y="404"
        id="rect7185"
-       style="opacity:0;fill:#3e42ac;fill-opacity:0.9995338;stroke:none;stroke-width:2;stroke-linecap:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1;display:inline" />
+       style="opacity:0;fill:#3e42ac;fill-opacity:0.9995338;stroke:none;display:inline" />
   </g>
 </svg>

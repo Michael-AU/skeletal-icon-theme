@@ -1,0 +1,106 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Created with Inkscape (http://www.inkscape.org/) -->
+<svg
+   xmlns:svg="http://www.w3.org/2000/svg"
+   xmlns="http://www.w3.org/2000/svg"
+   version="1.0"
+   width="24.000019"
+   height="24"
+   id="svg7384">
+  <title
+     id="title9167">Moblin Icon Theme</title>
+  <defs
+     id="defs7386" />
+  <g
+     transform="translate(464.00002,-468)"
+     id="layer3" />
+  <g
+     transform="translate(464.00002,-468)"
+     id="layer5" />
+  <g
+     transform="translate(464.00002,-468)"
+     id="layer7" />
+  <g
+     transform="translate(464.00002,-468)"
+     id="layer2" />
+  <g
+     transform="translate(464.00002,-468)"
+     id="layer8" />
+  <g
+     transform="translate(464.00002,-1420.3622)"
+     id="layer1" />
+  <g
+     transform="translate(464.00002,-468)"
+     id="layer11" />
+  <g
+     transform="translate(464.00002,-468)"
+     id="layer4" />
+  <g
+     transform="translate(464.00002,-468)"
+     id="layer9" />
+  <g
+     transform="translate(464.00002,-468)"
+     id="layer10" />
+  <g
+     transform="translate(464.00002,-468)"
+     id="layer6">
+    <g
+       transform="translate(484.99998,-133.08777)"
+       id="g6058"
+       style="display:inline">
+      <rect
+         width="8"
+         height="2"
+         rx="0.94194174"
+         ry="0.94194174"
+         x="925"
+         y="-622.09003"
+         transform="scale(-1,-1)"
+         id="rect6060"
+         style="fill:#606eff;fill-opacity:1;stroke:none;display:inline" />
+      <rect
+         width="4"
+         height="4.9977431"
+         rx="1.03125"
+         ry="1.03125"
+         x="927"
+         y="-625.08777"
+         transform="scale(-1,-1)"
+         id="rect6062"
+         style="fill:#606eff;fill-opacity:1;stroke:none;display:inline" />
+      <path
+         d="M -928.29155,618.79576 L -931.29201,621.79622 C -931.68375,622.18796 -932.31449,622.18796 -932.70623,621.79622 C -933.09796,621.40449 -933.09796,620.77375 -932.70623,620.38201 L -929.70577,617.38155 C -929.31403,616.98981 -928.68329,616.98981 -928.29155,617.38155 C -927.89982,617.77329 -927.89982,618.40403 -928.29155,618.79576 z"
+         id="path6064"
+         style="fill:#606eff;fill-opacity:1;stroke:none;display:inline" />
+      <path
+         d="M -929.70846,618.79576 L -926.708,621.79622 C -926.31626,622.18796 -925.68552,622.18796 -925.29378,621.79622 C -924.90205,621.40448 -924.90205,620.77374 -925.29378,620.38201 L -928.29424,617.38155 C -928.68598,616.98981 -929.31672,616.98981 -929.70846,617.38155 C -930.10019,617.77328 -930.10019,618.40402 -929.70846,618.79576 z"
+         id="path6078"
+         style="fill:#606eff;fill-opacity:1;stroke:none;display:inline" />
+      <rect
+         width="2.00226"
+         height="2.203125"
+         rx="0"
+         ry="0"
+         x="928"
+         y="-621.29315"
+         transform="scale(-1,-1)"
+         id="rect6080"
+         style="fill:#606eff;fill-opacity:1;stroke:none;display:inline" />
+    </g>
+    <rect
+       width="24"
+       height="24"
+       x="-464.00003"
+       y="468"
+       id="rect6095"
+       style="opacity:0;fill:#3e42ac;fill-opacity:0.9995338;stroke:none;display:inline" />
+    <path
+       d="M -463.09375,470 C -463.60911,470.04857 -464.00223,470.48237 -464,471 L -464,487.0625 C -463.99994,487.61476 -463.55226,488.06244 -463,488.0625 L -451,488.0625 C -450.63936,488.0676 -450.30392,487.87812 -450.12211,487.56663 C -449.94031,487.25513 -449.94031,486.86987 -450.12211,486.55837 C -450.30392,486.24688 -450.63936,486.0574 -451,486.0625 L -462,486.0625 L -462,472 L -444,472 L -444,482 C -444.0051,482.36064 -443.81562,482.69608 -443.50413,482.87789 C -443.19263,483.05969 -442.80737,483.05969 -442.49587,482.87789 C -442.18438,482.69608 -441.9949,482.36064 -442,482 L -442,471 C -442.00006,470.44774 -442.44774,470.00006 -443,470 L -463,470 C -463.03123,469.99853 -463.06252,469.99853 -463.09375,470 L -463.09375,470 z"
+       id="path6097"
+       style="fill:#bebebe;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:2;stroke-linecap:round;stroke-linejoin:round;marker:none;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;visibility:visible;display:inline;overflow:visible;enable-background:accumulate" />
+    <path
+       d="M -460.21875,473 C -460.59186,473.06769 -460.89459,473.34057 -461.00052,473.70468 C -461.10644,474.06879 -460.99733,474.46148 -460.71875,474.71875 L -453.71875,481.71875 C -453.53034,481.91349 -453.27097,482.02344 -453,482.02344 C -452.72903,482.02344 -452.46966,481.91349 -452.28125,481.71875 L -445.28125,474.71875 C -444.8843,474.3218 -444.8843,473.6782 -445.28125,473.28125 C -445.6782,472.8843 -446.3218,472.8843 -446.71875,473.28125 L -453,479.5625 L -459.28125,473.28125 C -459.52339,473.03054 -459.87859,472.92398 -460.21875,473 L -460.21875,473 z"
+       id="path6121"
+       style="fill:#bebebe;fill-opacity:1;stroke:none;stroke-width:2;stroke-linecap:round;stroke-linejoin:round;marker:none;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;visibility:visible;display:inline;overflow:visible;enable-background:accumulate" />
+  </g>
+</svg>
