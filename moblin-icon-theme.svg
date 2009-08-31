@@ -3254,10 +3254,10 @@
      inkscape:pageopacity="0"
      inkscape:pageshadow="2"
      inkscape:zoom="1"
-     inkscape:cx="-512.25698"
-     inkscape:cy="-324.83429"
+     inkscape:cx="-377.94105"
+     inkscape:cy="-584.23476"
      inkscape:document-units="px"
-     inkscape:current-layer="layer6"
+     inkscape:current-layer="layer11"
      showgrid="false"
      showborder="false"
      inkscape:window-width="1596"
@@ -3268,7 +3268,7 @@
      inkscape:showpageshadow="false"
      showguides="true"
      inkscape:guide-bbox="true"
-     inkscape:snap-nodes="true"
+     inkscape:snap-nodes="false"
      inkscape:snap-bbox="true">
     <inkscape:grid
        type="xygrid"
@@ -3277,6 +3277,10 @@
        visible="true"
        enabled="true"
        snapvisiblegridlinesonly="true" />
+    <sodipodi:guide
+       orientation="1,0"
+       position="-618,-632"
+       id="guide6123" />
   </sodipodi:namedview>
   <metadata
      id="metadata7389">
@@ -10205,7 +10209,7 @@ Claire Alexander</dc:title>
     <g
        id="g9275"
        inkscape:label="source-playlist"
-       transform="translate(-221,487)">
+       transform="translate(-643,671)">
       <rect
          inkscape:export-ydpi="90"
          inkscape:export-xdpi="90"
@@ -10219,7 +10223,7 @@ Claire Alexander</dc:title>
          y="175" />
       <path
          transform="matrix(0.8376844,0,0,0.8376844,30.958568,190.49404)"
-         d="m 3.6307589,4.185298 c 0,2.6371971 -2.1378707,4.7750678 -4.7750678,4.7750678 -2.6371972,0 -4.7750678,-2.1378707 -4.7750678,-4.7750678 0,-2.6371972 2.1378706,-4.77506784 4.7750678,-4.77506784 2.6371971,0 4.7750678,2.13787064 4.7750678,4.77506784 z"
+         d="m 3.6307589,4.185298 a 4.7750678,4.7750678 0 1 1 -9.5501356,0 4.7750678,4.7750678 0 1 1 9.5501356,0 z"
          sodipodi:ry="4.7750678"
          sodipodi:rx="4.7750678"
          sodipodi:cy="4.185298"
@@ -10252,7 +10256,7 @@ Claire Alexander</dc:title>
     <g
        id="g9284"
        inkscape:label="source-smart-playlist"
-       transform="translate(-220,487)">
+       transform="translate(-642,671)">
       <rect
          inkscape:export-ydpi="90"
          inkscape:export-xdpi="90"
@@ -10287,7 +10291,7 @@ Claire Alexander</dc:title>
          style="color:#000000;fill:none;stroke:#729fcf;stroke-width:1.99999988;stroke-linecap:round;stroke-linejoin:miter;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none;stroke-dashoffset:0;marker:none;visibility:visible;display:inline;overflow:visible;enable-background:accumulate" />
       <path
          transform="matrix(1.0666667,0,0,1.0666667,-604.49291,-829.7143)"
-         d="m 622.9375,955.96503 c 0,0.51776 -0.41973,0.9375 -0.9375,0.9375 -0.51777,0 -0.9375,-0.41974 -0.9375,-0.9375 0,-0.51777 0.41973,-0.9375 0.9375,-0.9375 0.51777,0 0.9375,0.41973 0.9375,0.9375 z"
+         d="m 622.9375,955.96503 a 0.9375,0.9375 0 1 1 -1.875,0 0.9375,0.9375 0 1 1 1.875,0 z"
          sodipodi:ry="0.9375"
          sodipodi:rx="0.9375"
          sodipodi:cy="955.96503"
@@ -10303,11 +10307,11 @@ Claire Alexander</dc:title>
          sodipodi:cy="955.96503"
          sodipodi:rx="0.9375"
          sodipodi:ry="0.9375"
-         d="m 622.9375,955.96503 c 0,0.51776 -0.41973,0.9375 -0.9375,0.9375 -0.51777,0 -0.9375,-0.41974 -0.9375,-0.9375 0,-0.51777 0.41973,-0.9375 0.9375,-0.9375 0.51777,0 0.9375,0.41973 0.9375,0.9375 z"
+         d="m 622.9375,955.96503 a 0.9375,0.9375 0 1 1 -1.875,0 0.9375,0.9375 0 1 1 1.875,0 z"
          transform="matrix(1.0666667,0,0,1.0666667,-604.49293,-821.71431)" />
       <path
          transform="matrix(1.0666667,0,0,1.0666667,-601.49293,-822.71431)"
-         d="m 622.9375,955.96503 c 0,0.51776 -0.41973,0.9375 -0.9375,0.9375 -0.51777,0 -0.9375,-0.41974 -0.9375,-0.9375 0,-0.51777 0.41973,-0.9375 0.9375,-0.9375 0.51777,0 0.9375,0.41973 0.9375,0.9375 z"
+         d="m 622.9375,955.96503 a 0.9375,0.9375 0 1 1 -1.875,0 0.9375,0.9375 0 1 1 1.875,0 z"
          sodipodi:ry="0.9375"
          sodipodi:rx="0.9375"
          sodipodi:cy="955.96503"
@@ -10323,11 +10327,11 @@ Claire Alexander</dc:title>
          sodipodi:cy="955.96503"
          sodipodi:rx="0.9375"
          sodipodi:ry="0.9375"
-         d="m 622.9375,955.96503 c 0,0.51776 -0.41973,0.9375 -0.9375,0.9375 -0.51777,0 -0.9375,-0.41974 -0.9375,-0.9375 0,-0.51777 0.41973,-0.9375 0.9375,-0.9375 0.51777,0 0.9375,0.41973 0.9375,0.9375 z"
+         d="m 622.9375,955.96503 a 0.9375,0.9375 0 1 1 -1.875,0 0.9375,0.9375 0 1 1 1.875,0 z"
          transform="matrix(1.0666667,0,0,1.0666667,-607.49293,-822.71431)" />
       <path
          transform="matrix(1.0666667,0,0,1.0666667,-608.49293,-825.7143)"
-         d="m 622.9375,955.96503 c 0,0.51776 -0.41973,0.9375 -0.9375,0.9375 -0.51777,0 -0.9375,-0.41974 -0.9375,-0.9375 0,-0.51777 0.41973,-0.9375 0.9375,-0.9375 0.51777,0 0.9375,0.41973 0.9375,0.9375 z"
+         d="m 622.9375,955.96503 a 0.9375,0.9375 0 1 1 -1.875,0 0.9375,0.9375 0 1 1 1.875,0 z"
          sodipodi:ry="0.9375"
          sodipodi:rx="0.9375"
          sodipodi:cy="955.96503"
@@ -10343,11 +10347,11 @@ Claire Alexander</dc:title>
          sodipodi:cy="955.96503"
          sodipodi:rx="0.9375"
          sodipodi:ry="0.9375"
-         d="m 622.9375,955.96503 c 0,0.51776 -0.41973,0.9375 -0.9375,0.9375 -0.51777,0 -0.9375,-0.41974 -0.9375,-0.9375 0,-0.51777 0.41973,-0.9375 0.9375,-0.9375 0.51777,0 0.9375,0.41973 0.9375,0.9375 z"
+         d="m 622.9375,955.96503 a 0.9375,0.9375 0 1 1 -1.875,0 0.9375,0.9375 0 1 1 1.875,0 z"
          transform="matrix(1.0666667,0,0,1.0666667,-607.49293,-828.7143)" />
       <path
          transform="matrix(1.0666667,0,0,1.0666667,-600.49293,-828.7143)"
-         d="m 622.9375,955.96503 c 0,0.51776 -0.41973,0.9375 -0.9375,0.9375 -0.51777,0 -0.9375,-0.41974 -0.9375,-0.9375 0,-0.51777 0.41973,-0.9375 0.9375,-0.9375 0.51777,0 0.9375,0.41973 0.9375,0.9375 z"
+         d="m 622.9375,955.96503 a 0.9375,0.9375 0 1 1 -1.875,0 0.9375,0.9375 0 1 1 1.875,0 z"
          sodipodi:ry="0.9375"
          sodipodi:rx="0.9375"
          sodipodi:cy="955.96503"
@@ -10363,11 +10367,11 @@ Claire Alexander</dc:title>
          sodipodi:cy="955.96503"
          sodipodi:rx="0.9375"
          sodipodi:ry="0.9375"
-         d="m 622.9375,955.96503 c 0,0.51776 -0.41973,0.9375 -0.9375,0.9375 -0.51777,0 -0.9375,-0.41974 -0.9375,-0.9375 0,-0.51777 0.41973,-0.9375 0.9375,-0.9375 0.51777,0 0.9375,0.41973 0.9375,0.9375 z"
+         d="m 622.9375,955.96503 a 0.9375,0.9375 0 1 1 -1.875,0 0.9375,0.9375 0 1 1 1.875,0 z"
          transform="matrix(1.0666667,0,0,1.0666667,-600.49293,-825.7143)" />
       <path
          transform="matrix(1.0666667,0,0,1.0666667,-600.49293,-831.7143)"
-         d="m 622.9375,955.96503 c 0,0.51776 -0.41973,0.9375 -0.9375,0.9375 -0.51777,0 -0.9375,-0.41974 -0.9375,-0.9375 0,-0.51777 0.41973,-0.9375 0.9375,-0.9375 0.51777,0 0.9375,0.41973 0.9375,0.9375 z"
+         d="m 622.9375,955.96503 a 0.9375,0.9375 0 1 1 -1.875,0 0.9375,0.9375 0 1 1 1.875,0 z"
          sodipodi:ry="0.9375"
          sodipodi:rx="0.9375"
          sodipodi:cy="955.96503"
@@ -10383,11 +10387,11 @@ Claire Alexander</dc:title>
          sodipodi:cy="955.96503"
          sodipodi:rx="0.9375"
          sodipodi:ry="0.9375"
-         d="m 622.9375,955.96503 c 0,0.51776 -0.41973,0.9375 -0.9375,0.9375 -0.51777,0 -0.9375,-0.41974 -0.9375,-0.9375 0,-0.51777 0.41973,-0.9375 0.9375,-0.9375 0.51777,0 0.9375,0.41973 0.9375,0.9375 z"
+         d="m 622.9375,955.96503 a 0.9375,0.9375 0 1 1 -1.875,0 0.9375,0.9375 0 1 1 1.875,0 z"
          transform="matrix(1.0666667,0,0,1.0666667,-600.49293,-834.7143)" />
       <path
          transform="matrix(1.0666667,0,0,1.0666667,-600.49293,-837.7143)"
-         d="m 622.9375,955.96503 c 0,0.51776 -0.41973,0.9375 -0.9375,0.9375 -0.51777,0 -0.9375,-0.41974 -0.9375,-0.9375 0,-0.51777 0.41973,-0.9375 0.9375,-0.9375 0.51777,0 0.9375,0.41973 0.9375,0.9375 z"
+         d="m 622.9375,955.96503 a 0.9375,0.9375 0 1 1 -1.875,0 0.9375,0.9375 0 1 1 1.875,0 z"
          sodipodi:ry="0.9375"
          sodipodi:rx="0.9375"
          sodipodi:cy="955.96503"
@@ -10399,7 +10403,7 @@ Claire Alexander</dc:title>
     <g
        id="g12504-5"
        inkscape:label="lastfm-personal"
-       transform="translate(95.5,487.5)">
+       transform="translate(-326.5,671.5)">
       <rect
          y="174.5"
          x="209.5"
@@ -10420,7 +10424,7 @@ Claire Alexander</dc:title>
       </g>
       <path
          transform="matrix(0.41747575,0,0,0.41747575,-214.01575,185.74621)"
-         d="m 3.6307589,4.185298 c 0,2.6371971 -2.1378707,4.7750678 -4.7750678,4.7750678 -2.6371972,0 -4.7750678,-2.1378707 -4.7750678,-4.7750678 0,-2.6371972 2.1378706,-4.77506784 4.7750678,-4.77506784 2.6371971,0 4.7750678,2.13787064 4.7750678,4.77506784 z"
+         d="m 3.6307589,4.185298 a 4.7750678,4.7750678 0 1 1 -9.5501356,0 4.7750678,4.7750678 0 1 1 9.5501356,0 z"
          sodipodi:ry="4.7750678"
          sodipodi:rx="4.7750678"
          sodipodi:cy="4.185298"
@@ -10435,7 +10439,7 @@ Claire Alexander</dc:title>
          sodipodi:nodetypes="cc" />
     </g>
     <g
-       transform="translate(123.5,487.5)"
+       transform="translate(-298.5,671.5)"
        inkscape:label="lastfm-neighbourhood"
        id="g10980">
       <rect
@@ -10460,7 +10464,7 @@ Claire Alexander</dc:title>
     <g
        id="g11019"
        inkscape:label="lastfm-recommended"
-       transform="translate(151.5,487.5)">
+       transform="translate(-270.5,671.5)">
       <rect
          y="174.5"
          x="209.5"
@@ -10477,7 +10481,7 @@ Claire Alexander</dc:title>
          sodipodi:cy="182"
          sodipodi:rx="5"
          sodipodi:ry="5"
-         d="m 142.3003,185.36336 c -1.85754,-2.04328 -1.70695,-5.20553 0.33634,-7.06306 1.97487,-1.79534 5.01165,-1.72308 6.89889,0.16417"
+         d="m 142.3003,185.36336 a 5,5 0 0 1 7.23523,-6.89889"
          transform="matrix(1.0528917,0,0,1.0576777,-378.98479,-9.6556392)"
          sodipodi:start="2.4037776"
          sodipodi:end="5.4977871"
@@ -10488,7 +10492,7 @@ Claire Alexander</dc:title>
          id="path11031" />
       <path
          transform="matrix(1.0528916,0,0,1.0576776,-371.44479,-9.6563968)"
-         d="m 142.46447,178.46447 c 1.95262,-1.95263 5.11844,-1.95263 7.07106,0 1.86399,1.86399 1.96066,4.85493 0.22092,6.83539"
+         d="m 142.46447,178.46447 a 5,5 0 0 1 7.29198,6.83539"
          sodipodi:ry="5"
          sodipodi:rx="5"
          sodipodi:cy="182"
@@ -10503,7 +10507,7 @@ Claire Alexander</dc:title>
     <g
        id="g11088"
        inkscape:label="lastfm-tag"
-       transform="translate(-220,488)">
+       transform="translate(-642,672)">
       <g
          id="g11056"
          inkscape:label="lastfm-recommended"
@@ -10524,7 +10528,7 @@ Claire Alexander</dc:title>
          style="color:#000000;fill:none;stroke:#bebebe;stroke-width:2;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none;stroke-dashoffset:0;marker:none;visibility:visible;display:inline;overflow:visible;enable-background:accumulate" />
       <path
          transform="matrix(0.53874802,0,0,0.53874802,81.452378,84.387106)"
-         d="m 180.13546,184.897 c 0,1.53769 -1.24654,2.78424 -2.78423,2.78424 -1.53769,0 -2.78424,-1.24655 -2.78424,-2.78424 0,-1.53769 1.24655,-2.78423 2.78424,-2.78423 1.53769,0 2.78423,1.24654 2.78423,2.78423 z"
+         d="m 180.13546,184.897 a 2.7842329,2.7842329 0 1 1 -5.56847,0 2.7842329,2.7842329 0 1 1 5.56847,0 z"
          sodipodi:ry="2.7842329"
          sodipodi:rx="2.7842329"
          sodipodi:cy="184.897"
@@ -10537,7 +10541,7 @@ Claire Alexander</dc:title>
          sodipodi:end="7.57327"
          sodipodi:start="2.6689818"
          transform="matrix(0.88048905,0,0,0.88048905,19.598485,24.068514)"
-         d="m 178.2601,180.55008 c -1.57772,-3.08598 -0.35504,-6.86666 2.73094,-8.44438 3.08598,-1.57773 6.86666,-0.35504 8.44439,2.73094 1.57772,3.08598 0.35503,6.86666 -2.73095,8.44438 -0.35769,0.18288 -0.73213,0.33098 -1.11814,0.44228"
+         d="m 178.2601,180.55008 a 6.2755728,6.2755728 0 1 1 7.32624,3.17322"
          sodipodi:ry="6.2755728"
          sodipodi:rx="6.2755728"
          sodipodi:cy="177.69336"
@@ -10549,12 +10553,12 @@ Claire Alexander</dc:title>
     <text
        sodipodi:linespacing="125%"
        id="text11071-5"
-       y="629"
-       x="-198"
+       y="814"
+       x="-619"
        style="font-size:40px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:start;line-height:125%;writing-mode:lr-tb;text-anchor:start;fill:#000000;fill-opacity:1;stroke:none;font-family:RaveIn;-inkscape-font-specification:RaveIn"
        xml:space="preserve"><tspan
-         y="629"
-         x="-198"
+         y="814"
+         x="-619"
          id="tspan11073-4"
          sodipodi:role="line">app-overrides</tspan></text>
     <path
@@ -10566,9 +10570,9 @@ Claire Alexander</dc:title>
        sodipodi:rx="2"
        sodipodi:ry="2"
        d="m 1510.75,202.75 a 2,2 0 1 1 -4,0 2,2 0 1 1 4,0 z"
-       transform="translate(-1470.75,485.25001)" />
+       transform="translate(-1892.75,669.25001)" />
     <g
-       transform="translate(-1553.0272,486.98231)"
+       transform="translate(-1975.0272,670.98231)"
        id="g10101"
        inkscape:label="flickr">
       <rect
@@ -10581,7 +10585,7 @@ Claire Alexander</dc:title>
          transform="scale(-1,1)" />
       <path
          transform="matrix(-0.1691071,-0.1691071,0.1693543,-0.1693542,1509.7477,212.53262)"
-         d="m -2.8284264,179.43886 c 0,12.69204 -10.2889306,22.98097 -22.9809706,22.98097 -12.692039,0 -22.98097,-10.28893 -22.98097,-22.98097 0,-12.69204 10.288931,-22.98097 22.98097,-22.98097 12.69204,0 22.9809706,10.28893 22.9809706,22.98097 z"
+         d="m -2.8284264,179.43886 a 22.98097,22.98097 0 1 1 -45.9619406,0 22.98097,22.98097 0 1 1 45.9619406,0 z"
          sodipodi:ry="22.98097"
          sodipodi:rx="22.98097"
          sodipodi:cy="179.43886"
@@ -10597,11 +10601,11 @@ Claire Alexander</dc:title>
          sodipodi:cy="179.43886"
          sodipodi:rx="22.98097"
          sodipodi:ry="22.98097"
-         d="m -2.8284264,179.43886 c 0,12.69204 -10.2889306,22.98097 -22.9809706,22.98097 -12.692039,0 -22.98097,-10.28893 -22.98097,-22.98097 0,-12.69204 10.288931,-22.98097 22.98097,-22.98097 12.69204,0 22.9809706,10.28893 22.9809706,22.98097 z"
+         d="m -2.8284264,179.43886 a 22.98097,22.98097 0 1 1 -45.9619406,0 22.98097,22.98097 0 1 1 45.9619406,0 z"
          transform="matrix(-0.1691071,-0.1691072,0.1693542,-0.1693543,1498.7477,212.53262)" />
       <path
          transform="matrix(-0.1691071,-0.1691072,0.1693542,-0.1693543,1498.7477,212.53262)"
-         d="m -2.8284264,179.43886 c 0,12.69204 -10.2889306,22.98097 -22.9809706,22.98097 -12.692039,0 -22.98097,-10.28893 -22.98097,-22.98097 0,-12.69204 10.288931,-22.98097 22.98097,-22.98097 12.69204,0 22.9809706,10.28893 22.9809706,22.98097 z"
+         d="m -2.8284264,179.43886 a 22.98097,22.98097 0 1 1 -45.9619406,0 22.98097,22.98097 0 1 1 45.9619406,0 z"
          sodipodi:ry="22.98097"
          sodipodi:rx="22.98097"
          sodipodi:cy="179.43886"
@@ -10613,7 +10617,7 @@ Claire Alexander</dc:title>
     <g
        id="g10152"
        inkscape:label="lastfm"
-       transform="translate(-1184.9737,461.00629)">
+       transform="translate(-1606.9737,645.00629)">
       <rect
          transform="scale(-1,1)"
          style="opacity:0;fill:#ffffff;fill-opacity:1;stroke:none;display:inline"
@@ -10669,18 +10673,18 @@ Claire Alexander</dc:title>
     <g
        id="g4626"
        inkscape:label="lastfm-audioscrobbler"
-       transform="translate(-1198.9737,461.00629)">
+       transform="translate(-1620.9737,645.00629)">
       <use
          height="100"
          width="300"
-         transform="translate(1224.9737,-461.00629)"
+         transform="translate(1646.9737,-645.00629)"
          id="use4624"
          xlink:href="#g10152"
          y="0"
          x="0" />
     </g>
     <g
-       transform="translate(-1132.9738,461.00629)"
+       transform="translate(-1802.8325,719.00636)"
        inkscape:label="media-player-banshee"
        id="g6258">
       <rect
@@ -10715,7 +10719,7 @@ Claire Alexander</dc:title>
          style="color:#000000;fill:none;stroke:#bebebe;stroke-width:4.66659975;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none;stroke-dashoffset:0;marker:none;visibility:visible;display:inline;overflow:visible;enable-background:accumulate"
          sodipodi:type="arc" />
       <path
-         style="color:#000000;fill:none;stroke:#bebebe;stroke-width:2;marker:none;visibility:visible;display:inline;overflow:visible;enable-background:accumulate;stroke-opacity:1;stroke-linecap:round;stroke-linejoin:round"
+         style="color:#000000;fill:none;stroke:#bebebe;stroke-width:2;stroke-linecap:round;stroke-linejoin:round;stroke-opacity:1;marker:none;visibility:visible;display:inline;overflow:visible;enable-background:accumulate"
          d="m 61,677 0,-14 -4,4"
          id="path6274"
          transform="translate(1132.9738,-461.00629)"
@@ -10724,7 +10728,7 @@ Claire Alexander</dc:title>
     <g
        id="g6544"
        inkscape:label="inkscape"
-       transform="translate(-1106.9738,461.00629)">
+       transform="translate(-1776.8325,719.00636)">
       <rect
          transform="scale(-1,1)"
          style="opacity:0;fill:#ffffff;fill-opacity:1;stroke:none;display:inline"
@@ -10780,7 +10784,7 @@ Claire Alexander</dc:title>
          transform="matrix(0.48484837,0,0,0.48484837,1146.4738,-108.59712)" />
     </g>
     <g
-       transform="translate(-1080.9738,461.00629)"
+       transform="translate(-1750.8325,719.00636)"
        inkscape:label="gimp"
        id="g6646">
       <rect
@@ -10880,7 +10884,7 @@ Claire Alexander</dc:title>
     <g
        id="g5127"
        inkscape:label="f-spot"
-       transform="translate(-1052.9738,461.00629)">
+       transform="translate(-1722.8325,719.00636)">
       <rect
          transform="scale(-1,1)"
          style="opacity:0;fill:#ffffff;fill-opacity:1;stroke:none;display:inline"
@@ -10972,7 +10976,7 @@ Claire Alexander</dc:title>
          style="color:#000000;fill:none;stroke:#bebebe;stroke-width:1;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none;stroke-dashoffset:0;marker:none;visibility:visible;display:inline;overflow:visible;enable-background:accumulate" />
     </g>
     <g
-       transform="translate(-1024.9738,461.00629)"
+       transform="translate(-1694.8325,719.00636)"
        inkscape:label="firefox"
        id="g6040">
       <rect
@@ -11050,7 +11054,7 @@ Claire Alexander</dc:title>
     <g
        id="g6084"
        inkscape:label="gkrellm"
-       transform="translate(-996.97375,461.00629)">
+       transform="translate(-1666.8325,719.00636)">
       <rect
          transform="scale(-1,1)"
          style="opacity:0;fill:#ffffff;fill-opacity:1;stroke:none;display:inline"
@@ -11085,7 +11089,7 @@ Claire Alexander</dc:title>
          y="217.99371" />
     </g>
     <g
-       transform="translate(-968.97375,461.00629)"
+       transform="translate(-1638.8325,719.00636)"
        inkscape:label="gwibber"
        id="g6101">
       <rect
@@ -11102,6 +11106,28 @@ Claire Alexander</dc:title>
          id="path6206"
          sodipodi:nodetypes="cccccccccccccccccc" />
     </g>
+    <text
+       xml:space="preserve"
+       style="font-size:12.89304256px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:start;line-height:125%;writing-mode:lr-tb;text-anchor:start;fill:#000000;fill-opacity:1;stroke:none;font-family:RaveIn;-inkscape-font-specification:RaveIn"
+       x="-617.3465"
+       y="843.04523"
+       id="text6125"
+       sodipodi:linespacing="125%"><tspan
+         sodipodi:role="line"
+         id="tspan6127"
+         x="-617.3465"
+         y="843.04523">banshee</tspan></text>
+    <text
+       sodipodi:linespacing="125%"
+       id="text6129"
+       y="903.04523"
+       x="-617.3465"
+       style="font-size:12.89304256px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:start;line-height:125%;writing-mode:lr-tb;text-anchor:start;fill:#000000;fill-opacity:1;stroke:none;font-family:RaveIn;-inkscape-font-specification:RaveIn"
+       xml:space="preserve"><tspan
+         y="903.04523"
+         x="-617.3465"
+         id="tspan6131"
+         sodipodi:role="line">app launchers</tspan></text>
   </g>
   <g
      inkscape:groupmode="layer"
