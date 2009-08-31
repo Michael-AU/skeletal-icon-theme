@@ -1,0 +1,84 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Created with Inkscape (http://www.inkscape.org/) -->
+<svg
+   xmlns:svg="http://www.w3.org/2000/svg"
+   xmlns="http://www.w3.org/2000/svg"
+   version="1.0"
+   width="24"
+   height="24.025078"
+   id="svg7384">
+  <title
+     id="title9167">Moblin Icon Theme</title>
+  <defs
+     id="defs7386" />
+  <g
+     transform="translate(-858,-230)"
+     id="layer3" />
+  <g
+     transform="translate(-858,-230)"
+     id="layer5" />
+  <g
+     transform="translate(-858,-230)"
+     id="layer7">
+    <rect
+       width="24"
+       height="24"
+       x="858"
+       y="230.02507"
+       id="rect15346"
+       style="opacity:0;fill:#ffffff;fill-opacity:1;stroke:none;display:inline" />
+    <g
+       transform="translate(0,55.00576)"
+       id="use15348">
+      <path
+         d="M 861.0615,175.99424 L 871.0052,175.99424 L 877.05979,182.00464 L 877.01559,196.0142 L 861.0173,196.0142 L 861.0615,175.99424 L 861.0615,175.99424 z"
+         id="path10399"
+         style="fill:none;stroke:#bebebe;stroke-width:2;stroke-linecap:butt;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1" />
+      <path
+         d="M 870,176.24518 L 870,182.9558 L 877.10837,183 L 870,176.24518 z"
+         id="path10401"
+         style="fill:#bebebe;fill-opacity:1;stroke:none" />
+    </g>
+    <g
+       transform="matrix(0.3798178,0,0,0.3798178,1050.9137,98.542758)"
+       id="g6734-0" />
+    <path
+       d="M 869.02683,239.99938 C 866.8243,239.99938 865.02769,241.79599 865.0277,243.99852 C 865.0277,246.20105 866.8243,247.99764 869.02683,247.99765 C 871.22936,247.99765 873.02598,246.20105 873.02596,243.99852 C 873.02596,241.79599 871.22936,239.99939 869.02683,239.99938 z M 869.02683,241.01556 C 870.6883,241.01557 872.04257,242.33705 872.04257,243.99852 C 872.04257,245.65998 870.6883,247.01426 869.02683,247.01426 C 867.36536,247.01425 866.04387,245.65998 866.04387,243.99852 C 866.04387,242.33705 867.36536,241.01556 869.02683,241.01556 z"
+       id="path6853-7"
+       style="fill:#bebebe;fill-opacity:1;stroke:none;stroke-width:0.95333165;stroke-linecap:round;stroke-linejoin:round;marker:none;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;visibility:visible;display:inline;overflow:visible;enable-background:accumulate" />
+    <path
+       d="M -171.20823,269.59515 A 3.3366601,3.3366601 0 0 1 -167.87157,266.25849 L -167.87157,269.59515 z"
+       transform="matrix(-0.7583248,0,0,0.7583248,742.69882,38.559291)"
+       id="path6857-2"
+       style="fill:#bebebe;fill-opacity:1;stroke:none;stroke-width:1.11221945;marker:none;visibility:visible;display:inline;overflow:visible;enable-background:accumulate" />
+    <path
+       d="M -171.20823,269.59515 A 3.3366601,3.3366601 0 0 1 -167.87157,266.25849 L -167.87157,269.59515 z"
+       transform="matrix(1.0489526,0,0,-1.0489526,1045.0893,526.79252)"
+       id="path6859-4"
+       style="fill:#bebebe;fill-opacity:1;stroke:none;stroke-width:1.11221945;marker:none;visibility:visible;display:inline;overflow:visible;enable-background:accumulate" />
+  </g>
+  <g
+     transform="translate(-858,-230)"
+     id="layer2" />
+  <g
+     transform="translate(-858,-230)"
+     id="layer8" />
+  <g
+     transform="translate(-858,-1182.3622)"
+     id="layer1" />
+  <g
+     transform="translate(-858,-230)"
+     id="layer11" />
+  <g
+     transform="translate(-858,-230)"
+     id="layer4" />
+  <g
+     transform="translate(-858,-230)"
+     id="layer9" />
+  <g
+     transform="translate(-858,-230)"
+     id="layer10" />
+  <g
+     transform="translate(-858,-230)"
+     id="layer6" />
+</svg>
