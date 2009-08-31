@@ -1,0 +1,72 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Created with Inkscape (http://www.inkscape.org/) -->
+<svg
+   xmlns:svg="http://www.w3.org/2000/svg"
+   xmlns="http://www.w3.org/2000/svg"
+   version="1.0"
+   width="24.000015"
+   height="24.00621"
+   id="svg7384">
+  <title
+     id="title9167">Moblin Icon Theme</title>
+  <defs
+     id="defs7386" />
+  <g
+     transform="translate(234,-292)"
+     id="layer3" />
+  <g
+     transform="translate(234,-292)"
+     id="layer5" />
+  <g
+     transform="translate(234,-292)"
+     id="layer7" />
+  <g
+     transform="translate(234,-292)"
+     id="layer2" />
+  <g
+     transform="translate(234,-292)"
+     id="layer8" />
+  <g
+     transform="translate(234,-1244.3622)"
+     id="layer1" />
+  <g
+     transform="translate(234,-292)"
+     id="layer11" />
+  <g
+     transform="translate(234,-292)"
+     id="layer4">
+    <rect
+       width="24"
+       height="24"
+       x="209.99998"
+       y="292"
+       transform="scale(-1,1)"
+       id="rect7011"
+       style="opacity:0;fill:#ffffff;fill-opacity:1;stroke:none;display:inline" />
+    <path
+       d="M -231.15625,292 C -232.72126,292 -234,293.27874 -234,294.84375 L -234,311.15625 C -234,312.72126 -232.72126,314 -231.15625,314 L -212.84375,314 C -211.27874,314 -210,312.72126 -210,311.15625 L -210,294.84375 C -210,293.27874 -211.27874,292 -212.84375,292 L -231.15625,292 z M -231.15625,294 L -212.84375,294 C -212.35214,294 -212,294.35214 -212,294.84375 L -212,311.15625 C -212,311.64783 -212.35214,312 -212.84375,312 L -231.15625,312 C -231.64786,312 -232,311.64786 -232,311.15625 L -232,294.84375 C -232,294.35217 -231.64786,294 -231.15625,294 z"
+       id="rect7013"
+       style="fill:#bebebe;fill-opacity:1;stroke:none;stroke-width:1.99999952;marker:none;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1;visibility:visible;display:inline;overflow:visible;enable-background:accumulate" />
+    <path
+       d="M -229.125,314 C -229.67728,314.02589 -230.10401,314.49459 -230.07812,315.04687 C -230.05224,315.59916 -229.58353,316.02589 -229.03125,316 L -215,316 C -214.63937,316.0051 -214.30393,315.81562 -214.12212,315.50412 C -213.94032,315.19263 -213.94032,314.80737 -214.12212,314.49588 C -214.30393,314.18438 -214.63937,313.9949 -215,314 L -229.03125,314 C -229.06248,313.99853 -229.09377,313.99853 -229.125,314 z"
+       id="path7015"
+       style="fill:#bebebe;fill-opacity:1;stroke:none;stroke-width:1.99999952;stroke-linecap:round;stroke-linejoin:miter;marker:none;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;visibility:visible;display:inline;overflow:visible;enable-background:accumulate" />
+    <path
+       d="M -231,295 L -231,295.5 L -231,310.5 L -231,311 L -230.5,311 L -213.5,311 L -213,311 L -213,310.5 L -213,295.5 L -213,295 L -213.5,295 L -230.5,295 L -231,295 z M -230,296 L -214,296 L -214,310 L -230,310 L -230,296 z"
+       id="rect7019"
+       style="fill:#bebebe;fill-opacity:1;stroke:none;stroke-width:0.99999994;marker:none;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1;visibility:visible;display:inline;overflow:visible;enable-background:accumulate" />
+    <path
+       d="M -223.46875,297 C -223.691,297.00688 -223.882,297.15969 -223.9375,297.375 L -225.71875,303 L -228.5,303 C -228.68032,302.99745 -228.84804,303.09219 -228.93894,303.24794 C -229.02985,303.40369 -229.02985,303.59631 -228.93894,303.75206 C -228.84804,303.90781 -228.68032,304.00255 -228.5,304 L -225.375,304 C -225.16136,303.99733 -224.97302,303.85921 -224.90625,303.65625 L -223.53125,299.3125 L -221,308.65625 C -220.94131,308.858 -220.76276,309.00154 -220.55312,309.01551 C -220.34347,309.02949 -220.14745,308.91092 -220.0625,308.71875 L -218.09375,303.96875 L -215.34375,304.03125 C -215.16343,304.0338 -214.99571,303.93906 -214.90481,303.78331 C -214.8139,303.62756 -214.8139,303.43494 -214.90481,303.27919 C -214.99571,303.12344 -215.16343,303.0287 -215.34375,303.03125 L -218.4375,302.96875 C -218.64314,302.96661 -218.82913,303.0906 -218.90625,303.28125 L -220.40625,306.96875 L -223,297.375 C -223.0555,297.15969 -223.2465,297.00688 -223.46875,297 L -223.46875,297 z"
+       id="path7021"
+       style="fill:#bebebe;fill-opacity:1;stroke:none;stroke-width:1;stroke-linecap:round;stroke-linejoin:round;marker:none;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;visibility:visible;display:inline;overflow:visible;enable-background:accumulate" />
+  </g>
+  <g
+     transform="translate(234,-292)"
+     id="layer9" />
+  <g
+     transform="translate(234,-292)"
+     id="layer10" />
+  <g
+     transform="translate(234,-292)"
+     id="layer6" />
+</svg>
