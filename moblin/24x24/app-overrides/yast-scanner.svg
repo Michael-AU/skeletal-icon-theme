@@ -1,0 +1,71 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Created with Inkscape (http://www.inkscape.org/) -->
+<svg
+   xmlns:svg="http://www.w3.org/2000/svg"
+   xmlns="http://www.w3.org/2000/svg"
+   version="1.0"
+   width="24"
+   height="24"
+   id="svg7384">
+  <title
+     id="title9167">Moblin Icon Theme</title>
+  <defs
+     id="defs7386" />
+  <g
+     transform="translate(514,-1090)"
+     id="layer3" />
+  <g
+     transform="translate(514,-1090)"
+     id="layer5" />
+  <g
+     transform="translate(514,-1090)"
+     id="layer7" />
+  <g
+     transform="translate(514,-1090)"
+     id="layer2" />
+  <g
+     transform="translate(514,-1090)"
+     id="layer8" />
+  <g
+     transform="translate(514,-2042.3622)"
+     id="layer1" />
+  <g
+     transform="translate(514,-1090)"
+     id="layer11">
+    <path
+       d="M -508.5,1097.625 L -508.5,1109.5 L -495.5,1109.5 L -495.5,1097.625 L -508.5,1097.625 z M -505,1103 L -499,1103 C -497.892,1103 -497,1103.892 -497,1105 C -497,1106.108 -497.892,1107 -499,1107 L -505,1107 C -506.108,1107 -507,1106.108 -507,1105 C -507,1103.892 -506.108,1103 -505,1103 z"
+       id="rect7601"
+       style="opacity:0.5;fill:#bebebe;fill-opacity:1;stroke:none;stroke-width:1;stroke-linecap:round;stroke-linejoin:miter;marker:none;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;visibility:visible;display:inline;overflow:visible;enable-background:accumulate" />
+    <rect
+       width="24"
+       height="24"
+       x="-514"
+       y="1090"
+       id="rect7591"
+       style="opacity:0;fill:#ffffff;fill-opacity:1;stroke:none;display:inline" />
+    <path
+       d="M -509.65625,1094 C -510.93052,1094 -512,1095.0695 -512,1096.3438 L -512,1111.5938 C -512,1112.868 -510.93052,1113.9062 -509.65625,1113.9062 L -494.34375,1113.9062 C -493.06948,1113.9062 -492,1112.868 -492,1111.5938 L -492,1096.3438 C -492,1095.0695 -493.06948,1094 -494.34375,1094 L -509.65625,1094 z M -509.65625,1096 L -494.34375,1096 C -494.14286,1096 -494,1096.1429 -494,1096.3438 L -494,1111.5938 C -494,1111.7945 -494.14289,1111.9062 -494.34375,1111.9062 L -509.65625,1111.9062 C -509.85714,1111.9062 -510,1111.7946 -510,1111.5938 L -510,1096.3438 C -510,1096.143 -509.85711,1096 -509.65625,1096 z"
+       id="rect7595"
+       style="fill:#bebebe;fill-opacity:1;stroke:none;stroke-width:2;stroke-linecap:round;stroke-linejoin:miter;marker:none;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;visibility:visible;display:inline;overflow:visible;enable-background:accumulate" />
+    <path
+       d="M -508.5,1097 C -508.50076,1097 -508.68684,1097.031 -508.6875,1097.0312 C -508.68816,1097.0315 -508.84325,1097.1558 -508.84375,1097.1562 C -508.84425,1097.1567 -508.96847,1097.3118 -508.96875,1097.3125 C -508.96903,1097.3132 -509,1097.4992 -509,1097.5 L -509,1109.5 C -509,1109.5008 -508.96903,1109.6868 -508.96875,1109.6875 C -508.96847,1109.6882 -508.84425,1109.8433 -508.84375,1109.8438 C -508.84325,1109.8442 -508.68816,1109.9685 -508.6875,1109.9688 C -508.68684,1109.969 -508.50077,1110 -508.5,1110 L -495.5,1110 C -495.49924,1110 -495.31316,1109.969 -495.3125,1109.9688 C -495.31184,1109.9685 -495.15675,1109.8442 -495.15625,1109.8438 C -495.15575,1109.8433 -495.03153,1109.6882 -495.03125,1109.6875 C -495.03097,1109.6868 -495,1109.5008 -495,1109.5 L -495,1097.5 C -495,1097.4992 -495.03097,1097.3132 -495.03125,1097.3125 C -495.03153,1097.3118 -495.15575,1097.1567 -495.15625,1097.1562 C -495.15675,1097.1558 -495.31184,1097.0315 -495.3125,1097.0312 C -495.31316,1097.031 -495.49923,1097 -495.5,1097 L -508.5,1097 z M -508,1098 L -496,1098 L -496,1109 L -508,1109 L -508,1098 z"
+       id="rect7597"
+       style="fill:#bebebe;fill-opacity:1;stroke:none;stroke-width:1;stroke-linecap:round;stroke-linejoin:miter;marker:none;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;visibility:visible;display:inline;overflow:visible;enable-background:accumulate" />
+    <path
+       d="M -506,1102 C -507.6447,1102 -509,1103.3553 -509,1105 C -509,1106.6447 -507.6447,1108 -506,1108 L -498,1108 C -496.3553,1108 -495,1106.6447 -495,1105 C -495,1103.3553 -496.3553,1102 -498,1102 L -506,1102 z M -506,1104 L -498,1104 C -497.4287,1104 -497,1104.4287 -497,1105 C -497,1105.5713 -497.4287,1106 -498,1106 L -506,1106 C -506.5713,1106 -507,1105.5713 -507,1105 C -507,1104.4287 -506.5713,1104 -506,1104 z"
+       id="rect7599"
+       style="fill:#bebebe;fill-opacity:1;stroke:none;stroke-width:1.99999988;stroke-linecap:round;stroke-linejoin:miter;marker:none;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;visibility:visible;display:inline;overflow:visible;enable-background:accumulate" />
+  </g>
+  <g
+     transform="translate(514,-1090)"
+     id="layer4" />
+  <g
+     transform="translate(514,-1090)"
+     id="layer9" />
+  <g
+     transform="translate(514,-1090)"
+     id="layer10" />
+  <g
+     transform="translate(514,-1090)"
+     id="layer6" />
+</svg>
