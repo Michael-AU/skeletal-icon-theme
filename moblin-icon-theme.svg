@@ -3245,6 +3245,13 @@
        inkscape:vp_y="0 : 1000 : 0"
        inkscape:vp_x="0 : 0.5 : 1"
        sodipodi:type="inkscape:persp3d" />
+    <inkscape:perspective
+       id="perspective6141"
+       inkscape:persp3d-origin="0.5 : 0.33333333 : 1"
+       inkscape:vp_z="1 : 0.5 : 1"
+       inkscape:vp_y="0 : 1000 : 0"
+       inkscape:vp_x="0 : 0.5 : 1"
+       sodipodi:type="inkscape:persp3d" />
   </defs>
   <sodipodi:namedview
      id="base"
@@ -3254,10 +3261,10 @@
      inkscape:pageopacity="0"
      inkscape:pageshadow="2"
      inkscape:zoom="1"
-     inkscape:cx="-377.94105"
-     inkscape:cy="-584.23476"
+     inkscape:cx="-578.13918"
+     inkscape:cy="-250.43447"
      inkscape:document-units="px"
-     inkscape:current-layer="layer11"
+     inkscape:current-layer="layer6"
      showgrid="false"
      showborder="false"
      inkscape:window-width="1596"
@@ -3266,7 +3273,7 @@
      inkscape:window-y="51"
      inkscape:window-maximized="0"
      inkscape:showpageshadow="false"
-     showguides="true"
+     showguides="false"
      inkscape:guide-bbox="true"
      inkscape:snap-nodes="false"
      inkscape:snap-bbox="true">
@@ -14498,7 +14505,7 @@ Claire Alexander</dc:title>
     <g
        id="g12331"
        inkscape:label="format-bullets"
-       transform="translate(0,-1)">
+       transform="translate(-1.0814209,-1)">
       <rect
          y="371"
          x="530.91858"
@@ -15347,7 +15354,7 @@ Claire Alexander</dc:title>
     <g
        id="g12248"
        inkscape:label="format-text-italic"
-       transform="translate(0,-1)">
+       transform="translate(-3.0650024,-1)">
       <rect
          y="339"
          x="562.935"
@@ -15359,10 +15366,10 @@ Claire Alexander</dc:title>
       <rect
          transform="matrix(0,-1,1,0,0,0)"
          ry="1.0557278"
-         rx="1.0557278"
-         y="-578.8988"
-         x="-355"
-         height="10.980242"
+         rx="1"
+         y="-577.50671"
+         x="-353"
+         height="9.5878792"
          width="2"
          id="rect2798-0"
          style="fill:#bebebe;fill-opacity:1;stroke:none;display:inline" />
@@ -15385,7 +15392,7 @@ Claire Alexander</dc:title>
     <g
        id="g12254"
        inkscape:label="format-text-underline"
-       transform="translate(0,-1)">
+       transform="translate(-1.0650024,-1)">
       <rect
          transform="scale(-1,1)"
          style="opacity:0;fill:#ffffff;fill-opacity:1;stroke:none;display:inline"
@@ -15399,7 +15406,7 @@ Claire Alexander</dc:title>
          ry="1.0000002"
          rx="1.0000002"
          y="-549.99762"
-         x="-354"
+         x="-353"
          height="13"
          width="2"
          id="rect2798-582"
@@ -18559,6 +18566,91 @@ Claire Alexander</dc:title>
          id="path6121"
          transform="translate(-119.99998,-62)"
          sodipodi:nodetypes="ccc" />
+    </g>
+    <g
+       id="g6146"
+       inkscape:label="format-text-direction-ltr"
+       transform="translate(152,62)">
+      <rect
+         style="opacity:0;fill:#3e42ac;fill-opacity:0.9995338;stroke:none;display:inline"
+         id="rect6160"
+         width="24"
+         height="24"
+         x="-584"
+         y="406" />
+      <path
+         style="color:#000000;fill:none;stroke:#bebebe;stroke-width:1.99999952;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none;stroke-dashoffset:0;marker:none;visibility:visible;display:inline;overflow:visible;enable-background:accumulate"
+         d="m -574.90625,413.09375 1.90625,1.875 -7.9375,8.03125 -2,0 0,-2.03125 8.03125,-7.875 z"
+         id="path6515-2"
+         sodipodi:nodetypes="cccccc" />
+      <path
+         style="color:#000000;fill:none;stroke:#f57900;stroke-width:2;stroke-linecap:round;stroke-linejoin:miter;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none;stroke-dashoffset:0;marker:none;visibility:visible;display:inline;overflow:visible;enable-background:accumulate"
+         d="m -571,419 2,-2 4,0 0,-3 4,4 -4,4 0,-3 -6,0 z"
+         id="path6175"
+         sodipodi:nodetypes="cccccccc" />
+      <path
+         style="color:#000000;fill:#f57900;fill-opacity:1;stroke:none;stroke-width:2;marker:none;visibility:visible;display:inline;overflow:visible;enable-background:accumulate"
+         d="m -565,415 0,6 4,-3 -4,-3 z"
+         id="path6177" />
+    </g>
+    <g
+       transform="translate(184,62)"
+       inkscape:label="format-text-direction-rtl"
+       id="g6184">
+      <rect
+         y="406"
+         x="-584"
+         height="24"
+         width="24"
+         id="rect6186"
+         style="opacity:0;fill:#3e42ac;fill-opacity:0.9995338;stroke:none;display:inline" />
+      <path
+         sodipodi:nodetypes="cccccc"
+         id="path6188"
+         d="m -562.90625,413.09375 1.90625,1.875 -7.9375,8.03125 -2,0 0,-2.03125 8.03125,-7.875 z"
+         style="color:#000000;fill:none;stroke:#bebebe;stroke-width:1.99999952;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none;stroke-dashoffset:0;marker:none;visibility:visible;display:inline;overflow:visible;enable-background:accumulate" />
+      <path
+         sodipodi:nodetypes="cccccccc"
+         id="path6190"
+         d="m -583,418 0.0313,-2 5.96875,0 0,-3 4,4 -4,4 0,-3 -6,0 z"
+         style="color:#000000;fill:none;stroke:#f57900;stroke-width:2;stroke-linecap:round;stroke-linejoin:miter;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none;stroke-dashoffset:0;marker:none;visibility:visible;display:inline;overflow:visible;enable-background:accumulate" />
+      <path
+         id="path6192"
+         d="m -577,414 0,6 4,-3 -4,-3 z"
+         style="color:#000000;fill:#f57900;fill-opacity:1;stroke:none;stroke-width:2;marker:none;visibility:visible;display:inline;overflow:visible;enable-background:accumulate" />
+    </g>
+    <g
+       transform="translate(-35.065002,29)"
+       inkscape:label="format-text-strikethrough"
+       id="g6194">
+      <rect
+         y="339"
+         x="530.935"
+         height="24"
+         width="24"
+         id="rect6196"
+         style="opacity:0;fill:#ffffff;fill-opacity:1;stroke:none;display:inline"
+         transform="scale(-1,1)" />
+      <path
+         style="fill:#bebebe;fill-opacity:1;stroke:none;display:inline"
+         d="m -552.50002,358.86603 c -0.47978,-0.277 -0.64303,-0.88625 -0.36603,-1.36602 l 8.50136,-15.99918 c 0.277,-0.47978 0.88625,-0.64302 1.36602,-0.36602 0.47978,0.277 0.64303,0.88624 0.36603,1.36602 l -8.50136,15.99918 c -0.277,0.47977 -0.88624,0.64302 -1.36602,0.36602 z"
+         id="path6200"
+         sodipodi:nodetypes="cccsccc" />
+      <path
+         sodipodi:nodetypes="cccsccc"
+         id="path6202"
+         d="m -534.50917,358.86874 c 0.47978,-0.277 0.64303,-0.88625 0.36603,-1.36602 l -8.41735,-16.00189 c -0.277,-0.47978 -0.88624,-0.64302 -1.36602,-0.36602 -0.47978,0.277 -0.64303,0.88624 -0.36603,1.36602 l 8.41735,16.00189 c 0.277,0.47977 0.88625,0.64302 1.36602,0.36602 z"
+         style="fill:#bebebe;fill-opacity:1;stroke:none;display:inline" />
+      <rect
+         transform="matrix(0,-1,1,0,0,0)"
+         ry="1.0000002"
+         rx="1.0000002"
+         y="-553.99762"
+         x="-353"
+         height="21.079031"
+         width="2.0000005"
+         id="rect6204"
+         style="fill:#bebebe;fill-opacity:1;stroke:none;display:inline" />
     </g>
   </g>
 </svg>
