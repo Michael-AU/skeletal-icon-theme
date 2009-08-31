@@ -4258,8 +4258,8 @@
      inkscape:pageopacity="0"
      inkscape:pageshadow="2"
      inkscape:zoom="1"
-     inkscape:cx="-492.53764"
-     inkscape:cy="-982.87711"
+     inkscape:cx="-476.09143"
+     inkscape:cy="-1062.2492"
      inkscape:document-units="px"
      inkscape:current-layer="layer11"
      showgrid="false"
@@ -14448,7 +14448,7 @@ Claire Alexander</dc:title>
     </g>
     <g
        id="g15684"
-       inkscape:label="gnome-search-tool">
+       inkscape:label="gnome-utils-system-search">
       <use
          height="100"
          width="300"
