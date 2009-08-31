@@ -1,0 +1,230 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Created with Inkscape (http://www.inkscape.org/) -->
+<svg
+   xmlns:svg="http://www.w3.org/2000/svg"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:xlink="http://www.w3.org/1999/xlink"
+   version="1.0"
+   width="24.000046"
+   height="24"
+   id="svg7384">
+  <title
+     id="title9167">Moblin Icon Theme</title>
+  <defs
+     id="defs7386">
+    <linearGradient
+       id="linearGradient7067-2">
+      <stop
+         id="stop7069-0"
+         style="stop-color:#31c2ee;stop-opacity:1"
+         offset="0" />
+      <stop
+         id="stop7071-6"
+         style="stop-color:#31c2ee;stop-opacity:0"
+         offset="1" />
+    </linearGradient>
+    <linearGradient
+       x1="601"
+       y1="869.01288"
+       x2="601"
+       y2="874.85205"
+       id="linearGradient10158"
+       xlink:href="#linearGradient7067-2"
+       gradientUnits="userSpaceOnUse"
+       gradientTransform="translate(968.0009,-560.09354)" />
+  </defs>
+  <g
+     transform="translate(618.00005,-978)"
+     id="layer3" />
+  <g
+     transform="translate(618.00005,-978)"
+     id="layer5" />
+  <g
+     transform="translate(618.00005,-978)"
+     id="layer7" />
+  <g
+     transform="translate(618.00005,-978)"
+     id="layer2" />
+  <g
+     transform="translate(618.00005,-978)"
+     id="layer8" />
+  <g
+     transform="translate(618.00005,-1930.3622)"
+     id="layer1" />
+  <g
+     transform="translate(618.00005,-978)"
+     id="layer11">
+    <g
+       transform="translate(-2174.001,686.00354)"
+       id="use8125">
+      <rect
+         width="24"
+         height="24"
+         x="-1580.001"
+         y="291.99646"
+         transform="scale(-1,1)"
+         id="rect10124"
+         style="opacity:0;fill:#ffffff;fill-opacity:1;stroke:none;display:inline" />
+      <rect
+         width="2.0000267"
+         height="16"
+         rx="1.0000134"
+         ry="1.0000134"
+         x="1578.001"
+         y="294.99646"
+         id="rect10126"
+         style="fill:#bebebe;fill-opacity:1;stroke:none;display:inline" />
+      <rect
+         width="2"
+         height="22.000031"
+         rx="1"
+         ry="1"
+         x="294.99646"
+         y="-1580.001"
+         transform="matrix(0,1,-1,0,0,0)"
+         id="rect10128"
+         style="fill:#bebebe;fill-opacity:1;stroke:none;display:inline" />
+      <rect
+         width="1.999881"
+         height="7"
+         rx="0.99995232"
+         ry="0.99995232"
+         x="308.99658"
+         y="-1580.001"
+         transform="matrix(0,1,-1,0,0,0)"
+         id="rect10130"
+         style="fill:#bebebe;fill-opacity:1;stroke:none;display:inline" />
+      <rect
+         width="2.000061"
+         height="8"
+         rx="1.0000305"
+         ry="1.0000305"
+         x="1556.001"
+         y="298.99646"
+         id="rect10132"
+         style="fill:#bebebe;fill-opacity:1;stroke:none;display:inline" />
+      <rect
+         width="1.9999797"
+         height="4.0000191"
+         rx="0.99998987"
+         ry="0.99998987"
+         x="298.99646"
+         y="-1560.001"
+         transform="matrix(0,1,-1,0,0,0)"
+         id="rect10134"
+         style="fill:#bebebe;fill-opacity:1;stroke:none;display:inline" />
+      <rect
+         width="2"
+         height="4.0000191"
+         rx="1"
+         ry="1"
+         x="304.99646"
+         y="-1560.001"
+         transform="matrix(0,1,-1,0,0,0)"
+         id="rect10136"
+         style="fill:#bebebe;fill-opacity:1;stroke:none;display:inline" />
+      <rect
+         width="2.000061"
+         height="6"
+         rx="1.5"
+         ry="1.4999999"
+         x="1557.9951"
+         y="294.99646"
+         transform="matrix(1,0,2.0345052e-5,1,0,0)"
+         id="rect10138"
+         style="fill:#bebebe;fill-opacity:1;stroke:none;display:inline" />
+      <rect
+         width="2.000061"
+         height="6"
+         rx="1.0000305"
+         ry="1.0000305"
+         x="1557.9951"
+         y="304.99646"
+         transform="matrix(1,0,2.0345052e-5,1,0,0)"
+         id="rect10140"
+         style="fill:#bebebe;fill-opacity:1;stroke:none;display:inline" />
+      <path
+         d="M -8.8196602,18 A 8.0901699,5 0 1 1 -25,18"
+         transform="matrix(0.494427,0,0,0.8000003,1577.3616,289.59648)"
+         id="path10142"
+         style="fill:none;stroke:#31c2ee;stroke-width:3.18004847;stroke-linecap:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1;display:inline" />
+      <rect
+         width="2"
+         height="4.1534295"
+         rx="1"
+         ry="1"
+         x="1566.001"
+         y="298.99646"
+         id="rect10144"
+         style="fill:#31c2ee;fill-opacity:1;stroke:none;display:inline" />
+      <rect
+         width="2"
+         height="8"
+         rx="1"
+         ry="1"
+         x="1568.001"
+         y="306.99646"
+         id="rect10146"
+         style="fill:url(#linearGradient10158);fill-opacity:1;stroke:none;display:inline" />
+      <rect
+         width="2"
+         height="3"
+         rx="1"
+         ry="1"
+         x="1564.001"
+         y="301.99646"
+         id="rect10148"
+         style="fill:#31c2ee;fill-opacity:1;stroke:none;display:inline" />
+      <rect
+         width="1.999881"
+         height="7"
+         rx="0.99995232"
+         ry="0.99995232"
+         x="308.99658"
+         y="-1565.001"
+         transform="matrix(0,1,-1,0,0,0)"
+         id="rect10150"
+         style="fill:#bebebe;fill-opacity:1;stroke:none;display:inline" />
+      <rect
+         width="2"
+         height="3"
+         rx="1"
+         ry="1"
+         x="1572.001"
+         y="301.99646"
+         id="rect10152"
+         style="fill:#31c2ee;fill-opacity:1;stroke:none;display:inline" />
+      <rect
+         width="2"
+         height="10"
+         rx="1"
+         ry="1"
+         x="301.99646"
+         y="-1574.001"
+         transform="matrix(0,1,-1,0,0,0)"
+         id="rect10154"
+         style="fill:#31c2ee;fill-opacity:1;stroke:none;display:inline" />
+      <rect
+         width="2"
+         height="4.1534295"
+         rx="1"
+         ry="1"
+         x="1570.001"
+         y="298.99646"
+         id="rect10156"
+         style="fill:#31c2ee;fill-opacity:1;stroke:none;display:inline" />
+    </g>
+  </g>
+  <g
+     transform="translate(618.00005,-978)"
+     id="layer4" />
+  <g
+     transform="translate(618.00005,-978)"
+     id="layer9" />
+  <g
+     transform="translate(618.00005,-978)"
+     id="layer10" />
+  <g
+     transform="translate(618.00005,-978)"
+     id="layer6" />
+</svg>

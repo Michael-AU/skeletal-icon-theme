@@ -1,0 +1,94 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Created with Inkscape (http://www.inkscape.org/) -->
+<svg
+   xmlns:svg="http://www.w3.org/2000/svg"
+   xmlns="http://www.w3.org/2000/svg"
+   version="1.0"
+   width="24"
+   height="24"
+   id="svg7384">
+  <title
+     id="title9167">Moblin Icon Theme</title>
+  <defs
+     id="defs7386" />
+  <g
+     transform="translate(592,-978)"
+     id="layer3" />
+  <g
+     transform="translate(592,-978)"
+     id="layer5" />
+  <g
+     transform="translate(592,-978)"
+     id="layer7" />
+  <g
+     transform="translate(592,-978)"
+     id="layer2" />
+  <g
+     transform="translate(592,-978)"
+     id="layer8" />
+  <g
+     transform="translate(592,-1930.3622)"
+     id="layer1" />
+  <g
+     transform="translate(592,-978)"
+     id="layer11">
+    <rect
+       width="24"
+       height="24"
+       x="-592"
+       y="978"
+       id="rect6036-9"
+       style="opacity:0;fill:#ffffff;fill-opacity:1;stroke:none;display:inline" />
+    <path
+       d="M -589.83752,989.35286 C -590.14834,989.75333 -590.11036,990.32302 -589.74913,990.67869 L -580.68933,999.73849 C -580.29878,1000.129 -579.66566,1000.129 -579.27511,999.73849 L -570.23744,990.70082 C -569.84697,990.31027 -569.84697,989.67715 -570.23744,989.28661 L -579.29725,980.2268 C -579.68779,979.83633 -580.32091,979.83633 -580.71146,980.2268 L -589.74913,989.26447 C -589.78041,989.29207 -589.80993,989.32159 -589.83752,989.35286 z M -587.62781,989.97158 L -580.00435,982.34812 L -572.35876,989.99371 L -579.98222,997.61717 L -587.62781,989.97158 z"
+       id="rect6042-2"
+       style="fill:#bebebe;fill-opacity:1;stroke:none;stroke-width:1.99999988;stroke-linecap:round;stroke-linejoin:round;marker:none;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;visibility:visible;display:inline;overflow:visible;enable-background:accumulate" />
+    <g
+       transform="matrix(0.4905742,0,0,0.4905742,-469.63048,902.1751)"
+       id="g8227-9">
+      <path
+         d="M 142.3003,185.36336 A 5,5 0 0 1 149.53553,178.46447"
+         transform="matrix(1.0528917,0,0,1.0576777,-382.33399,-7.4293135)"
+         id="path11027-5"
+         style="fill:none;stroke:#bebebe;stroke-width:1.93164241;stroke-linecap:round;stroke-linejoin:round;marker:none;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;visibility:visible;display:inline;overflow:visible;enable-background:accumulate" />
+      <path
+         d="M -232.50286,188.62406 L -224.81055,196.35133 L -217.11825,188.62406"
+         id="path11031-3"
+         style="fill:none;stroke:#bebebe;stroke-width:2.03842759;stroke-linecap:round;stroke-linejoin:round;marker:none;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;visibility:visible;display:inline;overflow:visible;enable-background:accumulate" />
+      <path
+         d="M 142.46447,178.46447 A 5,5 0 0 1 149.75645,185.29986"
+         transform="matrix(1.0528916,0,0,1.0576776,-374.79399,-7.4300711)"
+         id="path11054-9"
+         style="fill:none;stroke:#bebebe;stroke-width:1.93164265;stroke-linecap:round;stroke-linejoin:round;marker:none;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;visibility:visible;display:inline;overflow:visible;enable-background:accumulate" />
+    </g>
+    <g
+       transform="matrix(0.6078907,0,0,0.6078907,-447.53606,878.68966)"
+       id="g8263" />
+    <g
+       transform="matrix(0.4543079,0,0,0.4543079,-474.61605,904.82505)"
+       id="g8271">
+      <path
+         d="M 142.96842,185.97612 A 5,5 0 1 1 149.53553,178.46447"
+         transform="matrix(1.0528917,0,0,1.0576777,-382.33399,-7.4293135)"
+         id="path8273"
+         style="fill:none;stroke:#bebebe;stroke-width:2.08584094;stroke-linecap:round;stroke-linejoin:round;marker:none;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;visibility:visible;display:inline;overflow:visible;enable-background:accumulate" />
+      <path
+         d="M 142.46447,178.46447 A 5,5 0 0 1 149.24191,178.19343"
+         transform="matrix(1.0528916,0,0,1.0576776,-374.79399,-7.4300711)"
+         id="path8277"
+         style="fill:none;stroke:#bebebe;stroke-width:2.08584118;stroke-linecap:round;stroke-linejoin:round;marker:none;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;visibility:visible;display:inline;overflow:visible;enable-background:accumulate" />
+    </g>
+  </g>
+  <g
+     transform="translate(592,-978)"
+     id="layer4" />
+  <g
+     transform="translate(592,-978)"
+     id="layer9" />
+  <g
+     transform="translate(592,-978)"
+     id="layer10" />
+  <g
+     transform="translate(592,-978)"
+     id="layer6" />
+</svg>
