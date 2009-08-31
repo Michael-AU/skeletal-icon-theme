@@ -3757,11 +3757,11 @@
      borderopacity="1.0"
      inkscape:pageopacity="0"
      inkscape:pageshadow="2"
-     inkscape:zoom="4"
-     inkscape:cx="-522.65529"
-     inkscape:cy="-969.55127"
+     inkscape:zoom="1"
+     inkscape:cx="-325.65529"
+     inkscape:cy="-347.55127"
      inkscape:document-units="px"
-     inkscape:current-layer="layer11"
+     inkscape:current-layer="layer4"
      showgrid="false"
      showborder="false"
      inkscape:window-width="1451"
@@ -14489,7 +14489,7 @@ Claire Alexander</dc:title>
     <g
        id="g7509"
        transform="translate(190,-228)"
-       inkscape:label="system-config-printers">
+       inkscape:label="system-config-printer">
       <use
          height="100"
          width="300"
