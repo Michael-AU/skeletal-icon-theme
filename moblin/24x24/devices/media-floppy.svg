@@ -1,0 +1,75 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Created with Inkscape (http://www.inkscape.org/) -->
+<svg
+   xmlns:svg="http://www.w3.org/2000/svg"
+   xmlns="http://www.w3.org/2000/svg"
+   version="1.0"
+   width="24"
+   height="24"
+   id="svg7384">
+  <title
+     id="title9167">Moblin Icon Theme</title>
+  <defs
+     id="defs7386" />
+  <g
+     transform="translate(-354.07158,-229.99993)"
+     id="layer3" />
+  <g
+     transform="translate(-354.07158,-229.99993)"
+     id="layer5" />
+  <g
+     transform="translate(-354.07158,-229.99993)"
+     id="layer7" />
+  <g
+     transform="translate(-354.07158,-229.99993)"
+     id="layer2" />
+  <g
+     transform="translate(-354.07158,-229.99993)"
+     id="layer8" />
+  <g
+     transform="translate(-354.07158,-1182.3621)"
+     id="layer1">
+    <rect
+       width="24"
+       height="24"
+       x="354.07159"
+       y="1182.3621"
+       id="rect7493"
+       style="opacity:0;fill:#ffffff;fill-opacity:1;stroke:none;display:inline" />
+    <path
+       d="M 358.125,1184.375 C 356.9651,1184.375 356,1185.34 356,1186.5 L 356,1200.375 C 356.00201,1200.6318 356.10272,1200.8779 356.28125,1201.0625 C 356.28125,1201.0625 359.28125,1204.0625 359.28125,1204.0625 C 359.46834,1204.2601 359.72788,1204.373 360,1204.375 L 373.875,1204.375 C 375.03501,1204.375 376,1203.4099 376,1202.25 L 376,1186.5 C 376,1185.34 375.03488,1184.375 373.875,1184.375 L 358.125,1184.375 z M 358.125,1186.375 L 373.875,1186.375 C 373.96162,1186.375 374,1186.4134 374,1186.5 L 374,1202.25 C 374,1202.3365 373.96149,1202.375 373.875,1202.375 L 360.4375,1202.375 C 360.02332,1201.9608 358.41418,1200.3517 358,1199.9375 L 358,1186.5 C 358,1186.4134 358.0384,1186.375 358.125,1186.375 z"
+       id="rect7502"
+       style="fill:#bebebe;fill-opacity:1;stroke:none;stroke-width:2;stroke-linecap:round;stroke-linejoin:round;marker:none;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;visibility:visible;display:inline;overflow:visible;enable-background:accumulate" />
+    <path
+       d="M 372.4375,1185.1562 C 372.1736,1185.1888 371.98138,1185.4222 372,1185.6875 L 372,1192.375 L 360,1192.375 L 360,1186.25 C 360.00255,1186.0697 359.90781,1185.902 359.75206,1185.8111 C 359.59631,1185.7202 359.40369,1185.7202 359.24794,1185.8111 C 359.09219,1185.902 358.99745,1186.0697 359,1186.25 L 359,1192.875 C 359.00003,1193.1511 359.22387,1193.375 359.5,1193.375 L 372.5,1193.375 C 372.77613,1193.375 372.99997,1193.1511 373,1192.875 L 373,1185.6875 C 373.01059,1185.538 372.95354,1185.3916 372.84456,1185.2886 C 372.73559,1185.1857 372.58618,1185.1371 372.4375,1185.1562 L 372.4375,1185.1562 z"
+       id="path7527"
+       style="fill:#bebebe;fill-opacity:1;stroke:none;stroke-width:1;stroke-linecap:round;stroke-linejoin:round;marker:none;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;visibility:visible;display:inline;overflow:visible;enable-background:accumulate" />
+    <path
+       d="M 360.46875,1194.375 C 360.25459,1194.4452 360.11382,1194.6499 360.125,1194.875 L 360.125,1202.6562 C 360.12245,1202.8365 360.21719,1203.0042 360.37294,1203.0951 C 360.52869,1203.186 360.72131,1203.186 360.87706,1203.0951 C 361.03281,1203.0042 361.12755,1202.8365 361.125,1202.6562 L 361.125,1195.375 L 372,1195.375 L 372,1202.8125 C 371.99745,1202.9928 372.09219,1203.1605 372.24794,1203.2514 C 372.40369,1203.3423 372.59631,1203.3423 372.75206,1203.2514 C 372.90781,1203.1605 373.00255,1202.9928 373,1202.8125 L 373,1194.875 C 372.99997,1194.5989 372.77613,1194.375 372.5,1194.375 L 360.625,1194.375 C 360.57324,1194.3668 360.52051,1194.3668 360.46875,1194.375 L 360.46875,1194.375 z"
+       id="path7529"
+       style="fill:#bebebe;fill-opacity:1;stroke:none;stroke-width:0.99999994;stroke-linecap:round;stroke-linejoin:round;marker:none;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;visibility:visible;display:inline;overflow:visible;enable-background:accumulate" />
+    <path
+       d="M 362.625,1196.3125 C 362.25277,1196.3125 361.9375,1196.6278 361.9375,1197 L 361.9375,1200.6875 C 361.9375,1201.0597 362.25277,1201.375 362.625,1201.375 L 365.3125,1201.375 C 365.68473,1201.375 366,1201.0597 366,1200.6875 L 366,1197 C 366,1196.6278 365.68473,1196.3125 365.3125,1196.3125 L 362.625,1196.3125 z M 362.9375,1197.3125 L 365,1197.3125 L 365,1200.375 L 362.9375,1200.375 L 362.9375,1197.3125 z"
+       id="rect7531"
+       style="fill:#bebebe;fill-opacity:1;stroke:none;stroke-width:0.99999994;stroke-linecap:round;stroke-linejoin:round;marker:none;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;visibility:visible;display:inline;overflow:visible;enable-background:accumulate" />
+    <path
+       d="M 360.46875,1194.375 C 360.25459,1194.4452 360.11382,1194.6499 360.125,1194.875 L 360.125,1202.6562 C 360.12245,1202.8365 360.21719,1203.0042 360.37294,1203.0951 C 360.52869,1203.186 360.72131,1203.186 360.87706,1203.0951 C 361.03281,1203.0042 361.12755,1202.8365 361.125,1202.6562 L 361.125,1195.375 L 369,1195.375 L 369,1202.8125 C 368.99745,1202.9928 369.09219,1203.1605 369.24794,1203.2514 C 369.40369,1203.3423 369.59631,1203.3423 369.75206,1203.2514 C 369.90781,1203.1605 370.00255,1202.9928 370,1202.8125 L 370,1194.875 C 369.99997,1194.5989 369.77613,1194.375 369.5,1194.375 L 360.625,1194.375 C 360.57324,1194.3668 360.52051,1194.3668 360.46875,1194.375 L 360.46875,1194.375 z"
+       id="path7533"
+       style="fill:#bebebe;fill-opacity:1;stroke:none;stroke-width:0.99999994;stroke-linecap:round;stroke-linejoin:round;marker:none;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;visibility:visible;display:inline;overflow:visible;enable-background:accumulate" />
+  </g>
+  <g
+     transform="translate(-354.07158,-229.99993)"
+     id="layer11" />
+  <g
+     transform="translate(-354.07158,-229.99993)"
+     id="layer4" />
+  <g
+     transform="translate(-354.07158,-229.99993)"
+     id="layer9" />
+  <g
+     transform="translate(-354.07158,-229.99993)"
+     id="layer10" />
+  <g
+     transform="translate(-354.07158,-229.99993)"
+     id="layer6" />
+</svg>
