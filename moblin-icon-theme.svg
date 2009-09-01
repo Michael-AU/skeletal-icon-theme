@@ -4424,6 +4424,20 @@
        inkscape:vp_y="0 : 1000 : 0"
        inkscape:vp_x="0 : 0.5 : 1"
        sodipodi:type="inkscape:persp3d" />
+    <inkscape:perspective
+       id="perspective7663"
+       inkscape:persp3d-origin="0.5 : 0.33333333 : 1"
+       inkscape:vp_z="1 : 0.5 : 1"
+       inkscape:vp_y="0 : 1000 : 0"
+       inkscape:vp_x="0 : 0.5 : 1"
+       sodipodi:type="inkscape:persp3d" />
+    <inkscape:perspective
+       id="perspective7690"
+       inkscape:persp3d-origin="0.5 : 0.33333333 : 1"
+       inkscape:vp_z="1 : 0.5 : 1"
+       inkscape:vp_y="0 : 1000 : 0"
+       inkscape:vp_x="0 : 0.5 : 1"
+       sodipodi:type="inkscape:persp3d" />
   </defs>
   <sodipodi:namedview
      id="base"
@@ -4433,11 +4447,11 @@
      inkscape:pageopacity="0"
      inkscape:pageshadow="2"
      inkscape:zoom="1"
-     inkscape:cx="-402.15438"
-     inkscape:cy="-583.15939"
+     inkscape:cx="-496.88078"
+     inkscape:cy="-1014.2246"
      inkscape:document-units="px"
-     inkscape:current-layer="layer10"
-     showgrid="true"
+     inkscape:current-layer="layer11"
+     showgrid="false"
      showborder="false"
      inkscape:window-width="1451"
      inkscape:window-height="965"
@@ -12836,18 +12850,18 @@ Claire Alexander</dc:title>
     <text
        sodipodi:linespacing="125%"
        id="text5476"
-       y="1143.0452"
+       y="1223.0452"
        x="-617.3465"
        style="font-size:12.89304256px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:start;line-height:125%;writing-mode:lr-tb;text-anchor:start;fill:#000000;fill-opacity:1;stroke:none;font-family:RaveIn;-inkscape-font-specification:RaveIn"
        xml:space="preserve"><tspan
-         y="1143.0452"
+         y="1223.0452"
          x="-617.3465"
          id="tspan5478"
          sodipodi:role="line">tomboy</tspan></text>
     <g
        inkscape:label="note-new"
        id="g5480"
-       transform="translate(-412,974)">
+       transform="translate(-412,1054)">
       <rect
          y="174"
          x="182"
@@ -12867,7 +12881,7 @@ Claire Alexander</dc:title>
          style="color:#000000;fill:#bebebe;fill-opacity:1;stroke:none;stroke-width:2;marker:none;visibility:visible;display:inline;overflow:visible;enable-background:accumulate" />
     </g>
     <g
-       transform="translate(-386,974)"
+       transform="translate(-386,1054)"
        id="g6503-61"
        inkscape:label="notebook-new">
       <rect
@@ -12926,7 +12940,7 @@ Claire Alexander</dc:title>
     <g
        inkscape:label="pin-down"
        id="g5599"
-       transform="translate(-360,974)">
+       transform="translate(-360,1054)">
       <rect
          y="174"
          x="182"
@@ -12960,7 +12974,7 @@ Claire Alexander</dc:title>
          sodipodi:open="true" />
     </g>
     <g
-       transform="translate(-334,974)"
+       transform="translate(-334,1054)"
        id="g6393"
        inkscape:label="pin-up">
       <rect
@@ -12984,7 +12998,7 @@ Claire Alexander</dc:title>
     <g
        id="g6435"
        inkscape:label="pin-active"
-       transform="translate(0,120)">
+       transform="translate(0,200)">
       <rect
          y="1028"
          x="490"
@@ -13012,7 +13026,7 @@ Claire Alexander</dc:title>
          id="path6430" />
     </g>
     <g
-       transform="translate(-281.97313,974)"
+       transform="translate(-281.97313,1054)"
        id="g6442"
        inkscape:label="note">
       <rect
@@ -13036,7 +13050,7 @@ Claire Alexander</dc:title>
     <g
        inkscape:label="notebook"
        id="g6450"
-       transform="translate(-255.97313,974)">
+       transform="translate(-255.97313,1054)">
       <rect
          y="174"
          x="182"
@@ -13104,7 +13118,7 @@ Claire Alexander</dc:title>
     <g
        inkscape:label="filter-note-all"
        id="g6518"
-       transform="translate(-230,974)">
+       transform="translate(-230,1054)">
       <rect
          y="174"
          x="182"
@@ -13122,9 +13136,24 @@ Claire Alexander</dc:title>
          width="16"
          id="rect6522"
          style="color:#000000;fill:#000000;fill-opacity:0;fill-rule:nonzero;stroke:#bebebe;stroke-width:1.99999952;stroke-linecap:round;stroke-linejoin:miter;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none;stroke-dashoffset:0;marker:none;visibility:visible;display:inline;overflow:visible;enable-background:accumulate" />
+      <path
+         style="color:#000000;fill:#000000;fill-opacity:0;fill-rule:nonzero;stroke:#bebebe;stroke-width:1.99999952;stroke-linecap:round;stroke-linejoin:miter;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none;stroke-dashoffset:0;marker:none;visibility:visible;display:inline;overflow:visible;enable-background:accumulate"
+         d="m -197.125,181 -1.875,0 0,8 1.9375,0"
+         id="path6530" />
+      <path
+         id="path6532"
+         d="m -192.875,181 1.875,0 0,8 -1.9375,0"
+         style="color:#000000;fill:#000000;fill-opacity:0;fill-rule:nonzero;stroke:#bebebe;stroke-width:1.99999952;stroke-linecap:round;stroke-linejoin:miter;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none;stroke-dashoffset:0;marker:none;visibility:visible;display:inline;overflow:visible;enable-background:accumulate" />
+      <rect
+         style="color:#000000;fill:#bebebe;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:1.99999952;marker:none;visibility:visible;display:inline;overflow:visible;enable-background:accumulate"
+         id="rect6534"
+         width="2.032932"
+         height="1.9445436"
+         x="-195.98764"
+         y="184.02136" />
     </g>
     <g
-       transform="translate(-204,974)"
+       transform="translate(-204,1054)"
        id="g6524"
        inkscape:label="filter-note-unfiled">
       <rect
@@ -13154,36 +13183,21 @@ Claire Alexander</dc:title>
          id="rect6541"
          sodipodi:nodetypes="cccccs" />
     </g>
-    <path
-       style="color:#000000;fill:#000000;fill-opacity:0;fill-rule:nonzero;stroke:#bebebe;stroke-width:1.99999952;stroke-linecap:round;stroke-linejoin:miter;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none;stroke-dashoffset:0;marker:none;visibility:visible;display:inline;overflow:visible;enable-background:accumulate"
-       d="m -427.125,1155 -1.875,0 0,8 1.9375,0"
-       id="path6530" />
-    <path
-       id="path6532"
-       d="m -422.875,1155 1.875,0 0,8 -1.9375,0"
-       style="color:#000000;fill:#000000;fill-opacity:0;fill-rule:nonzero;stroke:#bebebe;stroke-width:1.99999952;stroke-linecap:round;stroke-linejoin:miter;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none;stroke-dashoffset:0;marker:none;visibility:visible;display:inline;overflow:visible;enable-background:accumulate" />
-    <rect
-       style="color:#000000;fill:#bebebe;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:1.99999952;marker:none;visibility:visible;display:inline;overflow:visible;enable-background:accumulate"
-       id="rect6534"
-       width="2.032932"
-       height="1.9445436"
-       x="-425.98764"
-       y="1158.0214" />
     <text
        xml:space="preserve"
        style="font-size:12.89304256px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:start;line-height:125%;writing-mode:lr-tb;text-anchor:start;fill:#000000;fill-opacity:1;stroke:none;font-family:RaveIn;-inkscape-font-specification:RaveIn"
        x="-617.3465"
-       y="1203.0452"
+       y="1283.0452"
        id="text7043"
        sodipodi:linespacing="125%"><tspan
          sodipodi:role="line"
          id="tspan7045"
          x="-617.3465"
-         y="1203.0452">yast</tspan></text>
+         y="1283.0452">yast</tspan></text>
     <g
        id="g7047"
        inkscape:label="yast-dsl"
-       transform="translate(-667,842.63782)">
+       transform="translate(-667,922.63782)">
       <rect
          style="opacity:0;fill:#ffffff;fill-opacity:1;stroke:none;display:inline"
          id="rect7049"
@@ -13211,7 +13225,7 @@ Claire Alexander</dc:title>
     <g
        id="g6965-6"
        inkscape:label="yast-x11"
-       transform="translate(-640.9892,842.68607)">
+       transform="translate(-640.9892,922.68607)">
       <rect
          style="opacity:0;fill:#ffffff;fill-opacity:1;stroke:none;display:inline"
          id="rect6967-1"
@@ -13253,7 +13267,7 @@ Claire Alexander</dc:title>
     <g
        id="g10238-3"
        inkscape:label="yast-modem"
-       transform="translate(-203,839)">
+       transform="translate(-203,919)">
       <rect
          inkscape:export-ydpi="90"
          inkscape:export-xdpi="90"
@@ -13412,7 +13426,7 @@ Claire Alexander</dc:title>
        sodipodi:rx="2"
        sodipodi:ry="2"
        d="m 1510.75,202.75 a 2,2 0 1 1 -4,0 2,2 0 1 1 4,0 z"
-       transform="translate(-2036.75,1033.25)" />
+       transform="translate(-2036.75,1113.25)" />
     <g
        id="g7581"
        inkscape:label="alacarte">
@@ -13454,7 +13468,7 @@ Claire Alexander</dc:title>
          y="956" />
     </g>
     <g
-       transform="translate(-563,842.63782)"
+       transform="translate(-563,922.63782)"
        inkscape:label="yast-scanner"
        id="g7589">
       <path
@@ -13501,7 +13515,7 @@ Claire Alexander</dc:title>
     </g>
     <g
        id="g7504"
-       transform="translate(-211,837)"
+       transform="translate(-211,917)"
        inkscape:label="yast-lan">
       <use
          height="100"
@@ -13627,7 +13641,7 @@ Claire Alexander</dc:title>
        d="m 1510.75,202.75 a 2,2 0 1 1 -4,0 2,2 0 1 1 4,0 z"
        transform="translate(-1950.75,773.25)" />
     <g
-       transform="translate(2.9185791,839.06542)"
+       transform="translate(2.9185791,919.06542)"
        inkscape:label="yast-timezone"
        id="g6734-3">
       <rect
@@ -13815,7 +13829,7 @@ Claire Alexander</dc:title>
     <g
        id="g8030"
        inkscape:label="yast-language"
-       transform="translate(-58,126.00002)">
+       transform="translate(-58,206.00002)">
       <use
          transform="translate(-226,822.00002)"
          height="1"
@@ -13826,7 +13840,7 @@ Claire Alexander</dc:title>
          x="0" />
     </g>
     <path
-       transform="translate(-1958.75,1033.25)"
+       transform="translate(-1958.75,1113.25)"
        d="m 1510.75,202.75 a 2,2 0 1 1 -4,0 2,2 0 1 1 4,0 z"
        sodipodi:ry="2"
        sodipodi:rx="2"
@@ -14160,7 +14174,7 @@ Claire Alexander</dc:title>
     <g
        id="g8457"
        inkscape:label="yast-users"
-       transform="translate(-110.9985,79)">
+       transform="translate(-110.9985,159)">
       <use
          transform="translate(-91.0015,957)"
          height="1"
@@ -14179,7 +14193,7 @@ Claire Alexander</dc:title>
        sodipodi:rx="2"
        sodipodi:ry="2"
        d="m 1510.75,202.75 a 2,2 0 1 1 -4,0 2,2 0 1 1 4,0 z"
-       transform="translate(-1932.75,1033.25)" />
+       transform="translate(-1932.75,1113.25)" />
     <g
        id="g14489"
        inkscape:label="gtk-recordmydesktop"
@@ -14986,7 +15000,7 @@ Claire Alexander</dc:title>
       <use
          height="100"
          width="300"
-         transform="translate(-22,-179)"
+         transform="translate(-22,-259)"
          id="use15907"
          xlink:href="#g7589"
          y="0"
@@ -15672,16 +15686,6 @@ Claire Alexander</dc:title>
        id="path7043"
        style="color:#000000;fill:#cc0000;stroke:none;stroke-width:1;marker:none;visibility:visible;display:inline;overflow:visible;enable-background:accumulate"
        sodipodi:type="arc" />
-    <path
-       transform="translate(-2000.75,885.25)"
-       d="m 1510.75,202.75 a 2,2 0 1 1 -4,0 2,2 0 1 1 4,0 z"
-       sodipodi:ry="2"
-       sodipodi:rx="2"
-       sodipodi:cy="202.75"
-       sodipodi:cx="1508.75"
-       id="path6039"
-       style="color:#000000;fill:#cc0000;stroke:none;stroke-width:1;marker:none;visibility:visible;display:inline;overflow:visible;enable-background:accumulate"
-       sodipodi:type="arc" />
     <g
        transform="translate(-641,726.63782)"
        inkscape:label="gnome-volume-control"
@@ -16025,6 +16029,101 @@ Claire Alexander</dc:title>
          id="rect7489"
          style="color:#000000;fill:#bebebe;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:1;marker:none;visibility:visible;display:inline;overflow:visible;enable-background:accumulate" />
     </g>
+    <g
+       transform="translate(64.918579,723)"
+       inkscape:label="flashplayer"
+       id="g7621">
+      <rect
+         y="371"
+         x="-490.91858"
+         height="24"
+         width="24"
+         id="rect7625"
+         style="opacity:0;fill:#ffffff;fill-opacity:1;stroke:none;display:inline" />
+      <g
+         id="g7627"
+         transform="translate(-17.000077,9.9998283)" />
+      <path
+         sodipodi:type="arc"
+         style="color:#000000;fill:none;stroke:#bebebe;stroke-width:1.50623393;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none;stroke-dashoffset:0;marker:none;visibility:visible;display:inline;overflow:visible;enable-background:accumulate"
+         id="path7641"
+         sodipodi:cx="-407.46875"
+         sodipodi:cy="1102.7188"
+         sodipodi:rx="5.28125"
+         sodipodi:ry="5.28125"
+         d="m -412.05828,1100.1057 a 5.28125,5.28125 0 0 1 4.58953,-2.6682"
+         transform="matrix(1.8715479,0,0,2.1196138,292.76822,-1951.6436)"
+         sodipodi:start="3.6591652"
+         sodipodi:end="4.712389"
+         sodipodi:open="true" />
+      <path
+         style="color:#000000;fill:none;stroke:#bebebe;stroke-width:3;stroke-linecap:square;stroke-linejoin:round;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none;stroke-dashoffset:0;marker:none;visibility:visible;display:inline;overflow:visible;enable-background:accumulate"
+         d="m -478.75792,382.5 4.40551,0"
+         id="path7647" />
+      <path
+         sodipodi:open="true"
+         sodipodi:end="4.712389"
+         sodipodi:start="3.6591652"
+         transform="matrix(-1.8715479,0,0,-2.1196138,-1251.6054,2717.6437)"
+         d="m -412.05828,1100.1057 a 5.28125,5.28125 0 0 1 4.58953,-2.6682"
+         sodipodi:ry="5.28125"
+         sodipodi:rx="5.28125"
+         sodipodi:cy="1102.7188"
+         sodipodi:cx="-407.46875"
+         id="path7649"
+         style="color:#000000;fill:none;stroke:#bebebe;stroke-width:1.50623393;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none;stroke-dashoffset:0;marker:none;visibility:visible;display:inline;overflow:visible;enable-background:accumulate"
+         sodipodi:type="arc" />
+      <path
+         style="color:#000000;fill:none;stroke:#bebebe;stroke-width:3;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none;stroke-dashoffset:0;marker:none;visibility:visible;display:inline;overflow:visible;enable-background:accumulate"
+         d="m -413.48069,1103.1636 -2.07713,5.701"
+         id="path7651"
+         transform="translate(-64.918579,-723)" />
+    </g>
+    <g
+       id="g7677"
+       inkscape:label="avidemux">
+      <use
+         transform="translate(-1196,920)"
+         height="1"
+         width="1"
+         id="use7653"
+         xlink:href="#g10017"
+         y="0"
+         x="0" />
+    </g>
+    <path
+       transform="translate(-1892.75,917.25)"
+       d="m 1510.75,202.75 a 2,2 0 1 1 -4,0 2,2 0 1 1 4,0 z"
+       sodipodi:ry="2"
+       sodipodi:rx="2"
+       sodipodi:cy="202.75"
+       sodipodi:cx="1508.75"
+       id="path7680"
+       style="color:#000000;fill:#cc0000;stroke:none;stroke-width:1;marker:none;visibility:visible;display:inline;overflow:visible;enable-background:accumulate"
+       sodipodi:type="arc" />
+    <g
+       id="g7712"
+       inkscape:label="brasero"
+       transform="translate(0,-10.000003)">
+      <use
+         height="100"
+         width="300"
+         transform="translate(0,40)"
+         id="use7710"
+         xlink:href="#g10586-1"
+         y="0"
+         x="0" />
+    </g>
+    <path
+       transform="translate(-2034.75,947.25)"
+       d="m 1510.75,202.75 a 2,2 0 1 1 -4,0 2,2 0 1 1 4,0 z"
+       sodipodi:ry="2"
+       sodipodi:rx="2"
+       sodipodi:cy="202.75"
+       sodipodi:cx="1508.75"
+       id="path7715"
+       style="color:#000000;fill:#cc0000;stroke:none;stroke-width:1;marker:none;visibility:visible;display:inline;overflow:visible;enable-background:accumulate"
+       sodipodi:type="arc" />
   </g>
   <g
      inkscape:groupmode="layer"

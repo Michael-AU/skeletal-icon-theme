@@ -12,49 +12,64 @@
   <defs
      id="defs7386" />
   <g
-     transform="translate(436,-1028)"
+     transform="translate(436,-1228)"
      id="layer3" />
   <g
-     transform="translate(436,-1028)"
+     transform="translate(436,-1228)"
      id="layer5" />
   <g
-     transform="translate(436,-1028)"
+     transform="translate(436,-1228)"
      id="layer7" />
   <g
-     transform="translate(436,-1028)"
+     transform="translate(436,-1228)"
      id="layer2" />
   <g
-     transform="translate(436,-1028)"
+     transform="translate(436,-1228)"
      id="layer8" />
   <g
-     transform="translate(436,-1980.3622)"
+     transform="translate(436,-2180.3622)"
      id="layer1" />
   <g
-     transform="translate(436,-1028)"
+     transform="translate(436,-1228)"
      id="layer11">
     <rect
        width="24"
        height="24"
        x="412"
-       y="1028"
+       y="1228"
        transform="scale(-1,1)"
        id="rect6520"
        style="opacity:0;fill:#ffffff;fill-opacity:1;stroke:none;display:inline" />
     <path
-       d="M -431.03125,1030 C -432.67595,1030 -434.03125,1031.3553 -434.03125,1033 L -434.03125,1045 C -434.03125,1046.6447 -432.67595,1048 -431.03125,1048 L -419.03125,1048 C -417.38655,1048 -416.03125,1046.6447 -416.03125,1045 L -416.03125,1033 C -416.03125,1031.3553 -417.38655,1030 -419.03125,1030 L -431.03125,1030 z M -431.03125,1032 L -419.03125,1032 C -418.45995,1032 -418.03125,1032.4287 -418.03125,1033 L -418.03125,1045 C -418.03125,1045.5713 -418.45995,1046 -419.03125,1046 L -431.03125,1046 C -431.60255,1046 -432.03125,1045.5713 -432.03125,1045 L -432.03125,1033 C -432.03125,1032.4287 -431.60255,1032 -431.03125,1032 z"
+       d="M -431.03125,1230 C -432.67595,1230 -434.03125,1231.3553 -434.03125,1233 L -434.03125,1245 C -434.03125,1246.6447 -432.67595,1248 -431.03125,1248 L -419.03125,1248 C -417.38655,1248 -416.03125,1246.6447 -416.03125,1245 L -416.03125,1233 C -416.03125,1231.3553 -417.38655,1230 -419.03125,1230 L -431.03125,1230 z M -431.03125,1232 L -419.03125,1232 C -418.45995,1232 -418.03125,1232.4287 -418.03125,1233 L -418.03125,1245 C -418.03125,1245.5713 -418.45995,1246 -419.03125,1246 L -431.03125,1246 C -431.60255,1246 -432.03125,1245.5713 -432.03125,1245 L -432.03125,1233 C -432.03125,1232.4287 -431.60255,1232 -431.03125,1232 z"
        id="rect6522"
        style="fill:#bebebe;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:1.99999952;stroke-linecap:round;stroke-linejoin:miter;marker:none;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;visibility:visible;display:inline;overflow:visible;enable-background:accumulate" />
+    <path
+       d="M -430,1234 L -430,1235 L -430,1243 L -430,1244 L -429,1244 L -427.0625,1244 C -426.70187,1244.0051 -426.36643,1243.8156 -426.18462,1243.5041 C -426.00282,1243.1926 -426.00282,1242.8074 -426.18462,1242.4959 C -426.36643,1242.1844 -426.70187,1241.9949 -427.0625,1242 L -428,1242 L -428,1236 L -427.125,1236 C -426.76437,1236.0051 -426.42893,1235.8156 -426.24712,1235.5041 C -426.06532,1235.1926 -426.06532,1234.8074 -426.24712,1234.4959 C -426.42893,1234.1844 -426.76437,1233.9949 -427.125,1234 L -429,1234 L -430,1234 z"
+       id="path6530"
+       style="fill:#bebebe;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:1.99999952;stroke-linecap:round;stroke-linejoin:miter;marker:none;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;visibility:visible;display:inline;overflow:visible;enable-background:accumulate" />
+    <path
+       d="M -422.96875,1234 C -423.52103,1234.0259 -423.94776,1234.4946 -423.92187,1235.0469 C -423.89599,1235.5992 -423.42728,1236.0259 -422.875,1236 L -422,1236 L -422,1242 L -422.9375,1242 C -423.29813,1241.9949 -423.63357,1242.1844 -423.81538,1242.4959 C -423.99718,1242.8074 -423.99718,1243.1926 -423.81538,1243.5041 C -423.63357,1243.8156 -423.29813,1244.0051 -422.9375,1244 L -421,1244 L -420,1244 L -420,1243 L -420,1235 L -420,1234 L -421,1234 L -422.875,1234 C -422.90623,1233.9985 -422.93752,1233.9985 -422.96875,1234 L -422.96875,1234 z"
+       id="path6532"
+       style="fill:#bebebe;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:1.99999952;stroke-linecap:round;stroke-linejoin:miter;marker:none;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;visibility:visible;display:inline;overflow:visible;enable-background:accumulate" />
+    <rect
+       width="2.032932"
+       height="1.9445436"
+       x="-425.98764"
+       y="1238.0214"
+       id="rect6534"
+       style="fill:#bebebe;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:1.99999952;marker:none;visibility:visible;display:inline;overflow:visible;enable-background:accumulate" />
   </g>
   <g
-     transform="translate(436,-1028)"
+     transform="translate(436,-1228)"
      id="layer4" />
   <g
-     transform="translate(436,-1028)"
+     transform="translate(436,-1228)"
      id="layer9" />
   <g
-     transform="translate(436,-1028)"
+     transform="translate(436,-1228)"
      id="layer10" />
   <g
-     transform="translate(436,-1028)"
+     transform="translate(436,-1228)"
      id="layer6" />
 </svg>
