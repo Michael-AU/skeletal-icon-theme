@@ -3,7 +3,6 @@
 <svg
    xmlns:svg="http://www.w3.org/2000/svg"
    xmlns="http://www.w3.org/2000/svg"
-   xmlns:xlink="http://www.w3.org/1999/xlink"
    version="1.0"
    width="24"
    height="24.038626"
@@ -11,27 +10,7 @@
   <title
      id="title9167">Moblin Icon Theme</title>
   <defs
-     id="defs7386">
-    <linearGradient
-       id="linearGradient10498-0-7-8">
-      <stop
-         id="stop10500-1-8-4"
-         style="stop-color:#ed2124;stop-opacity:1"
-         offset="0" />
-      <stop
-         id="stop10502-5-9-5"
-         style="stop-color:#ed2124;stop-opacity:0"
-         offset="1" />
-    </linearGradient>
-    <linearGradient
-       x1="14.90385"
-       y1="25.168436"
-       x2="27.918339"
-       y2="25.168436"
-       id="linearGradient14834"
-       xlink:href="#linearGradient10498-0-7-8"
-       gradientUnits="userSpaceOnUse" />
-  </defs>
+     id="defs7386" />
   <g
      transform="translate(398,-978)"
      id="layer3" />
@@ -107,7 +86,7 @@
        d="M -2.8284264,179.43886 A 22.98097,22.98097 0 1 1 -48.790367,179.43886 A 22.98097,22.98097 0 1 1 -2.8284264,179.43886 z"
        transform="matrix(0.2610857,0,0,-0.2610857,-373.26154,1042.8489)"
        id="path3543-8-0"
-       style="fill:url(#linearGradient14834);fill-opacity:1;stroke:none;display:inline" />
+       style="fill:#bebebe;fill-opacity:1;stroke:none;display:inline" />
     <path
        d="M -390.03125,986.0625 C -390.54661,986.11107 -390.93973,986.54487 -390.9375,987.0625 L -390.9375,994 C -390.93744,994.55226 -390.48976,994.99994 -389.9375,995 L -388,995 C -387.63936,995.0051 -387.30392,994.81562 -387.12211,994.50413 C -386.94031,994.19263 -386.94031,993.80737 -387.12211,993.49587 C -387.30392,993.18438 -387.63936,992.9949 -388,993 L -388.9375,993 L -388.9375,988.0625 L -383,988.0625 L -383,988.1875 C -383.0051,988.54814 -382.81562,988.88358 -382.50413,989.06539 C -382.19263,989.24719 -381.80737,989.24719 -381.49587,989.06539 C -381.18438,988.88358 -380.9949,988.54814 -381,988.1875 L -381,987.0625 C -381.00006,986.51024 -381.44774,986.06256 -382,986.0625 L -389.9375,986.0625 C -389.96873,986.06103 -390.00002,986.06103 -390.03125,986.0625 z"
        id="path14855"

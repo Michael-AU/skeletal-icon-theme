@@ -1,0 +1,200 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Created with Inkscape (http://www.inkscape.org/) -->
+<svg
+   xmlns:svg="http://www.w3.org/2000/svg"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:xlink="http://www.w3.org/1999/xlink"
+   version="1.0"
+   width="24"
+   height="24.012939"
+   id="svg7384">
+  <title
+     id="title9167">Moblin Icon Theme</title>
+  <defs
+     id="defs7386">
+    <linearGradient
+       id="linearGradient7487-1-1">
+      <stop
+         id="stop7489-4-3"
+         style="stop-color:#bebebe;stop-opacity:1"
+         offset="0" />
+      <stop
+         id="stop7491-5-4"
+         style="stop-color:#bebebe;stop-opacity:0"
+         offset="1" />
+    </linearGradient>
+    <linearGradient
+       x1="105.91268"
+       y1="121.0463"
+       x2="105.91268"
+       y2="115.05012"
+       id="linearGradient11865"
+       xlink:href="#linearGradient7487-1-1"
+       gradientUnits="userSpaceOnUse"
+       gradientTransform="matrix(1,0,0,1.091442,464.08855,380.47831)" />
+    <linearGradient
+       x1="105.91268"
+       y1="121.0463"
+       x2="105.91268"
+       y2="115.05012"
+       id="linearGradient11867"
+       xlink:href="#linearGradient7487-1-1"
+       gradientUnits="userSpaceOnUse"
+       gradientTransform="matrix(1,0,0,1.091442,-68.434344,632.1023)" />
+    <linearGradient
+       x1="105.91268"
+       y1="121.0463"
+       x2="105.91268"
+       y2="115.05012"
+       id="linearGradient11869"
+       xlink:href="#linearGradient7487-1-1"
+       gradientUnits="userSpaceOnUse"
+       gradientTransform="matrix(1,0,0,1.091442,-622.90992,433.47678)" />
+    <linearGradient
+       x1="105.91268"
+       y1="121.0463"
+       x2="105.91268"
+       y2="115.05012"
+       id="linearGradient11871"
+       xlink:href="#linearGradient7487-1-1"
+       gradientUnits="userSpaceOnUse"
+       gradientTransform="matrix(1,0,0,1.091442,-874.53391,-99.046114)" />
+    <linearGradient
+       x1="105.91268"
+       y1="121.0463"
+       x2="105.91268"
+       y2="115.05012"
+       id="linearGradient11873"
+       xlink:href="#linearGradient7487-1-1"
+       gradientUnits="userSpaceOnUse"
+       gradientTransform="matrix(1,0,0,1.091442,-675.90839,-653.52169)" />
+  </defs>
+  <g
+     transform="translate(514,-1560)"
+     id="layer3" />
+  <g
+     transform="translate(514,-1560)"
+     id="layer5" />
+  <g
+     transform="translate(514,-1560)"
+     id="layer7" />
+  <g
+     transform="translate(514,-1560)"
+     id="layer2" />
+  <g
+     transform="translate(514,-1560)"
+     id="layer8" />
+  <g
+     transform="translate(514,-2512.3622)"
+     id="layer1" />
+  <g
+     transform="translate(514,-1560)"
+     id="layer11">
+    <g
+       transform="translate(-1020,2147)"
+       id="use8733">
+      <rect
+         width="24"
+         height="24"
+         x="-530"
+         y="-586.99707"
+         transform="scale(-1,1)"
+         id="rect11845"
+         style="opacity:0;fill:#ffffff;fill-opacity:1;stroke:none;display:inline" />
+      <rect
+         width="2.0000005"
+         height="12"
+         rx="1.0000002"
+         ry="1.0000002"
+         x="568.99847"
+         y="506"
+         transform="matrix(0,-1,1,0,0,0)"
+         id="rect11847"
+         style="fill:url(#linearGradient11865);fill-opacity:1;stroke:none;display:inline" />
+      <rect
+         width="2.0000005"
+         height="5"
+         rx="1.0000002"
+         ry="1.0000002"
+         x="-518"
+         y="569.99847"
+         transform="scale(-1,-1)"
+         id="rect11849"
+         style="fill:#bebebe;fill-opacity:1;stroke:none;display:inline" />
+      <rect
+         width="2.0000002"
+         height="2"
+         rx="1.0000001"
+         ry="1.0000001"
+         x="516"
+         y="-578.99847"
+         id="rect11851"
+         style="fill:#bebebe;fill-opacity:1;stroke:none;display:inline" />
+      <path
+         d="M 513.5159,-583.4985 L 520.5,-583.4985"
+         id="path11853"
+         style="fill:none;stroke:#bebebe;stroke-width:1px;stroke-linecap:round;stroke-linejoin:miter;stroke-opacity:1" />
+      <rect
+         width="12"
+         height="12.0015"
+         rx="1.0000001"
+         ry="1"
+         x="511"
+         y="-586"
+         id="rect11855"
+         style="fill:#ffffff;fill-opacity:0;fill-rule:nonzero;stroke:#bebebe;stroke-width:1.99999988;stroke-linecap:round;stroke-linejoin:round;marker:none;stroke-opacity:1;visibility:visible;display:inline;overflow:visible;enable-background:new" />
+      <rect
+         width="2.0000005"
+         height="10.5"
+         rx="1.0000002"
+         ry="1.0000002"
+         x="36.475582"
+         y="759.12396"
+         transform="matrix(-0.7071068,-0.7071068,0.7071068,-0.7071068,0,0)"
+         id="rect11857"
+         style="fill:url(#linearGradient11867);fill-opacity:1;stroke:none;display:inline" />
+      <rect
+         width="2.0000005"
+         height="7.9341092"
+         rx="1.0000002"
+         ry="1.0000002"
+         x="-518"
+         y="563.06427"
+         transform="scale(-1,-1)"
+         id="rect11859"
+         style="fill:url(#linearGradient11869);fill-opacity:1;stroke:none;display:inline" />
+      <rect
+         width="2.0000005"
+         height="10.5"
+         rx="1.0000002"
+         ry="1.0000002"
+         x="-769.62396"
+         y="27.975519"
+         transform="matrix(-0.7071068,0.7071068,-0.7071068,-0.7071068,0,0)"
+         id="rect11861"
+         style="fill:url(#linearGradient11871);fill-opacity:1;stroke:none;display:inline" />
+      <rect
+         width="2.0000005"
+         height="12"
+         rx="1.0000002"
+         ry="1.0000002"
+         x="-570.99841"
+         y="-528.00006"
+         transform="matrix(0,1,-1,0,0,0)"
+         id="rect11863"
+         style="fill:url(#linearGradient11873);fill-opacity:1;stroke:none;display:inline" />
+    </g>
+  </g>
+  <g
+     transform="translate(514,-1560)"
+     id="layer4" />
+  <g
+     transform="translate(514,-1560)"
+     id="layer9" />
+  <g
+     transform="translate(514,-1560)"
+     id="layer10" />
+  <g
+     transform="translate(514,-1560)"
+     id="layer6" />
+</svg>

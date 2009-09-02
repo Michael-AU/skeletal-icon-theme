@@ -1,0 +1,136 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Created with Inkscape (http://www.inkscape.org/) -->
+<svg
+   xmlns:svg="http://www.w3.org/2000/svg"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:xlink="http://www.w3.org/1999/xlink"
+   version="1.0"
+   width="24.008347"
+   height="24"
+   id="svg7384">
+  <title
+     id="title9167">Moblin Icon Theme</title>
+  <defs
+     id="defs7386">
+    <linearGradient
+       id="linearGradient7487-6-82-9-4-6">
+      <stop
+         id="stop7489-8-9-5-8-8"
+         style="stop-color:#bebebe;stop-opacity:1"
+         offset="0" />
+      <stop
+         id="stop7491-2-3-1-4-7"
+         style="stop-color:#bebebe;stop-opacity:0"
+         offset="1" />
+    </linearGradient>
+    <linearGradient
+       x1="105.91268"
+       y1="121.73069"
+       x2="105.91268"
+       y2="115.05012"
+       id="linearGradient12213"
+       xlink:href="#linearGradient7487-6-82-9-4-6"
+       gradientUnits="userSpaceOnUse"
+       gradientTransform="matrix(1,0,0,1.273349,-1658.91,265.56608)" />
+    <linearGradient
+       x1="105.91268"
+       y1="121.0463"
+       x2="105.91268"
+       y2="115.05012"
+       id="linearGradient12217"
+       xlink:href="#linearGradient7487-6-82-9-4-6"
+       gradientUnits="userSpaceOnUse"
+       gradientTransform="matrix(1,0,0,1.091442,-1658.91,-561.52975)" />
+  </defs>
+  <g
+     transform="translate(436.00806,-1530)"
+     id="layer3" />
+  <g
+     transform="translate(436.00806,-1530)"
+     id="layer5" />
+  <g
+     transform="translate(436.00806,-1530)"
+     id="layer7" />
+  <g
+     transform="translate(436.00806,-1530)"
+     id="layer2" />
+  <g
+     transform="translate(436.00806,-1530)"
+     id="layer8" />
+  <g
+     transform="translate(436.00806,-2482.3622)"
+     id="layer1" />
+  <g
+     transform="translate(436.00806,-1530)"
+     id="layer11">
+    <rect
+       width="24"
+       height="24"
+       x="411.99969"
+       y="1530"
+       transform="scale(-1,1)"
+       id="rect8295"
+       style="opacity:0;fill:#ffffff;fill-opacity:1;stroke:none;display:inline" />
+    <g
+       transform="matrix(0.9406093,0,0,0.9406093,-254.22461,1343.4297)"
+       id="g8307">
+      <path
+         d="M 958,213.5 A 3.5,3.5 0 1 1 951,213.5 A 3.5,3.5 0 1 1 958,213.5 z"
+         transform="matrix(1.1870454,0,0,1.1870454,-1314.691,-43.291264)"
+         id="path8309"
+         style="fill:none;stroke:#bebebe;stroke-width:1.79123819;stroke-linecap:round;stroke-linejoin:round;marker:none;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;visibility:visible;display:inline;overflow:visible;enable-background:accumulate" />
+      <path
+         d="M 956.11378,216.60575 A 3.5,3.5 0 1 1 957.99304,213.72066"
+         transform="matrix(2.4295211,0,0,2.4306514,-2500.5362,-308.89515)"
+         id="path8311"
+         style="fill:none;stroke:#bebebe;stroke-width:0.87498158;stroke-linecap:round;stroke-linejoin:round;marker:none;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;visibility:visible;display:inline;overflow:visible;enable-background:accumulate" />
+      <path
+         d="M 957.99225,213.26718 A 3.5,3.5 0 1 1 951.04,212.97235"
+         transform="matrix(0.6369564,0,0,0.5669846,-783.25747,90.198702)"
+         id="path8313"
+         style="fill:none;stroke:#bebebe;stroke-width:3.53818226;stroke-linecap:round;stroke-linejoin:round;marker:none;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;visibility:visible;display:inline;overflow:visible;enable-background:accumulate" />
+    </g>
+    <rect
+       width="2.0000005"
+       height="12"
+       rx="1.0000002"
+       ry="1.0000002"
+       x="-1554"
+       y="-436.00806"
+       transform="matrix(0,-1,1,0,0,0)"
+       id="rect7483-7-1"
+       style="fill:url(#linearGradient12217);fill-opacity:1;stroke:none;display:inline" />
+    <rect
+       width="2.0000005"
+       height="4"
+       rx="1.0000002"
+       ry="1.0000002"
+       x="424"
+       y="-1553"
+       transform="scale(-1,-1)"
+       id="rect7485-1-7"
+       style="fill:#bebebe;fill-opacity:1;stroke:none;display:inline" />
+    <rect
+       width="2.0000005"
+       height="14"
+       rx="1.0000002"
+       ry="1.0000002"
+       x="-1554"
+       y="412.00806"
+       transform="matrix(0,-1,-1,0,0,0)"
+       id="rect7495-4-0"
+       style="fill:url(#linearGradient12213);fill-opacity:1;stroke:none;display:inline" />
+  </g>
+  <g
+     transform="translate(436.00806,-1530)"
+     id="layer4" />
+  <g
+     transform="translate(436.00806,-1530)"
+     id="layer9" />
+  <g
+     transform="translate(436.00806,-1530)"
+     id="layer10" />
+  <g
+     transform="translate(436.00806,-1530)"
+     id="layer6" />
+</svg>
