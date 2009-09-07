@@ -62,7 +62,7 @@ do
               do
 
                       MAKEFILES="$MAKEFILES\n$dir/$context/Makefile"
-                      files=`echo $dir/$context/*.{svg,icon}|sed "s/$dir\/$context\///g"| sed "s/\*\.icon//g"`
+                      files=`echo $dir/$context/*.{svg,icon,png}|sed "s/$dir\/$context\///g"| sed 's/\*\.\(icon\|png\|svg\)//g'`
                       echo "themedir = \$(datadir)/icons/$THEME_NAME/$dir/$context" > $dir/$context/Makefile.am
                       echo "theme_DATA = $files" >> $dir/$context/Makefile.am
                       echo "EXTRA_DIST = \$(theme_DATA)" >> $dir/$context/Makefile.am
