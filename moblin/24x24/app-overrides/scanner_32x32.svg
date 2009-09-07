@@ -12,40 +12,40 @@
   <defs
      id="defs7386" />
   <g
-     transform="translate(510,-1034)"
+     transform="translate(509.99995,-983.99998)"
      id="layer3" />
   <g
-     transform="translate(510,-1034)"
+     transform="translate(509.99995,-983.99998)"
      id="layer5" />
   <g
-     transform="translate(510,-1034)"
+     transform="translate(509.99995,-983.99998)"
      id="layer7" />
   <g
-     transform="translate(510,-1034)"
+     transform="translate(509.99995,-983.99998)"
      id="layer2" />
   <g
-     transform="translate(510,-1034)"
+     transform="translate(509.99995,-983.99998)"
      id="layer8" />
   <g
-     transform="translate(510,-1986.3622)"
+     transform="translate(509.99995,-1936.3622)"
      id="layer1" />
   <g
-     transform="translate(510,-1034)"
+     transform="translate(509.99995,-983.99998)"
      id="layer11">
     <g
-       transform="translate(-559,666.63782)"
+       transform="translate(-558.99995,616.6378)"
        id="use15907">
       <path
          d="M -508.5,1097.625 L -508.5,1109.5 L -495.5,1109.5 L -495.5,1097.625 L -508.5,1097.625 z M -505,1103 L -499,1103 C -497.892,1103 -497,1103.892 -497,1105 C -497,1106.108 -497.892,1107 -499,1107 L -505,1107 C -506.108,1107 -507,1106.108 -507,1105 C -507,1103.892 -506.108,1103 -505,1103 z"
          transform="translate(563,-722.63782)"
-         id="path10567"
+         id="path7399"
          style="opacity:0.5;fill:#bebebe;fill-opacity:1;stroke:none;stroke-width:1;marker:none;visibility:visible;display:inline;overflow:visible;enable-background:accumulate" />
       <rect
          width="24"
          height="24"
          x="49"
          y="367.36218"
-         id="rect10569"
+         id="rect7401"
          style="opacity:0;fill:#ffffff;fill-opacity:1;stroke:none;display:inline" />
       <rect
          width="18"
@@ -54,7 +54,7 @@
          ry="1.331345"
          x="52"
          y="372.36215"
-         id="rect10571"
+         id="rect7403"
          style="fill:none;stroke:#bebebe;stroke-width:2;stroke-linecap:round;stroke-linejoin:miter;marker:none;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;visibility:visible;display:inline;overflow:visible;enable-background:accumulate" />
       <rect
          width="13"
@@ -63,7 +63,7 @@
          ry="0.0055197454"
          x="54.5"
          y="374.86218"
-         id="rect10573"
+         id="rect7405"
          style="fill:none;stroke:#bebebe;stroke-width:1;stroke-linecap:round;stroke-linejoin:miter;marker:none;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;visibility:visible;display:inline;overflow:visible;enable-background:accumulate" />
       <rect
          width="12"
@@ -72,20 +72,23 @@
          ry="1.9999987"
          x="55"
          y="380.36215"
-         id="rect10575"
+         id="rect7407"
          style="fill:none;stroke:#bebebe;stroke-width:1.99999988;stroke-linecap:round;stroke-linejoin:miter;marker:none;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;visibility:visible;display:inline;overflow:visible;enable-background:accumulate" />
     </g>
   </g>
   <g
-     transform="translate(510,-1034)"
+     transform="translate(509.99995,-983.99998)"
      id="layer4" />
   <g
-     transform="translate(510,-1034)"
+     transform="translate(509.99995,-983.99998)"
+     id="layer12" />
+  <g
+     transform="translate(509.99995,-983.99998)"
      id="layer9" />
   <g
-     transform="translate(510,-1034)"
+     transform="translate(509.99995,-983.99998)"
      id="layer10" />
   <g
-     transform="translate(510,-1034)"
+     transform="translate(509.99995,-983.99998)"
      id="layer6" />
 </svg>

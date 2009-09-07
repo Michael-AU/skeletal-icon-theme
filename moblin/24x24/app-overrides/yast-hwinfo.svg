@@ -12,62 +12,65 @@
   <defs
      id="defs7386" />
   <g
-     transform="translate(618,-1500)"
+     transform="translate(616,-1360.1722)"
      id="layer3" />
   <g
-     transform="translate(618,-1500)"
+     transform="translate(616,-1360.1722)"
      id="layer5" />
   <g
-     transform="translate(618,-1500)"
+     transform="translate(616,-1360.1722)"
      id="layer7" />
   <g
-     transform="translate(618,-1500)"
+     transform="translate(616,-1360.1722)"
      id="layer2" />
   <g
-     transform="translate(618,-1500)"
+     transform="translate(616,-1360.1722)"
      id="layer8" />
   <g
-     transform="translate(618,-2452.3622)"
+     transform="translate(616,-2312.5344)"
      id="layer1" />
   <g
-     transform="translate(618,-1500)"
+     transform="translate(616,-1360.1722)"
      id="layer11">
     <rect
        width="24"
        height="24"
-       x="-618"
-       y="1500"
+       x="-616"
+       y="1360.1722"
        id="rect6676"
        style="opacity:0;fill:#ffffff;fill-opacity:1;stroke:none;display:inline" />
     <path
-       d="M -606.99701,1500 C -613.06954,1500 -617.99222,1504.929 -617.99222,1510.9999 C -617.99222,1517.0709 -613.06954,1522 -606.99701,1522 C -600.92447,1522 -596.0018,1517.0709 -596.0018,1510.9999 C -596.0018,1504.929 -600.92447,1500 -606.99701,1500 L -606.99701,1500 z"
+       d="M -604.99701,1360.1723 C -611.06954,1360.1723 -615.99222,1365.1013 -615.99222,1371.1722 C -615.99222,1377.2432 -611.06954,1382.1723 -604.99701,1382.1723 C -598.92447,1382.1723 -594.0018,1377.2432 -594.0018,1371.1722 C -594.0018,1365.1013 -598.92447,1360.1723 -604.99701,1360.1723 L -604.99701,1360.1723 z"
        id="path3543-8-1-4"
        style="fill:#bebebe;fill-opacity:1;stroke:none;display:inline" />
     <rect
        width="1.9999954"
        height="1.9999954"
-       x="-608"
-       y="1506"
+       x="-606"
+       y="1366.1722"
        id="rect5835-1"
        style="fill:#ffffff;fill-opacity:1;stroke:none;display:inline" />
     <rect
        width="1.9999954"
        height="6.1249886"
-       x="-608"
-       y="1510"
+       x="-606"
+       y="1370.1722"
        id="rect5837-0"
        style="fill:#ffffff;fill-opacity:1;stroke:none;display:inline" />
   </g>
   <g
-     transform="translate(618,-1500)"
+     transform="translate(616,-1360.1722)"
      id="layer4" />
   <g
-     transform="translate(618,-1500)"
+     transform="translate(616,-1360.1722)"
+     id="layer12" />
+  <g
+     transform="translate(616,-1360.1722)"
      id="layer9" />
   <g
-     transform="translate(618,-1500)"
+     transform="translate(616,-1360.1722)"
      id="layer10" />
   <g
-     transform="translate(618,-1500)"
+     transform="translate(616,-1360.1722)"
      id="layer6" />
 </svg>

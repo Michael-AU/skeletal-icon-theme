@@ -12,39 +12,40 @@
   <defs
      id="defs7386" />
   <g
-     transform="translate(510.01041,-1124)"
+     transform="translate(510.01036,-1074)"
      id="layer3" />
   <g
-     transform="translate(510.01041,-1124)"
+     transform="translate(510.01036,-1074)"
      id="layer5" />
   <g
-     transform="translate(510.01041,-1124)"
+     transform="translate(510.01036,-1074)"
      id="layer7" />
   <g
-     transform="translate(510.01041,-1124)"
+     transform="translate(510.01036,-1074)"
      id="layer2" />
   <g
-     transform="translate(510.01041,-1124)"
+     transform="translate(510.01036,-1074)"
      id="layer8" />
   <g
-     transform="translate(510.01041,-2076.3622)"
+     transform="translate(510.01036,-2026.3622)"
      id="layer1" />
   <g
-     transform="translate(510.01041,-1124)"
+     transform="translate(510.01036,-1074)"
      id="layer11">
     <rect
        width="24"
        height="24"
-       x="486"
-       y="1124"
+       x="485.99994"
+       y="1074"
        transform="scale(-1,1)"
        id="rect8929"
        style="opacity:0;fill:#f5f5f5;fill-opacity:1;stroke:none;display:inline" />
     <path
-       d="M -504,1136 L -504,1137 L -504,1140 L -508.9375,1140.0312 L -509.9375,1140.0312 L -509.9375,1141.0312 L -509.9375,1147.0625 L -509.9375,1148.0625 L -508.9375,1148.0625 L -503.125,1148.0625 L -494.84375,1148.0625 L -488.9375,1148.0625 L -487.9375,1148.0625 L -487.9375,1147.0625 L -487.9375,1141.0312 L -487.9375,1140.0312 L -488.9375,1140.0312 L -494,1140 L -494,1137 L -494,1136 L -495,1136 L -503,1136 L -504,1136 z M -502,1138 L -496,1138 L -496,1141 L -496,1142 L -495,1142 L -489.9375,1142.0312 L -489.9375,1146.0625 L -494.84375,1146.0625 L -503.125,1146.0625 L -507.9375,1146.0625 L -507.9375,1142.0312 L -503,1142 L -502,1142 L -502,1141 L -502,1138 z"
+       d="M -504,1086 L -504,1087 L -504,1090 L -508.9375,1090.0312 L -509.9375,1090.0312 L -509.9375,1091.0312 L -509.9375,1097.0625 L -509.9375,1098.0625 L -508.9375,1098.0625 L -503.125,1098.0625 L -494.84375,1098.0625 L -488.9375,1098.0625 L -487.9375,1098.0625 L -487.9375,1097.0625 L -487.9375,1091.0312 L -487.9375,1090.0312 L -488.9375,1090.0312 L -494,1090 L -494,1087 L -494,1086 L -495,1086 L -503,1086 L -504,1086 z M -502,1088 L -496,1088 L -496,1091 L -496,1092 L -495,1092 L -489.9375,1092.0312 L -489.9375,1096.0625 L -494.84375,1096.0625 L -503.125,1096.0625 L -507.9375,1096.0625 L -507.9375,1092.0312 L -503,1092 L -502,1092 L -502,1091 L -502,1088 z"
        id="rect9026"
-       style="fill:#bebebe;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:2;stroke-linecap:round;stroke-linejoin:miter;marker:none;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;visibility:visible;display:inline;overflow:visible;enable-background:new" />
+       style="fill:#bebebe;fill-opacity:1;stroke:none;stroke-width:2;stroke-linecap:round;stroke-linejoin:miter;marker:none;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;visibility:visible;display:inline;overflow:visible;enable-background:new" />
     <g
+       transform="translate(5e-5,-50)"
        id="g9089">
       <path
          d="M -497.09606,1130.1219 A 2.9610097,2.9610097 0 1 1 -503.01808,1130.1219 A 2.9610097,2.9610097 0 1 1 -497.09606,1130.1219 z"
@@ -58,7 +59,7 @@
          style="fill:none;stroke:#bebebe;stroke-width:1.44959569;stroke-linecap:round;stroke-linejoin:miter;marker:none;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;visibility:visible;display:inline;overflow:visible;enable-background:new" />
     </g>
     <g
-       transform="translate(6.94702,4)"
+       transform="translate(6.94707,-46)"
        id="g9095">
       <path
          d="M -497.09606,1130.1219 A 2.9610097,2.9610097 0 1 1 -503.01808,1130.1219 A 2.9610097,2.9610097 0 1 1 -497.09606,1130.1219 z"
@@ -76,7 +77,7 @@
          style="fill:none;stroke:#bebebe;stroke-width:2;stroke-linecap:round;stroke-linejoin:miter;marker:none;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;visibility:visible;display:inline;overflow:visible;enable-background:new" />
     </g>
     <g
-       transform="translate(-7.05298,4)"
+       transform="translate(-7.05293,-46)"
        id="g9106">
       <path
          d="M -497.09606,1130.1219 A 2.9610097,2.9610097 0 1 1 -503.01808,1130.1219 A 2.9610097,2.9610097 0 1 1 -497.09606,1130.1219 z"
@@ -95,15 +96,18 @@
     </g>
   </g>
   <g
-     transform="translate(510.01041,-1124)"
+     transform="translate(510.01036,-1074)"
      id="layer4" />
   <g
-     transform="translate(510.01041,-1124)"
+     transform="translate(510.01036,-1074)"
+     id="layer12" />
+  <g
+     transform="translate(510.01036,-1074)"
      id="layer9" />
   <g
-     transform="translate(510.01041,-1124)"
+     transform="translate(510.01036,-1074)"
      id="layer10" />
   <g
-     transform="translate(510.01041,-1124)"
+     transform="translate(510.01036,-1074)"
      id="layer6" />
 </svg>

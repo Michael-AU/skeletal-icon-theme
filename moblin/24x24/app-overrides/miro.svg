@@ -12,48 +12,51 @@
   <defs
      id="defs7386" />
   <g
-     transform="translate(426,-1154)"
+     transform="translate(426,-1104)"
      id="layer3" />
   <g
-     transform="translate(426,-1154)"
+     transform="translate(426,-1104)"
      id="layer5" />
   <g
-     transform="translate(426,-1154)"
+     transform="translate(426,-1104)"
      id="layer7" />
   <g
-     transform="translate(426,-1154)"
+     transform="translate(426,-1104)"
      id="layer2" />
   <g
-     transform="translate(426,-1154)"
+     transform="translate(426,-1104)"
      id="layer8" />
   <g
-     transform="translate(426,-2106.3622)"
+     transform="translate(426,-2056.3622)"
      id="layer1" />
   <g
-     transform="translate(426,-1154)"
+     transform="translate(426,-1104)"
      id="layer11">
     <rect
        width="24"
        height="24"
        x="-426"
-       y="1154"
+       y="1104"
        id="rect9690"
        style="opacity:0;fill:#ffffff;fill-opacity:1;stroke:none;display:inline" />
     <path
-       d="M -412.5,1156.875 C -420.15864,1156.844 -424.125,1171 -424.125,1171 C -424.125,1171 -417.93542,1175.7365 -412.25,1175.125 C -406.56458,1174.5135 -404.125,1167.6268 -404.125,1163.25 L -404.125,1160.875 C -404.125,1160.875 -406.12461,1156.9001 -412.5,1156.875 z M -418,1162 L -417.9375,1162 L -416,1162 L -410.03125,1162 C -408.71875,1162.0313 -407.9375,1162.7812 -408,1164 L -408,1170.0312 L -409.9375,1170.0312 L -409.9375,1164 L -412,1164 L -412,1170.0312 L -413.9375,1170.0312 L -413.9375,1164 L -416,1164 L -416,1170.0312 L -417.9375,1170.0312 L -417.9375,1164 L -418,1164 L -418,1162 z"
+       d="M -412.5,1106.875 C -420.15864,1106.844 -424.125,1121 -424.125,1121 C -424.125,1121 -417.93542,1125.7365 -412.25,1125.125 C -406.56458,1124.5135 -404.125,1117.6268 -404.125,1113.25 L -404.125,1110.875 C -404.125,1110.875 -406.12461,1106.9001 -412.5,1106.875 z M -418,1112 L -417.9375,1112 L -416,1112 L -410.03125,1112 C -408.71875,1112.031 -407.9375,1112.7812 -408,1114 L -408,1120.0312 L -409.9375,1120.0312 L -409.9375,1114 L -412,1114 L -412,1120.0312 L -413.9375,1120.0312 L -413.9375,1114 L -416,1114 L -416,1120.0312 L -417.9375,1120.0312 L -417.9375,1114 L -418,1114 L -418,1112 z"
        id="path9704"
        style="fill:#bebebe;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:2;marker:none;visibility:visible;display:inline;overflow:visible;enable-background:accumulate" />
   </g>
   <g
-     transform="translate(426,-1154)"
+     transform="translate(426,-1104)"
      id="layer4" />
   <g
-     transform="translate(426,-1154)"
+     transform="translate(426,-1104)"
+     id="layer12" />
+  <g
+     transform="translate(426,-1104)"
      id="layer9" />
   <g
-     transform="translate(426,-1154)"
+     transform="translate(426,-1104)"
      id="layer10" />
   <g
-     transform="translate(426,-1154)"
+     transform="translate(426,-1104)"
      id="layer6" />
 </svg>

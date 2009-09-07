@@ -12,35 +12,35 @@
   <defs
      id="defs7386" />
   <g
-     transform="translate(482,-1274)"
+     transform="translate(482,-1224)"
      id="layer3" />
   <g
-     transform="translate(482,-1274)"
+     transform="translate(482,-1224)"
      id="layer5" />
   <g
-     transform="translate(482,-1274)"
+     transform="translate(482,-1224)"
      id="layer7" />
   <g
-     transform="translate(482,-1274)"
+     transform="translate(482,-1224)"
      id="layer2" />
   <g
-     transform="translate(482,-1274)"
+     transform="translate(482,-1224)"
      id="layer8" />
   <g
-     transform="translate(482,-2226.3622)"
+     transform="translate(482,-2176.3622)"
      id="layer1" />
   <g
-     transform="translate(482,-1274)"
+     transform="translate(482,-1224)"
      id="layer11">
     <g
-       transform="translate(-1310,1098.9807)"
+       transform="translate(-1310.0001,1048.9807)"
        id="use11234">
       <rect
          width="24"
          height="24"
          x="828"
          y="175.01932"
-         id="rect11363"
+         id="rect11977"
          style="opacity:0;fill:#ffffff;fill-opacity:1;stroke:none;display:inline" />
       <rect
          width="9.4868441"
@@ -48,60 +48,63 @@
          x="724.22137"
          y="-161.21637"
          transform="matrix(0.9486833,0.3162279,-0.9486833,0.3162279,0,0)"
-         id="rect11365"
+         id="rect11979"
          style="fill:none;stroke:#bebebe;stroke-width:1.29099429;stroke-linecap:round;stroke-linejoin:round;marker:none;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;visibility:visible;display:inline;overflow:visible;enable-background:accumulate" />
       <path
          d="M 733.60943,-161.31514 L 752.6819,-142.24267 L 752.6819,-132.75583 L 743.19506,-132.75583 L 724.02377,-151.92712 L 724.12582,-151.89722 L 724.19572,-161.19087 L 733.60945,-161.31509 L 733.60943,-161.31514 z"
          transform="matrix(0.9486833,0.3162279,-0.9486833,0.3162279,0,0)"
-         id="path11367"
+         id="path11981"
          style="fill:none;stroke:#bebebe;stroke-width:2.58198857;stroke-linecap:round;stroke-linejoin:round;marker:none;stroke-miterlimit:4;stroke-dashoffset:0;stroke-opacity:1;visibility:visible;display:inline;overflow:visible;enable-background:accumulate" />
       <path
          d="M -576,1195 A 0.9375,0.9375 0 1 1 -577.875,1195 A 0.9375,0.9375 0 1 1 -576,1195 z"
          transform="translate(1420,-1008.9621)"
-         id="path11369"
-         style="fill:#bebebe;fill-opacity:1;stroke:none;stroke-width:2;stroke-linecap:round;stroke-linejoin:round;marker:none;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;visibility:visible;display:inline;overflow:visible;enable-background:accumulate" />
+         id="path11983"
+         style="fill:#bebebe;fill-opacity:1;stroke:none;stroke-width:2;marker:none;visibility:visible;display:inline;overflow:visible;enable-background:accumulate" />
       <path
          d="M -576,1195 A 0.9375,0.9375 0 1 1 -577.875,1195 A 0.9375,0.9375 0 1 1 -576,1195 z"
          transform="translate(1422.875,-1004.0246)"
-         id="path11371"
+         id="path11985"
          style="fill:#bebebe;fill-opacity:1;stroke:none;stroke-width:2;marker:none;visibility:visible;display:inline;overflow:visible;enable-background:accumulate" />
       <path
          d="M -576,1195 A 0.9375,0.9375 0 1 1 -577.875,1195 A 0.9375,0.9375 0 1 1 -576,1195 z"
          transform="translate(1417,-1014.0246)"
-         id="path11373"
+         id="path11987"
          style="fill:#bebebe;fill-opacity:1;stroke:none;stroke-width:2;marker:none;visibility:visible;display:inline;overflow:visible;enable-background:accumulate" />
       <path
          d="M -576,1195 A 0.9375,0.9375 0 1 1 -577.875,1195 A 0.9375,0.9375 0 1 1 -576,1195 z"
          transform="translate(1419.875,-1003.0246)"
-         id="path11375"
+         id="path11989"
          style="fill:#bebebe;fill-opacity:1;stroke:none;stroke-width:2;marker:none;visibility:visible;display:inline;overflow:visible;enable-background:accumulate" />
       <path
          d="M -576,1195 A 0.9375,0.9375 0 1 1 -577.875,1195 A 0.9375,0.9375 0 1 1 -576,1195 z"
          transform="translate(1423,-1010.0246)"
-         id="path11377"
+         id="path11991"
          style="fill:#bebebe;fill-opacity:1;stroke:none;stroke-width:2;marker:none;visibility:visible;display:inline;overflow:visible;enable-background:accumulate" />
       <path
          d="M -576,1195 A 0.9375,0.9375 0 1 1 -577.875,1195 A 0.9375,0.9375 0 1 1 -576,1195 z"
          transform="translate(1411.875,-1009.0246)"
-         id="path11379"
+         id="path11993"
          style="fill:#bebebe;fill-opacity:1;stroke:none;stroke-width:2;marker:none;visibility:visible;display:inline;overflow:visible;enable-background:accumulate" />
       <path
          d="M -576,1195 A 0.9375,0.9375 0 1 1 -577.875,1195 A 0.9375,0.9375 0 1 1 -576,1195 z"
          transform="translate(1413.875,-1003.0246)"
-         id="path11381"
+         id="path11995"
          style="fill:#bebebe;fill-opacity:1;stroke:none;stroke-width:2;marker:none;visibility:visible;display:inline;overflow:visible;enable-background:accumulate" />
     </g>
   </g>
   <g
-     transform="translate(482,-1274)"
+     transform="translate(482,-1224)"
      id="layer4" />
   <g
-     transform="translate(482,-1274)"
+     transform="translate(482,-1224)"
+     id="layer12" />
+  <g
+     transform="translate(482,-1224)"
      id="layer9" />
   <g
-     transform="translate(482,-1274)"
+     transform="translate(482,-1224)"
      id="layer10" />
   <g
-     transform="translate(482,-1274)"
+     transform="translate(482,-1224)"
      id="layer6" />
 </svg>

@@ -12,75 +12,78 @@
   <defs
      id="defs7386" />
   <g
-     transform="translate(426,-950)"
+     transform="translate(425.99995,-900)"
      id="layer3" />
   <g
-     transform="translate(426,-950)"
+     transform="translate(425.99995,-900)"
      id="layer5" />
   <g
-     transform="translate(426,-950)"
+     transform="translate(425.99995,-900)"
      id="layer7" />
   <g
-     transform="translate(426,-950)"
+     transform="translate(425.99995,-900)"
      id="layer2" />
   <g
-     transform="translate(426,-950)"
+     transform="translate(425.99995,-900)"
      id="layer8" />
   <g
-     transform="translate(426,-1902.3622)"
+     transform="translate(425.99995,-1852.3622)"
      id="layer1" />
   <g
-     transform="translate(426,-950)"
+     transform="translate(425.99995,-900)"
      id="layer11">
     <g
-       transform="translate(-475,582.63782)"
+       transform="translate(-474.99995,532.63782)"
        id="use7977">
       <rect
          width="24"
          height="24"
          x="49"
          y="367.36218"
-         id="rect10333"
+         id="rect12105"
          style="opacity:0;fill:#ffffff;fill-opacity:1;stroke:none;display:inline" />
       <path
          d="M 402.375,214.625 A 7.875,7.875 0 1 1 386.625,214.625 A 7.875,7.875 0 1 1 402.375,214.625 z"
          transform="matrix(0.7606216,0,0,0.7606216,-236.14184,219.12394)"
-         id="path10335"
+         id="path12107"
          style="fill:none;stroke:#bebebe;stroke-width:2.62942839;marker:none;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1;visibility:visible;display:inline;overflow:visible;enable-background:accumulate" />
       <path
          d="M 402.375,214.625 A 7.875,7.875 0 1 1 386.625,214.625 A 7.875,7.875 0 1 1 402.375,214.625 z"
          transform="matrix(0.2522598,0,0,0.2522598,-35.593106,328.2311)"
-         id="path10337"
+         id="path12109"
          style="fill:none;stroke:#bebebe;stroke-width:7.92833519;marker:none;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1;visibility:visible;display:inline;overflow:visible;enable-background:accumulate" />
       <path
          d="M 60.731859,386.36218 L 62.559191,384.08639"
-         id="path10339"
+         id="path12111"
          style="fill:none;stroke:#bebebe;stroke-width:0.99999994;stroke-linecap:round;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1" />
       <path
          d="M 67.113642,378.37334 L 65.286311,380.64911"
-         id="path10341"
+         id="path12113"
          style="fill:none;stroke:#bebebe;stroke-width:0.99999994;stroke-linecap:round;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1" />
       <path
          d="M -585,971 L -589,971 L -589,953 L -573,953 L -573,957"
          transform="translate(641,-582.63782)"
-         id="path10343"
+         id="path12115"
          style="fill:none;stroke:#bebebe;stroke-width:2.00000048;stroke-linecap:round;stroke-linejoin:miter;marker:none;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;visibility:visible;display:inline;overflow:visible;enable-background:accumulate" />
       <path
-         d="M 54.49045,376.86218 L 57.50959,376.86218"
-         id="path10345"
-         style="fill:none;stroke:#bebebe;stroke-width:0.99999994;stroke-linecap:round;stroke-linejoin:miter;marker:none;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;visibility:visible;display:inline;overflow:visible;enable-background:accumulate" />
+         d="M 53.180096,376.36218 L 56.800762,376.36218"
+         id="path12117"
+         style="fill:none;stroke:#bebebe;stroke-width:2;stroke-linecap:round;stroke-linejoin:miter;marker:none;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;visibility:visible;display:inline;overflow:visible;enable-background:accumulate" />
     </g>
   </g>
   <g
-     transform="translate(426,-950)"
+     transform="translate(425.99995,-900)"
      id="layer4" />
   <g
-     transform="translate(426,-950)"
+     transform="translate(425.99995,-900)"
+     id="layer12" />
+  <g
+     transform="translate(425.99995,-900)"
      id="layer9" />
   <g
-     transform="translate(426,-950)"
+     transform="translate(425.99995,-900)"
      id="layer10" />
   <g
-     transform="translate(426,-950)"
+     transform="translate(425.99995,-900)"
      id="layer6" />
 </svg>

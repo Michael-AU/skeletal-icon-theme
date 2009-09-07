@@ -28,90 +28,93 @@
        y1="237.13129"
        x2="255.2691"
        y2="234.96202"
-       id="linearGradient11719"
+       id="linearGradient11927"
        xlink:href="#linearGradient10844"
        gradientUnits="userSpaceOnUse" />
   </defs>
   <g
-     transform="translate(514,-1500)"
+     transform="translate(512,-1360.1722)"
      id="layer3" />
   <g
-     transform="translate(514,-1500)"
+     transform="translate(512,-1360.1722)"
      id="layer5" />
   <g
-     transform="translate(514,-1500)"
+     transform="translate(512,-1360.1722)"
      id="layer7" />
   <g
-     transform="translate(514,-1500)"
+     transform="translate(512,-1360.1722)"
      id="layer2" />
   <g
-     transform="translate(514,-1500)"
+     transform="translate(512,-1360.1722)"
      id="layer8" />
   <g
-     transform="translate(514,-2452.3622)"
+     transform="translate(512,-2312.5344)"
      id="layer1" />
   <g
-     transform="translate(514,-1500)"
+     transform="translate(512,-1360.1722)"
      id="layer11">
     <g
-       transform="translate(-534,1104.6378)"
+       transform="translate(-532,964.81)"
        id="use7650">
       <path
          d="M -2.8284264,179.43886 A 22.98097,22.98097 0 1 1 -48.790367,179.43886"
          transform="matrix(0.2610856,0,0,0.2610852,36.738462,365.51336)"
-         id="path11701"
+         id="path11909"
          style="fill:none;stroke:#bebebe;stroke-width:7.66032839;stroke-linecap:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;display:inline" />
       <rect
          width="24"
          height="24"
          x="20"
          y="395.36218"
-         id="rect11703"
+         id="rect11911"
          style="opacity:0;fill:#ffffff;fill-opacity:1;stroke:none;display:inline" />
       <path
          d="M -2.8284264,179.43886 A 22.98097,22.98097 0 1 1 -48.790367,179.43886"
          transform="matrix(0.2610856,0,0,-0.2784909,36.738461,457.73425)"
-         id="path11705"
+         id="path11913"
          style="fill:none;stroke:#bebebe;stroke-width:7.41708088;stroke-linecap:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;display:inline" />
       <path
          d="M 36,407.36218 L 36,412.33571"
-         id="path11707"
+         id="path11915"
          style="fill:none;stroke:#bebebe;stroke-width:2;stroke-linecap:round;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1" />
       <path
          d="M 24.000001,407.36218 L 24.000001,412.27319"
-         id="path11709"
+         id="path11917"
          style="fill:none;stroke:#bebebe;stroke-width:2;stroke-linecap:round;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1" />
       <path
          d="M 30,405.36218 L 30,407.36218"
-         id="path11711"
+         id="path11919"
          style="fill:none;stroke:#bebebe;stroke-width:2;stroke-linecap:round;stroke-linejoin:miter;marker:none;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;visibility:visible;display:inline;overflow:visible;enable-background:accumulate" />
       <path
          d="M 251.0625,234.875 A 3.1875,3.1875 0 0 1 256.87346,233.06458"
          transform="matrix(0.627451,0,0,0.627451,-128.02941,251.48978)"
-         id="path11713"
+         id="path11921"
          style="fill:none;stroke:#bebebe;stroke-width:1.59375;stroke-linecap:round;stroke-linejoin:miter;marker:none;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;visibility:visible;display:inline;overflow:visible;enable-background:accumulate" />
       <path
          d="M 257.41184,235.27864 A 3.1875,3.1875 0 0 1 251.50782,236.5"
          transform="matrix(1.411765,0,0,1.411765,-321.94125,63.774027)"
-         id="path11715"
-         style="fill:none;stroke:url(#linearGradient11719);stroke-width:0.70833319;stroke-linecap:round;stroke-linejoin:miter;marker:none;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;visibility:visible;display:inline;overflow:visible;enable-background:accumulate" />
+         id="path11923"
+         style="fill:none;stroke:url(#linearGradient11927);stroke-width:0.70833319;stroke-linecap:round;stroke-linejoin:miter;marker:none;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;visibility:visible;display:inline;overflow:visible;enable-background:accumulate" />
       <path
          d="M 249.53125,235.625 L 249.53125,233.40625"
          transform="translate(-220,165.36218)"
-         id="path11717"
+         id="path11925"
          style="fill:none;stroke:#bebebe;stroke-width:1;stroke-linecap:round;stroke-linejoin:miter;marker:none;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;visibility:visible;display:inline;overflow:visible;enable-background:accumulate" />
     </g>
   </g>
   <g
-     transform="translate(514,-1500)"
+     transform="translate(512,-1360.1722)"
      id="layer4" />
   <g
-     transform="translate(514,-1500)"
+     transform="translate(512,-1360.1722)"
+     id="layer12" />
+  <g
+     transform="translate(512,-1360.1722)"
      id="layer9" />
   <g
-     transform="translate(514,-1500)"
+     transform="translate(512,-1360.1722)"
      id="layer10" />
   <g
-     transform="translate(514,-1500)"
+     transform="translate(512,-1360.1722)"
      id="layer6" />
 </svg>

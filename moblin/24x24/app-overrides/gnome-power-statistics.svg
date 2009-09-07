@@ -12,31 +12,31 @@
   <defs
      id="defs7386" />
   <g
-     transform="translate(454,-1124)"
+     transform="translate(453.99995,-1074)"
      id="layer3" />
   <g
-     transform="translate(454,-1124)"
+     transform="translate(453.99995,-1074)"
      id="layer5" />
   <g
-     transform="translate(454,-1124)"
+     transform="translate(453.99995,-1074)"
      id="layer7" />
   <g
-     transform="translate(454,-1124)"
+     transform="translate(453.99995,-1074)"
      id="layer2" />
   <g
-     transform="translate(454,-1124)"
+     transform="translate(453.99995,-1074)"
      id="layer8" />
   <g
-     transform="translate(454,-2076.3622)"
+     transform="translate(453.99995,-2026.3622)"
      id="layer1" />
   <g
-     transform="translate(454,-1124)"
+     transform="translate(453.99995,-1074)"
      id="layer11">
     <rect
        width="24"
        height="24"
-       x="-1148"
-       y="430"
+       x="-1098"
+       y="429.99994"
        transform="matrix(0,-1,-1,0,0,0)"
        id="rect6974-1"
        style="opacity:0;fill:#ffffff;fill-opacity:1;stroke:none;display:inline" />
@@ -45,8 +45,8 @@
        height="16"
        rx="1.0000134"
        ry="1.0000134"
-       x="1146"
-       y="436"
+       x="1096"
+       y="435.99994"
        transform="matrix(0,1,-1,0,0,0)"
        id="rect6976-4"
        style="fill:#bebebe;fill-opacity:1;stroke:none;display:inline" />
@@ -55,8 +55,8 @@
        height="10.000016"
        rx="1"
        ry="0.99999994"
-       x="436"
-       y="-1148"
+       x="435.99994"
+       y="-1098"
        transform="scale(-1,-1)"
        id="rect6978-7"
        style="fill:#bebebe;fill-opacity:1;stroke:none;display:inline" />
@@ -65,8 +65,8 @@
        height="21.99999"
        rx="0.99995232"
        ry="0.99995232"
-       x="450.00012"
-       y="-1148"
+       x="450.00006"
+       y="-1098"
        transform="scale(-1,-1)"
        id="rect6980-5"
        style="fill:#bebebe;fill-opacity:1;stroke:none;display:inline" />
@@ -75,8 +75,8 @@
        height="8"
        rx="1.0000305"
        ry="1.0000305"
-       x="1124"
-       y="440"
+       x="1074"
+       y="439.99994"
        transform="matrix(0,1,-1,0,0,0)"
        id="rect6982-5"
        style="fill:#bebebe;fill-opacity:1;stroke:none;display:inline" />
@@ -85,8 +85,8 @@
        height="4.0000191"
        rx="0.99998987"
        ry="0.99998987"
-       x="440"
-       y="-1128"
+       x="439.99994"
+       y="-1078"
        transform="scale(-1,-1)"
        id="rect6984-8"
        style="fill:#bebebe;fill-opacity:1;stroke:none;display:inline" />
@@ -95,8 +95,8 @@
        height="4.0000191"
        rx="1"
        ry="1"
-       x="446"
-       y="-1128"
+       x="445.99994"
+       y="-1078"
        transform="scale(-1,-1)"
        id="rect6986-6"
        style="fill:#bebebe;fill-opacity:1;stroke:none;display:inline" />
@@ -105,8 +105,8 @@
        height="8"
        rx="1"
        ry="1"
-       x="1142"
-       y="440"
+       x="1092"
+       y="439.99994"
        transform="matrix(0,1,-1,0,0,0)"
        id="rect6994-8"
        style="fill:#febf00;fill-opacity:1;fill-rule:nonzero;stroke:none;marker:none;visibility:visible;display:inline;overflow:visible;enable-background:accumulate" />
@@ -115,8 +115,8 @@
        height="5"
        rx="1.0000305"
        ry="1.0000305"
-       x="1125.9896"
-       y="437"
+       x="1075.9896"
+       y="436.99994"
        transform="matrix(0,1,-1,2.4414063e-5,0,0)"
        id="rect6998-2"
        style="fill:#bebebe;fill-opacity:1;stroke:none;display:inline" />
@@ -125,26 +125,29 @@
        height="6"
        rx="1.0000305"
        ry="1.0000305"
-       x="1125.9913"
-       y="446"
+       x="1075.9913"
+       y="445.99994"
        transform="matrix(0,1,-1,2.0345052e-5,0,0)"
        id="rect7000-9"
        style="fill:#bebebe;fill-opacity:1;stroke:none;display:inline" />
     <path
-       d="M -434.28125,1125.9062 L -435.15625,1127.4062 L -440.3125,1136.3125 L -443.3125,1133.3125 L -444.21875,1132.4062 L -444.875,1133.5312 L -447.75,1138.5 C -447.97737,1138.8085 -448.00849,1139.2197 -447.83011,1139.5589 C -447.65174,1139.8981 -447.29524,1140.1055 -446.91223,1140.093 C -446.52922,1140.0804 -446.18705,1139.8501 -446.03125,1139.5 L -443.8125,1135.6562 L -440.8125,1138.6562 L -439.875,1139.5938 L -439.21875,1138.4688 L -434.28125,1129.9062 L -432.875,1132.375 C -432.59886,1132.8582 -431.98325,1133.0261 -431.5,1132.75 C -431.01675,1132.4739 -430.84886,1131.8582 -431.125,1131.375 L -433.4375,1127.4062 L -434.28125,1125.9062 z"
+       d="M -434.28125,1075.9062 L -435.15625,1077.4062 L -440.3125,1086.3125 L -443.3125,1083.3125 L -444.21875,1082.4062 L -444.875,1083.5312 L -447.75,1088.5 C -447.97737,1088.8085 -448.00849,1089.2197 -447.83011,1089.5589 C -447.65174,1089.8981 -447.29524,1090.1055 -446.91223,1090.093 C -446.52922,1090.0804 -446.18705,1089.8501 -446.03125,1089.5 L -443.8125,1085.6562 L -440.8125,1088.6562 L -439.875,1089.5938 L -439.21875,1088.4688 L -434.28125,1079.9062 L -432.875,1082.375 C -432.59886,1082.8582 -431.98325,1083.0261 -431.5,1082.75 C -431.01675,1082.4739 -430.84886,1081.8582 -431.125,1081.375 L -433.4375,1077.4062 L -434.28125,1075.9062 z"
        id="path9316"
-       style="fill:#bebebe;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:2;stroke-linecap:round;stroke-linejoin:miter;marker:none;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;visibility:visible;display:inline;overflow:visible;enable-background:new" />
+       style="fill:#bebebe;fill-opacity:1;stroke:none;stroke-width:2;stroke-linecap:round;stroke-linejoin:miter;marker:none;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;visibility:visible;display:inline;overflow:visible;enable-background:new" />
   </g>
   <g
-     transform="translate(454,-1124)"
+     transform="translate(453.99995,-1074)"
      id="layer4" />
   <g
-     transform="translate(454,-1124)"
+     transform="translate(453.99995,-1074)"
+     id="layer12" />
+  <g
+     transform="translate(453.99995,-1074)"
      id="layer9" />
   <g
-     transform="translate(454,-1124)"
+     transform="translate(453.99995,-1074)"
      id="layer10" />
   <g
-     transform="translate(454,-1124)"
+     transform="translate(453.99995,-1074)"
      id="layer6" />
 </svg>

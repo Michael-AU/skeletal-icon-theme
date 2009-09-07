@@ -28,34 +28,34 @@
        y1="869.01288"
        x2="601"
        y2="874.85205"
-       id="linearGradient10158"
+       id="linearGradient11375"
        xlink:href="#linearGradient7067-2"
        gradientUnits="userSpaceOnUse"
        gradientTransform="translate(968.0009,-560.09354)" />
   </defs>
   <g
-     transform="translate(618.00005,-978)"
+     transform="translate(618,-928)"
      id="layer3" />
   <g
-     transform="translate(618.00005,-978)"
+     transform="translate(618,-928)"
      id="layer5" />
   <g
-     transform="translate(618.00005,-978)"
+     transform="translate(618,-928)"
      id="layer7" />
   <g
-     transform="translate(618.00005,-978)"
+     transform="translate(618,-928)"
      id="layer2" />
   <g
-     transform="translate(618.00005,-978)"
+     transform="translate(618,-928)"
      id="layer8" />
   <g
-     transform="translate(618.00005,-1930.3622)"
+     transform="translate(618,-1880.3622)"
      id="layer1" />
   <g
-     transform="translate(618.00005,-978)"
+     transform="translate(618,-928)"
      id="layer11">
     <g
-       transform="translate(-2174.001,686.00354)"
+       transform="translate(-2174.001,636.00354)"
        id="use8125">
       <rect
          width="24"
@@ -63,7 +63,7 @@
          x="-1580.001"
          y="291.99646"
          transform="scale(-1,1)"
-         id="rect10124"
+         id="rect11340"
          style="opacity:0;fill:#ffffff;fill-opacity:1;stroke:none;display:inline" />
       <rect
          width="2.0000267"
@@ -72,7 +72,7 @@
          ry="1.0000134"
          x="1578.001"
          y="294.99646"
-         id="rect10126"
+         id="rect11342"
          style="fill:#bebebe;fill-opacity:1;stroke:none;display:inline" />
       <rect
          width="2"
@@ -82,7 +82,7 @@
          x="294.99646"
          y="-1580.001"
          transform="matrix(0,1,-1,0,0,0)"
-         id="rect10128"
+         id="rect11344"
          style="fill:#bebebe;fill-opacity:1;stroke:none;display:inline" />
       <rect
          width="1.999881"
@@ -92,7 +92,7 @@
          x="308.99658"
          y="-1580.001"
          transform="matrix(0,1,-1,0,0,0)"
-         id="rect10130"
+         id="rect11346"
          style="fill:#bebebe;fill-opacity:1;stroke:none;display:inline" />
       <rect
          width="2.000061"
@@ -101,7 +101,7 @@
          ry="1.0000305"
          x="1556.001"
          y="298.99646"
-         id="rect10132"
+         id="rect11348"
          style="fill:#bebebe;fill-opacity:1;stroke:none;display:inline" />
       <rect
          width="1.9999797"
@@ -111,7 +111,7 @@
          x="298.99646"
          y="-1560.001"
          transform="matrix(0,1,-1,0,0,0)"
-         id="rect10134"
+         id="rect11350"
          style="fill:#bebebe;fill-opacity:1;stroke:none;display:inline" />
       <rect
          width="2"
@@ -121,7 +121,7 @@
          x="304.99646"
          y="-1560.001"
          transform="matrix(0,1,-1,0,0,0)"
-         id="rect10136"
+         id="rect11352"
          style="fill:#bebebe;fill-opacity:1;stroke:none;display:inline" />
       <rect
          width="2.000061"
@@ -131,7 +131,7 @@
          x="1557.9951"
          y="294.99646"
          transform="matrix(1,0,2.0345052e-5,1,0,0)"
-         id="rect10138"
+         id="rect11354"
          style="fill:#bebebe;fill-opacity:1;stroke:none;display:inline" />
       <rect
          width="2.000061"
@@ -141,12 +141,12 @@
          x="1557.9951"
          y="304.99646"
          transform="matrix(1,0,2.0345052e-5,1,0,0)"
-         id="rect10140"
+         id="rect11356"
          style="fill:#bebebe;fill-opacity:1;stroke:none;display:inline" />
       <path
          d="M -8.8196602,18 A 8.0901699,5 0 1 1 -25,18"
          transform="matrix(0.494427,0,0,0.8000003,1577.3616,289.59648)"
-         id="path10142"
+         id="path11358"
          style="fill:none;stroke:#31c2ee;stroke-width:3.18004847;stroke-linecap:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1;display:inline" />
       <rect
          width="2"
@@ -155,7 +155,7 @@
          ry="1"
          x="1566.001"
          y="298.99646"
-         id="rect10144"
+         id="rect11360"
          style="fill:#31c2ee;fill-opacity:1;stroke:none;display:inline" />
       <rect
          width="2"
@@ -164,8 +164,8 @@
          ry="1"
          x="1568.001"
          y="306.99646"
-         id="rect10146"
-         style="fill:url(#linearGradient10158);fill-opacity:1;stroke:none;display:inline" />
+         id="rect11362"
+         style="fill:url(#linearGradient11375);fill-opacity:1;stroke:none;display:inline" />
       <rect
          width="2"
          height="3"
@@ -173,7 +173,7 @@
          ry="1"
          x="1564.001"
          y="301.99646"
-         id="rect10148"
+         id="rect11364"
          style="fill:#31c2ee;fill-opacity:1;stroke:none;display:inline" />
       <rect
          width="1.999881"
@@ -183,7 +183,7 @@
          x="308.99658"
          y="-1565.001"
          transform="matrix(0,1,-1,0,0,0)"
-         id="rect10150"
+         id="rect11366"
          style="fill:#bebebe;fill-opacity:1;stroke:none;display:inline" />
       <rect
          width="2"
@@ -192,7 +192,7 @@
          ry="1"
          x="1572.001"
          y="301.99646"
-         id="rect10152"
+         id="rect11368"
          style="fill:#31c2ee;fill-opacity:1;stroke:none;display:inline" />
       <rect
          width="2"
@@ -202,7 +202,7 @@
          x="301.99646"
          y="-1574.001"
          transform="matrix(0,1,-1,0,0,0)"
-         id="rect10154"
+         id="rect11371"
          style="fill:#31c2ee;fill-opacity:1;stroke:none;display:inline" />
       <rect
          width="2"
@@ -211,20 +211,23 @@
          ry="1"
          x="1570.001"
          y="298.99646"
-         id="rect10156"
+         id="rect11373"
          style="fill:#31c2ee;fill-opacity:1;stroke:none;display:inline" />
     </g>
   </g>
   <g
-     transform="translate(618.00005,-978)"
+     transform="translate(618,-928)"
      id="layer4" />
   <g
-     transform="translate(618.00005,-978)"
+     transform="translate(618,-928)"
+     id="layer12" />
+  <g
+     transform="translate(618,-928)"
      id="layer9" />
   <g
-     transform="translate(618.00005,-978)"
+     transform="translate(618,-928)"
      id="layer10" />
   <g
-     transform="translate(618.00005,-978)"
+     transform="translate(618,-928)"
      id="layer6" />
 </svg>

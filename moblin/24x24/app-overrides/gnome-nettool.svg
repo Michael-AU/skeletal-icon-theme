@@ -23,35 +23,35 @@
     </clipPath>
   </defs>
   <g
-     transform="translate(396,-1244)"
+     transform="translate(396,-1194)"
      id="layer3" />
   <g
-     transform="translate(396,-1244)"
+     transform="translate(396,-1194)"
      id="layer5" />
   <g
-     transform="translate(396,-1244)"
+     transform="translate(396,-1194)"
      id="layer7" />
   <g
-     transform="translate(396,-1244)"
+     transform="translate(396,-1194)"
      id="layer2" />
   <g
-     transform="translate(396,-1244)"
+     transform="translate(396,-1194)"
      id="layer8" />
   <g
-     transform="translate(396,-2196.3622)"
+     transform="translate(396,-2146.3622)"
      id="layer1" />
   <g
-     transform="translate(396,-1244)"
+     transform="translate(396,-1194)"
      id="layer11">
     <rect
        width="24"
        height="24"
        x="-396"
-       y="1244"
+       y="1194"
        id="rect10965"
        style="opacity:0;fill:#ffffff;fill-opacity:1;stroke:none;display:inline" />
     <g
-       transform="translate(-1224,1068.9807)"
+       transform="translate(-1224,1018.9807)"
        clip-path="url(#clipPath11021)"
        id="g11005">
       <rect
@@ -122,15 +122,18 @@
     </g>
   </g>
   <g
-     transform="translate(396,-1244)"
+     transform="translate(396,-1194)"
      id="layer4" />
   <g
-     transform="translate(396,-1244)"
+     transform="translate(396,-1194)"
+     id="layer12" />
+  <g
+     transform="translate(396,-1194)"
      id="layer9" />
   <g
-     transform="translate(396,-1244)"
+     transform="translate(396,-1194)"
      id="layer10" />
   <g
-     transform="translate(396,-1244)"
+     transform="translate(396,-1194)"
      id="layer6" />
 </svg>

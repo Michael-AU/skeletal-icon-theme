@@ -6,7 +6,7 @@
    xmlns:xlink="http://www.w3.org/1999/xlink"
    version="1.0"
    width="24"
-   height="24.012939"
+   height="24.01296"
    id="svg7384">
   <title
      id="title9167">Moblin Icon Theme</title>
@@ -28,7 +28,7 @@
        y1="121.0463"
        x2="105.91268"
        y2="115.05012"
-       id="linearGradient11865"
+       id="linearGradient12035"
        xlink:href="#linearGradient7487-1-1"
        gradientUnits="userSpaceOnUse"
        gradientTransform="matrix(1,0,0,1.091442,464.08855,380.47831)" />
@@ -37,7 +37,7 @@
        y1="121.0463"
        x2="105.91268"
        y2="115.05012"
-       id="linearGradient11867"
+       id="linearGradient12037"
        xlink:href="#linearGradient7487-1-1"
        gradientUnits="userSpaceOnUse"
        gradientTransform="matrix(1,0,0,1.091442,-68.434344,632.1023)" />
@@ -46,7 +46,7 @@
        y1="121.0463"
        x2="105.91268"
        y2="115.05012"
-       id="linearGradient11869"
+       id="linearGradient12039"
        xlink:href="#linearGradient7487-1-1"
        gradientUnits="userSpaceOnUse"
        gradientTransform="matrix(1,0,0,1.091442,-622.90992,433.47678)" />
@@ -55,7 +55,7 @@
        y1="121.0463"
        x2="105.91268"
        y2="115.05012"
-       id="linearGradient11871"
+       id="linearGradient12041"
        xlink:href="#linearGradient7487-1-1"
        gradientUnits="userSpaceOnUse"
        gradientTransform="matrix(1,0,0,1.091442,-874.53391,-99.046114)" />
@@ -64,42 +64,44 @@
        y1="121.0463"
        x2="105.91268"
        y2="115.05012"
-       id="linearGradient11873"
+       id="linearGradient12043"
        xlink:href="#linearGradient7487-1-1"
        gradientUnits="userSpaceOnUse"
        gradientTransform="matrix(1,0,0,1.091442,-675.90839,-653.52169)" />
   </defs>
   <g
-     transform="translate(514,-1560)"
+     transform="translate(512,-1420.1722)"
      id="layer3" />
   <g
-     transform="translate(514,-1560)"
+     transform="translate(512,-1420.1722)"
      id="layer5" />
   <g
-     transform="translate(514,-1560)"
+     transform="translate(512,-1420.1722)"
      id="layer7" />
   <g
-     transform="translate(514,-1560)"
+     transform="translate(512,-1420.1722)"
      id="layer2" />
   <g
-     transform="translate(514,-1560)"
+     transform="translate(512,-1420.1722)"
      id="layer8" />
   <g
-     transform="translate(514,-2512.3622)"
+     transform="translate(512,-2372.5344)"
      id="layer1" />
   <g
-     transform="translate(514,-1560)"
+     transform="translate(512,-1420.1722)"
      id="layer11">
     <g
-       transform="translate(-1020,2147)"
+       transform="translate(-1018,2007.1722)"
        id="use8733">
+      <title
+         id="title12013">internet</title>
       <rect
          width="24"
          height="24"
          x="-530"
          y="-586.99707"
          transform="scale(-1,1)"
-         id="rect11845"
+         id="rect12015"
          style="opacity:0;fill:#ffffff;fill-opacity:1;stroke:none;display:inline" />
       <rect
          width="2.0000005"
@@ -109,8 +111,8 @@
          x="568.99847"
          y="506"
          transform="matrix(0,-1,1,0,0,0)"
-         id="rect11847"
-         style="fill:url(#linearGradient11865);fill-opacity:1;stroke:none;display:inline" />
+         id="rect12017"
+         style="fill:url(#linearGradient12035);fill-opacity:1;stroke:none;display:inline" />
       <rect
          width="2.0000005"
          height="5"
@@ -119,7 +121,7 @@
          x="-518"
          y="569.99847"
          transform="scale(-1,-1)"
-         id="rect11849"
+         id="rect12019"
          style="fill:#bebebe;fill-opacity:1;stroke:none;display:inline" />
       <rect
          width="2.0000002"
@@ -128,11 +130,11 @@
          ry="1.0000001"
          x="516"
          y="-578.99847"
-         id="rect11851"
+         id="rect12021"
          style="fill:#bebebe;fill-opacity:1;stroke:none;display:inline" />
       <path
          d="M 513.5159,-583.4985 L 520.5,-583.4985"
-         id="path11853"
+         id="path12023"
          style="fill:none;stroke:#bebebe;stroke-width:1px;stroke-linecap:round;stroke-linejoin:miter;stroke-opacity:1" />
       <rect
          width="12"
@@ -141,7 +143,7 @@
          ry="1"
          x="511"
          y="-586"
-         id="rect11855"
+         id="rect12025"
          style="fill:#ffffff;fill-opacity:0;fill-rule:nonzero;stroke:#bebebe;stroke-width:1.99999988;stroke-linecap:round;stroke-linejoin:round;marker:none;stroke-opacity:1;visibility:visible;display:inline;overflow:visible;enable-background:new" />
       <rect
          width="2.0000005"
@@ -151,8 +153,8 @@
          x="36.475582"
          y="759.12396"
          transform="matrix(-0.7071068,-0.7071068,0.7071068,-0.7071068,0,0)"
-         id="rect11857"
-         style="fill:url(#linearGradient11867);fill-opacity:1;stroke:none;display:inline" />
+         id="rect12027"
+         style="fill:url(#linearGradient12037);fill-opacity:1;stroke:none;display:inline" />
       <rect
          width="2.0000005"
          height="7.9341092"
@@ -161,8 +163,8 @@
          x="-518"
          y="563.06427"
          transform="scale(-1,-1)"
-         id="rect11859"
-         style="fill:url(#linearGradient11869);fill-opacity:1;stroke:none;display:inline" />
+         id="rect12029"
+         style="fill:url(#linearGradient12039);fill-opacity:1;stroke:none;display:inline" />
       <rect
          width="2.0000005"
          height="10.5"
@@ -171,8 +173,8 @@
          x="-769.62396"
          y="27.975519"
          transform="matrix(-0.7071068,0.7071068,-0.7071068,-0.7071068,0,0)"
-         id="rect11861"
-         style="fill:url(#linearGradient11871);fill-opacity:1;stroke:none;display:inline" />
+         id="rect12031"
+         style="fill:url(#linearGradient12041);fill-opacity:1;stroke:none;display:inline" />
       <rect
          width="2.0000005"
          height="12"
@@ -181,20 +183,23 @@
          x="-570.99841"
          y="-528.00006"
          transform="matrix(0,1,-1,0,0,0)"
-         id="rect11863"
-         style="fill:url(#linearGradient11873);fill-opacity:1;stroke:none;display:inline" />
+         id="rect12033"
+         style="fill:url(#linearGradient12043);fill-opacity:1;stroke:none;display:inline" />
     </g>
   </g>
   <g
-     transform="translate(514,-1560)"
+     transform="translate(512,-1420.1722)"
      id="layer4" />
   <g
-     transform="translate(514,-1560)"
+     transform="translate(512,-1420.1722)"
+     id="layer12" />
+  <g
+     transform="translate(512,-1420.1722)"
      id="layer9" />
   <g
-     transform="translate(514,-1560)"
+     transform="translate(512,-1420.1722)"
      id="layer10" />
   <g
-     transform="translate(514,-1560)"
+     transform="translate(512,-1420.1722)"
      id="layer6" />
 </svg>

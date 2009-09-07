@@ -28,46 +28,46 @@
        y1="121.73069"
        x2="105.91268"
        y2="115.05012"
-       id="linearGradient11336"
+       id="linearGradient12302"
        xlink:href="#linearGradient7487-6-9"
        gradientUnits="userSpaceOnUse"
-       gradientTransform="matrix(1,0,0,1.273349,-1342.9099,311.56608)" />
+       gradientTransform="matrix(1,0,0,1.273349,-1292.9099,311.56603)" />
     <linearGradient
        x1="105.91268"
        y1="121.0463"
        x2="105.91268"
        y2="115.05012"
-       id="linearGradient11340"
+       id="linearGradient12306"
        xlink:href="#linearGradient7487-6-9"
        gradientUnits="userSpaceOnUse"
-       gradientTransform="matrix(1,0,0,1.091442,-1342.9099,-607.52976)" />
+       gradientTransform="matrix(1,0,0,1.091442,-1292.9099,-607.52971)" />
   </defs>
   <g
-     transform="translate(482.00806,-1214)"
+     transform="translate(482.00801,-1164)"
      id="layer3" />
   <g
-     transform="translate(482.00806,-1214)"
+     transform="translate(482.00801,-1164)"
      id="layer5" />
   <g
-     transform="translate(482.00806,-1214)"
+     transform="translate(482.00801,-1164)"
      id="layer7" />
   <g
-     transform="translate(482.00806,-1214)"
+     transform="translate(482.00801,-1164)"
      id="layer2" />
   <g
-     transform="translate(482.00806,-1214)"
+     transform="translate(482.00801,-1164)"
      id="layer8" />
   <g
-     transform="translate(482.00806,-2166.3622)"
+     transform="translate(482.00801,-2116.3622)"
      id="layer1" />
   <g
-     transform="translate(482.00806,-1214)"
+     transform="translate(482.00801,-1164)"
      id="layer11">
     <rect
        width="24"
        height="24"
-       x="458"
-       y="1214"
+       x="457.99994"
+       y="1164"
        transform="scale(-1,1)"
        id="rect10402"
        style="opacity:0;fill:#ffffff;fill-opacity:1;stroke:none;display:inline" />
@@ -76,18 +76,18 @@
        height="12"
        rx="1.0000002"
        ry="1.0000002"
-       x="-1238"
-       y="-482.00806"
+       x="-1188"
+       y="-482.008"
        transform="matrix(0,-1,1,0,0,0)"
        id="rect10410"
-       style="fill:url(#linearGradient11340);fill-opacity:1;stroke:none;display:inline" />
+       style="fill:url(#linearGradient12306);fill-opacity:1;stroke:none;display:inline" />
     <rect
        width="2.0000005"
        height="5"
        rx="1.0000002"
        ry="1.0000002"
-       x="470"
-       y="-1237"
+       x="469.99994"
+       y="-1187"
        transform="scale(-1,-1)"
        id="rect10412"
        style="fill:#bebebe;fill-opacity:1;stroke:none;display:inline" />
@@ -96,13 +96,13 @@
        height="14"
        rx="1.0000002"
        ry="1.0000002"
-       x="-1238"
-       y="458.00806"
+       x="-1188"
+       y="458.008"
        transform="matrix(0,-1,-1,0,0,0)"
        id="rect10414"
-       style="fill:url(#linearGradient11336);fill-opacity:1;stroke:none;display:inline" />
+       style="fill:url(#linearGradient12302);fill-opacity:1;stroke:none;display:inline" />
     <g
-       transform="matrix(0.7227431,0,0,0.7227431,-124.8423,948.21408)"
+       transform="matrix(0.7227431,0,0,0.7227431,-124.84225,898.21408)"
        id="g6734-4">
       <path
          d="M -128,303.46875 A 10.53125,10.53125 0 1 1 -149.0625,303.46875 A 10.53125,10.53125 0 1 1 -128,303.46875 z"
@@ -132,15 +132,18 @@
     </g>
   </g>
   <g
-     transform="translate(482.00806,-1214)"
+     transform="translate(482.00801,-1164)"
      id="layer4" />
   <g
-     transform="translate(482.00806,-1214)"
+     transform="translate(482.00801,-1164)"
+     id="layer12" />
+  <g
+     transform="translate(482.00801,-1164)"
      id="layer9" />
   <g
-     transform="translate(482.00806,-1214)"
+     transform="translate(482.00801,-1164)"
      id="layer10" />
   <g
-     transform="translate(482.00806,-1214)"
+     transform="translate(482.00801,-1164)"
      id="layer6" />
 </svg>

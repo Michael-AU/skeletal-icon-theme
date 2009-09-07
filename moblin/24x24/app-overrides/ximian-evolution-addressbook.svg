@@ -12,63 +12,66 @@
   <defs
      id="defs7386" />
   <g
-     transform="translate(426,-1184)"
+     transform="translate(425.99995,-1134)"
      id="layer3" />
   <g
-     transform="translate(426,-1184)"
+     transform="translate(425.99995,-1134)"
      id="layer5" />
   <g
-     transform="translate(426,-1184)"
+     transform="translate(425.99995,-1134)"
      id="layer7" />
   <g
-     transform="translate(426,-1184)"
+     transform="translate(425.99995,-1134)"
      id="layer2" />
   <g
-     transform="translate(426,-1184)"
+     transform="translate(425.99995,-1134)"
      id="layer8" />
   <g
-     transform="translate(426,-2136.3622)"
+     transform="translate(425.99995,-2086.3622)"
      id="layer1" />
   <g
-     transform="translate(426,-1184)"
+     transform="translate(425.99995,-1134)"
      id="layer11">
     <g
-       transform="translate(-1255,1008.9807)"
+       transform="translate(-1255,958.9807)"
        id="use9985">
       <rect
          width="24"
          height="24"
          x="829"
          y="175.01932"
-         id="rect10944"
+         id="rect11599"
          style="opacity:0;fill:#ffffff;fill-opacity:1;stroke:none;display:inline" />
       <path
          d="M 958,213.5 A 3.5,3.5 0 1 1 951,213.5 A 3.5,3.5 0 1 1 958,213.5 z"
          transform="matrix(1.1428609,0,0,1.1428609,-249.8607,-56.981479)"
-         id="path10946"
+         id="path11601"
          style="fill:none;stroke:#bebebe;stroke-width:1.74999416;stroke-linecap:round;stroke-linejoin:round;marker:none;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;visibility:visible;display:inline;overflow:visible;enable-background:accumulate" />
       <path
          d="M 956.11378,216.60575 A 3.5,3.5 0 1 1 957.99304,213.72066"
          transform="matrix(2.5714345,0,0,2.5714345,-1613.4343,-361.98192)"
-         id="path10948"
+         id="path11603"
          style="fill:none;stroke:#bebebe;stroke-width:0.77777588;stroke-linecap:round;stroke-linejoin:round;marker:none;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;visibility:visible;display:inline;overflow:visible;enable-background:accumulate" />
       <path
          d="M 957.99225,213.26718 A 3.5,3.5 0 1 1 951.04,212.97235"
          transform="matrix(0.7115448,0,0,0.6537983,168.31366,48.442494)"
-         id="path10950"
+         id="path11605"
          style="fill:none;stroke:#bebebe;stroke-width:2.93229055;stroke-linecap:round;stroke-linejoin:round;marker:none;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;visibility:visible;display:inline;overflow:visible;enable-background:accumulate" />
     </g>
   </g>
   <g
-     transform="translate(426,-1184)"
+     transform="translate(425.99995,-1134)"
      id="layer4" />
   <g
-     transform="translate(426,-1184)"
+     transform="translate(425.99995,-1134)"
+     id="layer12" />
+  <g
+     transform="translate(425.99995,-1134)"
      id="layer9" />
   <g
-     transform="translate(426,-1184)"
+     transform="translate(425.99995,-1134)"
      id="layer10" />
   <g
-     transform="translate(426,-1184)"
+     transform="translate(425.99995,-1134)"
      id="layer6" />
 </svg>
