@@ -4,7 +4,7 @@
    xmlns:svg="http://www.w3.org/2000/svg"
    xmlns="http://www.w3.org/2000/svg"
    version="1.0"
-   width="24.732235"
+   width="24.046717"
    height="24.034437"
    id="svg7384">
   <title
@@ -12,25 +12,25 @@
   <defs
      id="defs7386" />
   <g
-     transform="translate(510.73218,-1104.0267)"
+     transform="translate(510.04667,-1104.0267)"
      id="layer3" />
   <g
-     transform="translate(510.73218,-1104.0267)"
+     transform="translate(510.04667,-1104.0267)"
      id="layer5" />
   <g
-     transform="translate(510.73218,-1104.0267)"
+     transform="translate(510.04667,-1104.0267)"
      id="layer7" />
   <g
-     transform="translate(510.73218,-1104.0267)"
+     transform="translate(510.04667,-1104.0267)"
      id="layer2" />
   <g
-     transform="translate(510.73218,-1104.0267)"
+     transform="translate(510.04667,-1104.0267)"
      id="layer8" />
   <g
-     transform="translate(510.73218,-2056.3889)"
+     transform="translate(510.04667,-2056.3889)"
      id="layer1" />
   <g
-     transform="translate(510.73218,-1104.0267)"
+     transform="translate(510.04667,-1104.0267)"
      id="layer11">
     <rect
        width="24"
@@ -90,7 +90,7 @@
          style="fill:none;stroke:#bebebe;stroke-width:1;stroke-linecap:round;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1" />
     </g>
     <path
-       d="M -508.98394,1123.219 C -508.43341,1123.2286 -507.99425,1123.6815 -508.00147,1124.232 C -508.00147,1125.1581 -508.36991,1126.0521 -509.02473,1126.7069 C -509.27614,1126.9655 -509.64731,1127.0687 -509.99613,1126.977 C -510.34495,1126.8853 -510.61736,1126.6129 -510.70907,1126.2641 C -510.80078,1125.9153 -510.69756,1125.5441 -510.43895,1125.2927 C -510.11797,1124.9717 -510.00041,1124.686 -510.00041,1124.232 C -510.00395,1123.9617 -509.89788,1123.7014 -509.70638,1123.5106 C -509.51489,1123.3197 -509.25427,1123.2145 -508.98394,1123.219 z"
+       d="M -508.98394,1123.219 C -508.43341,1123.2286 -507.99425,1123.6815 -508.00147,1124.232 C -508.00147,1124.4569 -508.02278,1124.6844 -508.06606,1124.9051 C -508.12297,1125.2669 -508.37306,1125.5686 -508.71798,1125.6917 C -509.06291,1125.8147 -509.44751,1125.7394 -509.72054,1125.4954 C -509.99357,1125.2513 -510.11136,1124.8775 -510.0276,1124.521 C -510.00542,1124.4079 -510.00041,1124.3473 -510.00041,1124.232 C -510.00395,1123.9617 -509.89788,1123.7014 -509.70638,1123.5106 C -509.51489,1123.3197 -509.25427,1123.2145 -508.98394,1123.219 z"
        id="path9625"
        style="fill:#bebebe;fill-opacity:1;stroke:none;stroke-width:18.38477516;stroke-linecap:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;display:inline" />
     <path
@@ -119,18 +119,18 @@
        style="fill:#bebebe;fill-opacity:1;stroke:none;stroke-width:2;stroke-linecap:round;stroke-linejoin:miter;marker:none;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;visibility:visible;display:inline;overflow:visible;enable-background:accumulate" />
   </g>
   <g
-     transform="translate(510.73218,-1104.0267)"
+     transform="translate(510.04667,-1104.0267)"
      id="layer4" />
   <g
-     transform="translate(510.73218,-1104.0267)"
+     transform="translate(510.04667,-1104.0267)"
      id="layer12" />
   <g
-     transform="translate(510.73218,-1104.0267)"
+     transform="translate(510.04667,-1104.0267)"
      id="layer9" />
   <g
-     transform="translate(510.73218,-1104.0267)"
+     transform="translate(510.04667,-1104.0267)"
      id="layer10" />
   <g
-     transform="translate(510.73218,-1104.0267)"
+     transform="translate(510.04667,-1104.0267)"
      id="layer6" />
 </svg>

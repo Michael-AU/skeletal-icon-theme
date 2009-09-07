@@ -18,6 +18,9 @@ def chopSVG(icon)
 		system(cmd)
 		cmd = "#{INKSCAPE} -f #{icon[:file]} -z --vacuum-defs -l #{icon[:file]} > /dev/null 2>&1"
 		system(cmd)
+		#and call the bitmap buttonizer
+		cmd = "./app-bitmaps.rb #{icon[:name]}"
+		system cmd
 	else
 		puts " -- #{icon[:name]} already exists"
 	end
