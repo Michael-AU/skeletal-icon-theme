@@ -44,7 +44,13 @@ done
 
 for foo in $DIRS
 do
-	echo -en "\n\n[$foo]\nSize=`echo $foo | sed 's/\x.*//'`\nContext=`basename $foo`\nType=Scalable" >> index.theme
+  size=`echo $foo | sed 's/\x.*//'`
+  if test "$size" = "48"; then
+    type="Fixed"
+  else
+    type="Scalable"
+  fi
+  echo -en "\n\n[$foo]\nSize=$size\nContext=`basename $foo`\nType=$type" >> index.theme
 done
 
 
