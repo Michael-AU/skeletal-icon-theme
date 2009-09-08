@@ -1,5 +1,6 @@
 <?xml version="1.0" encoding="UTF-8" standalone="no"?>
 <!-- Created with Inkscape (http://www.inkscape.org/) -->
+
 <svg
    xmlns:dc="http://purl.org/dc/elements/1.1/"
    xmlns:cc="http://creativecommons.org/ns#"
@@ -13,7 +14,7 @@
    height="744.09003"
    id="svg2"
    sodipodi:version="0.32"
-   inkscape:version="0.46"
+   inkscape:version="0.46+devel"
    sodipodi:docname="moblin-icon-theme.svg"
    inkscape:output_extension="org.inkscape.output.svg.inkscape"
    inkscape:export-filename="/home/hbons/Intel/phone-icons/work.png"
@@ -30,16 +31,16 @@
      objecttolerance="10"
      inkscape:pageopacity="0"
      inkscape:pageshadow="2"
-     inkscape:zoom="2.8284271"
-     inkscape:cx="169.15783"
-     inkscape:cy="-144.93993"
+     inkscape:zoom="1"
+     inkscape:cx="524.22449"
+     inkscape:cy="370.32193"
      inkscape:document-units="px"
-     inkscape:current-layer="mail-attachment"
-     showgrid="true"
+     inkscape:current-layer="x-office-document-template"
+     showgrid="false"
      inkscape:window-width="1596"
      inkscape:window-height="1078"
-     inkscape:window-x="1608"
-     inkscape:window-y="7"
+     inkscape:window-x="1838"
+     inkscape:window-y="14"
      inkscape:snap-intersection-line-segments="false"
      inkscape:snap-bbox="true"
      inkscape:snap-nodes="false"
@@ -2732,6 +2733,27 @@
        sodipodi:type="inkscape:persp3d" />
     <inkscape:perspective
        id="perspective9032"
+       inkscape:persp3d-origin="0.5 : 0.33333333 : 1"
+       inkscape:vp_z="1 : 0.5 : 1"
+       inkscape:vp_y="0 : 1000 : 0"
+       inkscape:vp_x="0 : 0.5 : 1"
+       sodipodi:type="inkscape:persp3d" />
+    <inkscape:perspective
+       id="perspective17522"
+       inkscape:persp3d-origin="0.5 : 0.33333333 : 1"
+       inkscape:vp_z="1 : 0.5 : 1"
+       inkscape:vp_y="0 : 1000 : 0"
+       inkscape:vp_x="0 : 0.5 : 1"
+       sodipodi:type="inkscape:persp3d" />
+    <inkscape:perspective
+       id="perspective17544"
+       inkscape:persp3d-origin="0.5 : 0.33333333 : 1"
+       inkscape:vp_z="1 : 0.5 : 1"
+       inkscape:vp_y="0 : 1000 : 0"
+       inkscape:vp_x="0 : 0.5 : 1"
+       sodipodi:type="inkscape:persp3d" />
+    <inkscape:perspective
+       id="perspective17544-0"
        inkscape:persp3d-origin="0.5 : 0.33333333 : 1"
        inkscape:vp_z="1 : 0.5 : 1"
        inkscape:vp_y="0 : 1000 : 0"
@@ -15779,20 +15801,19 @@
          x="-545"
          y="239.09" />
       <rect
-         transform="matrix(0,1,1,0,0,0)"
-         style="opacity:0;fill:#ffffff;fill-opacity:1;stroke:none;display:inline"
-         id="rect7167-0"
-         width="48"
-         height="48"
-         x="481.0816"
-         y="-496.05109" />
-      <rect
          y="202.09003"
          x="559"
          height="24"
          width="24"
          id="rect7242-4"
          style="opacity:0;fill:#ffffff;fill-opacity:1;stroke:none;display:inline" />
+      <rect
+         style="opacity:0;fill:#ffffff;fill-opacity:1;stroke:none;display:inline"
+         id="rect10273-5"
+         width="48"
+         height="48"
+         x="640"
+         y="90.090027" />
     </g>
     <g
        inkscape:groupmode="layer"
@@ -15821,14 +15842,6 @@
          height="16"
          x="-545"
          y="239.09" />
-      <rect
-         transform="matrix(0,1,1,0,0,0)"
-         style="opacity:0;fill:#ffffff;fill-opacity:1;stroke:none;display:inline"
-         id="rect7167-8"
-         width="48"
-         height="48"
-         x="481.0816"
-         y="-496.05109" />
       <path
          style="fill:none;stroke:#bebebe;stroke-width:3;stroke-linecap:butt;stroke-linejoin:round;stroke-opacity:1;color:#000000;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;marker:none;visibility:visible;display:inline;overflow:visible;enable-background:accumulate"
          d="m 649.47758,94.612447 20.06416,0 9.98788,9.943693 0,29.03557 -30.05204,0 0,-38.979263 z"
@@ -16012,14 +16025,6 @@
          height="48"
          x="640"
          y="90.090027" />
-      <rect
-         transform="matrix(0,1,1,0,0,0)"
-         style="opacity:0;fill:#ffffff;fill-opacity:1;stroke:none;display:inline"
-         id="rect7167-5"
-         width="48"
-         height="48"
-         x="481.0816"
-         y="-496.05109" />
       <rect
          y="202.09003"
          x="559"
@@ -16841,25 +16846,32 @@
          x="-545"
          y="239.09" />
       <rect
-         transform="matrix(0,1,1,0,0,0)"
-         style="opacity:0;fill:#ffffff;fill-opacity:1;stroke:none;display:inline"
-         id="rect7167-81"
-         width="48"
-         height="48"
-         x="481.0816"
-         y="-496.05109" />
-      <rect
          y="202.09003"
          x="559"
          height="24"
          width="24"
          id="rect7242-2-9"
          style="opacity:0;fill:#ffffff;fill-opacity:1;stroke:none;display:inline" />
+      <rect
+         style="opacity:0;fill:#ffffff;fill-opacity:1;stroke:none;display:inline"
+         id="rect10269-3"
+         width="48"
+         height="48"
+         x="640"
+         y="90.090027" />
     </g>
     <g
        inkscape:groupmode="layer"
        id="x-office-document-template"
-       inkscape:label="x-office-document-template" />
+       inkscape:label="x-office-document-template">
+      <rect
+         style="opacity:0;fill:#ffffff;fill-opacity:1;stroke:none;display:inline"
+         id="rect10269-4"
+         width="48"
+         height="48"
+         x="640"
+         y="90.090027" />
+    </g>
     <g
        inkscape:groupmode="layer"
        id="x-office-drawing"
