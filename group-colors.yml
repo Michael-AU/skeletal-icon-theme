@@ -1,10 +1,33 @@
 ---
-"accessibility": "#75507b"
-"games": "#e9b96e"
-"graphics": "#4e9a06"
-"internet": "#3465a4"
-"multimedia": "#edd400"
-"office": "#cd6464"
-"utilities": "#c17d11"
-"default": "#888a85"
+accessibility: 
+  fg: "#ffffff"
+  bg: "#75507b"
+
+games: 
+  fg: "#ffffff"
+  bg: "#e9b96e"
+
+graphics: 
+  fg: "#ffffff"
+  bg: "#4e9a06"
+
+internet: 
+  fg: "#ffffff"
+  bg: "#3465a4"
+
+multimedia: 
+  fg: "#ffffff"
+  bg: "#edd400"
+
+office: 
+  fg: "#ffffff"
+  bg: "#cd6464"
+
+utilities: 
+  fg: "#ed2124"
+  bg: "#fafafa"
+
+default: 
+  fg: "#ffffff"
+  bg: "#888a85"
 

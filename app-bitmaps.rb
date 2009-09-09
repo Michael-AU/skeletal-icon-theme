@@ -18,14 +18,14 @@ def renderIcon(icon)
 		#recolor strokes and fills that are grey (#bebebe) to white
 		emblem = File.new("#{EMBLEM}.svg", "w")
 		File.open(icon[:file]) do |line|
-			emblem.puts line.read.gsub(/#bebebe/, "#ffffff/gi")
+			emblem.puts line.read.gsub(/#bebebe/, "#{COLORS[icon[:group]]["fg"]}/gi")
 		end
 		emblem.close
 		cmd = "#{INKSCAPE} -e #{EMBLEM}.png #{EMBLEM}.svg > /dev/null 2>&1"
 		system cmd
 		
 		#recolor template based on group colors
-		$template.root.elements["//rect[@inkscape:label='group-color']"].attributes['style'] = "fill:#{COLORS[icon[:group]]};fill-opacity:1"
+		$template.root.elements["//rect[@inkscape:label='group-color']"].attributes['style'] = "fill:#{COLORS[icon[:group]]["bg"]};fill-opacity:1"
 		base = File.new("temp/base.svg","w")
 		base.puts $template
 		base.close
