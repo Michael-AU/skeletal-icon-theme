@@ -1,30 +1,42 @@
 ---
+accessories: 
+  fg: "#e87208"
+  bg: "#ffffff"
+  
 accessibility: 
   fg: "#ffffff"
-  bg: "#75507b"
+  bg: "#a980ed"
 
 games: 
   fg: "#ffffff"
-  bg: "#e9b96e"
+  bg: "#febf00"
 
 graphics: 
   fg: "#ffffff"
-  bg: "#4e9a06"
+  bg: "#606eff"
 
 internet: 
   fg: "#ffffff"
-  bg: "#3465a4"
+  bg: "#31c2ee"
 
 multimedia: 
   fg: "#ffffff"
-  bg: "#edd400"
+  bg: "#e87208"
 
 office: 
   fg: "#ffffff"
-  bg: "#cd6464"
+  bg: "#7dbe0c"
 
-utilities: 
+preferences: 
+  fg: "#ffffff"
+  bg: "#b00c08"
+
+system: 
   fg: "#ed2124"
+  bg: "#fafafa"
+  
+utilities: 
+  fg: "#666666"
   bg: "#fafafa"
 
 default: 

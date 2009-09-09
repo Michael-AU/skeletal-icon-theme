@@ -5946,16 +5946,16 @@
      inkscape:pageopacity="0"
      inkscape:pageshadow="2"
      inkscape:zoom="1"
-     inkscape:cx="-524.62148"
-     inkscape:cy="-1199.1099"
+     inkscape:cx="-165.62148"
+     inkscape:cy="-997.1099"
      inkscape:document-units="px"
      inkscape:current-layer="layer11"
      showgrid="false"
      showborder="false"
      inkscape:window-width="1451"
      inkscape:window-height="965"
-     inkscape:window-x="1703"
-     inkscape:window-y="93"
+     inkscape:window-x="1956"
+     inkscape:window-y="136"
      inkscape:window-maximized="0"
      inkscape:showpageshadow="false"
      showguides="false"
@@ -13796,7 +13796,7 @@ Claire Alexander</dc:title>
        inkscape:label="yast"
        transform="translate(-1802.8325,699.00636)">
       <title
-         id="title8347">utilities</title>
+         id="title8347">system</title>
       <rect
          transform="scale(-1,1)"
          style="opacity:0;fill:#ffffff;fill-opacity:1;stroke:none;display:inline"
@@ -13884,7 +13884,7 @@ Claire Alexander</dc:title>
        inkscape:label="simple-ccsm"
        id="g7663">
       <title
-         id="title8353">utilities</title>
+         id="title8353">preferences</title>
       <rect
          y="200.99364"
          x="-1208.8325"
@@ -13953,7 +13953,7 @@ Claire Alexander</dc:title>
        inkscape:label="notification-properties"
        id="g7758">
       <title
-         id="title8357">utilities</title>
+         id="title8357">preferences</title>
       <rect
          y="200.99364"
          x="-1208.8325"
@@ -13981,7 +13981,7 @@ Claire Alexander</dc:title>
        inkscape:label="change-password-48"
        transform="translate(-79.999954,-50)">
       <title
-         id="title8359">utilities</title>
+         id="title8359">preferences</title>
       <use
          height="100"
          width="300"
@@ -14006,7 +14006,7 @@ Claire Alexander</dc:title>
        inkscape:label="package-manager-icon"
        transform="translate(-48.999954,-62.000003)">
       <title
-         id="title8361">utilities</title>
+         id="title8361">system</title>
       <use
          height="100"
          width="300"
@@ -14031,7 +14031,7 @@ Claire Alexander</dc:title>
        inkscape:label="gnome-network-preferences"
        transform="translate(-903.99995,1486.9985)">
       <title
-         id="title8363">internet</title>
+         id="title8363">preferences</title>
       <rect
          y="-586.99707"
          x="-530"
@@ -14136,7 +14136,7 @@ Claire Alexander</dc:title>
        inkscape:label="gnome-power-manager"
        transform="translate(-60.999957,-43)">
       <title
-         id="title8365">utilities</title>
+         id="title8365">system</title>
       <use
          transform="translate(-2139.001,660.00354)"
          height="1"
@@ -21944,7 +21944,7 @@ Claire Alexander</dc:title>
        id="g10748"
        inkscape:label="system-file-manager">
       <title
-         id="title15587">utilities</title>
+         id="title15587">system</title>
       <rect
          transform="scale(-1,1)"
          style="opacity:0;fill:#ffffff;fill-opacity:1;stroke:none;display:inline"
@@ -22038,7 +22038,7 @@ Claire Alexander</dc:title>
        id="g6503"
        inkscape:label="accessories-text-editor">
       <title
-         id="title15591">utilities</title>
+         id="title15591">accessories</title>
       <rect
          transform="scale(-1,1)"
          style="opacity:0;fill:#ffffff;fill-opacity:1;stroke:none;display:inline"
@@ -22093,7 +22093,7 @@ Claire Alexander</dc:title>
        inkscape:label="help-browser"
        id="g6587">
       <title
-         id="title15593">utilities</title>
+         id="title15593">accessories</title>
       <rect
          y="174.5918"
          x="-259.5"
@@ -22342,7 +22342,7 @@ Claire Alexander</dc:title>
        inkscape:label="preferences-desktop-theme"
        transform="translate(-255,-165.36225)">
       <title
-         id="title15597">utilities</title>
+         id="title15597">preferences</title>
       <rect
          style="opacity:0;fill:#ffffff;fill-opacity:1;stroke:none;display:inline"
          id="rect6371"
@@ -22377,7 +22377,7 @@ Claire Alexander</dc:title>
        inkscape:label="system-software-install"
        id="g10586-5">
       <title
-         id="title15599">utilities</title>
+         id="title15599">system</title>
       <rect
          inkscape:label="bbox"
          y="367.36218"
@@ -22437,7 +22437,7 @@ Claire Alexander</dc:title>
        inkscape:label="system-software-update"
        transform="translate(-199,-165.36218)">
       <title
-         id="title15601">utilities</title>
+         id="title15601">system</title>
       <rect
          style="opacity:0;fill:#ffffff;fill-opacity:1;stroke:none;display:inline"
          id="rect6274"
@@ -22467,7 +22467,7 @@ Claire Alexander</dc:title>
        inkscape:label="preferences-desktop-wallpaper"
        id="g9624-1">
       <title
-         id="title15603">utilities</title>
+         id="title15603">preferences</title>
       <rect
          inkscape:label="bbox"
          y="367.36218"
@@ -22529,7 +22529,7 @@ Claire Alexander</dc:title>
        inkscape:label="accessories-calculator"
        transform="translate(-283,-135.36218)">
       <title
-         id="title15605">office</title>
+         id="title15605">accessories</title>
       <rect
          style="opacity:0;fill:#ffffff;fill-opacity:1;stroke:none;display:inline"
          id="rect6373"
@@ -22607,7 +22607,7 @@ Claire Alexander</dc:title>
        inkscape:label="accessories-character-map"
        id="g6412">
       <title
-         id="title15607">utilities</title>
+         id="title15607">accessories</title>
       <rect
          inkscape:label="bbox"
          y="367.36218"
@@ -22659,7 +22659,7 @@ Claire Alexander</dc:title>
        inkscape:label="accessories-dictionary"
        transform="translate(-227,-135.36218)">
       <title
-         id="title15609">utilities</title>
+         id="title15609">accessories</title>
       <rect
          style="opacity:0;fill:#ffffff;fill-opacity:1;stroke:none;display:inline"
          id="rect6488"
@@ -22743,7 +22743,7 @@ Claire Alexander</dc:title>
        inkscape:label="preferences-desktop-accessibility"
        transform="translate(-311,-105.36218)">
       <title
-         id="title15613">accessibility</title>
+         id="title15613">preferences</title>
       <rect
          style="opacity:0;fill:#ffffff;fill-opacity:1;stroke:none;display:inline"
          id="rect6532"
@@ -22790,7 +22790,7 @@ Claire Alexander</dc:title>
        inkscape:label="preferences-desktop-font"
        transform="translate(-103,-33.999998)">
       <title
-         id="title15615">utilities</title>
+         id="title15615">preferences</title>
       <use
          transform="translate(-1134,121.98068)"
          height="1"
@@ -22815,7 +22815,7 @@ Claire Alexander</dc:title>
        inkscape:label="preferences-desktop-keyboard"
        id="use6677">
       <title
-         id="title15617">utilities</title>
+         id="title15617">preferences</title>
       <rect
          inkscape:label="bbox"
          y="367.36218"
@@ -22949,7 +22949,7 @@ Claire Alexander</dc:title>
        inkscape:label="preferences-desktop-locale"
        id="g6815">
       <title
-         id="title15619">utilities</title>
+         id="title15619">preferences</title>
       <rect
          inkscape:label="bbox"
          y="367.36218"
@@ -23059,7 +23059,7 @@ Claire Alexander</dc:title>
        inkscape:label="preferences-desktop-multimedia"
        transform="translate(-90,87.056598)">
       <title
-         id="title15621">multimedia</title>
+         id="title15621">preferences</title>
       <rect
          style="fill:none;stroke:none;display:inline"
          id="rect8816-1"
@@ -23190,7 +23190,7 @@ Claire Alexander</dc:title>
        inkscape:label="preferences-desktop-screensaver"
        transform="translate(-311,-75.36218)">
       <title
-         id="title15623">utilities</title>
+         id="title15623">preferences</title>
       <rect
          style="opacity:0;fill:#ffffff;fill-opacity:1;stroke:none;display:inline"
          id="rect6967"
@@ -23400,7 +23400,7 @@ Claire Alexander</dc:title>
        inkscape:label="preferences-desktop-keyboard-shortcuts"
        transform="translate(312.91858,-78.997068)">
       <title
-         id="title15629">utilities</title>
+         id="title15629">preferences</title>
       <rect
          style="opacity:0;fill:#ffffff;fill-opacity:1;stroke:none;display:inline"
          id="rect6670"
@@ -23520,7 +23520,7 @@ Claire Alexander</dc:title>
        inkscape:label="system-help"
        id="g6786">
       <title
-         id="title15633">utilities</title>
+         id="title15633">system</title>
       <rect
          inkscape:label="bbox"
          y="367.36218"
@@ -23540,7 +23540,7 @@ Claire Alexander</dc:title>
        inkscape:label="preferences-desktop-remote-desktop"
        id="g6879">
       <title
-         id="title15635">internet</title>
+         id="title15635">preferences</title>
       <rect
          inkscape:label="bbox"
          y="367.36218"
@@ -23603,7 +23603,7 @@ Claire Alexander</dc:title>
        transform="translate(190,-228)"
        inkscape:label="system-config-printer">
       <title
-         id="title15637">utilities</title>
+         id="title15637">system</title>
       <use
          height="100"
          width="300"
@@ -23628,7 +23628,7 @@ Claire Alexander</dc:title>
        inkscape:label="preferences-system-windows"
        transform="translate(-227,-49.313932)">
       <title
-         id="title15639">utilities</title>
+         id="title15639">preferences</title>
       <rect
          style="opacity:0;fill:#ffffff;fill-opacity:1;stroke:none;display:inline"
          id="rect7615"

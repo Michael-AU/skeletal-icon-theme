@@ -3,6 +3,7 @@
 require "rexml/document"
 require "fileutils"
 include REXML
+
 INKSCAPE = '/usr/bin/inkscape'
 SRC = "moblin-icon-theme.svg"
 PREFIX = "moblin/24x24"

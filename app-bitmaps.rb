@@ -4,6 +4,7 @@ require "rexml/document"
 require "fileutils"
 require "yaml"
 include REXML
+
 INKSCAPE = '/usr/bin/inkscape'
 SRC = "moblin-icon-theme.svg"
 PREFIX = "moblin/24x24"
@@ -12,10 +13,19 @@ COLORS = YAML::load(File.open("group-colors.yml"))
 EMBLEM = "temp/emblem"
 TEMPLATE = "template.svg"
 
+def isDark(color)
+	#returns true if the background is dark-ish
+	r = ("%03d" %  "0x#{color[1,2]}").to_i
+	g = ("%03d" %  "0x#{color[3,2]}").to_i
+	b = ("%03d" %  "0x#{color[5,2]}").to_i
+	lightness = (0.2126*r) + (0.7152*g) + (0.0722*b)
+	return lightness<200 ? true : false
+end
+
 def renderIcon(icon)
 	unless (File.exists?("#{LAUNCHER_PREFIX}/#{icon[:context]}/#{icon[:name]}.png") && !icon[:forcerender])
 		puts "rendering #{icon[:name]}"
-		#recolor strokes and fills that are grey (#bebebe) to white
+		#recolor strokes and fills that are grey (#bebebe) to fg color (in SVG)
 		emblem = File.new("#{EMBLEM}.svg", "w")
 		File.open(icon[:file]) do |line|
 			emblem.puts line.read.gsub(/#bebebe/, "#{COLORS[icon[:group]]["fg"]}/gi")
@@ -24,7 +34,7 @@ def renderIcon(icon)
 		cmd = "#{INKSCAPE} -e #{EMBLEM}.png #{EMBLEM}.svg > /dev/null 2>&1"
 		system cmd
 		
-		#recolor template based on group colors
+		#recolor template background based on category
 		$template.root.elements["//rect[@inkscape:label='group-color']"].attributes['style'] = "fill:#{COLORS[icon[:group]]["bg"]};fill-opacity:1"
 		base = File.new("temp/base.svg","w")
 		base.puts $template
@@ -36,10 +46,19 @@ def renderIcon(icon)
 		#composite emblem.png -blend 25 -negate -gravity center -geometry +0-1 base.png result.png
 		#composite above.png -compose Over -gravity center under.png result.png
 		FileUtils.mkdir_p("#{LAUNCHER_PREFIX}/#{icon[:context]}") unless File.exists?("#{LAUNCHER_PREFIX}/#{icon[:context]}")
-		cmd = "composite #{EMBLEM}.png -blend 25 -negate -gravity center -geometry +0-1 temp/base.png temp/temp.png"
+		#shadow
+		cmd = "composite shadow.png -compose Atop -gravity center #{EMBLEM}.png temp/shadow.png"
 		system cmd
-		cmd = "composite #{EMBLEM}.png -compose Over -gravity center temp/temp.png #{LAUNCHER_PREFIX}/#{icon[:context]}/#{icon[:name]}.png"
-		system cmd
+		if (isDark(COLORS[icon[:group]]["bg"])) #only render the inset shadow if the background is suffitiently dark
+			cmd = "composite temp/shadow.png -blend 25 -gravity center -geometry +0-1 temp/base.png temp/temp.png"
+			system cmd
+			cmd = "composite #{EMBLEM}.png -compose Over -gravity center temp/temp.png #{LAUNCHER_PREFIX}/#{icon[:context]}/#{icon[:name]}.png"
+			system cmd
+		else
+			cmd = "composite #{EMBLEM}.png -compose Over -gravity center temp/base.png #{LAUNCHER_PREFIX}/#{icon[:context]}/#{icon[:name]}.png"
+			system cmd
+		end
+		
 	else
 		puts " -- #{icon[:name]} already exists"
 	end
