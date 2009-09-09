@@ -20,7 +20,7 @@ def chopSVG(icon)
 		system(cmd)
 		#and call the bitmap buttonizer
 		cmd = "./app-bitmaps.rb #{icon[:name]}"
-		system cmd
+		system cmd unless (!icon[:dir].match(/app/))
 	else
 		puts " -- #{icon[:name]} already exists"
 	end

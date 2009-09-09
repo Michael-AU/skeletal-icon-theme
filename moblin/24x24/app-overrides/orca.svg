@@ -43,11 +43,11 @@
     <path
        d="M -500.15625,904 C -510.36255,903.9481 -510,914 -510,914 L -487,914 C -487.063,909.125 -488.38955,904.05982 -500.15625,904 z M -500.9375,909.96875 C -500.38086,910.00695 -500,910.29618 -500,911 C -500.0625,911.875 -500.875,912 -501.875,912 L -505.9375,912 C -505.9375,912 -502.60742,909.8541 -500.9375,909.96875 z"
        id="path7737"
-       style="fill:#bdbdbd;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:2;marker:none;visibility:visible;display:inline;overflow:visible;enable-background:accumulate" />
+       style="fill:#bebebe;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:2;marker:none;visibility:visible;display:inline;overflow:visible;enable-background:accumulate" />
     <path
        d="M -498,906.0625 C -497.9516,903.02631 -492.44257,902.03161 -489.9375,902 L -490,907.9375 L -498,906.0625 z"
        id="path7751"
-       style="fill:#bdbdbd;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:2.00000048;marker:none;visibility:visible;display:inline;overflow:visible;enable-background:accumulate" />
+       style="fill:#bebebe;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:2.00000048;marker:none;visibility:visible;display:inline;overflow:visible;enable-background:accumulate" />
     <rect
        width="6.2362518"
        height="6.4960041"
@@ -57,7 +57,7 @@
        y="1186.1685"
        transform="matrix(1,0,0.6383995,0.7697052,0,0)"
        id="rect7756"
-       style="fill:#bdbdbd;fill-opacity:1;stroke:none;stroke-width:2.16505027;marker:none;visibility:visible;display:inline;overflow:visible;enable-background:accumulate" />
+       style="fill:#bebebe;fill-opacity:1;stroke:none;stroke-width:2.16505027;marker:none;visibility:visible;display:inline;overflow:visible;enable-background:accumulate" />
   </g>
   <g
      transform="translate(510.0016,-900)"

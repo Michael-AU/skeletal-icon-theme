@@ -33,9 +33,12 @@ def renderIcon(icon)
 		system cmd
 		
 		#overlay
+		#composite emblem.png -blend 25 -negate -gravity center -geometry +0-1 base.png result.png
 		#composite above.png -compose Over -gravity center under.png result.png
 		FileUtils.mkdir_p("#{LAUNCHER_PREFIX}/#{icon[:context]}") unless File.exists?("#{LAUNCHER_PREFIX}/#{icon[:context]}")
-		cmd = "composite #{EMBLEM}.png -compose Over -gravity center temp/base.png #{LAUNCHER_PREFIX}/#{icon[:context]}/#{icon[:name]}.png"
+		cmd = "composite #{EMBLEM}.png -blend 25 -negate -gravity center -geometry +0-1 temp/base.png temp/temp.png"
+		system cmd
+		cmd = "composite #{EMBLEM}.png -compose Over -gravity center temp/temp.png #{LAUNCHER_PREFIX}/#{icon[:context]}/#{icon[:name]}.png"
 		system cmd
 	else
 		puts " -- #{icon[:name]} already exists"

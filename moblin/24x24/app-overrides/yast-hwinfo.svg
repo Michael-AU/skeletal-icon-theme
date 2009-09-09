@@ -12,65 +12,51 @@
   <defs
      id="defs7386" />
   <g
-     transform="translate(616,-1360.1722)"
+     transform="translate(616,-1400.1723)"
      id="layer3" />
   <g
-     transform="translate(616,-1360.1722)"
+     transform="translate(616,-1400.1723)"
      id="layer5" />
   <g
-     transform="translate(616,-1360.1722)"
+     transform="translate(616,-1400.1723)"
      id="layer7" />
   <g
-     transform="translate(616,-1360.1722)"
+     transform="translate(616,-1400.1723)"
      id="layer2" />
   <g
-     transform="translate(616,-1360.1722)"
+     transform="translate(616,-1400.1723)"
      id="layer8" />
   <g
-     transform="translate(616,-2312.5344)"
+     transform="translate(616,-2352.5345)"
      id="layer1" />
   <g
-     transform="translate(616,-1360.1722)"
+     transform="translate(616,-1400.1723)"
      id="layer11">
     <rect
        width="24"
        height="24"
        x="-616"
-       y="1360.1722"
+       y="1400.1722"
        id="rect6676"
        style="opacity:0;fill:#ffffff;fill-opacity:1;stroke:none;display:inline" />
     <path
-       d="M -604.99701,1360.1723 C -611.06954,1360.1723 -615.99222,1365.1013 -615.99222,1371.1722 C -615.99222,1377.2432 -611.06954,1382.1723 -604.99701,1382.1723 C -598.92447,1382.1723 -594.0018,1377.2432 -594.0018,1371.1722 C -594.0018,1365.1013 -598.92447,1360.1723 -604.99701,1360.1723 L -604.99701,1360.1723 z"
+       d="M -605,1400.1875 C -611.07253,1400.1875 -616,1405.1166 -616,1411.1875 C -616,1417.2585 -611.07254,1422.1875 -605,1422.1875 C -598.92747,1422.1875 -594,1417.2585 -594,1411.1875 C -594,1405.1166 -598.92747,1400.1875 -605,1400.1875 z M -606,1406.1875 L -604,1406.1875 L -604,1408.1875 L -606,1408.1875 L -606,1406.1875 z M -606,1410.1875 L -604,1410.1875 L -604,1416.3125 L -606,1416.3125 L -606,1410.1875 z"
        id="path3543-8-1-4"
        style="fill:#bebebe;fill-opacity:1;stroke:none;display:inline" />
-    <rect
-       width="1.9999954"
-       height="1.9999954"
-       x="-606"
-       y="1366.1722"
-       id="rect5835-1"
-       style="fill:#ffffff;fill-opacity:1;stroke:none;display:inline" />
-    <rect
-       width="1.9999954"
-       height="6.1249886"
-       x="-606"
-       y="1370.1722"
-       id="rect5837-0"
-       style="fill:#ffffff;fill-opacity:1;stroke:none;display:inline" />
   </g>
   <g
-     transform="translate(616,-1360.1722)"
+     transform="translate(616,-1400.1723)"
      id="layer4" />
   <g
-     transform="translate(616,-1360.1722)"
+     transform="translate(616,-1400.1723)"
      id="layer12" />
   <g
-     transform="translate(616,-1360.1722)"
+     transform="translate(616,-1400.1723)"
      id="layer9" />
   <g
-     transform="translate(616,-1360.1722)"
+     transform="translate(616,-1400.1723)"
      id="layer10" />
   <g
-     transform="translate(616,-1360.1722)"
+     transform="translate(616,-1400.1723)"
      id="layer6" />
 </svg>
