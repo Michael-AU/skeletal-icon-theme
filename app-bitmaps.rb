@@ -36,6 +36,11 @@ def renderIcon(icon)
 		
 		#recolor template background based on category
 		$template.root.elements["//rect[@inkscape:label='group-color']"].attributes['style'] = "fill:#{COLORS[icon[:group]]["bg"]};fill-opacity:1"
+		if (isDark(COLORS[icon[:group]]["bg"]))
+			$template.root.elements["//g[@inkscape:label='dark'][@inkscape:groupmode='layer']"].attributes['style'] = 'display:inline'
+		else
+			$template.root.elements["//g[@inkscape:label='dark'][@inkscape:groupmode='layer']"].attributes['style'] = 'display:none'
+		end
 		base = File.new("temp/base.svg","w")
 		base.puts $template
 		base.close
