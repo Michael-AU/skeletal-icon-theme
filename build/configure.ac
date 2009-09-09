@@ -1,6 +1,7 @@
 AC_PREREQ(2.53)
+VERSION=`git describe --abbrev=0`
 
-AC_INIT([moblin-icon-theme], [0.5])
+AC_INIT([moblin-icon-theme], [$VERSION])
 AC_CONFIG_SRCDIR([24x24])
 
 AM_INIT_AUTOMAKE([1.9 tar-ustar])
