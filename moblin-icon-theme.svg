@@ -5979,6 +5979,45 @@
        inkscape:vp_y="0 : 1000 : 0"
        inkscape:vp_x="0 : 0.5 : 1"
        sodipodi:type="inkscape:persp3d" />
+    <inkscape:perspective
+       id="perspective7213"
+       inkscape:persp3d-origin="0.5 : 0.33333333 : 1"
+       inkscape:vp_z="1 : 0.5 : 1"
+       inkscape:vp_y="0 : 1000 : 0"
+       inkscape:vp_x="0 : 0.5 : 1"
+       sodipodi:type="inkscape:persp3d" />
+    <linearGradient
+       y2="115.05012"
+       x2="105.91268"
+       y1="121.0463"
+       x1="105.91268"
+       gradientTransform="matrix(1,0,0,1.091442,-496.22388,-76.532488)"
+       gradientUnits="userSpaceOnUse"
+       id="linearGradient6922-8"
+       xlink:href="#linearGradient7487-6-8-88"
+       inkscape:collect="always" />
+    <linearGradient
+       inkscape:collect="always"
+       id="linearGradient7487-6-8-88">
+      <stop
+         style="stop-color:#bebebe;stop-opacity:1;"
+         offset="0"
+         id="stop7489-8-8-3" />
+      <stop
+         style="stop-color:#bebebe;stop-opacity:0;"
+         offset="1"
+         id="stop7491-2-2-9" />
+    </linearGradient>
+    <linearGradient
+       inkscape:collect="always"
+       xlink:href="#linearGradient7487-6-8-88"
+       id="linearGradient14724-9-2"
+       gradientUnits="userSpaceOnUse"
+       gradientTransform="matrix(1,0,0,1.273349,-496.22388,-219.43118)"
+       x1="105.91268"
+       y1="121.73069"
+       x2="105.91268"
+       y2="115.05012" />
   </defs>
   <sodipodi:namedview
      id="base"
@@ -5988,8 +6027,8 @@
      inkscape:pageopacity="0"
      inkscape:pageshadow="2"
      inkscape:zoom="1"
-     inkscape:cx="-408.52791"
-     inkscape:cy="-1199.1538"
+     inkscape:cx="-397.72827"
+     inkscape:cy="-1197.4673"
      inkscape:document-units="px"
      inkscape:current-layer="layer11"
      showgrid="false"
@@ -21758,6 +21797,8 @@ Claire Alexander</dc:title>
     <g
        id="g7129"
        inkscape:label="gnome-network-properties">
+      <title
+         id="title7254">preferences</title>
       <use
          height="100"
          width="300"
@@ -21963,7 +22004,7 @@ Claire Alexander</dc:title>
     </g>
     <g
        id="g13078"
-       inkscape:label="WorldOfGoodDemo"
+       inkscape:label="WorldOfGooDemo"
        transform="translate(-1310,1108.9807)">
       <title
          id="title13080">games</title>
@@ -21979,7 +22020,7 @@ Claire Alexander</dc:title>
          style="opacity:0;fill:#ffffff;fill-opacity:1;stroke:none;display:inline" />
       <path
          transform="matrix(1.4328305,0,0,1.4328343,1532.9974,-1696.0086)"
-         d="m -477.375,1311.4062 a 2.09375,2.09375 0 1 1 -4.1875,0 2.09375,2.09375 0 1 1 4.1875,0 z"
+         d="m -477.375,1311.4062 c 0,1.1564 -0.9374,2.0938 -2.09375,2.0938 -1.15635,0 -2.09375,-0.9374 -2.09375,-2.0938 0,-1.1563 0.9374,-2.0937 2.09375,-2.0937 1.15635,0 2.09375,0.9374 2.09375,2.0937 z"
          sodipodi:ry="2.09375"
          sodipodi:rx="2.09375"
          sodipodi:cy="1311.4062"
@@ -21995,7 +22036,7 @@ Claire Alexander</dc:title>
          sodipodi:cy="1311.4062"
          sodipodi:rx="2.9692283"
          sodipodi:ry="2.09375"
-         d="m -476.49952,1311.4062 a 2.9692283,2.09375 0 1 1 -5.93846,0 2.9692283,2.09375 0 1 1 5.93846,0 z"
+         d="m -476.49952,1311.4062 c 0,1.1564 -1.32937,2.0938 -2.96923,2.0938 -1.63986,0 -2.96923,-0.9374 -2.96923,-2.0938 0,-1.1563 1.32937,-2.0937 2.96923,-2.0937 1.63986,0 2.96923,0.9374 2.96923,2.0937 z"
          transform="matrix(1.510238,0.666384,-1.1188944,2.1924505,3027.3767,-2371.6637)" />
       <rect
          style="color:#000000;fill:#bebebe;fill-opacity:1;stroke:none;stroke-width:1;marker:none;visibility:visible;display:inline;overflow:visible;enable-background:accumulate"
@@ -22023,7 +22064,7 @@ Claire Alexander</dc:title>
          sodipodi:cy="1298.1924"
          sodipodi:rx="7.9549513"
          sodipodi:ry="7.9549513"
-         d="m -461.33726,1298.9736 a 7.9549513,7.9549513 0 0 1 -15.03801,2.7635"
+         d="m -461.33726,1298.9736 c -0.43146,4.3722 -4.32557,7.5667 -8.69773,7.1353 -2.72498,-0.2689 -5.12012,-1.9204 -6.34028,-4.3718"
          transform="matrix(1.1370335,0,0,1.1370335,1373.6023,-1289.0239)"
          sodipodi:start="0.098366029"
          sodipodi:end="2.679745"
@@ -22032,7 +22073,7 @@ Claire Alexander</dc:title>
          sodipodi:end="4.9491868"
          sodipodi:start="4.771061"
          transform="matrix(1.1370335,0,0,1.1370335,1373.6023,-1289.0239)"
-         d="m -468.78729,1290.2511 a 7.9549513,7.9549513 0 0 1 1.3997,0.2083"
+         d="m -468.78729,1290.2511 c 0.47183,0.028 0.94025,0.097 1.3997,0.2083"
          sodipodi:ry="7.9549513"
          sodipodi:rx="7.9549513"
          sodipodi:cy="1298.1924"
@@ -22089,7 +22130,7 @@ Claire Alexander</dc:title>
          sodipodi:cy="1299.916"
          sodipodi:rx="4.9939418"
          sodipodi:ry="4.9939418"
-         d="m -434.38882,1303.4473 a 4.9939418,4.9939418 0 1 1 1.46269,-3.5313"
+         d="m -434.38882,1303.4473 c -1.95026,1.9502 -5.11225,1.9502 -7.0625,0 -1.95026,-1.9503 -1.95026,-5.1123 0,-7.0625 1.95025,-1.9503 5.11224,-1.9503 7.0625,0 0.93654,0.9365 1.46269,2.2067 1.46269,3.5312"
          transform="matrix(0.80739875,0,0,0.80739869,164.60822,-861.58259)"
          sodipodi:start="0.78539816"
          sodipodi:end="6.2831853"
@@ -22107,7 +22148,7 @@ Claire Alexander</dc:title>
          sodipodi:cy="180.96373"
          sodipodi:rx="0.88388348"
          sodipodi:ry="0.88388348"
-         d="m -141.99588,180.96373 a 0.88388348,0.88388348 0 1 1 -1.76776,0 0.88388348,0.88388348 0 1 1 1.76776,0 z"
+         d="m -141.99588,180.96373 c 0,0.48816 -0.39573,0.88388 -0.88388,0.88388 -0.48816,0 -0.88388,-0.39572 -0.88388,-0.88388 0,-0.48816 0.39572,-0.88388 0.88388,-0.88388 0.48815,0 0.88388,0.39572 0.88388,0.88388 z"
          transform="matrix(1.1313682,0,0,1.1313755,-29.35038,-23.737934)" />
       <path
          style="color:#000000;fill:none;stroke:#bebebe;stroke-width:1;stroke-linecap:round;stroke-linejoin:miter;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none;stroke-dashoffset:0;marker:none;visibility:visible;display:inline;overflow:visible;enable-background:accumulate"
@@ -22148,11 +22189,11 @@ Claire Alexander</dc:title>
          sodipodi:cy="1296.0712"
          sodipodi:rx="5.038136"
          sodipodi:ry="5.038136"
-         d="m -410.91743,1296.0712 a 5.038136,5.038136 0 1 1 -10.07627,0 5.038136,5.038136 0 1 1 10.07627,0 z"
+         d="m -410.91743,1296.0712 c 0,2.7825 -2.25565,5.0381 -5.03814,5.0381 -2.78248,0 -5.03813,-2.2556 -5.03813,-5.0381 0,-2.7825 2.25565,-5.0382 5.03813,-5.0382 2.78249,0 5.03814,2.2557 5.03814,5.0382 z"
          transform="translate(221.91743,-1110.033)" />
       <path
          transform="matrix(1.7787993,0,0,1.7787993,545.86335,-2119.4124)"
-         d="m -414.75562,1300.9643 a 5.038136,5.038136 0 0 1 -2.33237,0.016"
+         d="m -414.75562,1300.9643 c -0.7655,0.1877 -1.56436,0.1932 -2.33237,0.016"
          sodipodi:ry="5.038136"
          sodipodi:rx="5.038136"
          sodipodi:cy="1296.0712"
@@ -22165,7 +22206,7 @@ Claire Alexander</dc:title>
          sodipodi:open="true" />
       <path
          transform="matrix(0.39696868,0,0,0.39696868,-21.87865,-335.49964)"
-         d="m -410.91743,1296.0712 a 5.038136,5.038136 0 1 1 -10.07627,0 5.038136,5.038136 0 1 1 10.07627,0 z"
+         d="m -410.91743,1296.0712 c 0,2.7825 -2.25565,5.0381 -5.03814,5.0381 -2.78248,0 -5.03813,-2.2556 -5.03813,-5.0381 0,-2.7825 2.25565,-5.0382 5.03813,-5.0382 2.78249,0 5.03814,2.2557 5.03814,5.0382 z"
          sodipodi:ry="5.038136"
          sodipodi:rx="5.038136"
          sodipodi:cy="1296.0712"
@@ -22181,7 +22222,7 @@ Claire Alexander</dc:title>
          sodipodi:cy="1296.0712"
          sodipodi:rx="5.038136"
          sodipodi:ry="5.038136"
-         d="m -410.91743,1296.0712 a 5.038136,5.038136 0 1 1 -10.07627,0 5.038136,5.038136 0 1 1 10.07627,0 z"
+         d="m -410.91743,1296.0712 c 0,2.7825 -2.25565,5.0381 -5.03814,5.0381 -2.78248,0 -5.03813,-2.2556 -5.03813,-5.0381 0,-2.7825 2.25565,-5.0382 5.03813,-5.0382 2.78249,0 5.03814,2.2557 5.03814,5.0382 z"
          transform="matrix(0.39696868,0,0,0.39696868,-35.87865,-321.49964)" />
       <path
          sodipodi:open="true"
@@ -22194,7 +22235,7 @@ Claire Alexander</dc:title>
          sodipodi:cy="1296.0712"
          sodipodi:rx="5.038136"
          sodipodi:ry="5.038136"
-         d="m -411.05207,1294.9142 a 5.038136,5.038136 0 0 1 0.0117,2.2634"
+         d="m -411.05207,1294.9142 c 0.1755,0.7438 0.17948,1.5178 0.0117,2.2634"
          transform="matrix(-1.7787993,0,0,-1.7787993,-933.93964,2491.4123)" />
       <path
          sodipodi:type="arc"
@@ -22204,11 +22245,11 @@ Claire Alexander</dc:title>
          sodipodi:cy="1296.0712"
          sodipodi:rx="5.038136"
          sodipodi:ry="5.038136"
-         d="m -410.91743,1296.0712 a 5.038136,5.038136 0 1 1 -10.07627,0 5.038136,5.038136 0 1 1 10.07627,0 z"
+         d="m -410.91743,1296.0712 c 0,2.7825 -2.25565,5.0381 -5.03814,5.0381 -2.78248,0 -5.03813,-2.2556 -5.03813,-5.0381 0,-2.7825 2.25565,-5.0382 5.03813,-5.0382 2.78249,0 5.03814,2.2557 5.03814,5.0382 z"
          transform="matrix(-0.39696868,0,0,0.39696868,-366.12131,-335.49964)" />
       <path
          transform="matrix(-0.39696868,0,0,0.39696868,-352.12131,-321.49964)"
-         d="m -410.91743,1296.0712 a 5.038136,5.038136 0 1 1 -10.07627,0 5.038136,5.038136 0 1 1 10.07627,0 z"
+         d="m -410.91743,1296.0712 c 0,2.7825 -2.25565,5.0381 -5.03814,5.0381 -2.78248,0 -5.03813,-2.2556 -5.03813,-5.0381 0,-2.7825 2.25565,-5.0382 5.03813,-5.0382 2.78249,0 5.03814,2.2557 5.03814,5.0382 z"
          sodipodi:ry="5.038136"
          sodipodi:rx="5.038136"
          sodipodi:cy="1296.0712"
@@ -22227,11 +22268,11 @@ Claire Alexander</dc:title>
          sodipodi:cy="1296.0712"
          sodipodi:rx="5.038136"
          sodipodi:ry="5.038136"
-         d="m -414.75562,1300.9643 a 5.038136,5.038136 0 0 1 -2.33237,0.016"
+         d="m -414.75562,1300.9643 c -0.7655,0.1877 -1.56436,0.1932 -2.33237,0.016"
          transform="matrix(-1.7787993,0,0,-1.7787993,-933.82951,2491.406)" />
       <path
          transform="matrix(1.7787993,0,0,1.7787993,545.97348,-2119.4187)"
-         d="m -411.05207,1294.9142 a 5.038136,5.038136 0 0 1 0.0117,2.2634"
+         d="m -411.05207,1294.9142 c 0.1755,0.7438 0.17948,1.5178 0.0117,2.2634"
          sodipodi:ry="5.038136"
          sodipodi:rx="5.038136"
          sodipodi:cy="1296.0712"
@@ -22242,6 +22283,20 @@ Claire Alexander</dc:title>
          sodipodi:start="6.0514827"
          sodipodi:end="6.5046007"
          sodipodi:open="true" />
+    </g>
+    <g
+       id="g7256"
+       inkscape:label="tsclient">
+      <title
+         id="title7259">accessories</title>
+      <use
+         transform="translate(-162,965.95175)"
+         height="1"
+         width="1"
+         id="use7203"
+         xlink:href="#g6879"
+         y="0"
+         x="0" />
     </g>
   </g>
   <g
