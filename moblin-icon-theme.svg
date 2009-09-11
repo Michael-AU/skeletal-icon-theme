@@ -6034,16 +6034,16 @@
      inkscape:pageopacity="0"
      inkscape:pageshadow="2"
      inkscape:zoom="1"
-     inkscape:cx="-397.72827"
-     inkscape:cy="-1197.4673"
+     inkscape:cx="-505.27449"
+     inkscape:cy="-985.75323"
      inkscape:document-units="px"
      inkscape:current-layer="layer11"
      showgrid="false"
      showborder="false"
-     inkscape:window-width="1451"
-     inkscape:window-height="965"
-     inkscape:window-x="1663"
-     inkscape:window-y="47"
+     inkscape:window-width="1127"
+     inkscape:window-height="809"
+     inkscape:window-x="1661"
+     inkscape:window-y="92"
      inkscape:window-maximized="0"
      inkscape:showpageshadow="false"
      showguides="false"
@@ -12077,30 +12077,6 @@ Claire Alexander</dc:title>
          d="m 38.999953,405.34458 0,2.01084"
          style="fill:none;stroke:#bebebe;stroke-width:2;stroke-linecap:round;stroke-linejoin:miter;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none" />
       <path
-         style="fill:none;stroke:#bebebe;stroke-width:1px;stroke-linecap:round;stroke-linejoin:miter;stroke-opacity:1"
-         d="m 33.5,400.85888 2.69584,0"
-         id="path5594" />
-      <path
-         id="path5596"
-         d="m 33.5,402.86218 2.69584,0"
-         style="fill:none;stroke:#bebebe;stroke-width:1px;stroke-linecap:round;stroke-linejoin:miter;stroke-opacity:1" />
-      <path
-         style="fill:none;stroke:#bebebe;stroke-width:1px;stroke-linecap:round;stroke-linejoin:miter;stroke-opacity:1"
-         d="m 33.5,404.86218 2.69584,0"
-         id="path5598" />
-      <path
-         id="path5600"
-         d="m 27.80416,400.85888 2.69584,0"
-         style="fill:none;stroke:#bebebe;stroke-width:1px;stroke-linecap:round;stroke-linejoin:miter;stroke-opacity:1" />
-      <path
-         style="fill:none;stroke:#bebebe;stroke-width:1px;stroke-linecap:round;stroke-linejoin:miter;stroke-opacity:1"
-         d="m 27.80416,402.86218 2.69584,0"
-         id="path5602" />
-      <path
-         id="path5604"
-         d="m 27.80416,404.86218 2.69584,0"
-         style="fill:none;stroke:#bebebe;stroke-width:1px;stroke-linecap:round;stroke-linejoin:miter;stroke-opacity:1" />
-      <path
          style="fill:none;stroke:#bebebe;stroke-width:2.00000023999999987;stroke-linecap:round;stroke-linejoin:miter;stroke-opacity:1;color:#000000;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;marker:none;visibility:visible;display:inline;overflow:visible;enable-background:accumulate"
          d="m 249,225 6,0"
          id="path8255"
@@ -15174,7 +15150,7 @@ Claire Alexander</dc:title>
        inkscape:label="cheese"
        transform="translate(-586.99995,616.63864)">
       <title
-         id="title13911">utilities</title>
+         id="title13911">graphics</title>
       <rect
          style="opacity:0;fill:#ffffff;fill-opacity:1;stroke:none;display:inline"
          id="rect15812"
