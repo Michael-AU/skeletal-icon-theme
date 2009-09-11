@@ -8,10 +8,10 @@ include REXML
 INKSCAPE = '/usr/bin/inkscape'
 SRC = "moblin-icon-theme.svg"
 PREFIX = "moblin/24x24"
-LAUNCHER_PREFIX = "moblin/48x48"
+SIZES = ["32","48"]
 COLORS = YAML::load(File.open("group-colors.yml"))
 EMBLEM = "temp/emblem"
-TEMPLATE = "template.svg"
+
 
 def isDark(color)
 	#returns true if the background is dark-ish
@@ -23,49 +23,51 @@ def isDark(color)
 end
 
 def renderIcon(icon)
-	unless (File.exists?("#{LAUNCHER_PREFIX}/#{icon[:context]}/#{icon[:name]}.png") && !icon[:forcerender])
-		puts "rendering #{icon[:name]}"
-		#recolor strokes and fills that are grey (#bebebe) to fg color (in SVG)
-		emblem = File.new("#{EMBLEM}.svg", "w")
-		File.open(icon[:file]) do |line|
-			emblem.puts line.read.gsub(/#bebebe/, "#{COLORS[icon[:group]]["fg"]}/gi")
-		end
-		emblem.close
-		cmd = "#{INKSCAPE} -e #{EMBLEM}.png #{EMBLEM}.svg > /dev/null 2>&1"
-		system cmd
-		
-		#recolor template background based on category
-		$template.root.elements["//rect[@inkscape:label='group-color']"].attributes['style'] = "fill:#{COLORS[icon[:group]]["bg"]};fill-opacity:1"
-		if (isDark(COLORS[icon[:group]]["bg"]))
-			$template.root.elements["//g[@inkscape:label='dark'][@inkscape:groupmode='layer']"].attributes['style'] = 'display:inline'
+	SIZES.each do |size|
+		unless (File.exists?("moblin/#{size}x#{size}/#{icon[:context]}/#{icon[:name]}.png") && !icon[:forcerender])
+			puts "rendering #{icon[:name]} at #{size}x#{size}px"
+			#recolor strokes and fills that are grey (#bebebe) to fg color (in SVG)
+			emblem = File.new("#{EMBLEM}.svg", "w")
+			File.open(icon[:file]) do |line|
+				emblem.puts line.read.gsub(/#bebebe/, "#{COLORS[icon[:group]]["fg"]}/gi")
+			end
+			emblem.close
+			cmd = "#{INKSCAPE} -e #{EMBLEM}.png #{EMBLEM}.svg > /dev/null 2>&1"
+			system cmd
+			
+			#recolor template background based on category
+			$template[size].root.elements["//rect[@inkscape:label='group-color']"].attributes['style'] = "fill:#{COLORS[icon[:group]]["bg"]};fill-opacity:1"
+			if (isDark(COLORS[icon[:group]]["bg"]))
+				$template[size].root.elements["//g[@inkscape:label='dark'][@inkscape:groupmode='layer']"].attributes['style'] = 'display:inline'
+			else
+				$template[size].root.elements["//g[@inkscape:label='dark'][@inkscape:groupmode='layer']"].attributes['style'] = 'display:none'
+			end
+			base = File.new("temp/base.svg","w")
+			base.puts $template[size]
+			base.close
+			cmd = "#{INKSCAPE} -e temp/base.png temp/base.svg > /dev/null 2>&1"
+			system cmd
+			
+			#overlay
+			#composite emblem.png -blend 25 -negate -gravity center -geometry +0-1 base.png result.png
+			#composite above.png -compose Over -gravity center under.png result.png
+			FileUtils.mkdir_p("moblin/#{size}x#{size}/#{icon[:context]}") unless File.exists?("moblin/#{size}x#{size}/#{icon[:context]}")
+			#shadow
+			cmd = "composite shadow.png -compose Atop -gravity center #{EMBLEM}.png temp/shadow.png"
+			system cmd
+			if (isDark(COLORS[icon[:group]]["bg"])) #only render the inset shadow if the background is suffitiently dark
+				cmd = "composite temp/shadow.png -blend 25 -gravity center -geometry +0-1 temp/base.png temp/temp.png"
+				system cmd
+				cmd = "composite #{EMBLEM}.png -compose Over -gravity center temp/temp.png moblin/#{size}x#{size}/#{icon[:context]}/#{icon[:name]}.png"
+				system cmd
+			else
+				cmd = "composite #{EMBLEM}.png -compose Over -gravity center temp/base.png moblin/#{size}x#{size}/#{icon[:context]}/#{icon[:name]}.png"
+				system cmd
+			end
+			
 		else
-			$template.root.elements["//g[@inkscape:label='dark'][@inkscape:groupmode='layer']"].attributes['style'] = 'display:none'
+			puts " -- #{icon[:name]} at #{size}x#{size}px already exists"
 		end
-		base = File.new("temp/base.svg","w")
-		base.puts $template
-		base.close
-		cmd = "#{INKSCAPE} -e temp/base.png temp/base.svg > /dev/null 2>&1"
-		system cmd
-		
-		#overlay
-		#composite emblem.png -blend 25 -negate -gravity center -geometry +0-1 base.png result.png
-		#composite above.png -compose Over -gravity center under.png result.png
-		FileUtils.mkdir_p("#{LAUNCHER_PREFIX}/#{icon[:context]}") unless File.exists?("#{LAUNCHER_PREFIX}/#{icon[:context]}")
-		#shadow
-		cmd = "composite shadow.png -compose Atop -gravity center #{EMBLEM}.png temp/shadow.png"
-		system cmd
-		if (isDark(COLORS[icon[:group]]["bg"])) #only render the inset shadow if the background is suffitiently dark
-			cmd = "composite temp/shadow.png -blend 25 -gravity center -geometry +0-1 temp/base.png temp/temp.png"
-			system cmd
-			cmd = "composite #{EMBLEM}.png -compose Over -gravity center temp/temp.png #{LAUNCHER_PREFIX}/#{icon[:context]}/#{icon[:name]}.png"
-			system cmd
-		else
-			cmd = "composite #{EMBLEM}.png -compose Over -gravity center temp/base.png #{LAUNCHER_PREFIX}/#{icon[:context]}/#{icon[:name]}.png"
-			system cmd
-		end
-		
-	else
-		puts " -- #{icon[:name]} already exists"
 	end
 end
 
@@ -73,7 +75,10 @@ end
 FileUtils.mkdir_p("moblin") unless File.exists?("moblin")
 # Open SVG file and template.
 svg = Document.new(File.new(SRC, 'r'))
-$template = Document.new(File.new(TEMPLATE, 'r'))
+$template = {}
+SIZES.each do |size|
+	$template[size] = Document.new(File.new("template-#{size}.svg", 'r'))
+end
 
 if (ARGV[0].nil?) #render all SVGs
   puts "Rendering from icons in #{SRC}"

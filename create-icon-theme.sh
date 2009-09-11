@@ -45,7 +45,7 @@ done
 for foo in $DIRS
 do
   size=`echo $foo | sed 's/\x.*//'`
-  if test "$size" = "48"; then
+  if test "$size" = "48" -o "32"; then
     type="Fixed"
     maxsize=""
   else
