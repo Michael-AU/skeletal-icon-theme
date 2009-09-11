@@ -5,7 +5,7 @@
    xmlns="http://www.w3.org/2000/svg"
    version="1.0"
    width="24"
-   height="24.00074"
+   height="24"
    id="svg7384">
   <title
      id="title9167">Moblin Icon Theme</title>
@@ -37,6 +37,9 @@
      id="layer4" />
   <g
      transform="translate(368,-500)"
+     id="layer12" />
+  <g
+     transform="translate(368,-500)"
      id="layer9" />
   <g
      transform="translate(368,-500)"
@@ -61,7 +64,7 @@
        id="path6319"
        style="fill:#bebebe;fill-opacity:1;stroke:none;stroke-width:2.00000048;stroke-linecap:round;stroke-linejoin:miter;marker:none;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;visibility:visible;display:inline;overflow:visible;enable-background:accumulate" />
     <path
-       d="M -358.9375,514 C -359.40904,513.99315 -359.8213,514.31664 -359.92679,514.77628 C -360.03228,515.23592 -359.80234,515.7068 -359.375,515.90625 L -356,517.59375 L -356.03125,523 C -356.03636,523.36064 -355.84688,523.69609 -355.53538,523.8779 C -355.22388,524.05971 -354.83862,524.05971 -354.52712,523.8779 C -354.21562,523.69609 -354.02614,523.36064 -354.03125,523 L -354,517 L -354,516.375 L -354.5625,516.09375 L -358.46875,514.125 C -358.61237,514.04549 -358.77336,514.00256 -358.9375,514 z"
+       d="M -358.9375,514 C -359.40904,513.99315 -359.8213,514.31664 -359.92679,514.77628 C -360.03228,515.23592 -359.80234,515.7068 -359.375,515.90625 L -356,517.625 L -356,523 C -356.00511,523.36064 -355.81563,523.69609 -355.50413,523.8779 C -355.19263,524.05971 -354.80737,524.05971 -354.49587,523.8779 C -354.18437,523.69609 -353.99489,523.36064 -354,523 L -354,517 L -354,516.375 L -354.5625,516.09375 L -358.46875,514.125 C -358.61237,514.04549 -358.77336,514.00256 -358.9375,514 z"
        id="path6321"
        style="fill:#bebebe;fill-opacity:1;stroke:none;stroke-width:2.00000048;stroke-linecap:round;stroke-linejoin:miter;marker:none;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;visibility:visible;display:inline;overflow:visible;enable-background:accumulate" />
     <path
