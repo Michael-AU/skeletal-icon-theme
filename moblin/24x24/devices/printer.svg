@@ -4,7 +4,7 @@
    xmlns:svg="http://www.w3.org/2000/svg"
    xmlns="http://www.w3.org/2000/svg"
    version="1.0"
-   width="24.000002"
+   width="24"
    height="24.000061"
    id="svg7384">
   <title
@@ -38,18 +38,19 @@
          x="370.96747"
          y="307.00006"
          transform="scale(-1,1)"
-         id="rect11205"
+         id="rect12473"
          style="opacity:0;fill:#ffffff;fill-opacity:1;stroke:none;display:inline" />
       <g
-         id="g11207">
+         transform="translate(1.9929617,0)"
+         id="g12475">
         <path
-           d="M -389.96747,308 L -389.96747,315 L -393.96747,315 L -393.96747,325 L -391.96747,325 L -391.96747,328 L -375.96747,328 L -375.96747,325 L -373.96747,325 L -373.96747,315 L -377.96747,315 L -377.96747,313 L -382.96747,308 L -389.96747,308 z"
-           id="path11209"
+           d="M -389.96747,308 L -389.96747,315 L -393.96747,315 L -393.96747,325 L -391.96747,325 L -391.96747,328 L -377.96043,328 L -377.96043,325 L -375.96043,325 L -375.96043,315 L -379.90497,315 L -379.90497,313 L -384.90497,308 L -389.96747,308 z"
+           id="path12477"
            style="fill:none;stroke:#bebebe;stroke-width:2;stroke-linecap:round;stroke-linejoin:round;marker:none;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;visibility:visible;display:inline;overflow:visible;enable-background:accumulate" />
         <path
-           d="M -389.46747,315 L -389.46747,317.5 L -378.46747,317.5 L -378.46747,315"
-           id="path11211"
-           style="fill:none;stroke:#bebebe;stroke-width:1;stroke-linecap:round;stroke-linejoin:round;marker:none;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;visibility:visible;display:inline;overflow:visible;enable-background:accumulate" />
+           d="M -389.96747,315 L -389.96747,318 L -379.96747,318 L -379.96747,315"
+           id="path12479"
+           style="fill:none;stroke:#bebebe;stroke-width:2;stroke-linecap:round;stroke-linejoin:round;marker:none;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;visibility:visible;display:inline;overflow:visible;enable-background:accumulate" />
       </g>
     </g>
   </g>
@@ -59,6 +60,9 @@
   <g
      transform="translate(-382,-230)"
      id="layer4" />
+  <g
+     transform="translate(-382,-230)"
+     id="layer12" />
   <g
      transform="translate(-382,-230)"
      id="layer9" />

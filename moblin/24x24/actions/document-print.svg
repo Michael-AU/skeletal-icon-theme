@@ -4,9 +4,11 @@
    xmlns:svg="http://www.w3.org/2000/svg"
    xmlns="http://www.w3.org/2000/svg"
    version="1.0"
-   width="24.000002"
+   width="24"
    height="24.000061"
    id="svg7384">
+  <title
+     id="title9167">Moblin Icon Theme</title>
   <defs
      id="defs7386" />
   <g
@@ -29,10 +31,19 @@
      id="layer1" />
   <g
      transform="translate(396,-306)"
+     id="layer11" />
+  <g
+     transform="translate(396,-306)"
      id="layer4" />
   <g
      transform="translate(396,-306)"
+     id="layer12" />
+  <g
+     transform="translate(396,-306)"
      id="layer9" />
+  <g
+     transform="translate(396,-306)"
+     id="layer10" />
   <g
      transform="translate(396,-306)"
      id="layer6">
@@ -45,16 +56,16 @@
        id="rect9174"
        style="opacity:0;fill:#ffffff;fill-opacity:1;stroke:none;display:inline" />
     <g
-       transform="translate(-1.0325317,-1)"
+       transform="translate(0.96043,-1)"
        id="g6644">
       <path
-         d="M -389.96747,308 L -389.96747,315 L -393.96747,315 L -393.96747,325 L -391.96747,325 L -391.96747,328 L -375.96747,328 L -375.96747,325 L -373.96747,325 L -373.96747,315 L -377.96747,315 L -377.96747,313 L -382.96747,308 L -389.96747,308 z"
+         d="M -389.96747,308 L -389.96747,315 L -393.96747,315 L -393.96747,325 L -391.96747,325 L -391.96747,328 L -377.96043,328 L -377.96043,325 L -375.96043,325 L -375.96043,315 L -379.90497,315 L -379.90497,313 L -384.90497,308 L -389.96747,308 z"
          id="path4813"
          style="fill:none;stroke:#bebebe;stroke-width:2;stroke-linecap:round;stroke-linejoin:round;marker:none;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;visibility:visible;display:inline;overflow:visible;enable-background:accumulate" />
       <path
-         d="M -389.46747,315 L -389.46747,317.5 L -378.46747,317.5 L -378.46747,315"
+         d="M -389.96747,315 L -389.96747,318 L -379.96747,318 L -379.96747,315"
          id="path4815"
-         style="fill:none;stroke:#bebebe;stroke-width:1;stroke-linecap:round;stroke-linejoin:round;marker:none;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;visibility:visible;display:inline;overflow:visible;enable-background:accumulate" />
+         style="fill:none;stroke:#bebebe;stroke-width:2;stroke-linecap:round;stroke-linejoin:round;marker:none;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;visibility:visible;display:inline;overflow:visible;enable-background:accumulate" />
     </g>
   </g>
 </svg>
