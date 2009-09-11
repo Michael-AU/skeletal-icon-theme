@@ -47,10 +47,12 @@ do
   size=`echo $foo | sed 's/\x.*//'`
   if test "$size" = "48"; then
     type="Fixed"
+    maxsize=""
   else
     type="Scalable"
+    maxsize="MaxSize=512"
   fi
-  echo -en "\n\n[$foo]\nSize=$size\nContext=`basename $foo`\nType=$type" >> index.theme
+  echo -en "\n\n[$foo]\nSize=$size\nContext=`basename $foo`\nType=$type\n$maxsize" >> index.theme
 done
 
 
