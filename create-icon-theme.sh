@@ -35,7 +35,7 @@ echo "Creating index.theme"
 echo -e "[Icon Theme]\nName=$THEME_NAME\nComment=$THEME_COMMENT\n" > index.theme
 echo -n "Directories=" >> index.theme
 
-DIRS=`find * -type d | grep -v git | grep -v scalable | grep "/"`
+DIRS=`find * -type d | grep -v git | grep -v scalable | grep "/" | sort -r`
 
 for foo in $DIRS
 do
@@ -45,7 +45,7 @@ done
 for foo in $DIRS
 do
   size=`echo $foo | sed 's/\x.*//'`
-  if test "$size" = "48" -o "32"; then
+  if test "$size" = "48" -o "$size" = "32"; then
     type="Fixed"
     maxsize=""
   else
