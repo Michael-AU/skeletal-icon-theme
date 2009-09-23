@@ -12,65 +12,66 @@
   <defs
      id="defs7386" />
   <g
-     transform="translate(408,-1390.1722)"
+     transform="translate(408,-1430.1722)"
      id="layer3" />
   <g
-     transform="translate(408,-1390.1722)"
+     transform="translate(408,-1430.1722)"
      id="layer5" />
   <g
-     transform="translate(408,-1390.1722)"
+     transform="translate(408,-1430.1722)"
      id="layer7" />
   <g
-     transform="translate(408,-1390.1722)"
+     transform="translate(408,-1430.1722)"
      id="layer2" />
   <g
-     transform="translate(408,-1390.1722)"
+     transform="translate(408,-1430.1722)"
      id="layer8" />
   <g
-     transform="translate(408,-2342.5344)"
+     transform="translate(408,-2382.5344)"
      id="layer1" />
   <g
-     transform="translate(408,-1390.1722)"
+     transform="translate(408,-1430.1722)"
      id="layer11">
     <g
-       transform="translate(-148.5,1215.5804)"
+       transform="translate(-148.5,1255.5804)"
        id="use8374">
+      <title
+         id="title12603">internet</title>
       <rect
          width="24"
          height="24"
          x="-259.5"
          y="174.5918"
-         id="rect12218"
+         id="rect12605"
          style="opacity:0;fill:#ffffff;fill-opacity:1;stroke:none;display:inline" />
       <path
-         d="M -255.5,180.5918 L -248.5,187.5918 L -241.5,180.5918"
-         id="path12220"
-         style="fill:none;stroke:#bebebe;stroke-width:2;stroke-linecap:round;stroke-linejoin:round;marker:none;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;visibility:visible;display:inline;overflow:visible;enable-background:accumulate" />
+         d="M -255.5,181.5918 L -247.5,189.71679 L -239.5,181.5918"
+         id="path12607"
+         style="fill:none;stroke:#bebebe;stroke-width:1.99999988;stroke-linecap:round;stroke-linejoin:round;marker:none;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;visibility:visible;display:inline;overflow:visible;enable-background:accumulate" />
       <rect
-         width="19.96875"
-         height="16"
+         width="21.96875"
+         height="17.96875"
          rx="1.2383569"
-         ry="1.2383569"
-         x="-260.96875"
-         y="177.03125"
-         transform="translate(2.5,0.5917969)"
-         id="rect12222"
+         ry="1.2383571"
+         x="-258.46875"
+         y="177.62305"
+         id="rect12609"
          style="fill:none;stroke:#bebebe;stroke-width:2;stroke-linecap:round;stroke-linejoin:round;marker:none;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;visibility:visible;display:inline;overflow:visible;enable-background:accumulate" />
     </g>
   </g>
   <g
-     transform="translate(408,-1390.1722)"
+     transform="translate(408,-1430.1722)"
      id="layer4" />
   <g
-     transform="translate(408,-1390.1722)"
+     transform="translate(408,-1430.1722)"
      id="layer12" />
   <g
-     transform="translate(408,-1390.1722)"
+     transform="translate(408,-1430.1722)"
      id="layer9" />
   <g
-     transform="translate(408,-1390.1722)"
+     transform="translate(408,-1430.1722)"
      id="layer10" />
   <g
-     transform="translate(408,-1390.1722)"
+     transform="translate(408,-1430.1722)"
      id="layer6" />
 </svg>
