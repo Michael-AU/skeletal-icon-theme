@@ -56,7 +56,9 @@ def renderIcon(icon)
 			cmd = "composite shadow.png -compose Atop -gravity center #{EMBLEM}.png temp/shadow.png"
 			system cmd
 			if (isDark(COLORS[icon[:group]]["bg"])) #only render the inset shadow if the background is suffitiently dark
-				cmd = "composite temp/shadow.png -blend 25 -gravity center -geometry +0-1 temp/base.png temp/temp.png"
+				cmd = "composite temp/shadow.png -blend 25 -gravity center -geometry +0-1 blank.png temp/temp.png"
+				system cmd
+				cmd = "composite temp/temp.png -compose Over -gravity center temp/base.png temp/temp.png"
 				system cmd
 				cmd = "composite #{EMBLEM}.png -compose Over -gravity center temp/temp.png moblin/#{size}x#{size}/#{icon[:context]}/#{icon[:name]}.png"
 				system cmd
