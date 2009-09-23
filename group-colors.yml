@@ -31,6 +31,10 @@ preferences:
   fg: "#ffffff"
   bg: "#b00c08"
 
+samsung: 
+  fg: "#087de8"
+  bg: "#fafafa"
+
 system: 
   fg: "#ed2124"
   bg: "#fafafa"

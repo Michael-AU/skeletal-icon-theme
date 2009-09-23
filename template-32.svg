@@ -610,7 +610,7 @@
        fx="16.0625"
        fy="18.4375"
        r="12"
-       gradientTransform="matrix(1,0,0,0.53769579,0,9.5862342)"
+       gradientTransform="matrix(1,0,0,0.53769579,0,8.5237342)"
        gradientUnits="userSpaceOnUse" />
     <radialGradient
        inkscape:collect="always"
@@ -682,15 +682,6 @@
        id="linearGradient9005"
        xlink:href="#linearGradient9055"
        inkscape:collect="always" />
-    <filter
-       inkscape:collect="always"
-       id="filter9027">
-      <feBlend
-         inkscape:collect="always"
-         mode="multiply"
-         in2="BackgroundImage"
-         id="feBlend9029" />
-    </filter>
     <inkscape:perspective
        id="perspective9069"
        inkscape:persp3d-origin="0.5 : 0.33333333 : 1"
@@ -745,7 +736,7 @@
        fx="15.723676"
        cy="6.5775442"
        cx="15.723676"
-       gradientTransform="matrix(10.329188,0,0,1.6512864,-147.89357,-5.1349004)"
+       gradientTransform="matrix(10.329188,0,0,1.6512864,-147.89357,-5.1349)"
        gradientUnits="userSpaceOnUse"
        id="radialGradient8562"
        xlink:href="#linearGradient9085-7"
@@ -791,6 +782,24 @@
        fx="16.375"
        fy="25.8125"
        r="10.125" />
+    <filter
+       inkscape:collect="always"
+       id="filter2963">
+      <feBlend
+         inkscape:collect="always"
+         mode="multiply"
+         in2="BackgroundImage"
+         id="feBlend2965" />
+    </filter>
+    <filter
+       inkscape:collect="always"
+       id="filter2971">
+      <feBlend
+         inkscape:collect="always"
+         mode="screen"
+         in2="BackgroundImage"
+         id="feBlend2973" />
+    </filter>
   </defs>
   <sodipodi:namedview
      id="base"
@@ -800,8 +809,8 @@
      inkscape:pageopacity="0"
      inkscape:pageshadow="2"
      inkscape:zoom="1"
-     inkscape:cx="19.609727"
-     inkscape:cy="5.487532"
+     inkscape:cx="25.51107"
+     inkscape:cy="4.3021426"
      inkscape:document-units="px"
      inkscape:current-layer="layer1"
      showgrid="false"
@@ -809,10 +818,10 @@
      inkscape:showpageshadow="false"
      inkscape:snap-nodes="false"
      inkscape:snap-page="false"
-     inkscape:window-width="1057"
-     inkscape:window-height="752"
+     inkscape:window-width="1413"
+     inkscape:window-height="994"
      inkscape:window-x="1752"
-     inkscape:window-y="279"
+     inkscape:window-y="37"
      inkscape:window-maximized="0"
      inkscape:snap-bbox="true"
      inkscape:bbox-paths="false"
@@ -855,11 +864,11 @@
          height="2.5"
          width="40.5"
          id="rect11067"
-         style="fill:#000000;fill-opacity:1;fill-rule:evenodd;stroke:none;stroke-width:1;marker:none;visibility:visible;display:inline;overflow:visible;filter:url(#filter11125-9);enable-background:accumulate" />
+         style="fill:#000000;fill-opacity:1;fill-rule:evenodd;stroke:none;stroke-width:1;marker:none;visibility:visible;display:inline;overflow:visible;filter:url(#filter11125-9);enable-background:accumulate;opacity:0.54008439" />
     </g>
     <rect
        transform="matrix(0.71017778,0,0,0.71006664,-39.928303,991.38417)"
-       style="opacity:0.23206751000000000;fill:#000000;fill-opacity:1;fill-rule:evenodd;stroke:none;stroke-width:1;marker:none;visibility:visible;display:inline;overflow:visible;filter:url(#filter11063-2-1);enable-background:accumulate"
+       style="opacity:0.09704641;fill:#000000;fill-opacity:1;fill-rule:evenodd;stroke:none;stroke-width:1;marker:none;visibility:visible;display:inline;overflow:visible;filter:url(#filter11063-2-1);enable-background:accumulate"
        id="rect11041"
        width="40.5"
        height="2.5"
@@ -919,7 +928,7 @@
        sodipodi:cy="25.8125"
        sodipodi:rx="10.125"
        sodipodi:ry="1.1875"
-       d="m 26.5,25.8125 a 10.125,1.1875 0 1 1 -20.25,0 10.125,1.1875 0 1 1 20.25,0 z" />
+       d="M 26.5,25.8125 C 26.5,26.468338 21.966883,27 16.375,27 10.783117,27 6.25,26.468338 6.25,25.8125 c 0,-0.655838 4.533117,-1.1875 10.125,-1.1875 5.591883,0 10.125,0.531662 10.125,1.1875 z" />
   </g>
   <g
      inkscape:groupmode="layer"
@@ -940,14 +949,15 @@
   <g
      inkscape:groupmode="layer"
      id="layer5"
-     inkscape:label="inner stroke">
+     inkscape:label="inner stroke"
+     style="filter:url(#filter2971);opacity:0.31012658">
     <rect
-       style="color:#000000;fill:none;stroke:url(#radialGradient8562);stroke-width:1.99999988;stroke-linecap:round;stroke-linejoin:miter;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none;stroke-dashoffset:0;marker:none;visibility:visible;display:inline;overflow:visible;enable-background:accumulate"
+       style="color:#000000;fill:none;stroke:url(#radialGradient8562);stroke-width:1.99999988000000006;stroke-linecap:round;stroke-linejoin:miter;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none;stroke-dashoffset:0;marker:none;visibility:visible;display:inline;overflow:visible;enable-background:accumulate"
        id="rect9083"
        width="27.999998"
        height="28.066965"
        x="2"
-       y="1.9977239"
+       y="1.9977245"
        rx="2.1157303"
        ry="2.1157303" />
   </g>
@@ -955,16 +965,16 @@
      inkscape:groupmode="layer"
      id="layer4"
      inkscape:label="outer stroke"
-     style="filter:url(#filter9027)">
+     style="filter:url(#filter2963);opacity:1">
     <rect
        ry="2.5219803"
        rx="2.5012147"
-       y="1.576826"
+       y="1.5768261"
        x="1.4667391"
        height="28.923113"
        width="29.03326"
        id="rect10548"
-       style="opacity:0.58649788999999997;fill:none;stroke:url(#linearGradient9005);stroke-width:0.99999987999999995;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none;stroke-dashoffset:0;marker:none;visibility:visible;display:inline;overflow:visible;enable-background:accumulate" />
+       style="opacity:0.58649789;fill:none;stroke:url(#linearGradient9005);stroke-width:0.99999988;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none;stroke-dashoffset:0;marker:none;visibility:visible;display:inline;overflow:visible;enable-background:accumulate" />
   </g>
   <g
      inkscape:groupmode="layer"
@@ -978,8 +988,8 @@
        id="rect8442"
        sodipodi:nodetypes="ccccccc" />
     <path
-       style="opacity:0.35746606;color:#000000;fill:none;stroke:url(#radialGradient3712);stroke-width:1;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none;stroke-dashoffset:0;marker:none;visibility:visible;display:inline;overflow:visible;enable-background:accumulate"
-       d="m 4.5625,19.5 23,0"
+       style="opacity:0.3574661;color:#000000;fill:none;stroke:url(#radialGradient3712);stroke-width:1;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none;stroke-dashoffset:0;marker:none;visibility:visible;display:inline;overflow:visible;enable-background:accumulate"
+       d="m 4.5625,18.4375 23,0"
        id="path3682" />
     <path
        id="path8950"
