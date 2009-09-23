@@ -6032,6 +6032,45 @@
        inkscape:vp_y="0 : 1000 : 0"
        inkscape:vp_x="0 : 0.5 : 1"
        sodipodi:type="inkscape:persp3d" />
+    <inkscape:perspective
+       id="perspective7259"
+       inkscape:persp3d-origin="0.5 : 0.33333333 : 1"
+       inkscape:vp_z="1 : 0.5 : 1"
+       inkscape:vp_y="0 : 1000 : 0"
+       inkscape:vp_x="0 : 0.5 : 1"
+       sodipodi:type="inkscape:persp3d" />
+    <linearGradient
+       inkscape:collect="always"
+       xlink:href="#linearGradient14578-2-9"
+       id="linearGradient16024-5-1"
+       gradientUnits="userSpaceOnUse"
+       gradientTransform="translate(967.0009,-620.09354)"
+       x1="538.02631"
+       y1="958.12659"
+       x2="534.83978"
+       y2="958.12659" />
+    <linearGradient
+       inkscape:collect="always"
+       id="linearGradient14578-2-9">
+      <stop
+         style="stop-color:#bebebe;stop-opacity:1;"
+         offset="0"
+         id="stop14580-0-5" />
+      <stop
+         style="stop-color:#bebebe;stop-opacity:0;"
+         offset="1"
+         id="stop14582-7-5" />
+    </linearGradient>
+    <linearGradient
+       inkscape:collect="always"
+       xlink:href="#linearGradient14578-2-9"
+       id="linearGradient16026-3-8"
+       gradientUnits="userSpaceOnUse"
+       gradientTransform="translate(967.0009,-620.09354)"
+       x1="538.02631"
+       y1="958.12659"
+       x2="534.83978"
+       y2="958.12659" />
   </defs>
   <sodipodi:namedview
      id="base"
@@ -6041,16 +6080,16 @@
      inkscape:pageopacity="0"
      inkscape:pageshadow="2"
      inkscape:zoom="1"
-     inkscape:cx="-524.30897"
-     inkscape:cy="-1229.0818"
+     inkscape:cx="-17.864529"
+     inkscape:cy="-773.01968"
      inkscape:document-units="px"
-     inkscape:current-layer="layer11"
+     inkscape:current-layer="layer12"
      showgrid="false"
      showborder="false"
-     inkscape:window-width="1127"
-     inkscape:window-height="809"
-     inkscape:window-x="1661"
-     inkscape:window-y="92"
+     inkscape:window-width="1819"
+     inkscape:window-height="1055"
+     inkscape:window-x="1632"
+     inkscape:window-y="52"
      inkscape:window-maximized="0"
      inkscape:showpageshadow="false"
      showguides="false"
@@ -7374,163 +7413,6 @@ Claire Alexander</dc:title>
          width="2"
          id="rect9467"
          style="fill:#bebebe;fill-opacity:1;stroke:none;display:inline" />
-    </g>
-    <g
-       id="g10455"
-       inkscape:label="media-playlist-shuffle"
-       transform="translate(0,19)">
-      <path
-         inkscape:export-ydpi="90"
-         inkscape:export-xdpi="90"
-         inkscape:export-filename="/home/hbons/Moblin/git/moblin-icon-theme/moblin/24x24/status/media-playlist-shuffle.png"
-         sodipodi:open="true"
-         sodipodi:end="3.16347"
-         sodipodi:start="1.5559268"
-         transform="matrix(0,-0.2986047,0.2981684,0,1285.7084,480.01686)"
-         d="m 495.21395,753.28064 c -8.88344,0.1321 -16.19199,-6.96226 -16.32409,-15.84571 -0.003,-0.19703 -0.002,-0.39409 0.002,-0.5911"
-         sodipodi:ry="16.086679"
-         sodipodi:rx="16.086679"
-         sodipodi:cy="737.19574"
-         sodipodi:cx="494.97476"
-         id="path13012-2"
-         style="fill:none;stroke:#bebebe;stroke-width:6.70271683;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none;stroke-dashoffset:0;marker:none;visibility:visible;display:inline;overflow:visible;enable-background:accumulate"
-         sodipodi:type="arc" />
-      <path
-         inkscape:export-ydpi="90"
-         inkscape:export-xdpi="90"
-         inkscape:export-filename="/home/hbons/Moblin/git/moblin-icon-theme/moblin/24x24/status/media-playlist-shuffle.png"
-         sodipodi:type="arc"
-         style="fill:none;stroke:#bebebe;stroke-width:7.33019447;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none;stroke-dashoffset:0;marker:none;visibility:visible;display:inline;overflow:visible;enable-background:accumulate"
-         id="path13811-9"
-         sodipodi:cx="494.97476"
-         sodipodi:cy="737.19574"
-         sodipodi:rx="16.086679"
-         sodipodi:ry="16.086679"
-         d="m 511.03742,736.317 c 0.48532,8.87116 -6.31276,16.45609 -15.18392,16.9414 -0.23986,0.0131 -0.48,0.0209 -0.72021,0.0232"
-         transform="matrix(0,-0.2733737,-0.2723154,0,1715.4434,467.73076)"
-         sodipodi:start="6.2285328"
-         sodipodi:end="7.8441268"
-         sodipodi:open="true" />
-      <path
-         inkscape:export-ydpi="90"
-         inkscape:export-xdpi="90"
-         inkscape:export-filename="/home/hbons/Moblin/git/moblin-icon-theme/moblin/24x24/status/media-playlist-shuffle.png"
-         sodipodi:nodetypes="cc"
-         style="fill:none;stroke:url(#linearGradient16024-5);stroke-width:2;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none;stroke-dashoffset:0;marker:none;visibility:visible;display:inline;overflow:visible;enable-background:accumulate"
-         d="m 1505.7021,337.03303 -3.6523,0"
-         id="path13836-0" />
-      <path
-         inkscape:export-ydpi="90"
-         inkscape:export-xdpi="90"
-         inkscape:export-filename="/home/hbons/Moblin/git/moblin-icon-theme/moblin/24x24/status/media-playlist-shuffle.png"
-         sodipodi:nodetypes="cc"
-         style="fill:none;stroke:#bebebe;stroke-width:2;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none;stroke-dashoffset:0;marker:none;visibility:visible;display:inline;overflow:visible;enable-background:accumulate"
-         d="m 1516.2952,328.03431 -1.4131,0"
-         id="path13838-1" />
-      <path
-         inkscape:export-ydpi="90"
-         inkscape:export-xdpi="90"
-         inkscape:export-filename="/home/hbons/Moblin/git/moblin-icon-theme/moblin/24x24/status/media-playlist-shuffle.png"
-         sodipodi:nodetypes="cccc"
-         id="path13842-7"
-         d="m 1516.0634,324.77785 0,6.67973 3.6373,-3.36274 -3.6373,-3.31699 0,0 z"
-         style="fill:#bebebe;fill-opacity:1;stroke-width:1px;display:inline" />
-      <path
-         inkscape:export-ydpi="90"
-         inkscape:export-xdpi="90"
-         inkscape:export-filename="/home/hbons/Moblin/git/moblin-icon-theme/moblin/24x24/status/media-playlist-shuffle.png"
-         style="fill:#bebebe;fill-opacity:1;stroke-width:1px;display:inline"
-         d="m 1516.0634,333.6685 0,6.67973 3.6373,-3.36274 -3.6373,-3.31699 0,0 z"
-         id="path13844-5"
-         sodipodi:nodetypes="cccc" />
-      <path
-         inkscape:export-ydpi="90"
-         inkscape:export-xdpi="90"
-         inkscape:export-filename="/home/hbons/Moblin/git/moblin-icon-theme/moblin/24x24/status/media-playlist-shuffle.png"
-         sodipodi:type="arc"
-         style="fill:none;stroke:#bebebe;stroke-width:6.70271683;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none;stroke-dashoffset:0;marker:none;visibility:visible;display:inline;overflow:visible;enable-background:accumulate"
-         id="path7873"
-         sodipodi:cx="494.97476"
-         sodipodi:cy="737.19574"
-         sodipodi:rx="16.086679"
-         sodipodi:ry="16.086679"
-         d="m 481.95223,746.64005 c -2.06232,-2.84369 -3.13714,-6.28426 -3.0603,-9.79622"
-         transform="matrix(0,0.2986047,0.2981684,0,1285.7084,185.02838)"
-         sodipodi:start="2.5141349"
-         sodipodi:end="3.16347"
-         sodipodi:open="true" />
-      <path
-         inkscape:export-ydpi="90"
-         inkscape:export-xdpi="90"
-         inkscape:export-filename="/home/hbons/Moblin/git/moblin-icon-theme/moblin/24x24/status/media-playlist-shuffle.png"
-         sodipodi:open="true"
-         sodipodi:end="6.9297941"
-         sodipodi:start="6.2285328"
-         transform="matrix(0,0.2733737,-0.2723154,0,1715.4434,197.31448)"
-         d="m 511.03742,736.317 c 0.20754,3.79365 -0.93434,7.53833 -3.22337,10.57069"
-         sodipodi:ry="16.086679"
-         sodipodi:rx="16.086679"
-         sodipodi:cy="737.19574"
-         sodipodi:cx="494.97476"
-         id="path7875"
-         style="fill:none;stroke:#bebebe;stroke-width:7.33019447;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none;stroke-dashoffset:0;marker:none;visibility:visible;display:inline;overflow:visible;enable-background:accumulate"
-         sodipodi:type="arc" />
-      <path
-         inkscape:export-ydpi="90"
-         inkscape:export-xdpi="90"
-         inkscape:export-filename="/home/hbons/Moblin/git/moblin-icon-theme/moblin/24x24/status/media-playlist-shuffle.png"
-         id="path7877"
-         d="m 1505.7021,328.03431 -3.6523,0"
-         style="fill:none;stroke:url(#linearGradient16026-3);stroke-width:2;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none;stroke-dashoffset:0;marker:none;visibility:visible;display:inline;overflow:visible;enable-background:accumulate"
-         sodipodi:nodetypes="cc" />
-      <path
-         inkscape:export-ydpi="90"
-         inkscape:export-xdpi="90"
-         inkscape:export-filename="/home/hbons/Moblin/git/moblin-icon-theme/moblin/24x24/status/media-playlist-shuffle.png"
-         id="path7879"
-         d="m 1516.2327,337.03303 -1.3506,0"
-         style="fill:none;stroke:#bebebe;stroke-width:2;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none;stroke-dashoffset:0;marker:none;visibility:visible;display:inline;overflow:visible;enable-background:accumulate"
-         sodipodi:nodetypes="cc" />
-      <rect
-         inkscape:export-ydpi="90"
-         inkscape:export-xdpi="90"
-         inkscape:export-filename="/home/hbons/Moblin/git/moblin-icon-theme/moblin/24x24/status/media-playlist-shuffle.png"
-         transform="scale(-1,1)"
-         style="opacity:0;fill:#ffffff;fill-opacity:1;stroke:none;display:inline"
-         id="rect7554"
-         width="24"
-         height="24"
-         x="-1522.0272"
-         y="321.01471" />
-    </g>
-    <g
-       id="g10468"
-       inkscape:label="media-playlist-repeat"
-       transform="translate(0,19)">
-      <path
-         inkscape:export-ydpi="90"
-         inkscape:export-xdpi="90"
-         inkscape:export-filename="/home/hbons/Moblin/git/moblin-icon-theme/moblin/24x24/status/media-playlist-shuffle.png"
-         style="fill:#bebebe;fill-opacity:1;stroke-width:1px;display:inline"
-         d="m 1535.0009,333.68399 0,6.67973 3.6373,-3.36274 -3.6373,-3.31699 z"
-         id="path13844-5-6"
-         sodipodi:nodetypes="cccc" />
-      <rect
-         inkscape:export-ydpi="90"
-         inkscape:export-xdpi="90"
-         inkscape:export-filename="/home/hbons/Moblin/git/moblin-icon-theme/moblin/24x24/status/media-playlist-shuffle.png"
-         transform="scale(-1,1)"
-         style="opacity:0;fill:#ffffff;fill-opacity:1;stroke:none;display:inline"
-         id="rect7554-0"
-         width="24"
-         height="24"
-         x="-1551.0272"
-         y="321.01471" />
-      <path
-         sodipodi:nodetypes="ccsccscc"
-         id="rect8946"
-         d="m 1537.0322,337.0124 -3.5226,0 c -2.4973,0 -4.5078,-2.01048 -4.5078,-4.5078 0,-2.49733 2.0105,-4.50781 4.5078,-4.50781 l 10.9601,0 c 2.4974,0 4.5078,2.01048 4.5078,4.50781 0,2.49732 -2.0104,4.5078 -4.5078,4.5078 l -3.375,0"
-         style="fill:none;stroke:#bebebe;stroke-width:2;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none;stroke-dashoffset:0;marker:none;visibility:visible;display:inline;overflow:visible;enable-background:accumulate" />
     </g>
     <g
        id="g10544"
@@ -14837,7 +14719,7 @@ Claire Alexander</dc:title>
          sodipodi:nodetypes="csccccssccsccsccsscsccc" />
       <path
          transform="matrix(0.50015475,0,0,0.44285148,1122.5762,-265.62231)"
-         d="m -490.99728,1023.0837 a 7.9991455,7.9991455 0 1 1 -15.99829,0 7.9991455,7.9991455 0 1 1 15.99829,0 z"
+         d="m -490.99728,1023.0837 c 0,4.4178 -3.58134,7.9991 -7.99915,7.9991 -4.41781,0 -7.99914,-3.5813 -7.99914,-7.9991 0,-4.4178 3.58133,-7.9992 7.99914,-7.9992 4.41781,0 7.99915,3.5814 7.99915,7.9992 z"
          sodipodi:ry="7.9991455"
          sodipodi:rx="7.9991455"
          sodipodi:cy="1023.0837"
@@ -17553,7 +17435,7 @@ Claire Alexander</dc:title>
          sodipodi:cy="1192.1707"
          sodipodi:rx="3.0493979"
          sodipodi:ry="3.0493979"
-         d="m -612.88479,1192.1707 a 3.0493979,3.0493979 0 0 1 5.20565,-2.1563"
+         d="m -612.88479,1192.1707 c 0,-1.6842 1.36527,-3.0494 3.0494,-3.0494 0.80875,0 1.58438,0.3212 2.15625,0.8931"
          transform="translate(1448,-1008.9621)"
          sodipodi:start="3.1415927"
          sodipodi:end="5.4977871"
@@ -17571,7 +17453,7 @@ Claire Alexander</dc:title>
          sodipodi:end="5.2359878"
          sodipodi:start="3.1415927"
          transform="translate(1453.8848,-1004.1328)"
-         d="m -612.88479,1192.1707 a 3.0493979,3.0493979 0 0 1 4.5741,-2.6409"
+         d="m -612.88479,1192.1707 c 0,-1.6842 1.36527,-3.0494 3.0494,-3.0494 0.53528,0 1.06113,0.1409 1.5247,0.4085"
          sodipodi:ry="3.0493979"
          sodipodi:rx="3.0493979"
          sodipodi:cy="1192.1707"
@@ -18435,7 +18317,7 @@ Claire Alexander</dc:title>
          transform="matrix(1.1313682,0,0,1.1313755,-37.850386,-24.237928)" />
       <path
          transform="matrix(1.1313682,0,0,1.1313755,-32.85043,-24.237928)"
-         d="m -141.99588,180.96373 a 0.88388348,0.88388348 0 1 1 -1.76776,0 0.88388348,0.88388348 0 1 1 1.76776,0 z"
+         d="m -141.99588,180.96373 c 0,0.48816 -0.39573,0.88388 -0.88388,0.88388 -0.48816,0 -0.88388,-0.39572 -0.88388,-0.88388 0,-0.48816 0.39572,-0.88388 0.88388,-0.88388 0.48815,0 0.88388,0.39572 0.88388,0.88388 z"
          sodipodi:ry="0.88388348"
          sodipodi:rx="0.88388348"
          sodipodi:cy="180.96373"
@@ -18451,7 +18333,7 @@ Claire Alexander</dc:title>
          sodipodi:cy="180.96373"
          sodipodi:rx="0.88388348"
          sodipodi:ry="0.88388348"
-         d="m -141.99588,180.96373 a 0.88388348,0.88388348 0 1 1 -1.76776,0 0.88388348,0.88388348 0 1 1 1.76776,0 z"
+         d="m -141.99588,180.96373 c 0,0.48816 -0.39573,0.88388 -0.88388,0.88388 -0.48816,0 -0.88388,-0.39572 -0.88388,-0.88388 0,-0.48816 0.39572,-0.88388 0.88388,-0.88388 0.48815,0 0.88388,0.39572 0.88388,0.88388 z"
          transform="matrix(1.1313682,0,0,1.1313755,-27.85043,-24.237928)" />
       <path
          style="color:#000000;fill:none;stroke:#bebebe;stroke-width:1;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none;stroke-dashoffset:0;marker:none;visibility:visible;display:inline;overflow:visible;enable-background:accumulate"
@@ -22308,7 +22190,7 @@ Claire Alexander</dc:title>
          style="opacity:0;fill:#ffffff;fill-opacity:1;stroke:none;display:inline" />
       <path
          transform="matrix(3.4461484,0,0,-2.461482,2869.8891,3329.2548)"
-         d="m -587.0464,1277.4004 a 2.03125,2.03125 0 0 1 -3.96723,0.011"
+         d="m -587.0464,1277.4004 c -0.2384,1.0962 -1.32031,1.7916 -2.41652,1.5532 -0.77309,-0.1681 -1.37821,-0.7698 -1.55071,-1.542"
          sodipodi:ry="2.03125"
          sodipodi:rx="2.03125"
          sodipodi:cy="1276.9688"
@@ -22335,7 +22217,7 @@ Claire Alexander</dc:title>
          sodipodi:cy="1276.9688"
          sodipodi:rx="2.03125"
          sodipodi:ry="2.03125"
-         d="m -587.0464,1277.4004 a 2.03125,2.03125 0 0 1 -3.96723,0.011"
+         d="m -587.0464,1277.4004 c -0.2384,1.0962 -1.32031,1.7916 -2.41652,1.5532 -0.77309,-0.1681 -1.37821,-0.7698 -1.55071,-1.542"
          transform="matrix(2.5184806,0,0,1.2273604,2323.465,-1378.7747)" />
     </g>
     <g
@@ -24231,7 +24113,7 @@ Claire Alexander</dc:title>
     <g
        id="g9275"
        inkscape:label="source-playlist"
-       transform="translate(-307,670)">
+       transform="translate(-307,671)">
       <rect
          inkscape:export-ydpi="90"
          inkscape:export-xdpi="90"
@@ -24278,7 +24160,7 @@ Claire Alexander</dc:title>
     <g
        id="g9284"
        inkscape:label="source-smart-playlist"
-       transform="translate(-306,670)">
+       transform="translate(-306,671)">
       <rect
          inkscape:export-ydpi="90"
          inkscape:export-xdpi="90"
@@ -24425,7 +24307,7 @@ Claire Alexander</dc:title>
     <g
        id="g12504-5"
        inkscape:label="lastfm-personal"
-       transform="translate(9.4999996,670.5)">
+       transform="translate(9.5000012,671.5)">
       <rect
          y="174.5"
          x="209.5"
@@ -24461,7 +24343,7 @@ Claire Alexander</dc:title>
          sodipodi:nodetypes="cc" />
     </g>
     <g
-       transform="translate(37.5,670.5)"
+       transform="translate(37.500002,671.5)"
        inkscape:label="lastfm-neighbourhood"
        id="g10980">
       <rect
@@ -24486,7 +24368,7 @@ Claire Alexander</dc:title>
     <g
        id="g11019"
        inkscape:label="lastfm-recommended"
-       transform="translate(65.5,670.5)">
+       transform="translate(65.500002,671.5)">
       <rect
          y="174.5"
          x="209.5"
@@ -24532,7 +24414,7 @@ Claire Alexander</dc:title>
     <g
        id="g11088"
        inkscape:label="lastfm-tag"
-       transform="translate(-306,671)">
+       transform="translate(-306,672)">
       <g
          id="g11056"
          inkscape:label="lastfm-recommended"
@@ -24584,9 +24466,9 @@ Claire Alexander</dc:title>
        sodipodi:rx="2"
        sodipodi:ry="2"
        d="m 1510.75,202.75 a 2,2 0 1 1 -4,0 2,2 0 1 1 4,0 z"
-       transform="translate(-1556.75,668.25001)" />
+       transform="translate(-1556.75,669.25001)" />
     <g
-       transform="translate(-1639.0272,669.98231)"
+       transform="translate(-1639.0272,670.98231)"
        id="g10101"
        inkscape:label="flickr">
       <rect
@@ -24631,7 +24513,7 @@ Claire Alexander</dc:title>
     <g
        id="g10152"
        inkscape:label="lastfm"
-       transform="translate(-1270.9737,644.00629)">
+       transform="translate(-1270.9737,645.00629)">
       <rect
          transform="scale(-1,1)"
          style="opacity:0;fill:#ffffff;fill-opacity:1;stroke:none;display:inline"
@@ -24687,11 +24569,11 @@ Claire Alexander</dc:title>
     <g
        id="g4626"
        inkscape:label="lastfm-audioscrobbler"
-       transform="translate(-1284.9737,644.00629)">
+       transform="translate(-1284.9737,645.00629)">
       <use
          height="100"
          width="300"
-         transform="translate(1310.9737,-644.00629)"
+         transform="translate(1310.9737,-645.00629)"
          id="use4624"
          xlink:href="#g10152"
          y="0"
@@ -25055,6 +24937,163 @@ Claire Alexander</dc:title>
          x="-280.61523"
          id="tspan11073-4-3"
          sodipodi:role="line">overrides</tspan></text>
+    <g
+       id="g10455"
+       inkscape:label="media-playlist-shuffle"
+       transform="translate(-1530.0272,524.98529)">
+      <path
+         inkscape:export-ydpi="90"
+         inkscape:export-xdpi="90"
+         inkscape:export-filename="/home/hbons/Moblin/git/moblin-icon-theme/moblin/24x24/status/media-playlist-shuffle.png"
+         sodipodi:open="true"
+         sodipodi:end="3.16347"
+         sodipodi:start="1.5559268"
+         transform="matrix(0,-0.2986047,0.2981684,0,1285.7084,480.01686)"
+         d="m 495.21395,753.28064 c -8.88344,0.1321 -16.19199,-6.96226 -16.32409,-15.84571 -0.003,-0.19703 -0.002,-0.39409 0.002,-0.5911"
+         sodipodi:ry="16.086679"
+         sodipodi:rx="16.086679"
+         sodipodi:cy="737.19574"
+         sodipodi:cx="494.97476"
+         id="path13012-2"
+         style="fill:none;stroke:#bebebe;stroke-width:6.70271683;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none;stroke-dashoffset:0;marker:none;visibility:visible;display:inline;overflow:visible;enable-background:accumulate"
+         sodipodi:type="arc" />
+      <path
+         inkscape:export-ydpi="90"
+         inkscape:export-xdpi="90"
+         inkscape:export-filename="/home/hbons/Moblin/git/moblin-icon-theme/moblin/24x24/status/media-playlist-shuffle.png"
+         sodipodi:type="arc"
+         style="fill:none;stroke:#bebebe;stroke-width:7.33019447;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none;stroke-dashoffset:0;marker:none;visibility:visible;display:inline;overflow:visible;enable-background:accumulate"
+         id="path13811-9"
+         sodipodi:cx="494.97476"
+         sodipodi:cy="737.19574"
+         sodipodi:rx="16.086679"
+         sodipodi:ry="16.086679"
+         d="m 511.03742,736.317 c 0.48532,8.87116 -6.31276,16.45609 -15.18392,16.9414 -0.23986,0.0131 -0.48,0.0209 -0.72021,0.0232"
+         transform="matrix(0,-0.2733737,-0.2723154,0,1715.4434,467.73076)"
+         sodipodi:start="6.2285328"
+         sodipodi:end="7.8441268"
+         sodipodi:open="true" />
+      <path
+         inkscape:export-ydpi="90"
+         inkscape:export-xdpi="90"
+         inkscape:export-filename="/home/hbons/Moblin/git/moblin-icon-theme/moblin/24x24/status/media-playlist-shuffle.png"
+         sodipodi:nodetypes="cc"
+         style="fill:none;stroke:url(#linearGradient16024-5-1);stroke-width:2;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none;stroke-dashoffset:0;marker:none;visibility:visible;display:inline;overflow:visible;enable-background:accumulate"
+         d="m 1505.7021,337.03303 -3.6523,0"
+         id="path13836-0" />
+      <path
+         inkscape:export-ydpi="90"
+         inkscape:export-xdpi="90"
+         inkscape:export-filename="/home/hbons/Moblin/git/moblin-icon-theme/moblin/24x24/status/media-playlist-shuffle.png"
+         sodipodi:nodetypes="cc"
+         style="fill:none;stroke:#bebebe;stroke-width:2;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none;stroke-dashoffset:0;marker:none;visibility:visible;display:inline;overflow:visible;enable-background:accumulate"
+         d="m 1516.2952,328.03431 -1.4131,0"
+         id="path13838-1" />
+      <path
+         inkscape:export-ydpi="90"
+         inkscape:export-xdpi="90"
+         inkscape:export-filename="/home/hbons/Moblin/git/moblin-icon-theme/moblin/24x24/status/media-playlist-shuffle.png"
+         sodipodi:nodetypes="cccc"
+         id="path13842-7"
+         d="m 1516.0634,324.77785 0,6.67973 3.6373,-3.36274 -3.6373,-3.31699 0,0 z"
+         style="fill:#bebebe;fill-opacity:1;stroke-width:1px;display:inline" />
+      <path
+         inkscape:export-ydpi="90"
+         inkscape:export-xdpi="90"
+         inkscape:export-filename="/home/hbons/Moblin/git/moblin-icon-theme/moblin/24x24/status/media-playlist-shuffle.png"
+         style="fill:#bebebe;fill-opacity:1;stroke-width:1px;display:inline"
+         d="m 1516.0634,333.6685 0,6.67973 3.6373,-3.36274 -3.6373,-3.31699 0,0 z"
+         id="path13844-5"
+         sodipodi:nodetypes="cccc" />
+      <path
+         inkscape:export-ydpi="90"
+         inkscape:export-xdpi="90"
+         inkscape:export-filename="/home/hbons/Moblin/git/moblin-icon-theme/moblin/24x24/status/media-playlist-shuffle.png"
+         sodipodi:type="arc"
+         style="fill:none;stroke:#bebebe;stroke-width:6.70271683;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none;stroke-dashoffset:0;marker:none;visibility:visible;display:inline;overflow:visible;enable-background:accumulate"
+         id="path7873"
+         sodipodi:cx="494.97476"
+         sodipodi:cy="737.19574"
+         sodipodi:rx="16.086679"
+         sodipodi:ry="16.086679"
+         d="m 481.95223,746.64005 c -2.06232,-2.84369 -3.13714,-6.28426 -3.0603,-9.79622"
+         transform="matrix(0,0.2986047,0.2981684,0,1285.7084,185.02838)"
+         sodipodi:start="2.5141349"
+         sodipodi:end="3.16347"
+         sodipodi:open="true" />
+      <path
+         inkscape:export-ydpi="90"
+         inkscape:export-xdpi="90"
+         inkscape:export-filename="/home/hbons/Moblin/git/moblin-icon-theme/moblin/24x24/status/media-playlist-shuffle.png"
+         sodipodi:open="true"
+         sodipodi:end="6.9297941"
+         sodipodi:start="6.2285328"
+         transform="matrix(0,0.2733737,-0.2723154,0,1715.4434,197.31448)"
+         d="m 511.03742,736.317 c 0.20754,3.79365 -0.93434,7.53833 -3.22337,10.57069"
+         sodipodi:ry="16.086679"
+         sodipodi:rx="16.086679"
+         sodipodi:cy="737.19574"
+         sodipodi:cx="494.97476"
+         id="path7875"
+         style="fill:none;stroke:#bebebe;stroke-width:7.33019447;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none;stroke-dashoffset:0;marker:none;visibility:visible;display:inline;overflow:visible;enable-background:accumulate"
+         sodipodi:type="arc" />
+      <path
+         inkscape:export-ydpi="90"
+         inkscape:export-xdpi="90"
+         inkscape:export-filename="/home/hbons/Moblin/git/moblin-icon-theme/moblin/24x24/status/media-playlist-shuffle.png"
+         id="path7877"
+         d="m 1505.7021,328.03431 -3.6523,0"
+         style="fill:none;stroke:url(#linearGradient16026-3-8);stroke-width:2;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none;stroke-dashoffset:0;marker:none;visibility:visible;display:inline;overflow:visible;enable-background:accumulate"
+         sodipodi:nodetypes="cc" />
+      <path
+         inkscape:export-ydpi="90"
+         inkscape:export-xdpi="90"
+         inkscape:export-filename="/home/hbons/Moblin/git/moblin-icon-theme/moblin/24x24/status/media-playlist-shuffle.png"
+         id="path7879"
+         d="m 1516.2327,337.03303 -1.3506,0"
+         style="fill:none;stroke:#bebebe;stroke-width:2;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none;stroke-dashoffset:0;marker:none;visibility:visible;display:inline;overflow:visible;enable-background:accumulate"
+         sodipodi:nodetypes="cc" />
+      <rect
+         inkscape:export-ydpi="90"
+         inkscape:export-xdpi="90"
+         inkscape:export-filename="/home/hbons/Moblin/git/moblin-icon-theme/moblin/24x24/status/media-playlist-shuffle.png"
+         transform="scale(-1,1)"
+         style="opacity:0;fill:#ffffff;fill-opacity:1;stroke:none;display:inline"
+         id="rect7554"
+         width="24"
+         height="24"
+         x="-1522.0272"
+         y="321.01471" />
+    </g>
+    <g
+       id="g10468"
+       inkscape:label="media-playlist-repeat"
+       transform="translate(-1530.0272,524.98529)">
+      <path
+         inkscape:export-ydpi="90"
+         inkscape:export-xdpi="90"
+         inkscape:export-filename="/home/hbons/Moblin/git/moblin-icon-theme/moblin/24x24/status/media-playlist-shuffle.png"
+         style="fill:#bebebe;fill-opacity:1;stroke-width:1px;display:inline"
+         d="m 1535.0009,333.68399 0,6.67973 3.6373,-3.36274 -3.6373,-3.31699 z"
+         id="path13844-5-6"
+         sodipodi:nodetypes="cccc" />
+      <rect
+         inkscape:export-ydpi="90"
+         inkscape:export-xdpi="90"
+         inkscape:export-filename="/home/hbons/Moblin/git/moblin-icon-theme/moblin/24x24/status/media-playlist-shuffle.png"
+         transform="scale(-1,1)"
+         style="opacity:0;fill:#ffffff;fill-opacity:1;stroke:none;display:inline"
+         id="rect7554-0"
+         width="24"
+         height="24"
+         x="-1551.0272"
+         y="321.01471" />
+      <path
+         sodipodi:nodetypes="ccsccscc"
+         id="rect8946"
+         d="m 1537.0322,337.0124 -3.5226,0 c -2.4973,0 -4.5078,-2.01048 -4.5078,-4.5078 0,-2.49733 2.0105,-4.50781 4.5078,-4.50781 l 10.9601,0 c 2.4974,0 4.5078,2.01048 4.5078,4.50781 0,2.49732 -2.0104,4.5078 -4.5078,4.5078 l -3.375,0"
+         style="fill:none;stroke:#bebebe;stroke-width:2;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none;stroke-dashoffset:0;marker:none;visibility:visible;display:inline;overflow:visible;enable-background:accumulate" />
+    </g>
   </g>
   <g
      inkscape:groupmode="layer"
@@ -32196,7 +32235,7 @@ Claire Alexander</dc:title>
          sodipodi:cy="958.02991"
          sodipodi:rx="7.0268736"
          sodipodi:ry="7.0268736"
-         d="m -447.02082,964.38327 a 7.0268736,7.0268736 0 1 1 5.08616,0.35731"
+         d="m -447.02082,964.38327 c -3.50887,-1.65794 -5.00934,-5.84646 -3.3514,-9.35533 1.65794,-3.50886 5.84646,-5.00933 9.35532,-3.35139 3.50887,1.65794 5.00934,5.84646 3.3514,9.35532 -0.84085,1.77958 -2.38951,3.12492 -4.26916,3.70871"
          transform="translate(1640.8325,-749.00636)"
          sodipodi:start="2.0122033"
          sodipodi:end="7.5528475"
@@ -32214,7 +32253,7 @@ Claire Alexander</dc:title>
          sodipodi:cy="955.8125"
          sodipodi:rx="2"
          sodipodi:ry="2"
-         d="m -441.6875,955.8125 a 2,2 0 1 1 -4,0 2,2 0 1 1 4,0 z"
+         d="m -441.6875,955.8125 c 0,1.10457 -0.89543,2 -2,2 -1.10457,0 -2,-0.89543 -2,-2 0,-1.10457 0.89543,-2 2,-2 1.10457,0 2,0.89543 2,2 z"
          transform="matrix(1.0000312,0,0,1.0000312,1640.5338,-748.84859)" />
     </g>
     <g
