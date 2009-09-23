@@ -1,0 +1,83 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Created with Inkscape (http://www.inkscape.org/) -->
+<svg
+   xmlns:svg="http://www.w3.org/2000/svg"
+   xmlns="http://www.w3.org/2000/svg"
+   version="1.0"
+   width="24.000019"
+   height="24.000143"
+   id="svg7384">
+  <title
+     id="title9167">Moblin Icon Theme</title>
+  <defs
+     id="defs7386" />
+  <g
+     transform="translate(616,-1519.9999)"
+     id="layer3" />
+  <g
+     transform="translate(616,-1519.9999)"
+     id="layer5" />
+  <g
+     transform="translate(616,-1519.9999)"
+     id="layer7" />
+  <g
+     transform="translate(616,-1519.9999)"
+     id="layer2" />
+  <g
+     transform="translate(616,-1519.9999)"
+     id="layer8" />
+  <g
+     transform="translate(616,-2472.3621)"
+     id="layer1" />
+  <g
+     transform="translate(616,-1519.9999)"
+     id="layer11">
+    <rect
+       width="24"
+       height="24"
+       x="592"
+       y="1520"
+       transform="scale(-1,1)"
+       id="rect9302"
+       style="opacity:0;fill:#ffffff;fill-opacity:1;stroke:none;display:inline" />
+    <path
+       d="M -612.875,1524 C -614.58895,1524 -616,1525.411 -616,1527.125 L -616,1540.875 C -616,1542.589 -614.5889,1544 -612.875,1544 L -599.125,1544 C -597.41105,1544 -596,1542.5889 -596,1540.875 L -596,1537 L -598,1537 L -598,1540.875 C -598,1541.5155 -598.48435,1542 -599.125,1542 L -612.875,1542 C -613.5155,1542 -614,1541.5154 -614,1540.875 L -614,1527.125 C -614,1526.4846 -613.51545,1526 -612.875,1526 L -609.0625,1526 L -609.0625,1524 L -612.875,1524 z"
+       id="rect10461-8"
+       style="fill:#bebebe;fill-opacity:1;stroke:none;stroke-width:2;marker:none;stroke-miterlimit:4;stroke-opacity:1;visibility:visible;display:inline;overflow:visible;enable-background:new" />
+    <path
+       d="M -611.59375,1537 C -611.83279,1537.0456 -612.00429,1537.2567 -612,1537.5 L -612,1540.3438 C -612.00255,1540.5241 -611.90781,1540.6918 -611.75206,1540.7827 C -611.59631,1540.8736 -611.40369,1540.8736 -611.24794,1540.7827 C -611.09219,1540.6918 -610.99745,1540.5241 -611,1540.3438 L -611,1537.5 C -610.99734,1537.3494 -611.06268,1537.2057 -611.17787,1537.1087 C -611.29306,1537.0117 -611.44583,1536.9718 -611.59375,1537 z"
+       id="path10463-4"
+       style="fill:#bebebe;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:1;stroke-linecap:round;stroke-linejoin:miter;marker:none;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;visibility:visible;display:inline;overflow:visible;enable-background:new" />
+    <path
+       d="M -609.59375,1537 C -609.83279,1537.0456 -610.00429,1537.2567 -610,1537.5 L -610,1540.3438 C -610.00255,1540.5241 -609.90781,1540.6918 -609.75206,1540.7827 C -609.59631,1540.8736 -609.40369,1540.8736 -609.24794,1540.7827 C -609.09219,1540.6918 -608.99745,1540.5241 -609,1540.3438 L -609,1537.5 C -608.99734,1537.3494 -609.06268,1537.2057 -609.17787,1537.1087 C -609.29306,1537.0117 -609.44583,1536.9718 -609.59375,1537 z"
+       id="path10467-9"
+       style="fill:#bebebe;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:1;stroke-linecap:round;stroke-linejoin:miter;marker:none;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;visibility:visible;display:inline;overflow:visible;enable-background:new" />
+    <path
+       d="M -607.59375,1537 C -607.83279,1537.0456 -608.00429,1537.2567 -608,1537.5 L -608,1540.3438 C -608.00255,1540.5241 -607.90781,1540.6918 -607.75206,1540.7827 C -607.59631,1540.8736 -607.40369,1540.8736 -607.24794,1540.7827 C -607.09219,1540.6918 -606.99745,1540.5241 -607,1540.3438 L -607,1537.5 C -606.99734,1537.3494 -607.06268,1537.2057 -607.17787,1537.1087 C -607.29306,1537.0117 -607.44583,1536.9718 -607.59375,1537 z"
+       id="path10469-1"
+       style="fill:#bebebe;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:1;stroke-linecap:round;stroke-linejoin:miter;marker:none;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;visibility:visible;display:inline;overflow:visible;enable-background:new" />
+    <path
+       d="M -605.59375,1537 C -605.83279,1537.0456 -606.00429,1537.2567 -606,1537.5 L -606,1540.3438 C -606.00255,1540.5241 -605.90781,1540.6918 -605.75206,1540.7827 C -605.59631,1540.8736 -605.40369,1540.8736 -605.24794,1540.7827 C -605.09219,1540.6918 -604.99745,1540.5241 -605,1540.3438 L -605,1537.5 C -604.99734,1537.3494 -605.06268,1537.2057 -605.17787,1537.1087 C -605.29306,1537.0117 -605.44583,1536.9718 -605.59375,1537 L -605.59375,1537 z"
+       id="path10471-8"
+       style="fill:#bebebe;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:1;stroke-linecap:round;stroke-linejoin:miter;marker:none;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;visibility:visible;display:inline;overflow:visible;enable-background:new" />
+    <path
+       d="M -600.00001,1520.0145 C -604.40507,1520.0145 -607.98545,1523.5948 -607.98545,1527.9999 C -607.98545,1532.405 -604.40507,1535.9853 -600.00001,1535.9853 C -595.59495,1535.9853 -592.01457,1532.405 -592.01457,1527.9999 L -592.01457,1527.0144 L -593.00001,1527.0144 L -599.01457,1527.0144 L -599.01457,1520.9999 L -599.01457,1520.0145 L -600.00001,1520.0145 z M -600.98545,1522.1893 L -600.98545,1527.9999 L -600.98545,1528.9854 L -600.00001,1528.9854 L -594.18933,1528.9854 C -594.67304,1531.8173 -597.0265,1534.0145 -600.00001,1534.0145 C -603.32295,1534.0145 -606.01457,1531.3228 -606.01457,1527.9999 C -606.01457,1525.0264 -603.81732,1522.6729 -600.98545,1522.1893 z"
+       id="path9345"
+       style="fill:#bebebe;fill-opacity:1;stroke:none;stroke-width:1.83928573;stroke-linecap:butt;stroke-linejoin:miter;marker:none;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;visibility:visible;display:inline;overflow:visible;enable-background:new" />
+  </g>
+  <g
+     transform="translate(616,-1519.9999)"
+     id="layer4" />
+  <g
+     transform="translate(616,-1519.9999)"
+     id="layer12" />
+  <g
+     transform="translate(616,-1519.9999)"
+     id="layer9" />
+  <g
+     transform="translate(616,-1519.9999)"
+     id="layer10" />
+  <g
+     transform="translate(616,-1519.9999)"
+     id="layer6" />
+</svg>
