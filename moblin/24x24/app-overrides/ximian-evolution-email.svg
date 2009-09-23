@@ -35,26 +35,27 @@
     <g
        transform="translate(-138.49995,695.4082)"
        id="use5355">
+      <title
+         id="title12605">internet</title>
       <rect
          width="24"
          height="24"
          x="-259.5"
          y="174.5918"
-         id="rect12073"
+         id="rect12607"
          style="opacity:0;fill:#ffffff;fill-opacity:1;stroke:none;display:inline" />
       <path
-         d="M -255.5,180.5918 L -248.5,187.5918 L -241.5,180.5918"
-         id="path12075"
-         style="fill:none;stroke:#bebebe;stroke-width:2;stroke-linecap:round;stroke-linejoin:round;marker:none;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;visibility:visible;display:inline;overflow:visible;enable-background:accumulate" />
+         d="M -255.5,181.5918 L -247.5,189.71679 L -239.5,181.5918"
+         id="path12609"
+         style="fill:none;stroke:#bebebe;stroke-width:1.99999988;stroke-linecap:round;stroke-linejoin:round;marker:none;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;visibility:visible;display:inline;overflow:visible;enable-background:accumulate" />
       <rect
-         width="19.96875"
-         height="16"
+         width="21.96875"
+         height="17.96875"
          rx="1.2383569"
-         ry="1.2383569"
-         x="-260.96875"
-         y="177.03125"
-         transform="translate(2.5,0.5917969)"
-         id="rect12077"
+         ry="1.2383571"
+         x="-258.46875"
+         y="177.62305"
+         id="rect12611"
          style="fill:none;stroke:#bebebe;stroke-width:2;stroke-linecap:round;stroke-linejoin:round;marker:none;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;visibility:visible;display:inline;overflow:visible;enable-background:accumulate" />
     </g>
   </g>
