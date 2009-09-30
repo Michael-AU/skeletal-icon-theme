@@ -7,36 +7,20 @@
    width="24.000046"
    height="24"
    id="svg7384">
+  <title
+     id="title9167">Moblin Icon Theme</title>
   <defs
      id="defs7386" />
   <g
-     transform="translate(-1498.001,-291.99646)"
-     id="layer3" />
-  <g
-     transform="translate(-1498.001,-291.99646)"
-     id="layer5" />
-  <g
-     transform="translate(-1498.001,-291.99646)"
-     id="layer7" />
-  <g
-     transform="translate(-1498.001,-291.99646)"
-     id="layer2" />
-  <g
-     transform="translate(-1498.001,-291.99646)"
-     id="layer8" />
-  <g
-     transform="translate(-1498.001,-1244.3586)"
-     id="layer1" />
-  <g
-     transform="translate(-1498.001,-291.99646)"
-     id="layer4">
+     transform="translate(-1498.001,-310.99646)"
+     id="layer3">
     <rect
        width="2.0000267"
        height="16"
        rx="1.0000134"
        ry="1.0000134"
        x="1520.001"
-       y="294.99646"
+       y="313.99646"
        id="rect6949"
        style="fill:#bebebe;fill-opacity:1;stroke:none;display:inline" />
     <rect
@@ -44,7 +28,7 @@
        height="22.000031"
        rx="1"
        ry="1"
-       x="294.99646"
+       x="313.99646"
        y="-1522.001"
        transform="matrix(0,1,-1,0,0,0)"
        id="rect6951"
@@ -54,7 +38,7 @@
        height="21.99999"
        rx="0.99995232"
        ry="0.99995232"
-       x="308.99658"
+       x="327.99658"
        y="-1522.001"
        transform="matrix(0,1,-1,0,0,0)"
        id="rect6953"
@@ -65,7 +49,7 @@
        rx="1.0000305"
        ry="1.0000305"
        x="1498.001"
-       y="298.99646"
+       y="317.99646"
        id="rect6955"
        style="fill:#bebebe;fill-opacity:1;stroke:none;display:inline" />
     <rect
@@ -73,7 +57,7 @@
        height="4.0000191"
        rx="0.99998987"
        ry="0.99998987"
-       x="298.99646"
+       x="317.99646"
        y="-1502.001"
        transform="matrix(0,1,-1,0,0,0)"
        id="rect6957"
@@ -83,7 +67,7 @@
        height="4.0000191"
        rx="1"
        ry="1"
-       x="304.99646"
+       x="323.99646"
        y="-1502.001"
        transform="matrix(0,1,-1,0,0,0)"
        id="rect6959"
@@ -94,7 +78,7 @@
        rx="1.0000134"
        ry="1.0000134"
        x="1512.001"
-       y="298.99646"
+       y="317.99646"
        id="rect6963"
        style="fill:#febf00;fill-opacity:1;stroke:none;display:inline" />
     <rect
@@ -103,7 +87,7 @@
        rx="1"
        ry="1"
        x="1516.001"
-       y="298.99646"
+       y="317.99646"
        id="rect6965"
        style="fill:#febf00;fill-opacity:1;stroke:none;display:inline" />
     <rect
@@ -111,8 +95,8 @@
        height="6"
        rx="1.5"
        ry="1.4999999"
-       x="1499.9951"
-       y="294.99646"
+       x="1499.9948"
+       y="313.99646"
        transform="matrix(1,0,2.0345052e-5,1,0,0)"
        id="rect6969"
        style="fill:#bebebe;fill-opacity:1;stroke:none;display:inline" />
@@ -121,8 +105,8 @@
        height="6"
        rx="1.0000305"
        ry="1.0000305"
-       x="1499.9951"
-       y="304.99646"
+       x="1499.9948"
+       y="323.99646"
        transform="matrix(1,0,2.0345052e-5,1,0,0)"
        id="rect6972"
        style="fill:#bebebe;fill-opacity:1;stroke:none;display:inline" />
@@ -130,15 +114,42 @@
        width="24"
        height="24"
        x="-1522.001"
-       y="291.99646"
+       y="310.99646"
        transform="scale(-1,1)"
        id="rect6947"
        style="opacity:0;fill:#ffffff;fill-opacity:1;stroke:none;display:inline" />
   </g>
   <g
-     transform="translate(-1498.001,-291.99646)"
+     transform="translate(-1498.001,-310.99646)"
+     id="layer5" />
+  <g
+     transform="translate(-1498.001,-310.99646)"
+     id="layer7" />
+  <g
+     transform="translate(-1498.001,-310.99646)"
+     id="layer2" />
+  <g
+     transform="translate(-1498.001,-310.99646)"
+     id="layer8" />
+  <g
+     transform="translate(-1498.001,-1263.3586)"
+     id="layer1" />
+  <g
+     transform="translate(-1498.001,-310.99646)"
+     id="layer11" />
+  <g
+     transform="translate(-1498.001,-310.99646)"
+     id="layer4" />
+  <g
+     transform="translate(-1498.001,-310.99646)"
+     id="layer12" />
+  <g
+     transform="translate(-1498.001,-310.99646)"
      id="layer9" />
   <g
-     transform="translate(-1498.001,-291.99646)"
+     transform="translate(-1498.001,-310.99646)"
+     id="layer10" />
+  <g
+     transform="translate(-1498.001,-310.99646)"
      id="layer6" />
 </svg>

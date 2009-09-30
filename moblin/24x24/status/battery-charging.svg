@@ -8,16 +8,18 @@
    width="24.000046"
    height="24"
    id="svg7384">
+  <title
+     id="title9167">Moblin Icon Theme</title>
   <defs
      id="defs7386">
     <linearGradient
-       id="linearGradient7067">
+       id="linearGradient7067-2">
       <stop
-         id="stop7069"
+         id="stop7069-0"
          style="stop-color:#31c2ee;stop-opacity:1"
          offset="0" />
       <stop
-         id="stop7071"
+         id="stop7071-6"
          style="stop-color:#31c2ee;stop-opacity:0"
          offset="1" />
     </linearGradient>
@@ -26,37 +28,19 @@
        y1="869.01288"
        x2="601"
        y2="874.85205"
-       id="linearGradient8928"
-       xlink:href="#linearGradient7067"
+       id="linearGradient12757"
+       xlink:href="#linearGradient7067-2"
        gradientUnits="userSpaceOnUse"
-       gradientTransform="translate(994.0009,-560.09354)" />
+       gradientTransform="translate(994.0009,-541.09354)" />
   </defs>
   <g
-     transform="translate(-1582.001,-291.99646)"
-     id="layer3" />
-  <g
-     transform="translate(-1582.001,-291.99646)"
-     id="layer5" />
-  <g
-     transform="translate(-1582.001,-291.99646)"
-     id="layer7" />
-  <g
-     transform="translate(-1582.001,-291.99646)"
-     id="layer2" />
-  <g
-     transform="translate(-1582.001,-291.99646)"
-     id="layer8" />
-  <g
-     transform="translate(-1582.001,-1244.3586)"
-     id="layer1" />
-  <g
-     transform="translate(-1582.001,-291.99646)"
-     id="layer4">
+     transform="translate(-1582.001,-310.99646)"
+     id="layer3">
     <rect
        width="24"
        height="24"
        x="-1606.001"
-       y="291.99646"
+       y="310.99646"
        transform="scale(-1,1)"
        id="rect7002"
        style="opacity:0;fill:#ffffff;fill-opacity:1;stroke:none;display:inline" />
@@ -66,7 +50,7 @@
        rx="1.0000134"
        ry="1.0000134"
        x="1604.001"
-       y="294.99646"
+       y="313.99646"
        id="rect7004"
        style="fill:#bebebe;fill-opacity:1;stroke:none;display:inline" />
     <rect
@@ -74,7 +58,7 @@
        height="22.000031"
        rx="1"
        ry="1"
-       x="294.99646"
+       x="313.99646"
        y="-1606.001"
        transform="matrix(0,1,-1,0,0,0)"
        id="rect7006"
@@ -84,7 +68,7 @@
        height="7"
        rx="0.99995232"
        ry="0.99995232"
-       x="308.99658"
+       x="327.99658"
        y="-1606.001"
        transform="matrix(0,1,-1,0,0,0)"
        id="rect7008"
@@ -95,7 +79,7 @@
        rx="1.0000305"
        ry="1.0000305"
        x="1582.001"
-       y="298.99646"
+       y="317.99646"
        id="rect7010"
        style="fill:#bebebe;fill-opacity:1;stroke:none;display:inline" />
     <rect
@@ -103,7 +87,7 @@
        height="4.0000191"
        rx="0.99998987"
        ry="0.99998987"
-       x="298.99646"
+       x="317.99646"
        y="-1586.001"
        transform="matrix(0,1,-1,0,0,0)"
        id="rect7012"
@@ -113,7 +97,7 @@
        height="4.0000191"
        rx="1"
        ry="1"
-       x="304.99646"
+       x="323.99646"
        y="-1586.001"
        transform="matrix(0,1,-1,0,0,0)"
        id="rect7014"
@@ -123,8 +107,8 @@
        height="6"
        rx="1.5"
        ry="1.4999999"
-       x="1583.9951"
-       y="294.99646"
+       x="1583.9948"
+       y="313.99646"
        transform="matrix(1,0,2.0345052e-5,1,0,0)"
        id="rect7024"
        style="fill:#bebebe;fill-opacity:1;stroke:none;display:inline" />
@@ -133,13 +117,13 @@
        height="6"
        rx="1.0000305"
        ry="1.0000305"
-       x="1583.9951"
-       y="304.99646"
+       x="1583.9948"
+       y="323.99646"
        transform="matrix(1,0,2.0345052e-5,1,0,0)"
        id="rect7026"
        style="fill:#bebebe;fill-opacity:1;stroke:none;display:inline" />
     <path
-       d="M 1590.9855,302.69648 C 1590.7763,302.7023 1590.5772,302.84273 1590.4322,303.08671 C 1590.2872,303.33069 1590.2083,303.6581 1590.2129,303.99649 C 1590.2129,305.65729 1590.882,307.02047 1591.758,307.89649 C 1592.634,308.7725 1593.7673,309.27149 1595.0027,309.27149 C 1596.2381,309.27149 1597.3714,308.7725 1598.2474,307.89649 C 1599.1234,307.02047 1599.7925,305.65729 1599.7925,303.99649 C 1599.7925,303.29232 1599.4397,302.72148 1599.0045,302.72148 C 1598.5693,302.72148 1598.2165,303.29232 1598.2165,303.99649 C 1598.2165,304.54369 1597.985,305.1745 1597.413,305.74649 C 1596.841,306.31847 1595.9753,306.72149 1595.0027,306.72149 C 1594.0301,306.72149 1593.1643,306.31847 1592.5924,305.74649 C 1592.0204,305.1745 1591.7889,304.54369 1591.7889,303.99649 C 1591.7937,303.6494 1591.7105,303.31426 1591.5588,303.06878 C 1591.4071,302.82329 1591.2,302.6888 1590.9855,302.69648 z"
+       d="M 1590.9855,321.69648 C 1590.7763,321.7023 1590.5772,321.84273 1590.4322,322.08671 C 1590.2872,322.33069 1590.2083,322.6581 1590.2129,322.99649 C 1590.2129,324.65729 1590.882,326.02047 1591.758,326.89649 C 1592.634,327.7725 1593.7673,328.27149 1595.0027,328.27149 C 1596.2381,328.27149 1597.3714,327.7725 1598.2474,326.89649 C 1599.1234,326.02047 1599.7925,324.65729 1599.7925,322.99649 C 1599.7925,322.29232 1599.4397,321.72148 1599.0045,321.72148 C 1598.5693,321.72148 1598.2165,322.29232 1598.2165,322.99649 C 1598.2165,323.54369 1597.985,324.1745 1597.413,324.74649 C 1596.841,325.31847 1595.9753,325.72149 1595.0027,325.72149 C 1594.0301,325.72149 1593.1643,325.31847 1592.5924,324.74649 C 1592.0204,324.1745 1591.7889,323.54369 1591.7889,322.99649 C 1591.7937,322.6494 1591.7105,322.31426 1591.5588,322.06878 C 1591.4071,321.82329 1591.2,321.6888 1590.9855,321.69648 z"
        id="path6195"
        style="fill:#31c2ee;fill-opacity:1;stroke:none;stroke-width:3.18004847;stroke-linecap:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1;display:inline" />
     <rect
@@ -148,7 +132,7 @@
        rx="1"
        ry="1"
        x="1592.001"
-       y="298.99646"
+       y="317.99646"
        id="rect6199"
        style="fill:#31c2ee;fill-opacity:1;stroke:none;display:inline" />
     <rect
@@ -157,16 +141,16 @@
        rx="1"
        ry="1"
        x="1594.001"
-       y="306.99646"
+       y="325.99646"
        id="rect6203"
-       style="fill:url(#linearGradient8928);fill-opacity:1;stroke:none;display:inline" />
+       style="fill:url(#linearGradient12757);fill-opacity:1;stroke:none;display:inline" />
     <rect
        width="2"
        height="3"
        rx="1"
        ry="1"
        x="1590.001"
-       y="301.99646"
+       y="320.99646"
        id="rect6205"
        style="fill:#31c2ee;fill-opacity:1;stroke:none;display:inline" />
     <rect
@@ -174,7 +158,7 @@
        height="7"
        rx="0.99995232"
        ry="0.99995232"
-       x="308.99658"
+       x="327.99658"
        y="-1591.001"
        transform="matrix(0,1,-1,0,0,0)"
        id="rect6209"
@@ -185,7 +169,7 @@
        rx="1"
        ry="1"
        x="1598.001"
-       y="301.99646"
+       y="320.99646"
        id="rect6981"
        style="fill:#31c2ee;fill-opacity:1;stroke:none;display:inline" />
     <rect
@@ -193,7 +177,7 @@
        height="10"
        rx="1"
        ry="1"
-       x="301.99646"
+       x="320.99646"
        y="-1600.001"
        transform="matrix(0,1,-1,0,0,0)"
        id="rect6983"
@@ -204,14 +188,41 @@
        rx="1"
        ry="1"
        x="1596.001"
-       y="298.99646"
+       y="317.99646"
        id="rect6987"
        style="fill:#31c2ee;fill-opacity:1;stroke:none;display:inline" />
   </g>
   <g
-     transform="translate(-1582.001,-291.99646)"
+     transform="translate(-1582.001,-310.99646)"
+     id="layer5" />
+  <g
+     transform="translate(-1582.001,-310.99646)"
+     id="layer7" />
+  <g
+     transform="translate(-1582.001,-310.99646)"
+     id="layer2" />
+  <g
+     transform="translate(-1582.001,-310.99646)"
+     id="layer8" />
+  <g
+     transform="translate(-1582.001,-1263.3586)"
+     id="layer1" />
+  <g
+     transform="translate(-1582.001,-310.99646)"
+     id="layer11" />
+  <g
+     transform="translate(-1582.001,-310.99646)"
+     id="layer4" />
+  <g
+     transform="translate(-1582.001,-310.99646)"
+     id="layer12" />
+  <g
+     transform="translate(-1582.001,-310.99646)"
      id="layer9" />
   <g
-     transform="translate(-1582.001,-291.99646)"
+     transform="translate(-1582.001,-310.99646)"
+     id="layer10" />
+  <g
+     transform="translate(-1582.001,-310.99646)"
      id="layer6" />
 </svg>
