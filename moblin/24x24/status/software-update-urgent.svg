@@ -1,0 +1,71 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Created with Inkscape (http://www.inkscape.org/) -->
+<svg
+   xmlns:svg="http://www.w3.org/2000/svg"
+   xmlns="http://www.w3.org/2000/svg"
+   version="1.0"
+   width="24"
+   height="24"
+   id="svg7384">
+  <title
+     id="title9167">Moblin Icon Theme</title>
+  <defs
+     id="defs7386" />
+  <g
+     transform="translate(-1582,-174.01471)"
+     id="layer3">
+    <rect
+       width="24"
+       height="24"
+       x="-198.01471"
+       y="1582"
+       transform="matrix(0,-1,1,0,0,0)"
+       id="rect15089"
+       style="opacity:0;fill:#ffffff;fill-opacity:1;stroke:none;display:inline" />
+    <path
+       d="M 1594,174.6875 L 1593.2812,175.375 L 1590.6562,178 L 1587,178 L 1586,178 L 1586,179 L 1586,182.65625 L 1583.375,185.28125 L 1582.6875,186 L 1583.375,186.71875 L 1586,189.34375 L 1586,193 L 1586,194 L 1587,194 L 1590.6562,194 L 1593.2812,196.625 L 1594,197.3125 L 1594.7188,196.625 L 1597.3438,194 L 1601,194 L 1602,194 L 1602,193 L 1602,189.34375 L 1604.625,186.71875 L 1605.3125,186 L 1604.625,185.28125 L 1602,182.65625 L 1602,179 L 1602,178 L 1601,178 L 1597.3438,178 L 1594.7188,175.375 L 1594,174.6875 z M 1594,177.53125 L 1596.1875,179.71875 L 1596.5,180 L 1596.9062,180 L 1600,180 L 1600,183.09375 L 1600,183.5 L 1600.2812,183.8125 L 1602.4688,186 L 1600.2812,188.1875 L 1600,188.5 L 1600,188.90625 L 1600,192 L 1596.9062,192 L 1596.5,192 L 1596.1875,192.28125 L 1594,194.46875 L 1591.8125,192.28125 L 1591.5,192 L 1591.0938,192 L 1588,192 L 1588,188.90625 L 1588,188.5 L 1587.7188,188.1875 L 1585.5312,186 L 1587.7188,183.8125 L 1588,183.5 L 1588,183.09375 L 1588,180 L 1591.0938,180 L 1591.5,180 L 1591.8125,179.71875 L 1594,177.53125 z"
+       id="rect15150"
+       style="fill:#fde900;fill-opacity:1;stroke:none;stroke-width:2;stroke-linecap:butt;stroke-linejoin:miter;marker:none;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;visibility:visible;display:inline;overflow:visible;enable-background:accumulate" />
+    <path
+       d="M 1593.7812,181 C 1593.3156,181.1043 1592.9885,181.52299 1593,182 L 1593,187 C 1592.9949,187.36064 1593.1844,187.69608 1593.4959,187.87789 C 1593.8074,188.05969 1594.1926,188.05969 1594.5041,187.87789 C 1594.8156,187.69608 1595.0051,187.36064 1595,187 L 1595,182 C 1595.0074,181.69213 1594.8726,181.398 1594.6346,181.20267 C 1594.3965,181.00733 1594.0817,180.93257 1593.7812,181 L 1593.7812,181 z"
+       id="path15192"
+       style="fill:#febf00;fill-opacity:1;stroke:none;stroke-width:2;stroke-linecap:round;stroke-linejoin:miter;marker:none;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;visibility:visible;display:inline;overflow:visible;enable-background:accumulate" />
+    <path
+       d="M 1595,190 A 1,1 0 1 1 1593,190 A 1,1 0 1 1 1595,190 z"
+       id="path15204"
+       style="fill:#febf00;fill-opacity:1;stroke:none;stroke-width:2;marker:none;visibility:visible;display:inline;overflow:visible;enable-background:accumulate" />
+  </g>
+  <g
+     transform="translate(-1582,-174.01471)"
+     id="layer5" />
+  <g
+     transform="translate(-1582,-174.01471)"
+     id="layer7" />
+  <g
+     transform="translate(-1582,-174.01471)"
+     id="layer2" />
+  <g
+     transform="translate(-1582,-174.01471)"
+     id="layer8" />
+  <g
+     transform="translate(-1582,-1126.3769)"
+     id="layer1" />
+  <g
+     transform="translate(-1582,-174.01471)"
+     id="layer11" />
+  <g
+     transform="translate(-1582,-174.01471)"
+     id="layer4" />
+  <g
+     transform="translate(-1582,-174.01471)"
+     id="layer12" />
+  <g
+     transform="translate(-1582,-174.01471)"
+     id="layer9" />
+  <g
+     transform="translate(-1582,-174.01471)"
+     id="layer10" />
+  <g
+     transform="translate(-1582,-174.01471)"
+     id="layer6" />
+</svg>
