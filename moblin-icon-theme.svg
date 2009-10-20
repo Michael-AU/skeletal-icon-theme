@@ -6454,8 +6454,8 @@
      showborder="false"
      inkscape:window-width="1428"
      inkscape:window-height="957"
-     inkscape:window-x="1708"
-     inkscape:window-y="122"
+     inkscape:window-x="1727"
+     inkscape:window-y="47"
      inkscape:window-maximized="0"
      inkscape:showpageshadow="false"
      showguides="false"
@@ -12659,11 +12659,11 @@ Claire Alexander</dc:title>
          sodipodi:cy="179.43886"
          sodipodi:rx="22.98097"
          sodipodi:ry="22.98097"
-         d="M -25.809396,202.41983 A 22.98097,22.98097 0 0 1 -48.790367,179.43886"
+         d="m -25.809396,202.41983 c -12.69204,0 -22.980971,-10.28893 -22.980971,-22.98097 0,0 0,0 0,0"
          transform="matrix(0.1087857,0,0,-0.1087857,632.23522,229.02021)" />
       <path
          transform="matrix(-0.1087857,0,0,-0.1087857,629.62981,229.02021)"
-         d="M -25.809396,202.41983 A 22.98097,22.98097 0 0 1 -48.790367,179.43886"
+         d="m -25.809396,202.41983 c -12.69204,0 -22.980971,-10.28893 -22.980971,-22.98097 0,0 0,0 0,0"
          sodipodi:ry="22.98097"
          sodipodi:rx="22.98097"
          sodipodi:cy="179.43886"
@@ -12915,7 +12915,7 @@ Claire Alexander</dc:title>
     </g>
     <g
        transform="translate(28.125,0)"
-       inkscape:label="dropbox-syncing"
+       inkscape:label="emblem-dropbox-syncing"
        id="g10150">
       <rect
          ry="2.9375"
@@ -12995,7 +12995,7 @@ Claire Alexander</dc:title>
     </g>
     <g
        transform="translate(109.0625,55)"
-       inkscape:label="dropbox-uptodate"
+       inkscape:label="emblem-dropbox-uptodate"
        id="g10207">
       <rect
          style="fill:#7dbe0c;fill-opacity:1;stroke:none;display:inline"
@@ -13023,7 +13023,7 @@ Claire Alexander</dc:title>
     </g>
     <g
        id="g10217"
-       inkscape:label="dropbox-unsyncable">
+       inkscape:label="emblem-dropbox-unsyncable">
       <use
          height="100"
          width="300"
