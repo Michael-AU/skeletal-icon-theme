@@ -6445,11 +6445,11 @@
      borderopacity="1.0"
      inkscape:pageopacity="0"
      inkscape:pageshadow="2"
-     inkscape:zoom="5.6568542"
-     inkscape:cx="610.20275"
-     inkscape:cy="-197.28603"
+     inkscape:zoom="4"
+     inkscape:cx="-178.50719"
+     inkscape:cy="-830.52729"
      inkscape:document-units="px"
-     inkscape:current-layer="layer8"
+     inkscape:current-layer="layer12"
      showgrid="true"
      showborder="false"
      inkscape:window-width="1428"
@@ -27387,7 +27387,7 @@ Claire Alexander</dc:title>
          y="962.82776">f-spot</tspan></text>
     <g
        id="g8674"
-       inkscape:label="view-browse">
+       inkscape:label="mode-browse">
       <use
          height="100"
          width="300"
@@ -27398,7 +27398,7 @@ Claire Alexander</dc:title>
          x="0" />
     </g>
     <g
-       inkscape:label="view-edit"
+       inkscape:label="mode-image-edit"
        id="g9194"
        transform="translate(262.96747,730.9458)">
       <rect
