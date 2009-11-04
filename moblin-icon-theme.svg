@@ -6630,11 +6630,11 @@
      inkscape:pageopacity="0"
      inkscape:pageshadow="2"
      inkscape:zoom="1"
-     inkscape:cx="-453.62569"
-     inkscape:cy="-1213.5493"
+     inkscape:cx="-598.36433"
+     inkscape:cy="-1286.4139"
      inkscape:document-units="px"
      inkscape:current-layer="layer11"
-     showgrid="false"
+     showgrid="true"
      showborder="false"
      inkscape:window-width="1253"
      inkscape:window-height="1102"
@@ -25807,6 +25807,21 @@ Claire Alexander</dc:title>
          id="path9054"
          d="m 835.0625,185.9375 9.9375,0"
          style="color:#000000;fill:none;stroke:#bebebe;stroke-width:2;stroke-linecap:round;stroke-opacity:1;marker:none;visibility:visible;display:inline;overflow:visible;enable-background:accumulate" />
+    </g>
+    <g
+       id="g9058"
+       inkscape:label="dia"
+       transform="translate(-4.5898438e-5,-1)">
+      <title
+         id="title9061">office</title>
+      <use
+         height="100"
+         width="300"
+         transform="translate(-164,241)"
+         id="use9056"
+         xlink:href="#g9925"
+         y="0"
+         x="0" />
     </g>
   </g>
   <g
