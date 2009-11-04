@@ -1,0 +1,181 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Created with Inkscape (http://www.inkscape.org/) -->
+<svg
+   xmlns:svg="http://www.w3.org/2000/svg"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:xlink="http://www.w3.org/1999/xlink"
+   version="1.0"
+   width="24"
+   height="24.01001"
+   id="svg7384">
+  <title
+     id="title9167">Moblin Icon Theme</title>
+  <defs
+     id="defs7386">
+    <linearGradient
+       id="linearGradient7487-1-1">
+      <stop
+         id="stop7489-4-3"
+         style="stop-color:#bebebe;stop-opacity:1"
+         offset="0" />
+      <stop
+         id="stop7491-5-4"
+         style="stop-color:#bebebe;stop-opacity:0"
+         offset="1" />
+    </linearGradient>
+    <linearGradient
+       x1="105.91268"
+       y1="121.0463"
+       x2="105.91268"
+       y2="115.05012"
+       id="linearGradient13267"
+       xlink:href="#linearGradient7487-1-1"
+       gradientUnits="userSpaceOnUse"
+       gradientTransform="matrix(1,0,0,1.091442,1255.0916,278.47831)" />
+    <linearGradient
+       x1="105.91268"
+       y1="121.0463"
+       x2="105.91268"
+       y2="115.05012"
+       id="linearGradient13270"
+       xlink:href="#linearGradient7487-1-1"
+       gradientUnits="userSpaceOnUse"
+       gradientTransform="matrix(1,0,0,1.091442,1149.9128,-805.44579)" />
+    <linearGradient
+       x1="105.91268"
+       y1="121.0463"
+       x2="105.91268"
+       y2="115.05012"
+       id="linearGradient13273"
+       xlink:href="#linearGradient7487-1-1"
+       gradientUnits="userSpaceOnUse"
+       gradientTransform="matrix(1,0,0,1.091442,309.09008,-1497.5232)" />
+    <linearGradient
+       x1="105.91268"
+       y1="121.0463"
+       x2="105.91268"
+       y2="115.05012"
+       id="linearGradient13276"
+       xlink:href="#linearGradient7487-1-1"
+       gradientUnits="userSpaceOnUse"
+       gradientTransform="matrix(1,0,0,1.091442,-774.83402,-1392.3444)" />
+    <linearGradient
+       x1="105.91268"
+       y1="121.0463"
+       x2="105.91268"
+       y2="115.05012"
+       id="linearGradient13281"
+       xlink:href="#linearGradient7487-1-1"
+       gradientUnits="userSpaceOnUse"
+       gradientTransform="matrix(1,0,0,1.091442,-1466.9115,-551.52169)" />
+  </defs>
+  <g
+     transform="translate(426,-1344.0029)"
+     id="layer3" />
+  <g
+     transform="translate(426,-1344.0029)"
+     id="layer5" />
+  <g
+     transform="translate(426,-1344.0029)"
+     id="layer7" />
+  <g
+     transform="translate(426,-1344.0029)"
+     id="layer2" />
+  <g
+     transform="translate(426,-1344.0029)"
+     id="layer8" />
+  <g
+     transform="translate(426,-2296.3651)"
+     id="layer1" />
+  <g
+     transform="translate(426,-1344.0029)"
+     id="layer11">
+    <rect
+       width="24"
+       height="24"
+       x="402"
+       y="1344.0029"
+       transform="scale(-1,1)"
+       id="rect8972"
+       style="opacity:0;fill:#ffffff;fill-opacity:1;stroke:none;display:inline" />
+    <rect
+       width="2.0000005"
+       height="12"
+       rx="1.0000002"
+       ry="1.0000002"
+       x="-1362.0015"
+       y="-426"
+       transform="matrix(0,-1,1,0,0,0)"
+       id="rect8974"
+       style="fill:url(#linearGradient13281);fill-opacity:1;stroke:none;display:inline" />
+    <rect
+       width="2.0000005"
+       height="5"
+       rx="1.0000002"
+       ry="1.0000002"
+       x="414"
+       y="-1361.0015"
+       transform="scale(-1,-1)"
+       id="rect8976"
+       style="fill:#bebebe;fill-opacity:1;stroke:none;display:inline" />
+    <path
+       d="M -412.34375,1345.0625 C -412.4309,1345.0824 -412.51498,1345.1139 -412.59375,1345.1562 L -418.34375,1347.7188 C -418.3544,1347.729 -418.36481,1347.7394 -418.375,1347.75 C -419.20819,1348.1724 -420,1348.9093 -420,1350 L -420,1356 C -420,1357.0907 -419.0907,1358 -418,1358 L -412,1358 C -410.9093,1358 -410,1357.0907 -410,1356 L -410,1350 C -410.00002,1348.9093 -410.9093,1348 -412,1348 L -413,1348 C -413.36063,1347.9949 -413.69608,1348.1844 -413.87788,1348.4959 C -414.05969,1348.8074 -414.05969,1349.1926 -413.87788,1349.5041 C -413.69608,1349.8156 -413.36063,1350.0051 -413,1350 L -412,1350 L -412,1356 L -418,1356 L -418,1350 C -418,1349.9827 -417.86856,1349.7339 -417.46875,1349.5312 L -417.46875,1349.5 L -411.78125,1346.9688 C -411.31241,1346.7709 -411.06694,1346.2525 -411.21096,1345.7644 C -411.35499,1345.2763 -411.84257,1344.9742 -412.34375,1345.0625 z"
+       id="rect8983"
+       style="fill:#bebebe;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:1.99999976;stroke-linecap:round;stroke-linejoin:round;marker:none;stroke-opacity:1;visibility:visible;display:inline;overflow:visible;enable-background:new" />
+    <rect
+       width="2.0000005"
+       height="10.5"
+       rx="1.0000002"
+       ry="1.0000002"
+       x="-669.92407"
+       y="-1265.3228"
+       transform="matrix(-0.7071068,-0.7071068,0.7071068,-0.7071068,0,0)"
+       id="rect8985"
+       style="fill:url(#linearGradient13276);fill-opacity:1;stroke:none;display:inline" />
+    <rect
+       width="2.0000005"
+       height="7.9341092"
+       rx="1.0000002"
+       ry="1.0000002"
+       x="414"
+       y="-1367.9358"
+       transform="scale(-1,-1)"
+       id="rect8987"
+       style="fill:url(#linearGradient13273);fill-opacity:1;stroke:none;display:inline" />
+    <rect
+       width="2.0000005"
+       height="10.5"
+       rx="1.0000002"
+       ry="1.0000002"
+       x="1254.8228"
+       y="-678.42413"
+       transform="matrix(-0.7071068,0.7071068,-0.7071068,-0.7071068,0,0)"
+       id="rect8989"
+       style="fill:url(#linearGradient13270);fill-opacity:1;stroke:none;display:inline" />
+    <rect
+       width="2.0000005"
+       height="12"
+       rx="1.0000002"
+       ry="1.0000002"
+       x="1360.0016"
+       y="403.99994"
+       transform="matrix(0,1,-1,0,0,0)"
+       id="rect8991"
+       style="fill:url(#linearGradient13267);fill-opacity:1;stroke:none;display:inline" />
+  </g>
+  <g
+     transform="translate(426,-1344.0029)"
+     id="layer4" />
+  <g
+     transform="translate(426,-1344.0029)"
+     id="layer12" />
+  <g
+     transform="translate(426,-1344.0029)"
+     id="layer9" />
+  <g
+     transform="translate(426,-1344.0029)"
+     id="layer10" />
+  <g
+     transform="translate(426,-1344.0029)"
+     id="layer6" />
+</svg>
