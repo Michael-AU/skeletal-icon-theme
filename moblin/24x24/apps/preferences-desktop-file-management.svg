@@ -1,0 +1,101 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Created with Inkscape (http://www.inkscape.org/) -->
+<svg
+   xmlns:svg="http://www.w3.org/2000/svg"
+   xmlns="http://www.w3.org/2000/svg"
+   version="1.0"
+   width="24"
+   height="24"
+   id="svg7384">
+  <title
+     id="title9167">Moblin Icon Theme</title>
+  <defs
+     id="defs7386" />
+  <g
+     transform="translate(150.03125,-318.03125)"
+     id="layer3" />
+  <g
+     transform="translate(150.03125,-318.03125)"
+     id="layer5" />
+  <g
+     transform="translate(150.03125,-318.03125)"
+     id="layer7" />
+  <g
+     transform="translate(150.03125,-318.03125)"
+     id="layer2" />
+  <g
+     transform="translate(150.03125,-318.03125)"
+     id="layer8" />
+  <g
+     transform="translate(150.03125,-1270.3934)"
+     id="layer1" />
+  <g
+     transform="translate(150.03125,-318.03125)"
+     id="layer11" />
+  <g
+     transform="translate(150.03125,-318.03125)"
+     id="layer4">
+    <g
+       transform="translate(55.96875,144.03125)"
+       id="use12953">
+      <title
+         id="title13053">system</title>
+      <rect
+         width="24"
+         height="24"
+         x="182"
+         y="174"
+         transform="scale(-1,1)"
+         id="rect13055"
+         style="opacity:0;fill:#ffffff;fill-opacity:1;stroke:none;display:inline" />
+      <rect
+         width="18.000296"
+         height="20"
+         rx="1.8561542"
+         ry="1.8561554"
+         x="-203"
+         y="175"
+         id="rect13057"
+         style="fill:none;stroke:#bebebe;stroke-width:1.99999952;marker:none;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1;visibility:visible;display:inline;overflow:visible;enable-background:accumulate" />
+      <rect
+         width="12.000014"
+         height="6"
+         rx="0"
+         ry="0"
+         x="-200"
+         y="178"
+         id="rect13059"
+         style="fill:none;stroke:#bebebe;stroke-width:1.99999988;marker:none;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1;visibility:visible;display:inline;overflow:visible;enable-background:accumulate" />
+      <rect
+         width="12.000014"
+         height="6"
+         rx="0"
+         ry="0"
+         x="-200"
+         y="184"
+         id="rect13061"
+         style="fill:none;stroke:#bebebe;stroke-width:1.99999988;marker:none;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1;visibility:visible;display:inline;overflow:visible;enable-background:accumulate" />
+      <path
+         d="M -192.9375,181 A 1.03125,1.03125 0 1 1 -195,181 A 1.03125,1.03125 0 1 1 -192.9375,181 z"
+         id="path13063"
+         style="fill:#bebebe;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:2;marker:none;visibility:visible;display:inline;overflow:visible;enable-background:accumulate" />
+      <path
+         d="M -192.9375,181 A 1.03125,1.03125 0 1 1 -195,181 A 1.03125,1.03125 0 1 1 -192.9375,181 z"
+         transform="translate(0,6.03125)"
+         id="path13065"
+         style="fill:#bebebe;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:2;marker:none;visibility:visible;display:inline;overflow:visible;enable-background:accumulate" />
+    </g>
+  </g>
+  <g
+     transform="translate(150.03125,-318.03125)"
+     id="layer12" />
+  <g
+     transform="translate(150.03125,-318.03125)"
+     id="layer9" />
+  <g
+     transform="translate(150.03125,-318.03125)"
+     id="layer10" />
+  <g
+     transform="translate(150.03125,-318.03125)"
+     id="layer6" />
+</svg>

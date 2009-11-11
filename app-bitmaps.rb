@@ -27,6 +27,7 @@ def renderIcon(icon)
 		unless (File.exists?("moblin/#{size}x#{size}/#{icon[:context]}/#{icon[:name]}.png") && !icon[:forcerender])
 			puts "rendering #{icon[:name]} at #{size}x#{size}px"
 			#recolor strokes and fills that are grey (#bebebe) to fg color (in SVG)
+			FileUtils.mkdir_p("temp") unless File.exists?("temp")
 			emblem = File.new("#{EMBLEM}.svg", "w")
 			File.open(icon[:file]) do |line|
 				emblem.puts line.read.gsub(/#bebebe/, "#{COLORS[icon[:group]]["fg"]}/gi")
