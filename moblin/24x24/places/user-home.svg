@@ -4,61 +4,68 @@
    xmlns:svg="http://www.w3.org/2000/svg"
    xmlns="http://www.w3.org/2000/svg"
    version="1.0"
-   width="24.04772"
+   width="24.03664"
    height="24"
    id="svg7384">
+  <title
+     id="title9167">Moblin Icon Theme</title>
   <defs
      id="defs7386" />
   <g
-     transform="translate(-1129.9523,-200.00293)"
+     transform="translate(-1133.9375,-206)"
      id="layer3" />
   <g
-     transform="translate(-1129.9523,-200.00293)"
+     transform="translate(-1133.9375,-206)"
      id="layer5">
     <rect
        width="24"
        height="24"
-       x="-1154"
-       y="200.00293"
+       x="-1157.9375"
+       y="206"
        transform="scale(-1,1)"
        id="rect7481"
        style="opacity:0;fill:#ffffff;fill-opacity:1;stroke:none;display:inline" />
     <path
-       d="M 1148.0469,214.03125 L 1146,214 L 1146,217 L 1143,217 L 1143.0156,215 L 1142.0156,215 L 1142,217 L 1140,217 L 1139.999,214.00008 L 1138.0156,214.01558 L 1143,210.92182 L 1148.0469,214.03125 L 1148.0469,214.03125 z"
-       id="path7493"
-       style="fill:#bebebe;fill-opacity:1;stroke:none" />
-    <g
-       transform="translate(679.9375,787)"
-       id="use7499">
-      <path
-         d="M 455.00184,-578 L 471.0625,-578 L 471.0625,-572.02066 C 471.0625,-569.94354 469.78607,-568 467.44378,-568 L 451.01478,-568 L 451.01478,-585.97227 L 456.9375,-585.97227 C 458.95323,-585.97227 460,-584.52938 460,-582.97227 L 460.0329,-582 L 469.06249,-582 L 469.06249,-578"
-         id="path8921"
-         style="fill:none;stroke:#bebebe;stroke-width:2;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1" />
-      <path
-         d="M 454.51127,-577.94084 L 454.51146,-572 C 454.51127,-569.83448 452.96474,-568.92707 452.03666,-568.92707"
-         id="path8923"
-         style="fill:none;stroke:#bebebe;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1" />
-    </g>
+       d="M 1134.8438,206.03125 C 1134.3657,206.12243 1134.0226,206.54459 1134.0312,207.03125 L 1134.0312,229 C 1134.0313,229.55226 1134.4789,229.99994 1135.0312,230 L 1153.3438,230 C 1154.7915,230 1156.0291,229.36071 1156.8125,228.40625 C 1157.5959,227.45179 1157.9687,226.21214 1157.9688,224.96875 L 1157.9688,211 C 1157.9687,210.44774 1157.5211,210.00006 1156.9688,210 L 1146,210 C 1146.0131,209.5249 1146.0312,209.0625 1146.0312,209.0625 L 1145.0312,209.03125 L 1146.0312,209.03125 C 1146.0312,207.38755 1144.7099,206.03126 1143.0312,206.03125 L 1135.0312,206.03125 C 1134.9689,206.02538 1134.9061,206.02538 1134.8438,206.03125 z M 1136.0312,208.03125 L 1143.0312,208.03125 C 1143.4895,208.03125 1144.0312,208.64051 1144.0312,209.03125 C 1144.0287,209.35152 1144.1798,209.6536 1144.4375,209.84375 C 1144.2395,209.79864 1144.0059,209.7554 1144,209.96875 C 1143.9865,210.46016 1144,210.96875 1144,210.96875 C 1143.9916,211.23933 1144.0932,211.50177 1144.2816,211.69612 C 1144.4701,211.89046 1144.7293,212.0001 1145,212 L 1155.9688,212 L 1155.9688,224.96875 C 1155.9687,225.80248 1155.7217,226.58841 1155.2812,227.125 C 1154.8408,227.66159 1154.2383,228 1153.3438,228 L 1136.0312,228 L 1136.0312,208.03125 z"
+       id="path8794-1"
+       style="fill:#bebebe;fill-opacity:1;stroke:none;stroke-width:2;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1" />
+    <path
+       d="M 1145.875,213.875 C 1145.7645,213.89871 1145.6589,213.94098 1145.5625,214 L 1138.4688,218.09375 C 1137.9856,218.36989 1137.8177,218.9855 1138.0938,219.46875 C 1138.3699,219.952 1138.9856,220.11989 1139.4688,219.84375 L 1146.0625,216 L 1152.4688,219.78125 C 1152.7773,220.00862 1153.1885,220.03974 1153.5277,219.86136 C 1153.8669,219.68299 1154.0743,219.32649 1154.0618,218.94348 C 1154.0492,218.56047 1153.8189,218.2183 1153.4688,218.0625 L 1146.5625,214 C 1146.3558,213.87702 1146.1117,213.83265 1145.875,213.875 z"
+       id="path8864"
+       style="fill:#bebebe;fill-opacity:1;stroke:none;stroke-width:2;stroke-linecap:round;stroke-linejoin:round;marker:none;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;visibility:visible;display:inline;overflow:visible;enable-background:accumulate" />
+    <path
+       d="M 1150.9688,219.90625 C 1150.4658,219.96965 1150.0899,220.39933 1150.0938,220.90625 L 1150.0938,223.90625 L 1142,223.90625 L 1142,221 C 1142.0051,220.63936 1141.8156,220.30392 1141.5041,220.12211 C 1141.1926,219.94031 1140.8074,219.94031 1140.4959,220.12211 C 1140.1844,220.30392 1139.9949,220.63936 1140,221 L 1140,224.90625 C 1140.0001,225.45851 1140.4477,225.90619 1141,225.90625 L 1151.0938,225.90625 C 1151.6461,225.90619 1152.0937,225.45851 1152.0938,224.90625 L 1152.0938,220.90625 C 1152.096,220.61789 1151.9737,220.34261 1151.7582,220.15103 C 1151.5426,219.95945 1151.2549,219.87023 1150.9688,219.90625 z"
+       id="path8866"
+       style="fill:#bebebe;fill-opacity:1;stroke:none;stroke-width:2;stroke-linecap:round;stroke-linejoin:round;marker:none;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;visibility:visible;display:inline;overflow:visible;enable-background:accumulate" />
   </g>
   <g
-     transform="translate(-1129.9523,-200.00293)"
+     transform="translate(-1133.9375,-206)"
      id="layer7" />
   <g
-     transform="translate(-1129.9523,-200.00293)"
+     transform="translate(-1133.9375,-206)"
      id="layer2" />
   <g
-     transform="translate(-1129.9523,-200.00293)"
+     transform="translate(-1133.9375,-206)"
      id="layer8" />
   <g
-     transform="translate(-1129.9523,-1152.3651)"
+     transform="translate(-1133.9375,-1158.3622)"
      id="layer1" />
   <g
-     transform="translate(-1129.9523,-200.00293)"
+     transform="translate(-1133.9375,-206)"
+     id="layer11" />
+  <g
+     transform="translate(-1133.9375,-206)"
      id="layer4" />
   <g
-     transform="translate(-1129.9523,-200.00293)"
+     transform="translate(-1133.9375,-206)"
+     id="layer12" />
+  <g
+     transform="translate(-1133.9375,-206)"
      id="layer9" />
   <g
-     transform="translate(-1129.9523,-200.00293)"
+     transform="translate(-1133.9375,-206)"
+     id="layer10" />
+  <g
+     transform="translate(-1133.9375,-206)"
      id="layer6" />
 </svg>

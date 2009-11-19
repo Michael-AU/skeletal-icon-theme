@@ -32,11 +32,11 @@
        id="use15475">
       <path
          d="M 861.0615,175.99424 L 871.0052,175.99424 L 877.05979,182.00464 L 877.01559,196.0142 L 861.0173,196.0142 L 861.0615,175.99424 L 861.0615,175.99424 z"
-         id="path10426"
+         id="path12335"
          style="fill:none;stroke:#bebebe;stroke-width:2;stroke-linecap:butt;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1" />
       <path
          d="M 870,176.24518 L 870,182.9558 L 877.10837,183 L 870,176.24518 z"
-         id="path10428"
+         id="path12337"
          style="fill:#bebebe;fill-opacity:1;stroke:none" />
     </g>
   </g>
@@ -55,6 +55,9 @@
   <g
      transform="translate(-798,-230)"
      id="layer4" />
+  <g
+     transform="translate(-798,-230)"
+     id="layer12" />
   <g
      transform="translate(-798,-230)"
      id="layer9" />

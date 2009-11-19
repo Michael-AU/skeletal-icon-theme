@@ -7,6 +7,8 @@
    width="24"
    height="24.025078"
    id="svg7384">
+  <title
+     id="title9167">Moblin Icon Theme</title>
   <defs
      id="defs7386" />
   <g
@@ -30,11 +32,11 @@
        id="use6091">
       <path
          d="M 861.0615,175.99424 L 871.0052,175.99424 L 877.05979,182.00464 L 877.01559,196.0142 L 861.0173,196.0142 L 861.0615,175.99424 L 861.0615,175.99424 z"
-         id="path9259"
+         id="path12323"
          style="fill:none;stroke:#bebebe;stroke-width:2;stroke-linecap:butt;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1" />
       <path
          d="M 870,176.24518 L 870,182.9558 L 877.10837,183 L 870,176.24518 z"
-         id="path9261"
+         id="path12325"
          style="fill:#bebebe;fill-opacity:1;stroke:none" />
     </g>
     <path
@@ -58,10 +60,19 @@
      id="layer1" />
   <g
      transform="translate(-772,-201.99424)"
+     id="layer11" />
+  <g
+     transform="translate(-772,-201.99424)"
      id="layer4" />
   <g
      transform="translate(-772,-201.99424)"
+     id="layer12" />
+  <g
+     transform="translate(-772,-201.99424)"
      id="layer9" />
+  <g
+     transform="translate(-772,-201.99424)"
+     id="layer10" />
   <g
      transform="translate(-772,-201.99424)"
      id="layer6" />

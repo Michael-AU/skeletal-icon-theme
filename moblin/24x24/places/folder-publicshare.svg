@@ -1,0 +1,75 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Created with Inkscape (http://www.inkscape.org/) -->
+<svg
+   xmlns:svg="http://www.w3.org/2000/svg"
+   xmlns="http://www.w3.org/2000/svg"
+   version="1.0"
+   width="24"
+   height="24"
+   id="svg7384">
+  <title
+     id="title9167">Moblin Icon Theme</title>
+  <defs
+     id="defs7386" />
+  <g
+     transform="translate(-1264,-206)"
+     id="layer3" />
+  <g
+     transform="translate(-1264,-206)"
+     id="layer5">
+    <rect
+       width="24"
+       height="24"
+       x="-1288"
+       y="206"
+       transform="scale(-1,1)"
+       id="rect8617"
+       style="opacity:0;fill:#ffffff;fill-opacity:1;stroke:none;display:inline" />
+    <path
+       d="M 1264.8438,206.03125 C 1264.3657,206.12243 1264.0226,206.54459 1264.0312,207.03125 L 1264.0312,229 C 1264.0313,229.55226 1264.4789,229.99994 1265.0312,230 L 1283.3438,230 C 1284.7915,230 1286.0291,229.36071 1286.8125,228.40625 C 1287.5959,227.45179 1287.9687,226.21214 1287.9688,224.96875 L 1287.9688,209.0625 C 1287.9687,208.51024 1287.5211,208.06256 1286.9688,208.0625 L 1274.5625,208.0625 C 1274.4064,207.69151 1274.3668,207.25482 1274.0938,206.96875 C 1273.573,206.4232 1272.846,206.03125 1272,206.03125 L 1265.0312,206.03125 C 1264.9689,206.02538 1264.9061,206.02538 1264.8438,206.03125 z M 1266.0312,208.03125 L 1272,208.03125 C 1272.1682,208.03125 1272.4454,208.12281 1272.6562,208.34375 C 1272.8671,208.56469 1272.9688,208.8783 1272.9688,209.0625 C 1272.9689,209.61476 1273.4165,210.06244 1273.9688,210.0625 L 1285.9688,210.0625 L 1285.9688,224.96875 C 1285.9687,225.80248 1285.7217,226.58841 1285.2812,227.125 C 1284.8408,227.66159 1284.2383,228 1283.3438,228 L 1266.0312,228 L 1266.0312,208.03125 z"
+       id="path8620"
+       style="fill:#bebebe;fill-opacity:1;stroke:none;stroke-width:2;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1" />
+    <path
+       d="M 1275.999,212.01215 C 1273.802,212.01215 1271.9955,213.78885 1271.9955,215.9859 C 1271.9955,218.18296 1273.802,219.98952 1275.999,219.98952 C 1278.1961,219.98952 1280.0027,218.18295 1280.0028,215.9859 C 1280.0028,213.78883 1278.1961,212.01215 1275.999,212.01215 z M 1275.999,214.01396 C 1277.114,214.01396 1278.0009,214.87095 1278.0009,215.9859 C 1278.0009,217.10085 1277.114,217.98771 1275.999,217.98771 C 1274.8841,217.98771 1273.9973,217.10084 1273.9973,215.9859 C 1273.9973,214.87093 1274.8841,214.01396 1275.999,214.01396 z"
+       id="path8714-5"
+       style="fill:#bebebe;fill-opacity:1;stroke:none;stroke-width:2.09185696;stroke-linecap:round;stroke-linejoin:round;marker:none;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;visibility:visible;display:inline;overflow:visible;enable-background:accumulate" />
+    <path
+       d="M 1275.2017,218.05073 C 1271.9296,218.48701 1269.6365,221.50111 1270.0727,224.77322 C 1270.0408,225.17884 1270.2578,225.56337 1270.6215,225.74574 C 1270.9852,225.92811 1271.4231,225.87197 1271.7291,225.60374 C 1272.035,225.33551 1272.148,224.90868 1272.0147,224.52424 C 1271.7215,222.32478 1273.2513,220.33585 1275.4507,220.04258 C 1277.6502,219.74932 1279.6889,221.27906 1279.9821,223.47852 C 1280.043,223.93427 1280.0146,224.27089 1279.9324,224.72343 C 1279.8361,225.27346 1280.204,225.79738 1280.754,225.89364 C 1281.3041,225.98989 1281.828,225.62203 1281.9242,225.072 C 1282.0383,224.44441 1282.0087,223.86201 1281.9242,223.22954 C 1281.488,219.95743 1278.4739,217.61445 1275.2017,218.05073 z"
+       id="path8763"
+       style="fill:#bebebe;fill-opacity:1;stroke:none;stroke-width:1.25511551;stroke-linecap:round;stroke-linejoin:round;marker:none;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;visibility:visible;display:inline;overflow:visible;enable-background:accumulate" />
+    <path
+       d="M 1270.9062,224.0625 C 1270.3539,224.0884 1269.9272,224.55712 1269.9531,225.1094 C 1269.979,225.66168 1270.4477,226.0884 1271,226.0625 L 1281,226.0625 C 1281.3606,226.0676 1281.6961,225.87812 1281.8779,225.56663 C 1282.0597,225.25513 1282.0597,224.86987 1281.8779,224.55837 C 1281.6961,224.24688 1281.3606,224.0574 1281,224.0625 L 1271,224.0625 C 1270.9688,224.06103 1270.9374,224.06103 1270.9062,224.0625 z"
+       id="path8766"
+       style="fill:#bebebe;fill-opacity:1;stroke:none;stroke-width:2;stroke-linecap:round;stroke-linejoin:round;marker:none;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;visibility:visible;display:inline;overflow:visible;enable-background:accumulate" />
+  </g>
+  <g
+     transform="translate(-1264,-206)"
+     id="layer7" />
+  <g
+     transform="translate(-1264,-206)"
+     id="layer2" />
+  <g
+     transform="translate(-1264,-206)"
+     id="layer8" />
+  <g
+     transform="translate(-1264,-1158.3622)"
+     id="layer1" />
+  <g
+     transform="translate(-1264,-206)"
+     id="layer11" />
+  <g
+     transform="translate(-1264,-206)"
+     id="layer4" />
+  <g
+     transform="translate(-1264,-206)"
+     id="layer12" />
+  <g
+     transform="translate(-1264,-206)"
+     id="layer9" />
+  <g
+     transform="translate(-1264,-206)"
+     id="layer10" />
+  <g
+     transform="translate(-1264,-206)"
+     id="layer6" />
+</svg>

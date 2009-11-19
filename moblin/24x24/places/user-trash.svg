@@ -7,33 +7,35 @@
    width="24"
    height="24"
    id="svg7384">
+  <title
+     id="title9167">Moblin Icon Theme</title>
   <defs
      id="defs7386" />
   <g
-     transform="translate(-1244,-174.00293)"
+     transform="translate(-1264,-174)"
      id="layer3" />
   <g
-     transform="translate(-1244,-174.00293)"
+     transform="translate(-1264,-174)"
      id="layer5">
     <rect
        width="24"
        height="24"
-       x="-1268"
-       y="174.00293"
+       x="-1288"
+       y="174"
        transform="scale(-1,1)"
        id="rect6040-5"
        style="opacity:0;fill:#ffffff;fill-opacity:1;stroke:none;display:inline" />
     <path
-       d="M 1249.0312,176 C 1246.7284,176 1245.0312,177.85779 1245.0312,180 L 1245,188 C 1245.0001,188.55226 1245.4477,188.99994 1246,189 C 1246,190.58025 1246,197 1246,197 C 1246.0001,197.55226 1246.4477,197.99994 1247,198 L 1265,198 C 1265.5523,197.99994 1265.9999,197.55226 1266,197 C 1266,197 1266,190.58025 1266,189 C 1266.5523,188.99994 1266.9999,188.55226 1267,188 L 1267,180 C 1267,177.63625 1265.0694,176 1263,176 L 1249.0312,176 z M 1249.0312,178 L 1263,178 C 1264.1126,178 1265,178.64723 1265,180 L 1265,187 C 1264.4477,187.00006 1264.0001,187.44774 1264,188 C 1264,188 1264,194.41975 1264,196 L 1248,196 C 1248,194.41975 1248,188 1248,188 C 1247.9999,187.44774 1247.5523,187.00006 1247,187 L 1247.0312,180 C 1247.0312,178.80703 1247.7084,178 1249.0312,178 z"
+       d="M 1269.0312,176 C 1266.7284,176 1265.0312,177.85779 1265.0312,180 L 1265,188 C 1265.0001,188.55226 1265.4477,188.99994 1266,189 C 1266,190.58025 1266,197 1266,197 C 1266.0001,197.55226 1266.4477,197.99994 1267,198 L 1285,198 C 1285.5523,197.99994 1285.9999,197.55226 1286,197 C 1286,197 1286,190.58025 1286,189 C 1286.5523,188.99994 1286.9999,188.55226 1287,188 L 1287,180 C 1287,177.63625 1285.0694,176 1283,176 L 1269.0312,176 z M 1269.0312,178 L 1283,178 C 1284.1126,178 1285,178.64723 1285,180 L 1285,187 C 1284.4477,187.00006 1284.0001,187.44774 1284,188 C 1284,188 1284,194.41975 1284,196 L 1268,196 C 1268,194.41975 1268,188 1268,188 C 1267.9999,187.44774 1267.5523,187.00006 1267,187 L 1267.0312,180 C 1267.0312,178.80703 1267.7084,178 1269.0312,178 z"
        id="path5460"
        style="fill:#bebebe;fill-opacity:1;stroke:none;stroke-width:2;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1" />
     <g
-       transform="matrix(1,0,0,-1,-1,366.00185)"
+       transform="matrix(1,0,0,-1,19,365.99892)"
        id="g5465">
       <path
-         d="M 1250.5,180.50001 L 1250.5,186.50187 L 1263.5,186.50187 L 1263.5,180.53318 L 1250.5,180.49998 L 1250.5,180.5 L 1250.5,180.50001 z"
+         d="M 1251,181.00189 L 1251,186.00186 L 1263,186.00186 L 1263,181.02952 L 1251,181.00182 L 1251,181.00184 L 1251,181.00185 L 1251,181.00189 z"
          id="path5458"
-         style="fill:none;stroke:#bebebe;stroke-width:1;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1" />
+         style="fill:none;stroke:#bebebe;stroke-width:2;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1" />
       <path
          d="M 1251.0849,185.00185 L 1262.8261,185.00185"
          id="path5462"
@@ -41,24 +43,33 @@
     </g>
   </g>
   <g
-     transform="translate(-1244,-174.00293)"
+     transform="translate(-1264,-174)"
      id="layer7" />
   <g
-     transform="translate(-1244,-174.00293)"
+     transform="translate(-1264,-174)"
      id="layer2" />
   <g
-     transform="translate(-1244,-174.00293)"
+     transform="translate(-1264,-174)"
      id="layer8" />
   <g
-     transform="translate(-1244,-1126.3651)"
+     transform="translate(-1264,-1126.3622)"
      id="layer1" />
   <g
-     transform="translate(-1244,-174.00293)"
+     transform="translate(-1264,-174)"
+     id="layer11" />
+  <g
+     transform="translate(-1264,-174)"
      id="layer4" />
   <g
-     transform="translate(-1244,-174.00293)"
+     transform="translate(-1264,-174)"
+     id="layer12" />
+  <g
+     transform="translate(-1264,-174)"
      id="layer9" />
   <g
-     transform="translate(-1244,-174.00293)"
+     transform="translate(-1264,-174)"
+     id="layer10" />
+  <g
+     transform="translate(-1264,-174)"
      id="layer6" />
 </svg>

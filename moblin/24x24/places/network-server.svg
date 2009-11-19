@@ -8,6 +8,8 @@
    width="24"
    height="24.00293"
    id="svg7384">
+  <title
+     id="title9167">Moblin Icon Theme</title>
   <defs
      id="defs7386">
     <linearGradient
@@ -26,7 +28,7 @@
        y1="121.73069"
        x2="105.91268"
        y2="115.05012"
-       id="linearGradient8939"
+       id="linearGradient13326"
        xlink:href="#linearGradient7487-1"
        gradientUnits="userSpaceOnUse"
        gradientTransform="matrix(1,0,0,1.273349,-302.90995,-1356.442)" />
@@ -35,7 +37,7 @@
        y1="121.0463"
        x2="105.91268"
        y2="115.05012"
-       id="linearGradient8943"
+       id="linearGradient13330"
        xlink:href="#linearGradient7487-1"
        gradientUnits="userSpaceOnUse"
        gradientTransform="matrix(1,0,0,1.091442,-302.90995,1060.4783)" />
@@ -63,7 +65,7 @@
        y="1186"
        transform="matrix(0,-1,1,0,0,0)"
        id="rect7673"
-       style="fill:url(#linearGradient8943);fill-opacity:1;stroke:none;display:inline" />
+       style="fill:url(#linearGradient13330);fill-opacity:1;stroke:none;display:inline" />
     <rect
        width="2.0000005"
        height="5"
@@ -83,24 +85,16 @@
        y="-1210"
        transform="matrix(0,-1,-1,0,0,0)"
        id="rect7677"
-       style="fill:url(#linearGradient8939);fill-opacity:1;stroke:none;display:inline" />
+       style="fill:url(#linearGradient13326);fill-opacity:1;stroke:none;display:inline" />
     <rect
-       width="2.0000002"
-       height="2"
-       rx="1.0000001"
-       ry="1.0000001"
-       x="1196"
-       y="188"
+       width="3.9999998"
+       height="3.9999993"
+       rx="1.9999996"
+       ry="1.9999996"
+       x="1195"
+       y="186"
        id="rect7687"
        style="fill:#bebebe;fill-opacity:1;stroke:none;display:inline" />
-    <path
-       d="M 1193.4062,179 C 1193.1301,179.03452 1192.9342,179.28636 1192.9687,179.5625 C 1193.0032,179.83864 1193.2551,180.03452 1193.5312,180 L 1200.5,180 C 1200.6803,180.00255 1200.848,179.90781 1200.9389,179.75206 C 1201.0298,179.59631 1201.0298,179.40369 1200.9389,179.24794 C 1200.848,179.09219 1200.6803,178.99745 1200.5,179 L 1193.5312,179 C 1193.4897,178.99477 1193.4477,178.99477 1193.4062,179 z"
-       id="path5630"
-       style="fill:#bebebe;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:round;stroke-linejoin:miter;stroke-opacity:1" />
-    <path
-       d="M 1198.4062,181 C 1198.1301,181.0259 1197.9272,181.27076 1197.9531,181.5469 C 1197.979,181.82304 1198.2239,182.0259 1198.5,182 L 1199.4375,182 C 1199.6178,182.00255 1199.7855,181.90781 1199.8764,181.75206 C 1199.9673,181.59631 1199.9673,181.40369 1199.8764,181.24794 C 1199.7855,181.09219 1199.6178,180.99745 1199.4375,181 L 1198.5,181 C 1198.4688,180.99706 1198.4374,180.99706 1198.4062,181 z"
-       id="path5632"
-       style="fill:#bebebe;fill-opacity:1;stroke:none;stroke-width:0.99999988px;stroke-linecap:round;stroke-linejoin:miter;stroke-opacity:1" />
     <path
        d="M 1192,174 C 1190.9093,174 1190,174.9093 1190,176 L 1190,192 C 1190,193.0907 1190.9093,194 1192,194 L 1202,194 C 1203.0907,194 1204,193.0907 1204,192 L 1204,176 C 1204,174.9093 1203.0907,174 1202,174 L 1192,174 z M 1192,176 L 1202,176 L 1202,192 L 1192,192 L 1192,176 z"
        id="rect7536"
@@ -120,10 +114,19 @@
      id="layer1" />
   <g
      transform="translate(-1186,-174)"
+     id="layer11" />
+  <g
+     transform="translate(-1186,-174)"
      id="layer4" />
   <g
      transform="translate(-1186,-174)"
+     id="layer12" />
+  <g
+     transform="translate(-1186,-174)"
      id="layer9" />
+  <g
+     transform="translate(-1186,-174)"
+     id="layer10" />
   <g
      transform="translate(-1186,-174)"
      id="layer6" />

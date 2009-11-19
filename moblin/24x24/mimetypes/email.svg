@@ -7,22 +7,24 @@
    width="24"
    height="24"
    id="svg7384">
+  <title
+     id="title9167">Moblin Icon Theme</title>
   <defs
      id="defs7386" />
   <g
-     transform="translate(-974,-175.01932)"
+     transform="translate(-974,-174.01932)"
      id="layer3" />
   <g
-     transform="translate(-974,-175.01932)"
+     transform="translate(-974,-174.01932)"
      id="layer5" />
   <g
-     transform="translate(-974,-175.01932)"
+     transform="translate(-974,-174.01932)"
      id="layer7">
     <rect
        width="24"
        height="24"
        x="974"
-       y="175.01932"
+       y="174.01932"
        id="rect13080-5"
        style="opacity:0;fill:#ffffff;fill-opacity:1;stroke:none;display:inline" />
     <rect
@@ -31,7 +33,7 @@
        rx="1"
        ry="1"
        x="-997"
-       y="178.01932"
+       y="177.01932"
        transform="scale(-1,1)"
        id="rect6405-8-4"
        style="fill:#bebebe;fill-opacity:1;stroke:none;display:inline" />
@@ -40,7 +42,7 @@
        height="2"
        rx="1"
        ry="1"
-       x="178.01932"
+       x="177.01932"
        y="975"
        transform="matrix(0,1,1,0,0,0)"
        id="rect5871-0-63"
@@ -51,7 +53,7 @@
        rx="1"
        ry="1"
        x="975"
-       y="-196.01932"
+       y="-195.01932"
        transform="scale(1,-1)"
        id="rect2878-0-0"
        style="fill:#bebebe;fill-opacity:1;stroke:none;display:inline" />
@@ -60,36 +62,45 @@
        height="2"
        rx="1"
        ry="1"
-       x="-196.01932"
+       x="-195.01932"
        y="-997.0177"
        transform="matrix(0,-1,-1,0,0,0)"
        id="rect2880-7-7"
        style="fill:#bebebe;fill-opacity:1;stroke:none;display:inline" />
     <path
-       d="M 979.0057,183.43207 L 985.292,189.72542 C 985.6838,190.11716 986.3145,190.11716 986.7062,189.72542 C 987.098,189.33368 987.098,188.70295 986.7062,188.31121 L 980.4199,182.01786 C 980.4199,182.01786 979.0057,182.01786 979.0057,182.01786 C 979.0057,182.01786 979.0057,183.43207 979.0057,183.43207 z"
+       d="M 979.0057,182.43207 L 985.292,188.72542 C 985.6838,189.11716 986.3145,189.11716 986.7062,188.72542 C 987.098,188.33368 987.098,187.70295 986.7062,187.31121 L 980.4199,181.01786 C 980.4199,181.01786 979.0057,181.01786 979.0057,181.01786 C 979.0057,181.01786 979.0057,182.43207 979.0057,182.43207 z"
        id="rect13122"
        style="fill:#bebebe;fill-opacity:1;stroke:none;display:inline" />
     <path
-       d="M 992.9943,183.43207 L 986.708,189.72542 C 986.3163,190.11716 985.6855,190.11716 985.2938,189.72542 C 984.9021,189.33368 984.9021,188.70295 985.2938,188.31121 L 991.5801,182.01786 C 991.5801,182.01786 992.9943,182.01786 992.9943,182.01786 C 992.9943,182.01786 992.9943,183.43207 992.9943,183.43207 L 992.9943,183.43207 z"
+       d="M 992.9943,182.43207 L 986.708,188.72542 C 986.3163,189.11716 985.6855,189.11716 985.2938,188.72542 C 984.9021,188.33368 984.9021,187.70295 985.2938,187.31121 L 991.5801,181.01786 C 991.5801,181.01786 992.9943,181.01786 992.9943,181.01786 C 992.9943,181.01786 992.9943,182.43207 992.9943,182.43207 L 992.9943,182.43207 z"
        id="path13147"
        style="fill:#bebebe;fill-opacity:1;stroke:none;display:inline" />
   </g>
   <g
-     transform="translate(-974,-175.01932)"
+     transform="translate(-974,-174.01932)"
      id="layer2" />
   <g
-     transform="translate(-974,-175.01932)"
+     transform="translate(-974,-174.01932)"
      id="layer8" />
   <g
-     transform="translate(-974,-1127.3815)"
+     transform="translate(-974,-1126.3815)"
      id="layer1" />
   <g
-     transform="translate(-974,-175.01932)"
+     transform="translate(-974,-174.01932)"
+     id="layer11" />
+  <g
+     transform="translate(-974,-174.01932)"
      id="layer4" />
   <g
-     transform="translate(-974,-175.01932)"
+     transform="translate(-974,-174.01932)"
+     id="layer12" />
+  <g
+     transform="translate(-974,-174.01932)"
      id="layer9" />
   <g
-     transform="translate(-974,-175.01932)"
+     transform="translate(-974,-174.01932)"
+     id="layer10" />
+  <g
+     transform="translate(-974,-174.01932)"
      id="layer6" />
 </svg>

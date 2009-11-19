@@ -4,57 +4,60 @@
    xmlns:svg="http://www.w3.org/2000/svg"
    xmlns="http://www.w3.org/2000/svg"
    version="1.0"
-   width="24.04772"
+   width="24"
    height="24"
    id="svg7384">
+  <title
+     id="title9167">Moblin Icon Theme</title>
   <defs
      id="defs7386" />
   <g
-     transform="translate(-1130.0148,-174.00293)"
+     transform="translate(-1134,-174)"
      id="layer3" />
   <g
-     transform="translate(-1130.0148,-174.00293)"
+     transform="translate(-1134,-174)"
      id="layer5">
     <rect
        width="24"
        height="24"
-       x="-1154.0625"
-       y="174.00293"
+       x="-1158"
+       y="174"
        transform="scale(-1,1)"
        id="rect7466"
        style="opacity:0;fill:#ffffff;fill-opacity:1;stroke:none;display:inline" />
-    <g
-       transform="translate(680,761)"
-       id="g7495">
-      <path
-         d="M 455.00184,-578 L 471.0625,-578 L 471.0625,-572.02066 C 471.0625,-569.94354 469.78607,-568 467.44378,-568 L 451.01478,-568 L 451.01478,-585.97227 L 456.9375,-585.97227 C 458.95323,-585.97227 460,-584.52938 460,-582.97227 L 460.0329,-582 L 469.06249,-582 L 469.06249,-578"
-         id="path4631"
-         style="fill:none;stroke:#bebebe;stroke-width:2;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1" />
-      <path
-         d="M 454.51127,-577.94084 L 454.51146,-572 C 454.51127,-569.83448 452.96474,-568.92707 452.03666,-568.92707"
-         id="path5427"
-         style="fill:none;stroke:#bebebe;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1" />
-    </g>
+    <path
+       d="M 1134.8438,174.03125 C 1134.3657,174.12243 1134.0226,174.54459 1134.0312,175.03125 L 1134.0312,197 C 1134.0313,197.55226 1134.4789,197.99994 1135.0312,198 L 1153.3438,198 C 1154.7915,198 1156.0291,197.36071 1156.8125,196.40625 C 1157.5959,195.45179 1157.9687,194.21214 1157.9688,192.96875 L 1157.9688,179 C 1157.9687,178.44774 1157.5211,178.00006 1156.9688,178 L 1146,178 C 1146.0131,177.5249 1146.0312,177.0625 1146.0312,177.0625 L 1145.0312,177.03125 L 1146.0312,177.03125 C 1146.0312,175.38755 1144.7099,174.03126 1143.0312,174.03125 L 1135.0312,174.03125 C 1134.9689,174.02538 1134.9061,174.02538 1134.8438,174.03125 z M 1136.0312,176.03125 L 1143.0312,176.03125 C 1143.4895,176.03125 1144.0312,176.64051 1144.0312,177.03125 C 1144.0287,177.35152 1144.1798,177.6536 1144.4375,177.84375 C 1144.2395,177.79864 1144.0059,177.7554 1144,177.96875 C 1143.9865,178.46016 1144,178.96875 1144,178.96875 C 1143.9916,179.23933 1144.0932,179.50177 1144.2816,179.69612 C 1144.4701,179.89046 1144.7293,180.0001 1145,180 L 1155.9688,180 L 1155.9688,192.96875 C 1155.9687,193.80248 1155.7217,194.58841 1155.2812,195.125 C 1154.8408,195.66159 1154.2383,196 1153.3438,196 L 1136.0312,196 L 1136.0312,176.03125 z"
+       id="path8794"
+       style="fill:#bebebe;fill-opacity:1;stroke:none;stroke-width:2;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1" />
   </g>
   <g
-     transform="translate(-1130.0148,-174.00293)"
+     transform="translate(-1134,-174)"
      id="layer7" />
   <g
-     transform="translate(-1130.0148,-174.00293)"
+     transform="translate(-1134,-174)"
      id="layer2" />
   <g
-     transform="translate(-1130.0148,-174.00293)"
+     transform="translate(-1134,-174)"
      id="layer8" />
   <g
-     transform="translate(-1130.0148,-1126.3651)"
+     transform="translate(-1134,-1126.3622)"
      id="layer1" />
   <g
-     transform="translate(-1130.0148,-174.00293)"
+     transform="translate(-1134,-174)"
+     id="layer11" />
+  <g
+     transform="translate(-1134,-174)"
      id="layer4" />
   <g
-     transform="translate(-1130.0148,-174.00293)"
+     transform="translate(-1134,-174)"
+     id="layer12" />
+  <g
+     transform="translate(-1134,-174)"
      id="layer9" />
   <g
-     transform="translate(-1130.0148,-174.00293)"
+     transform="translate(-1134,-174)"
+     id="layer10" />
+  <g
+     transform="translate(-1134,-174)"
      id="layer6" />
 </svg>

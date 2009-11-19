@@ -5,20 +5,20 @@
    xmlns="http://www.w3.org/2000/svg"
    version="1.0"
    width="24"
-   height="24.025078"
+   height="24.030838"
    id="svg7384">
   <title
      id="title9167">Moblin Icon Theme</title>
   <defs
      id="defs7386" />
   <g
-     transform="translate(-886,-230)"
+     transform="translate(-886,-229.99424)"
      id="layer3" />
   <g
-     transform="translate(-886,-230)"
+     transform="translate(-886,-229.99424)"
      id="layer5" />
   <g
-     transform="translate(-886,-230)"
+     transform="translate(-886,-229.99424)"
      id="layer7">
     <rect
        width="24"
@@ -28,71 +28,100 @@
        id="rect8520"
        style="opacity:0;fill:#ffffff;fill-opacity:1;stroke:none;display:inline" />
     <g
-       transform="translate(28,55.00576)"
-       id="use8522">
+       transform="translate(28,55)"
+       id="use8949">
+      <g
+         id="g12348">
+        <path
+           d="M 861.0173,196.0142 L 861.0615,175.99424 L 861.0615,175.99424 L 871.0052,175.99424 L 877.05979,182.00464 L 877.05379,183.87517"
+           id="path12350"
+           style="fill:none;stroke:#bebebe;stroke-width:2;stroke-linecap:square;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1" />
+        <path
+           d="M 870,176.24518 L 870,182.9558 L 877.10837,183 L 870,176.24518 z"
+           id="path12352"
+           style="fill:#bebebe;fill-opacity:1;stroke:none" />
+      </g>
       <path
-         d="M 861.0615,175.99424 L 871.0052,175.99424 L 877.05979,182.00464 L 877.01559,196.0142 L 861.0173,196.0142 L 861.0615,175.99424 L 861.0615,175.99424 z"
-         id="path12290"
-         style="fill:none;stroke:#bebebe;stroke-width:2;stroke-linecap:butt;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1" />
-      <path
-         d="M 870,176.24518 L 870,182.9558 L 877.10837,183 L 870,176.24518 z"
-         id="path12292"
-         style="fill:#bebebe;fill-opacity:1;stroke:none" />
+         d="M 895.99267,204.03309 L 891.03331,222.05276 L 889.97691,222.06426 L 889.98191,204.03304 L 895.99232,204.03304 L 895.99267,204.03309 z"
+         transform="translate(-28,-27)"
+         id="path12354"
+         style="opacity:0.5;fill:#bebebe;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1" />
+      <rect
+         width="2"
+         height="2"
+         x="868"
+         y="195"
+         id="rect12356"
+         style="fill:#bebebe;fill-opacity:1;stroke:none;stroke-width:2;marker:none;visibility:visible;display:inline;overflow:visible;enable-background:accumulate" />
+      <rect
+         width="2"
+         height="2"
+         x="872"
+         y="195"
+         id="rect12358"
+         style="fill:#bebebe;fill-opacity:1;stroke:none;stroke-width:2;marker:none;visibility:visible;display:inline;overflow:visible;enable-background:accumulate" />
+      <rect
+         width="2"
+         height="2"
+         x="876"
+         y="195"
+         id="rect12360"
+         style="fill:#bebebe;fill-opacity:1;stroke:none;stroke-width:2;marker:none;visibility:visible;display:inline;overflow:visible;enable-background:accumulate" />
+      <rect
+         width="2"
+         height="2"
+         x="876"
+         y="191"
+         id="rect12362"
+         style="fill:#bebebe;fill-opacity:1;stroke:none;stroke-width:2;marker:none;visibility:visible;display:inline;overflow:visible;enable-background:accumulate" />
+      <rect
+         width="2"
+         height="2"
+         x="876"
+         y="187"
+         id="rect12364"
+         style="fill:#bebebe;fill-opacity:1;stroke:none;stroke-width:2;marker:none;visibility:visible;display:inline;overflow:visible;enable-background:accumulate" />
+      <rect
+         width="2"
+         height="2"
+         x="864"
+         y="195"
+         id="rect12366"
+         style="fill:#bebebe;fill-opacity:1;stroke:none;stroke-width:2;marker:none;visibility:visible;display:inline;overflow:visible;enable-background:accumulate" />
     </g>
-    <path
-       d="M 895.99267,232.03885 L 891.03331,250.05852 L 889.97691,250.07002 L 889.98191,232.0388 L 895.99232,232.0388 L 895.99267,232.03885 z"
-       id="path8524"
-       style="opacity:0.5;fill:#bebebe;fill-opacity:1;stroke:none" />
-    <path
-       d="M 891.40625,235 C 891.13011,235.02589 890.92724,235.27073 890.95312,235.54688 C 890.97901,235.82302 891.22386,236.02589 891.5,236 L 896.03125,236 C 896.21157,236.00255 896.37929,235.90781 896.47019,235.75206 C 896.5611,235.59631 896.5611,235.40369 896.47019,235.24794 C 896.37929,235.09219 896.21157,234.99745 896.03125,235 L 891.5,235 C 891.46882,234.99706 891.43743,234.99706 891.40625,235 z"
-       id="path8100-5-3"
-       style="opacity:0.5;fill:#bebebe;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:round;stroke-linejoin:miter;stroke-opacity:1" />
-    <path
-       d="M 891.40625,238 C 891.13011,238.02589 890.92724,238.27073 890.95312,238.54688 C 890.97901,238.82302 891.22386,239.02589 891.5,239 L 896.03125,239 C 896.21157,239.00255 896.37929,238.90781 896.47019,238.75206 C 896.5611,238.59631 896.5611,238.40369 896.47019,238.24794 C 896.37929,238.09219 896.21157,237.99745 896.03125,238 L 891.5,238 C 891.46882,237.99706 891.43743,237.99706 891.40625,238 z"
-       id="path8106-0-3"
-       style="opacity:0.5;fill:#bebebe;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:round;stroke-linejoin:miter;stroke-opacity:1" />
-    <path
-       d="M 891.40625,241 C 891.13011,241.02589 890.92724,241.27073 890.95313,241.54687 C 890.97901,241.82302 891.22386,242.02589 891.5,242 L 902.5,242 C 902.68032,242.00255 902.84804,241.90781 902.93894,241.75206 C 903.02985,241.59631 903.02985,241.40369 902.93894,241.24794 C 902.84804,241.09219 902.68032,240.99745 902.5,241 L 891.5,241 C 891.46882,240.99706 891.43743,240.99706 891.40625,241 z"
-       id="path8110-4-9"
-       style="opacity:0.5;fill:#bebebe;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:round;stroke-linejoin:miter;stroke-opacity:1" />
-    <path
-       d="M 891.4375,247 C 891.16136,247.02589 890.95849,247.27073 890.98437,247.54687 C 891.01026,247.82302 891.25511,248.02589 891.53125,248 L 902.5,248 C 902.68032,248.00255 902.84804,247.90781 902.93894,247.75206 C 903.02984,247.59631 903.02984,247.40369 902.93894,247.24794 C 902.84804,247.09219 902.68032,246.99745 902.5,247 L 891.53125,247 C 891.50007,246.99706 891.46868,246.99706 891.4375,247 z"
-       id="path8114-7-7"
-       style="opacity:0.5;fill:#bebebe;fill-opacity:1;stroke:none;stroke-width:0.99999994px;stroke-linecap:round;stroke-linejoin:miter;stroke-opacity:1" />
-    <path
-       d="M 891.4375,244 C 891.16136,244.02589 890.95849,244.27073 890.98437,244.54688 C 891.01026,244.82302 891.25511,245.02589 891.53125,245 L 902.5,245 C 902.68032,245.00255 902.84804,244.90781 902.93894,244.75206 C 903.02985,244.59631 903.02985,244.40369 902.93894,244.24794 C 902.84804,244.09219 902.68032,243.99745 902.5,244 L 891.53125,244 C 891.50007,243.99706 891.46868,243.99706 891.4375,244 z"
-       id="path8118-7-9"
-       style="opacity:0.5;fill:#bebebe;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:round;stroke-linejoin:miter;stroke-opacity:1" />
-    <path
-       d="M 896.40625,232 C 896.26736,232.0412 896.15316,232.1406 896.09322,232.27248 C 896.03327,232.40437 896.03346,232.55577 896.09375,232.6875 L 903.03125,249.6875 C 903.1348,249.94638 903.42862,250.0723 903.6875,249.96875 C 903.94638,249.8652 904.0723,249.57138 903.96875,249.3125 L 897.03125,232.3125 C 896.94233,232.0559 896.66488,231.91717 896.40625,232 L 896.40625,232 z"
-       id="path8592"
-       style="fill:#bdbdbd;fill-opacity:0.50196288;fill-rule:nonzero;stroke:none;stroke-width:1;stroke-linecap:round;marker:none;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1;visibility:visible;display:inline;overflow:visible;enable-background:accumulate" />
+    <rect
+       width="6"
+       height="6"
+       x="892"
+       y="242"
+       id="rect8120-7"
+       style="fill:#bebebe;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:2;marker:none;visibility:visible;display:inline;overflow:visible;enable-background:accumulate" />
   </g>
   <g
-     transform="translate(-886,-230)"
+     transform="translate(-886,-229.99424)"
      id="layer2" />
   <g
-     transform="translate(-886,-230)"
+     transform="translate(-886,-229.99424)"
      id="layer8" />
   <g
-     transform="translate(-886,-1182.3622)"
+     transform="translate(-886,-1182.3564)"
      id="layer1" />
   <g
-     transform="translate(-886,-230)"
+     transform="translate(-886,-229.99424)"
      id="layer11" />
   <g
-     transform="translate(-886,-230)"
+     transform="translate(-886,-229.99424)"
      id="layer4" />
   <g
-     transform="translate(-886,-230)"
+     transform="translate(-886,-229.99424)"
      id="layer12" />
   <g
-     transform="translate(-886,-230)"
+     transform="translate(-886,-229.99424)"
      id="layer9" />
   <g
-     transform="translate(-886,-230)"
+     transform="translate(-886,-229.99424)"
      id="layer10" />
   <g
-     transform="translate(-886,-230)"
+     transform="translate(-886,-229.99424)"
      id="layer6" />
 </svg>

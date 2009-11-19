@@ -7,22 +7,24 @@
    width="24"
    height="24"
    id="svg7384">
+  <title
+     id="title9167">Moblin Icon Theme</title>
   <defs
      id="defs7386" />
   <g
-     transform="translate(-829,-175.01932)"
+     transform="translate(-829,-174.01932)"
      id="layer3" />
   <g
-     transform="translate(-829,-175.01932)"
+     transform="translate(-829,-174.01932)"
      id="layer5" />
   <g
-     transform="translate(-829,-175.01932)"
+     transform="translate(-829,-174.01932)"
      id="layer7">
     <rect
        width="24"
        height="24"
        x="829"
-       y="175.01932"
+       y="174.01932"
        id="rect7735"
        style="opacity:0;fill:#ffffff;fill-opacity:1;stroke:none;display:inline" />
     <rect
@@ -30,7 +32,7 @@
        height="2"
        rx="0.99999994"
        ry="1"
-       x="177.01932"
+       x="176.01932"
        y="831"
        transform="matrix(0,1,1,0,0,0)"
        id="rect2865"
@@ -40,7 +42,7 @@
        height="2"
        rx="0.99999994"
        ry="1"
-       x="177.01932"
+       x="176.01932"
        y="849"
        transform="matrix(0,1,1,0,0,0)"
        id="rect3634-6"
@@ -51,7 +53,7 @@
        rx="0.99999994"
        ry="1"
        x="-851"
-       y="177.01932"
+       y="176.01932"
        transform="scale(-1,1)"
        id="rect3636-5"
        style="fill:#bebebe;fill-opacity:1;stroke:none;display:inline" />
@@ -61,7 +63,7 @@
        rx="0.99999994"
        ry="1"
        x="-851"
-       y="195.01935"
+       y="194.01935"
        transform="scale(-1,1)"
        id="rect3638"
        style="fill:#bebebe;fill-opacity:1;stroke:none;display:inline" />
@@ -71,7 +73,7 @@
        rx="0"
        ry="0"
        x="-847"
-       y="181.01935"
+       y="180.01935"
        transform="scale(-1,1)"
        id="rect7755"
        style="fill:#bebebe;fill-opacity:1;stroke:none;display:inline" />
@@ -81,7 +83,7 @@
        rx="0"
        ry="0"
        x="-847"
-       y="189.01935"
+       y="188.01935"
        transform="scale(-1,1)"
        id="rect7757"
        style="fill:#bebebe;fill-opacity:1;stroke:none;display:inline" />
@@ -90,7 +92,7 @@
        height="2"
        rx="0"
        ry="0"
-       x="181.01935"
+       x="180.01935"
        y="845"
        transform="matrix(0,1,1,0,0,0)"
        id="rect7759"
@@ -100,28 +102,37 @@
        height="2"
        rx="0"
        ry="0"
-       x="181.01935"
+       x="180.01935"
        y="835"
        transform="matrix(0,1,1,0,0,0)"
        id="rect7761"
        style="fill:#bebebe;fill-opacity:1;stroke:none;display:inline" />
   </g>
   <g
-     transform="translate(-829,-175.01932)"
+     transform="translate(-829,-174.01932)"
      id="layer2" />
   <g
-     transform="translate(-829,-175.01932)"
+     transform="translate(-829,-174.01932)"
      id="layer8" />
   <g
-     transform="translate(-829,-1127.3815)"
+     transform="translate(-829,-1126.3815)"
      id="layer1" />
   <g
-     transform="translate(-829,-175.01932)"
+     transform="translate(-829,-174.01932)"
+     id="layer11" />
+  <g
+     transform="translate(-829,-174.01932)"
      id="layer4" />
   <g
-     transform="translate(-829,-175.01932)"
+     transform="translate(-829,-174.01932)"
+     id="layer12" />
+  <g
+     transform="translate(-829,-174.01932)"
      id="layer9" />
   <g
-     transform="translate(-829,-175.01932)"
+     transform="translate(-829,-174.01932)"
+     id="layer10" />
+  <g
+     transform="translate(-829,-174.01932)"
      id="layer6" />
 </svg>

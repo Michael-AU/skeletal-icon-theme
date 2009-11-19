@@ -7,6 +7,8 @@
    width="24"
    height="24"
    id="svg7384">
+  <title
+     id="title9167">Moblin Icon Theme</title>
   <defs
      id="defs7386" />
   <g
@@ -34,7 +36,7 @@
        id="path6307"
        style="fill:#bebebe;fill-opacity:1;stroke:none;stroke-width:0.77777588;stroke-linecap:round;stroke-linejoin:round;marker:none;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;visibility:visible;display:inline;overflow:visible;enable-background:accumulate" />
     <path
-       d="M 959.85935,213.70152 C 959.40605,213.7689 959.054,214.10068 958.99215,214.51876 C 958.9537,214.75051 958.93071,214.99996 958.94768,215.23386 C 959.07668,217.01168 960.7929,218.3762 962.72777,218.25767 C 964.66263,218.13915 966.14766,216.5622 966.01866,214.78437 C 965.97568,214.25403 965.47294,213.85612 964.89575,213.89561 C 964.31857,213.93511 963.88552,214.39705 963.9285,214.92739 C 963.9824,215.67023 963.38057,216.28762 962.57211,216.33714 C 961.76363,216.38667 961.09175,215.83369 961.03785,215.09084 C 961.02945,214.97507 961.04105,214.9195 961.06008,214.8048 C 961.11551,214.49939 961.00699,214.18818 960.76871,213.96924 C 960.53043,213.7503 960.19174,213.65059 959.85935,213.70152 L 959.85935,213.70152 z"
+       d="M 959.85935,213.70152 C 959.40605,213.7689 959.054,214.10068 958.99215,214.51876 C 958.9537,214.75051 958.93071,214.99996 958.94768,215.23386 C 959.07668,217.01168 960.7929,218.3762 962.72777,218.25767 C 964.66263,218.13915 966.14766,216.5622 966.01866,214.78437 C 965.97568,214.25403 965.47294,213.85612 964.89575,213.89561 C 964.31857,213.93511 963.88552,214.39705 963.9285,214.92739 C 963.9824,215.67023 963.38057,216.28762 962.57211,216.33714 C 961.76363,216.38667 961.09175,215.83369 961.03785,215.09084 C 961.02945,214.97507 961.04105,214.9195 961.06008,214.8048 C 961.11551,214.49939 961.00699,214.18818 960.76871,213.96924 C 960.53043,213.7503 960.19174,213.65059 959.85935,213.70152 z"
        id="path6309"
        style="fill:#bebebe;fill-opacity:1;stroke:none;stroke-width:2.93229055;stroke-linecap:round;stroke-linejoin:round;marker:none;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;visibility:visible;display:inline;overflow:visible;enable-background:accumulate" />
   </g>
@@ -49,10 +51,19 @@
      id="layer1" />
   <g
      transform="translate(-944,-202)"
+     id="layer11" />
+  <g
+     transform="translate(-944,-202)"
      id="layer4" />
   <g
      transform="translate(-944,-202)"
+     id="layer12" />
+  <g
+     transform="translate(-944,-202)"
      id="layer9" />
+  <g
+     transform="translate(-944,-202)"
+     id="layer10" />
   <g
      transform="translate(-944,-202)"
      id="layer6" />
