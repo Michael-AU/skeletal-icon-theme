@@ -6873,6 +6873,13 @@
        inkscape:vp_y="0 : 1000 : 0"
        inkscape:vp_x="0 : 0.5 : 1"
        sodipodi:type="inkscape:persp3d" />
+    <inkscape:perspective
+       id="perspective7870-0"
+       inkscape:persp3d-origin="0.5 : 0.33333333 : 1"
+       inkscape:vp_z="1 : 0.5 : 1"
+       inkscape:vp_y="0 : 1000 : 0"
+       inkscape:vp_x="0 : 0.5 : 1"
+       sodipodi:type="inkscape:persp3d" />
   </defs>
   <sodipodi:namedview
      id="base"
@@ -6882,16 +6889,16 @@
      inkscape:pageopacity="0"
      inkscape:pageshadow="2"
      inkscape:zoom="1"
-     inkscape:cx="1433.3945"
-     inkscape:cy="-273.44994"
+     inkscape:cx="1570.9931"
+     inkscape:cy="-310.42869"
      inkscape:document-units="px"
      inkscape:current-layer="layer3"
      showgrid="false"
      showborder="false"
      inkscape:window-width="1186"
      inkscape:window-height="1068"
-     inkscape:window-x="1758"
-     inkscape:window-y="42"
+     inkscape:window-x="1801"
+     inkscape:window-y="0"
      inkscape:window-maximized="0"
      inkscape:showpageshadow="false"
      showguides="false"
@@ -10707,6 +10714,24 @@ Claire Alexander</dc:title>
          d="m 1501.9299,178.92896 1.4142,1.41422"
          id="path7846"
          sodipodi:nodetypes="cc" />
+    </g>
+    <g
+       transform="translate(61.999023,220.99997)"
+       inkscape:label="power-saving-mode"
+       id="g7836">
+      <rect
+         y="1498.001"
+         x="-199.01474"
+         height="24"
+         width="24"
+         id="rect7838"
+         style="opacity:0;fill:#ffffff;fill-opacity:1;stroke:none;display:inline"
+         transform="matrix(0,-1,1,0,0,0)" />
+      <path
+         style="color:#000000;fill:none;stroke:#bebebe;stroke-width:2;stroke-linecap:round;stroke-linejoin:miter;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none;stroke-dashoffset:0;marker:none;visibility:visible;display:inline;overflow:visible;enable-background:new"
+         d="m 1508.6983,187.75278 c 0.7165,0.0453 0.2925,0.96796 -0.075,1.16591 -0.9963,0.53653 -2.2035,-0.48628 -2.4311,-1.41016 -0.4523,-1.83654 0.9181,-3.47222 3.4508,-3.47222 1.8467,0 3.3495,1.99054 3.3495,4.42371 0,2.9436 -2.3024,4.59104 -5.2013,4.59104 -3.3947,0 -6.768,-1.74988 -6.768,-6.9345 0,-3.23319 2.1136,-8.08928 9.0406,-8.08928 6.3627,0 8.9372,5.18159 8.9372,10.80638 0,1.1083 -0.036,3.14033 -0.036,3.14033 l -6.9184,0.0206"
+         id="path7859"
+         sodipodi:nodetypes="csssssssscc" />
     </g>
   </g>
   <g
