@@ -6880,6 +6880,13 @@
        inkscape:vp_y="0 : 1000 : 0"
        inkscape:vp_x="0 : 0.5 : 1"
        sodipodi:type="inkscape:persp3d" />
+    <inkscape:perspective
+       id="perspective7848"
+       inkscape:persp3d-origin="0.5 : 0.33333333 : 1"
+       inkscape:vp_z="1 : 0.5 : 1"
+       inkscape:vp_y="0 : 1000 : 0"
+       inkscape:vp_x="0 : 0.5 : 1"
+       sodipodi:type="inkscape:persp3d" />
   </defs>
   <sodipodi:namedview
      id="base"
@@ -6889,10 +6896,10 @@
      inkscape:pageopacity="0"
      inkscape:pageshadow="2"
      inkscape:zoom="1"
-     inkscape:cx="1570.9931"
-     inkscape:cy="-310.42869"
+     inkscape:cx="417.30462"
+     inkscape:cy="-138.96447"
      inkscape:document-units="px"
-     inkscape:current-layer="layer3"
+     inkscape:current-layer="layer1"
      showgrid="false"
      showborder="false"
      inkscape:window-width="1186"
@@ -16033,6 +16040,36 @@ Claire Alexander</dc:title>
        sodipodi:ry="2"
        d="m 1510.75,202.75 c 0,1.10457 -0.8954,2 -2,2 -1.1046,0 -2,-0.89543 -2,-2 0,-1.10457 0.8954,-2 2,-2 1.1046,0 2,0.89543 2,2 z"
        transform="translate(-1116.75,1005.6122)" />
+    <g
+       id="g7907-5"
+       inkscape:label="input-touchpad"
+       transform="translate(-1029.9766,977.34744)">
+      <rect
+         y="1440.001"
+         x="-229.01474"
+         height="24"
+         width="24"
+         id="rect7909-1"
+         style="opacity:0;fill:#ffffff;fill-opacity:1;stroke:none;display:inline"
+         transform="matrix(0,-1,1,0,0,0)" />
+      <rect
+         style="color:#000000;fill:none;stroke:#bebebe;stroke-width:2.09847474;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none;stroke-dashoffset:0;marker:none;visibility:visible;display:inline;overflow:visible;enable-background:accumulate"
+         id="rect7921-7"
+         width="19.874914"
+         height="15.988205"
+         x="1441.0768"
+         y="208.06398"
+         rx="2.1539314"
+         ry="1.9326401" />
+      <path
+         style="color:#000000;fill:none;stroke:#bebebe;stroke-width:2.09892535;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none;stroke-dashoffset:0;marker:none;visibility:visible;display:inline;overflow:visible;enable-background:accumulate"
+         d="m 1441.0261,219.94888 19.859,0"
+         id="path7923-8" />
+      <path
+         style="color:#000000;fill:none;stroke:#bebebe;stroke-width:2;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none;stroke-dashoffset:0;marker:none;visibility:visible;display:inline;overflow:visible;enable-background:accumulate"
+         d="m 1451.001,219.94888 0,4.06586"
+         id="path7925-7" />
+    </g>
   </g>
   <g
      inkscape:groupmode="layer"
