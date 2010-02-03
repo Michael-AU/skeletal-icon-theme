@@ -1,0 +1,121 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Created with Inkscape (http://www.inkscape.org/) -->
+
+<svg
+   xmlns:svg="http://www.w3.org/2000/svg"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:xlink="http://www.w3.org/1999/xlink"
+   version="1.1"
+   width="24"
+   height="24"
+   id="svg7384">
+  <title
+     id="title9167">Moblin Icon Theme</title>
+  <defs
+     id="defs7386">
+    <linearGradient
+       id="linearGradient10844">
+      <stop
+         id="stop10846"
+         style="stop-color:#bebebe;stop-opacity:1"
+         offset="0" />
+      <stop
+         id="stop10848"
+         style="stop-color:#bebebe;stop-opacity:0"
+         offset="1" />
+    </linearGradient>
+    <linearGradient
+       x1="255.1823"
+       y1="237.13129"
+       x2="255.2691"
+       y2="234.96202"
+       id="linearGradient8472"
+       xlink:href="#linearGradient10844"
+       gradientUnits="userSpaceOnUse" />
+  </defs>
+  <g
+     transform="translate(234,-344)"
+     id="layer3" />
+  <g
+     transform="translate(234,-344)"
+     id="layer5" />
+  <g
+     transform="translate(234,-344)"
+     id="layer7" />
+  <g
+     transform="translate(234,-344)"
+     id="layer2" />
+  <g
+     transform="translate(234,-344)"
+     id="layer8" />
+  <g
+     transform="translate(234,-1296.3622)"
+     id="layer1" />
+  <g
+     transform="translate(234,-344)"
+     id="layer11" />
+  <g
+     transform="translate(234,-344)"
+     id="layer4">
+    <g
+       transform="translate(-254,-51.36218)"
+       id="use7905">
+      <path
+         d="m -2.8284264,179.43886 a 22.98097,22.98097 0 1 1 -45.9619406,0"
+         transform="matrix(0.26108562,0,0,0.26108517,36.738462,365.51336)"
+         id="path8452"
+         style="fill:none;stroke:#bebebe;stroke-width:7.66032839;stroke-linecap:round;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none;stroke-dashoffset:0;display:inline" />
+      <rect
+         width="24"
+         height="24"
+         x="20"
+         y="395.36218"
+         id="rect8454"
+         style="opacity:0;fill:#ffffff;fill-opacity:1;stroke:none;display:inline" />
+      <path
+         d="m -2.8284264,179.43886 a 22.98097,22.98097 0 1 1 -45.9619406,0"
+         transform="matrix(0.2610856,0,0,-0.27849087,36.738461,457.73425)"
+         id="path8456"
+         style="fill:none;stroke:#bebebe;stroke-width:7.41708088;stroke-linecap:round;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none;stroke-dashoffset:0;display:inline" />
+      <path
+         d="m 36,407.36218 0,4.97353"
+         id="path8458"
+         style="fill:none;stroke:#bebebe;stroke-width:2;stroke-linecap:round;stroke-linejoin:miter;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none" />
+      <path
+         d="m 24.000001,407.36218 0,4.91101"
+         id="path8462"
+         style="fill:none;stroke:#bebebe;stroke-width:2;stroke-linecap:round;stroke-linejoin:miter;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none" />
+      <path
+         d="m 30,405.36218 0,2"
+         id="path8464"
+         style="color:#000000;fill:none;stroke:#bebebe;stroke-width:2;stroke-linecap:round;stroke-linejoin:miter;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none;stroke-dashoffset:0;marker:none;visibility:visible;display:inline;overflow:visible;enable-background:accumulate" />
+      <path
+         d="m 251.0625,234.875 a 3.1875,3.1875 0 0 1 5.81096,-1.81042"
+         transform="matrix(0.62745098,0,0,0.62745098,-128.02941,251.48978)"
+         id="path8466"
+         style="color:#000000;fill:none;stroke:#bebebe;stroke-width:1.59375;stroke-linecap:round;stroke-linejoin:miter;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none;stroke-dashoffset:0;marker:none;visibility:visible;display:inline;overflow:visible;enable-background:accumulate" />
+      <path
+         d="M 257.41184,235.27864 A 3.1875,3.1875 0 0 1 251.50782,236.5"
+         transform="matrix(1.411765,0,0,1.411765,-321.94125,63.774027)"
+         id="path8468"
+         style="color:#000000;fill:none;stroke:url(#linearGradient8472);stroke-width:0.70833319;stroke-linecap:round;stroke-linejoin:miter;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none;stroke-dashoffset:0;marker:none;visibility:visible;display:inline;overflow:visible;enable-background:accumulate" />
+      <path
+         d="m 249.53125,235.625 0,-2.21875"
+         transform="translate(-220,165.36218)"
+         id="path8470"
+         style="color:#000000;fill:none;stroke:#bebebe;stroke-width:1;stroke-linecap:round;stroke-linejoin:miter;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none;stroke-dashoffset:0;marker:none;visibility:visible;display:inline;overflow:visible;enable-background:accumulate" />
+    </g>
+  </g>
+  <g
+     transform="translate(234,-344)"
+     id="layer12" />
+  <g
+     transform="translate(234,-344)"
+     id="layer9" />
+  <g
+     transform="translate(234,-344)"
+     id="layer10" />
+  <g
+     transform="translate(234,-344)"
+     id="layer6" />
+</svg>

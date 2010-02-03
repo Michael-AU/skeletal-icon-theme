@@ -6908,6 +6908,41 @@
        inkscape:vp_y="0 : 1000 : 0"
        inkscape:vp_x="0 : 0.5 : 1"
        sodipodi:type="inkscape:persp3d" />
+    <inkscape:perspective
+       id="perspective7882"
+       inkscape:persp3d-origin="0.5 : 0.33333333 : 1"
+       inkscape:vp_z="1 : 0.5 : 1"
+       inkscape:vp_y="0 : 1000 : 0"
+       inkscape:vp_x="0 : 0.5 : 1"
+       sodipodi:type="inkscape:persp3d" />
+    <inkscape:perspective
+       id="perspective7915"
+       inkscape:persp3d-origin="0.5 : 0.33333333 : 1"
+       inkscape:vp_z="1 : 0.5 : 1"
+       inkscape:vp_y="0 : 1000 : 0"
+       inkscape:vp_x="0 : 0.5 : 1"
+       sodipodi:type="inkscape:persp3d" />
+    <linearGradient
+       inkscape:collect="always"
+       xlink:href="#linearGradient10844-66"
+       id="linearGradient10850-4"
+       x1="255.1823"
+       y1="237.13129"
+       x2="255.2691"
+       y2="234.96202"
+       gradientUnits="userSpaceOnUse" />
+    <linearGradient
+       inkscape:collect="always"
+       id="linearGradient10844-66">
+      <stop
+         style="stop-color:#bebebe;stop-opacity:1;"
+         offset="0"
+         id="stop10846-88" />
+      <stop
+         style="stop-color:#bebebe;stop-opacity:0;"
+         offset="1"
+         id="stop10848-5" />
+    </linearGradient>
   </defs>
   <sodipodi:namedview
      id="base"
@@ -6917,10 +6952,10 @@
      inkscape:pageopacity="0"
      inkscape:pageshadow="2"
      inkscape:zoom="1"
-     inkscape:cx="1409.559"
-     inkscape:cy="-309.48128"
+     inkscape:cx="-234.50182"
+     inkscape:cy="-265.0253"
      inkscape:document-units="px"
-     inkscape:current-layer="layer3"
+     inkscape:current-layer="layer4"
      showgrid="false"
      showborder="false"
      inkscape:window-width="1186"
@@ -6932,7 +6967,8 @@
      showguides="false"
      inkscape:guide-bbox="true"
      inkscape:snap-nodes="false"
-     inkscape:snap-bbox="true">
+     inkscape:snap-bbox="true"
+     inkscape:snap-global="true">
     <inkscape:grid
        type="xygrid"
        id="grid7831"
@@ -28605,6 +28641,40 @@ Claire Alexander</dc:title>
        sodipodi:ry="2"
        d="m 1510.75,202.75 a 2,2 0 1 1 -4,0 2,2 0 1 1 4,0 z"
        transform="translate(-1646.75,141.25)" />
+    <g
+       id="g7862"
+       inkscape:label="bluetooth-properties"
+       transform="translate(-311,-23.362183)">
+      <title
+         id="title7864">preferences</title>
+      <rect
+         style="opacity:0;fill:#ffffff;fill-opacity:1;stroke:none;display:inline"
+         id="rect7866"
+         width="24"
+         height="24"
+         x="49"
+         y="367.36218"
+         inkscape:label="bbox" />
+      <path
+         sodipodi:nodetypes="cccccc"
+         id="path7868"
+         d="M 55.98005,376.29975 66,383.38006 l -6.01995,4.91969 0,-17.9375 6,5 -10,6"
+         style="color:#000000;fill:none;stroke:#bebebe;stroke-width:2;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none;stroke-dashoffset:0;marker:none;visibility:visible;display:inline;overflow:visible;enable-background:accumulate" />
+    </g>
+    <g
+       id="mouse-properties"
+       inkscape:label="mouse-properties">
+      <title
+         id="title7944">preferences</title>
+      <use
+         height="1"
+         width="1"
+         id="use7905"
+         xlink:href="#g10760"
+         y="0"
+         x="0"
+         transform="translate(-474,-838.36218)" />
+    </g>
   </g>
   <g
      inkscape:groupmode="layer"
